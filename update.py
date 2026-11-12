@@ -3,8 +3,8 @@
 and slim it down to the columns we actually research with.
 
 Output: data/cards.csv.gz (+ data/meta.json)
-Usage:  python scripts/update.py            # real download
-        python scripts/update.py --input f  # use a local bulk JSON (testing)
+Usage:  python update.py            # real download
+        python update.py --input f  # use a local bulk JSON (testing)
 """
 import argparse, csv, gzip, json, os, sys, urllib.request
 from datetime import datetime, timezone
@@ -24,11 +24,26 @@ def fetch(url):
     return urllib.request.urlopen(req, timeout=300)
 
 
+def parse_cards(raw):
+    """Accepts a JSON array or JSON Lines, gzipped or not."""
+    if raw[:2] == b"\x1f\x8b":
+        raw = gzip.decompress(raw)
+    text = raw.decode("utf-8").lstrip()
+    if text.startswith("["):
+        return json.loads(text)
+    return [json.loads(line) for line in text.splitlines() if line.strip()]
+
+
 def load_bulk():
     meta = json.load(fetch("https://api.scryfall.com/bulk-data"))
     entry = next(e for e in meta["data"] if e["type"] == "default_cards")
-    print(f"Downloading {entry['download_uri']} (~{entry['size']/1e6:.0f} MB)", flush=True)
-    return json.load(fetch(entry["download_uri"]))
+    # Scryfall has used both field names over time; accept either.
+    url = entry.get("download_uri") or entry.get("jsonl_download_uri")
+    if not url:
+        sys.exit("No download link found. Entry keys were: " + ", ".join(entry))
+    size = entry.get("size") or entry.get("compressed_size") or 0
+    print(f"Downloading {url} (~{size/1e6:.0f} MB)", flush=True)
+    return parse_cards(fetch(url).read())
 
 
 def face_join(card, key):
