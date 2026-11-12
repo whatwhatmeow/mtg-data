@@ -1,0 +1,92 @@
+#!/usr/bin/env python3
+"""Download Scryfall's "Default Cards" bulk file (every printing of every card)
+and slim it down to the columns we actually research with.
+
+Output: data/cards.csv.gz (+ data/meta.json)
+Usage:  python scripts/update.py            # real download
+        python scripts/update.py --input f  # use a local bulk JSON (testing)
+"""
+import argparse, csv, gzip, json, os, sys, urllib.request
+from datetime import datetime, timezone
+
+HEADERS = {"User-Agent": "mtg-data-updater/1.0 (personal research)", "Accept": "application/json"}
+SKIP_LAYOUTS = {"token", "double_faced_token", "emblem", "art_series"}  # not real cards
+MIN_ROWS = 50_000  # sanity check so a bad download never overwrites good data
+COLUMNS = ["id", "oracle_id", "name", "set_code", "set_name", "collector_number", "released_at",
+           "rarity", "layout", "mana_cost", "cmc", "type_line", "oracle_text", "power",
+           "toughness", "loyalty", "color_identity", "keywords", "commander_legality",
+           "price_usd", "price_usd_foil", "price_usd_etched", "finishes", "promo",
+           "promo_types", "digital"]
+
+
+def fetch(url):
+    req = urllib.request.Request(url, headers=HEADERS)
+    return urllib.request.urlopen(req, timeout=300)
+
+
+def load_bulk():
+    meta = json.load(fetch("https://api.scryfall.com/bulk-data"))
+    entry = next(e for e in meta["data"] if e["type"] == "default_cards")
+    print(f"Downloading {entry['download_uri']} (~{entry['size']/1e6:.0f} MB)", flush=True)
+    return json.load(fetch(entry["download_uri"]))
+
+
+def face_join(card, key):
+    """Multi-faced cards keep text per face; join with ' // '."""
+    if card.get(key) not in (None, ""):
+        return card[key]
+    faces = card.get("card_faces") or []
+    return " // ".join(f.get(key, "") or "" for f in faces)
+
+
+def to_row(c):
+    p = c.get("prices") or {}
+    return {
+        "id": c["id"], "oracle_id": c.get("oracle_id", ""),
+        "name": c["name"], "set_code": c["set"], "set_name": c["set_name"],
+        "collector_number": c["collector_number"], "released_at": c.get("released_at", ""),
+        "rarity": c.get("rarity", ""), "layout": c.get("layout", ""),
+        "mana_cost": face_join(c, "mana_cost"), "cmc": c.get("cmc", ""),
+        "type_line": face_join(c, "type_line"), "oracle_text": face_join(c, "oracle_text"),
+        "power": face_join(c, "power"), "toughness": face_join(c, "toughness"),
+        "loyalty": face_join(c, "loyalty"),
+        "color_identity": "".join(c.get("color_identity", [])),
+        "keywords": ",".join(c.get("keywords", [])),
+        "commander_legality": (c.get("legalities") or {}).get("commander", ""),
+        "price_usd": p.get("usd") or "", "price_usd_foil": p.get("usd_foil") or "",
+        "price_usd_etched": p.get("usd_etched") or "",
+        "finishes": ",".join(c.get("finishes", [])),
+        "promo": int(bool(c.get("promo"))),
+        "promo_types": ",".join(c.get("promo_types", [])),
+        "digital": int(bool(c.get("digital"))),
+    }
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--input")
+    ap.add_argument("--out", default="data")
+    ap.add_argument("--min-rows", type=int, default=MIN_ROWS)
+    a = ap.parse_args()
+
+    cards = json.load(open(a.input)) if a.input else load_bulk()
+    rows = [to_row(c) for c in cards if c.get("layout") not in SKIP_LAYOUTS]
+    rows.sort(key=lambda r: (r["set_code"], r["collector_number"].zfill(6), r["name"]))
+    if len(rows) < a.min_rows:
+        sys.exit(f"Only {len(rows)} rows - refusing to overwrite existing data.")
+
+    os.makedirs(a.out, exist_ok=True)
+    tmp = os.path.join(a.out, "cards.csv.gz.tmp")
+    with gzip.open(tmp, "wt", newline="", encoding="utf-8") as f:
+        w = csv.DictWriter(f, fieldnames=COLUMNS)
+        w.writeheader()
+        w.writerows(rows)
+    os.replace(tmp, os.path.join(a.out, "cards.csv.gz"))
+    json.dump({"updated_utc": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+               "printings": len(rows), "source": "Scryfall default_cards bulk data"},
+              open(os.path.join(a.out, "meta.json"), "w"), indent=2)
+    print(f"Wrote {len(rows)} printings")
+
+
+if __name__ == "__main__":
+    main()
