@@ -4,8 +4,10 @@ One file per Commander Deck Vault deck, named by its vault id (`doctor-doom.json
 
 The vault is the source of truth. This copy exists so whole-vault questions can be answered with a script.
 
-Not filled yet: it needs a vault export file, unpacked with
+Filled from a vault export (the vault page's "Export for GitHub" button), unpacked with
 
 ```
 python tools/import_vault_export.py vault-export.json
 ```
+
+Last import: Nov 16, 2026 (35 decks). `_sleeved.json` holds the vault's sleeved checkmarks.

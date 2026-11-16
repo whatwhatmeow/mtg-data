@@ -1,0 +1,643 @@
+{
+ "adds": [
+  {
+   "name": "Spellseeker",
+   "status": "planned",
+   "why": "Two tutors with Inalla for {1} more. Not bulk. Swap for Trinket Mage."
+  },
+  {
+   "name": "Crux of Fate",
+   "status": "planned",
+   "why": "Wipes non-Dragons or Dragons, usually cheap. Swap for Blasphemous Act."
+  },
+  {
+   "name": "Kaza, Roil Chaser",
+   "status": "planned",
+   "why": "Cheap spells with many Wizards. Swap for Adeliz."
+  },
+  {
+   "name": "Sign in Blood",
+   "status": "planned",
+   "why": "You own it. Swap for Read the Bones."
+  }
+ ],
+ "bracket": "High Bracket 2",
+ "bracketGoal": "0 Game Changers · no 2-card infinites · 35 Wizards, every enter-the-battlefield effect happens twice",
+ "cards": [
+  {
+   "name": "Adeliz, the Cinder Wind",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Aether Adept",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Arcane Denial",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Archaeomancer",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Archmage Emeritus",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Azami, Lady of Scrolls",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Baral, Chief of Compliance",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Basalt Ravager",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Blasphemous Act",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Chaos Warp",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Cloudkin Seer",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Command Tower",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Conjurer's Closet",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Counterspell",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Crumbling Necropolis",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Cyclops Electromancer",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Dimir Aqueduct",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Dimir Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Docent of Perfection",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ertai Resurrected",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Evolving Wilds",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exclusion Mage",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Exotic Orchard",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fabled Passage",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Faerie Seer",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Faller's Faithful",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Feed the Swarm",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Firefist Adept",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Frost Trickster",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Gandalf, Spark Starter",
+   "own": "likely",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ghitu Journeymage",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Go for the Throat",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Island",
+   "own": "have",
+   "qty": 10,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Izzet Boilerworks",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Izzet Chronarch",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Izzet Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Kuja, Genome Sorcerer",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Lightning Greaves",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Merfolk Trickster",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Mind Stone",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mountain",
+   "own": "have",
+   "qty": 4,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mysidian Elder",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Naban, Dean of Iteration",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Negate",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Night's Whisper",
+   "own": "have",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Omenspeaker",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Path of Ancestry",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Ponder",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Preordain",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Puppeteer Clique",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Radiant Epicure",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Rakdos Carnarium",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rakdos Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Read the Bones",
+   "own": "have",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Reliquary Tower",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Riverwise Augur",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Sage of Fables",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Scholar of the Ages",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Sea Gate Oracle",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Serum Visionary",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Shivan Reef",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sol Ring",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sparkmage Apprentice",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Stonybrook Banneret",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Sulfurous Springs",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "own": "have",
+   "qty": 4,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Creativity",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Dominance",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Indulgence",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Temple of Deceit",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of Epiphany",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of Malice",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terminate",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Tishana's Tidebinder",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Trinket Mage",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Creature"
+  },
+  {
+   "name": "Unclaimed Territory",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Underground River",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Viashino Pyromancer",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Wizard Class",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Wizard's Lightning",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Wizard's Retort",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  }
+ ],
+ "colors": [
+  "U",
+  "B",
+  "R"
+ ],
+ "commanders": [
+  "Inalla, Archmage Ritualist"
+ ],
+ "format": "Commander",
+ "name": "Inalla: Wizards' Council",
+ "notes": [
+  "Inalla works from the command zone: whenever another nontoken Wizard enters, pay {1} for a hasty token copy, even if she's never cast. She also has a Final Fantasy printing as Kuja, Mage Manufacturer.",
+  "Copies don't count as cast, so 'if you cast it' and converge effects don't double: Radiant Epicure's token drains 0, and Puppeteer Clique's does work. Note the difference when playing.",
+  "Plan: keep {1} open on every Wizard. Hasty tokens tap the same turn, so Azami draws off them and Inalla's tap-five ability drains 7 sooner than it looks.",
+  "Conjurer's Closet re-enters a Wizard each end step, giving a second copy every turn.",
+  "Estimated, not simulated: wins around turns 8–10, with drain in repeated 7s and pingers from Mysidian Elder and Kuja tokens. Early stabilization is good: 5 bounce or removal bodies, 5 removal spells and 4 counters, though creatures are small.",
+  "Left out on purpose: Thassa's Oracle (Game Changer), Dualcaster Mage (Twinflame-style infinites) and Ghostly Flicker (loops with Archaeomancer).",
+  "Rares and mythics to pick up or check your binder for: Archmage Emeritus; Azami, Lady of Scrolls; Baral, Chief of Compliance; Blasphemous Act; Chaos Warp; Conjurer's Closet; Docent of Perfection; Ertai Resurrected; Exotic Orchard; Fabled Passage; Kuja, Genome Sorcerer; Naban, Dean of Iteration; Puppeteer Clique; Temple of Deceit; Temple of Epiphany; Temple of Malice; Tishana's Tidebinder",
+  "Commons and uncommons to pick up or check your binder for: Adeliz, the Cinder Wind; Aether Adept; Archaeomancer; Basalt Ravager; Cloudkin Seer; Command Tower; Crumbling Necropolis; Cyclops Electromancer; Dimir Aqueduct; Evolving Wilds; Exclusion Mage; Faerie Seer; Faller's Faithful; Firefist Adept; Frost Trickster; Ghitu Journeymage; Go for the Throat; Izzet Boilerworks; Izzet Chronarch; Lightning Greaves; Merfolk Trickster; Mind Stone; Mysidian Elder; Omenspeaker; Path of Ancestry; Ponder; Preordain; Radiant Epicure; Rakdos Carnarium; Reliquary Tower; Riverwise Augur; Sage of Fables; Scholar of the Ages; Sea Gate Oracle; Serum Visionary; Sparkmage Apprentice; Stonybrook Banneret; Swiftfoot Boots; Terminate; Terramorphic Expanse; Trinket Mage; Unclaimed Territory; Viashino Pyromancer; Wizard Class; Wizard's Lightning; Wizard's Retort",
+  "Hobbit or Lord of the Rings commons and uncommons you likely have from half displays: Gandalf, Spark Starter"
+ ],
+ "order": 44,
+ "owner": "Middle",
+ "source": "Built by Claude Nov 3, 2026; card text and color identity checked, ownership assumed from your notes",
+ "target": 100,
+ "themeLabel": "Wizard copies",
+ "updated": "Nov 3, 2026"
+}

@@ -1,0 +1,564 @@
+{
+ "adds": [
+  {
+   "name": "Leader, Super-Genius",
+   "status": "verify",
+   "why": "MSH rare — in the list; confirm you own it."
+  },
+  {
+   "name": "World War Hulk",
+   "status": "owned",
+   "why": "MSH rare saga — in the list. A copy is freed by the Ant-Man fold (Nov 16)."
+  },
+  {
+   "name": "Strength of Will",
+   "status": "owned",
+   "why": "SPM rare — key protection for Hulk. A copy is freed by the Ant-Man fold (Nov 16)."
+  },
+  {
+   "name": "Hulk, Strongest There Is",
+   "status": "verify",
+   "why": "From the 'Incredible' Jumpstart pack (with Brawn); doubles counters on Gammas."
+  },
+  {
+   "name": "Brawn, Amadeus Cho",
+   "status": "owned",
+   "why": "Jumpstart / Beginner Box card. A copy is freed by the Ant-Man fold (Nov 16)."
+  },
+  {
+   "name": "Hulk's Thunderclap",
+   "status": "verify",
+   "why": "Jumpstart-run card — confirm you own it."
+  },
+  {
+   "name": "Origin of the Hulk",
+   "status": "verify",
+   "why": "Jumpstart-run card — confirm you own it."
+  },
+  {
+   "name": "Gamma Grotesque",
+   "status": "verify",
+   "why": "MSC rare — confirm you own it."
+  },
+  {
+   "name": "Hulk, Brutal Brawler",
+   "status": "verify",
+   "why": "From the green Marvel Welcome Deck."
+  },
+  {
+   "name": "Abomination, World Ravager",
+   "status": "verify",
+   "why": "From the Doom Prevails precon — check your Doom decks."
+  },
+  {
+   "name": "Abomination, Irradiated Brute",
+   "status": "verify",
+   "why": "From the Villains Unleashed box set."
+  },
+  {
+   "name": "Moon Girl and Devil Dinosaur",
+   "status": "owned",
+   "why": "Freed by the Ant-Man fold (Nov 16). Green-blue two-drop that becomes a 6/6 trampler when you draw a second card in a turn, which Bruce's draw ability does. Suggested cut: H.E.R.B.I.E. Scout Unit."
+  }
+ ],
+ "bracket": "High Bracket 2",
+ "bracketGoal": "0 Game Changers · no infinite-combat combos · Gamma typal + counters, built from Marvel Super Heroes & Spider-Man first",
+ "cards": [
+  {
+   "name": "Hulk, Gamma Goliath",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Red Hulk",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "She-Hulk, Jade Defender",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Doc Samson, Super Psychiatrist",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Abomination, Terrifying Titan",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Leader, Super-Genius",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Abomination, Irradiated Brute",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Abomination, World Ravager",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hulk, Strongest There Is",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Brawn, Amadeus Cho",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Gamma Grotesque",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hulk, Brutal Brawler",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hulkling, Burgeoning Bruiser",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ant-Man, Colony Commander",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Fist, Living Weapon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Bold Biochemist",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Beast, Erudite Aerialist",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ka-Zar of the Savage Land",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Kid Loki",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "H.E.R.B.I.E. Scout Unit",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider Manifestation",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Llanowar Elves",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Birds of Paradise",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Eternal Witness",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Ripjaw Raptor",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Brash Taunter",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hot Dog Cart",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Kodama's Reach",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Farseek",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Nature's Lore",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rampant Growth",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Three Visits",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Unstable Experiment",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Pictures of Spider-Man",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Depower",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Garruk's Uprising",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Return of the Wildspeaker",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Rishkar's Expertise",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Harmonize",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "HULK SMASH!",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Rhino's Rampage",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Terrific Team-Up",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Epic Fight",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Frozen in Ice",
+   "qty": 1,
+   "role": "rem",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Avengers Disassembled",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Hulk's Thunderclap",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Beast Within",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Chaos Warp",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Counterspell",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Denial",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Swan Song",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Strength of Will",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Heroic Intervention",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Tamiyo's Safekeeping",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Lightning Greaves",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "World War Hulk",
+   "qty": 1,
+   "role": "win",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Origin of the Hulk",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Claim the Kingdom",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Plan",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Rhythm of the Wild",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Avengers Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Baxter Building",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Daily Bugle Building",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Multiversal Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Evolving Wilds",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Frontier Bivouac",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rootbound Crag",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Karplusan Forest",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Forest",
+   "qty": 10,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 8,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 6,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "U",
+  "R",
+  "G"
+ ],
+ "commanders": [
+  "Bruce Banner // The Incredible Hulk"
+ ],
+ "format": "Commander",
+ "name": "Bruce Banner // Hulk: Gamma Smash",
+ "notes": [
+  "v1, Oct 28, 2026 (High Bracket 2): Bruce Banner draws cards early for {X}{X}; transform him, or cast The Incredible Hulk side from the command zone for 6. Enrage: whenever Hulk is dealt damage he gets a +1/+1 counter, and if he's attacking he untaps and you get an extra combat. Getting blocked, fight spells, Red Hulk, Iron Fist and Brash Taunter set it off. 12 Gamma creatures plus counter doublers (Doc Samson, Hulk, Strongest There Is).",
+  "Bracket 2 guardrails: no Caltrops, Pyrohemia, Gelectrode, Cunning Sparkmage or Prodigal Sorcerer — repeatable damage on an attacking Hulk is a two-card infinite-combat combo. No Game Changers (skip Cyclonic Rift, Fierce Guardianship, Mana Drain, tutors).",
+  "Staples (Sol Ring, Cultivate, Counterspell, Heroic Intervention, dual lands, etc.) are placeholders from the general collection — swap in anything similar if missing. A few Marvel legends (Kid Loki, Ka-Zar, Ant-Man, Iron Fist, Beast, Hulkling) weren't rarity-checked; easy cuts if they're rares you don't have.",
+  "Professor Hulk is another Gamma option, but it's in the Avengers Assemble precon."
+ ],
+ "order": 21,
+ "owner": "Oldest",
+ "source": "Built by Claude for your oldest from Marvel Super Heroes / Spider-Man cards plus collection staples, Oct 28, 2026; not yet checked against your collection",
+ "target": 100,
+ "themeLabel": "Gamma smash",
+ "updated": "Oct 28, 2026"
+}

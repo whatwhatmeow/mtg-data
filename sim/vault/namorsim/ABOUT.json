@@ -1,0 +1,7 @@
+{
+ "howto": "Write each entry in 'files' to a folder with the deck JSON (vault decks/namor-merfolk saved as deck.json). Run: python3 nm_loo.py bracket2 3000 (leave-one-out) or python3 nm_tests.py bracket2 5000 (paired swap tests). Same opponent profiles as wssim.",
+ "modeled": "Namor power and blue-pip token triggers, lords, islandwalk (blue opponents + Tideshaper), unblockable (Herald, Sovereign, Daughter, Pym), flying (Mist Dancer, Scourge counters, Zephyr Boots), connive, second-draw payoffs, draw engines (Bident, Attuma, Svyelun, Super Intelligence, Idol, Baxter, Looter, Kindred Discovery, Coastal Piracy), bounce/freeze/stun on blockers, instant-speed play on opponents' turns, counterspells protecting the board, Kopala/Svyelun ward taxes, block-aware attack planning.",
+ "name": "Namor Merfolk simulator (v1)",
+ "not_modeled": "Opponents attacking you, racing or comboing; politics; Aetherize; Back to Basics only as a flat 10% opponent slowdown.",
+ "updated": "Oct 27, 2026"
+}

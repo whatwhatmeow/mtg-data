@@ -1,0 +1,590 @@
+{
+ "baseLabel": "Main",
+ "bracket": "Bracket 3–4",
+ "bracketGoal": "0 Game Changers · two 2-card infinites, so above Bracket 2",
+ "cards": [
+  {
+   "name": "Adeliz, the Cinder Wind",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Archaeomancer",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Archmage Emeritus",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Balmor, Battlemage Captain",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Brainstorm",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Chart a Course",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Commander's Sphere",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Counterspell",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Decanter of Endless Water",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Displace",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Dualcaster Mage",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Electrostatic Field",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Electrostatic Infantry",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Essence Scatter",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Evolving Wilds",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Expel from Orazca",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Expressive Iteration",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Faithless Looting",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Firebrand Archer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Frantic Search",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Instant"
+  },
+  {
+   "name": "Frostboil Snarl",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Ghostly Flicker",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Goblin Electromancer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Grapeshot",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Guttersnipe",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Impulse",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Island",
+   "qty": 10,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Izzet Boilerworks",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Izzet Charm",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Izzet Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Jace's Sanctum",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Kessig Flamebreather",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Lightning Bolt",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Mind Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Molten Tributary",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 8,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Muddle the Mixture",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Instant"
+  },
+  {
+   "name": "Murmuring Mystic",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Myriad Landscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Naban, Dean of Iteration",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Najal, the Storm Runner",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Negate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Opt",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Peregrine Drake",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Planar Incision",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Ponder",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Preordain",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Prismari Campus",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Prismari Command",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Rapid Hybridization",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Resculpt",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Reverberate",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Run Away Together",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Serum Visions",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Shipwreck Dowser",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Shivan Reef",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Siren's Ruse",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Sleight of Hand",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Snap",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Step Through",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Storm-Kiln Artist",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swiftwater Cliffs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Talisman of Creativity",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talrand, Sky Summoner",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Third Path Iconoclast",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Thought Vessel",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Treasure Cruise",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Twinflame",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Unsummon",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Vandalblast",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Venser, Shaper Savant",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Wayfarer's Bauble",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Windrider Wizard",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Wizard's Lightning",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Wizard's Retort",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Wizened Snitches",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "You Find the Villains' Lair",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  }
+ ],
+ "colors": [
+  "U",
+  "R"
+ ],
+ "commanders": [
+  "Gandalf the Grey"
+ ],
+ "format": "Commander",
+ "name": "Gandalf the Grey: Izzet Spellslinger",
+ "notes": [
+  "Plan: chain cheap spells off the card-selection suite, then finish with Guttersnipe, Electrostatic Field or Grapeshot. Gandalf is a bonus, not the plan.",
+  "Gandalf's modes can each be chosen once, so the fourth spell forces the library mode; you can send him to the command zone, or leave him on top and redraw him with no tax.",
+  "Blinking Gandalf with Ghostly Flicker, Displace, Siren's Ruse or Planar Incision makes him a new object, so all four modes reset.",
+  "Two-card infinites: Dualcaster Mage + Twinflame (endless hasty tokens) and Dualcaster Mage + Ghostly Flicker (endless Treasure with Storm-Kiln Artist, endless draw with Archmage Emeritus). Muddle the Mixture can transmute for Twinflame.",
+  "Bigger loops: Peregrine Drake + Archaeomancer or Shipwreck Dowser + Ghostly Flicker or Displace (mana); Archaeomancer + Ghostly Flicker + Goblin Electromancer + Sol Ring (endless casts); Archaeomancer + Twinflame + Goblin Electromancer + Storm-Kiln Artist (endless casts).",
+  "No board wipes. Interaction is counters, bounce and burn."
+ ],
+ "order": 46,
+ "owner": "Middle",
+ "source": "Built list from Andrew, added Nov 5, 2026",
+ "target": 100,
+ "themeLabel": "Spell payoffs",
+ "updated": "Nov 5, 2026",
+ "variants": [
+  {
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers · no 2-card infinites · no known infinite loops",
+   "id": "bracket-2",
+   "in": [
+    {
+     "name": "Young Pyromancer",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Fire // Ice",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Fact or Fiction",
+     "qty": 1,
+     "role": "draw",
+     "type": "Instant"
+    },
+    {
+     "name": "Mulldrifter",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    }
+   ],
+   "label": "High Bracket 2",
+   "name": "High Bracket 2",
+   "notes": [
+    "Dualcaster Mage out: ends both two-card infinites. Young Pyromancer in: another spell payoff.",
+    "Twinflame out: ends the Archaeomancer + Storm-Kiln loop. Fire // Ice in: flexible cheap interaction.",
+    "Ghostly Flicker out: ends the Sol Ring and Peregrine Drake loops. Fact or Fiction in: card flow. Displace and Siren's Ruse still reset Gandalf.",
+    "Peregrine Drake out: ends the Displace mana loop. Mulldrifter in: same 5-mana blink target, but it draws instead.",
+    "Estimated, not simulated: fair wins around turns 8–10."
+   ],
+   "out": [
+    {
+     "name": "Dualcaster Mage",
+     "qty": 1
+    },
+    {
+     "name": "Twinflame",
+     "qty": 1
+    },
+    {
+     "name": "Ghostly Flicker",
+     "qty": 1
+    },
+    {
+     "name": "Peregrine Drake",
+     "qty": 1
+    }
+   ],
+   "source": "Swaps by Claude Nov 5, 2026; card ownership not checked",
+   "updated": "Nov 5, 2026"
+  }
+ ]
+}

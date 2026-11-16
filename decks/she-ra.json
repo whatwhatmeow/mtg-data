@@ -1,0 +1,775 @@
+{
+ "adds": [
+  {
+   "name": "Suki of the Kyoshi Warriors (Captain Sisay)",
+   "status": "planned",
+   "why": "Avatar set printing of Captain Sisay, {2}{G}{W}. {T}: search your library for any legendary card and put it in your hand — nearly the whole deck. Stacks with She-Ra's tutor. Strongest of the Avatar options; a second repeatable tutor pushes toward the top of Bracket 2. Swap for Ka-Zar of the Savage Land."
+  },
+  {
+   "name": "Avatar Aang // Aang, Master of Elements",
+   "status": "added",
+   "why": "Owned (second copy; the first is the Aang deck's commander). Four-color flier (W/U/R/G), firebending draws a card each attack; rarely transforms here. Replaced The Spot's Portal."
+  },
+  {
+   "name": "Aang, Swift Savior",
+   "status": "planned",
+   "why": "Avatar rare, white-blue flash flyer. When he enters, exile another creature or spell (owner can recast it for {2}) — tempo on theirs, or re-use Elektra/Shocker/Cloak and Dagger on yours. White-blue is already crowded. Swap for Spider-Woman, Secret Agent."
+  },
+  {
+   "name": "Mjölnir, Hammer of Thor",
+   "status": "planned",
+   "why": "MSH legendary Equipment. She-Ra can fetch it; 4 damage on entry, doubles the equipped creature's damage (great with Raphael), and Jane Foster draws a card when it enters. Swap for The Spot's Portal."
+  },
+  {
+   "name": "Araña, Heart of the Spider",
+   "status": "planned",
+   "why": "SPM rare, {1}{R}{W}. Grows an attacker every combat and turns hits from modified creatures into extra cards. Swap for Falcon, Winged Wonder."
+  },
+  {
+   "name": "Miles Morales // Ultimate Spider-Man",
+   "status": "planned",
+   "why": "SPM mythic. Ultimate Spider-Man doubles every counter on your legendary creatures each attack — huge with Leatherhead, Raphael, Ant-Man, Spider-Man India. Swap for Falcon, Winged Wonder."
+  },
+  {
+   "name": "Peter Parker // Amazing Spider-Man",
+   "status": "planned",
+   "why": "SPM mythic. 2-drop that flips into a G/W/U legend giving every colored legend web-slinging — re-buy Elektra, Shocker, Cloak and Dagger. Swap for Okoye, Dora Milaje Leader."
+  },
+  {
+   "name": "Gwen Stacy // Ghost-Spider",
+   "status": "planned",
+   "why": "SPM mythic. Card-advantage 2-drop that flips into a U/R/W legend; a second Gwen next to Spider-Gwen and Gwenom. Swap for Ka-Zar of the Savage Land."
+  },
+  {
+   "name": "Nick Fury, Agent of S.H.I.E.L.D.",
+   "status": "verify",
+   "why": "MSH (rare or mythic — confirm you own it). 1-drop whose WUBRG power-up digs 7 for a Hero; Karolina's mana can pay it. Swap for Ka-Zar of the Savage Land."
+  },
+  {
+   "name": "Shang-Chi, Master of Kung Fu",
+   "status": "verify",
+   "why": "MSH rare — you may own it. Its mana pays for creature abilities: She-Ra's tutor, Echo, power-ups. Swap for Okoye, Dora Milaje Leader."
+  },
+  {
+   "name": "Jodah, the Unifier",
+   "status": "planned",
+   "why": "Outside card (DMU mythic, not in your collection as far as I know). Legends get +1/+1 per legend; casting a legend cascades into another legend. Swap for Falcon."
+  },
+  {
+   "name": "Heroes' Podium",
+   "status": "added",
+   "why": "Owned. 5-mana legendary artifact: each legend +1/+1 per other legend; {X},{T}: look at top X, take a legendary creature. She-Ra can fetch it at 6 power. Replaced Morbius the Living Vampire."
+  },
+  {
+   "name": "Relic of Legends",
+   "status": "planned",
+   "why": "Outside card (DMU uncommon). Taps legends for any color — more WUBRG for She-Ra. Swap for a Plains."
+  },
+  {
+   "name": "Shanna, Sisay's Legacy",
+   "status": "planned",
+   "why": "Outside card (DMU uncommon). Sisay's daughter — flavor pick; can't be targeted by opponents' abilities. Swap for Ka-Zar."
+  },
+  {
+   "name": "Kamahl's Druidic Vow",
+   "status": "planned",
+   "why": "Outside card (DMU rare). Late-game X spell that drops lands and legends from the top. Swap for Falcon."
+  },
+  {
+   "name": "Behold the Sinister Six!",
+   "status": "added",
+   "why": "Owned. Recovery after a board wipe: {6}{B} sorcery, returns up to six creature cards with different names from her graveyard. Restores She-Ra's colors and re-triggers enter abilities. Replaced Pictures of Spider-Man."
+  },
+  {
+   "name": "Guardian Project",
+   "status": "planned",
+   "why": "To buy (top pick). {3}{G} enchantment: draw whenever a nontoken creature enters unless it shares a name with another creature you control or in your graveyard. Triggers on She-Ra fetches and Behold. ~$12-15 for the Ravnica Remastered printing; the Ravnica Allegiance printing is usually cheaper. Cut not chosen yet."
+  },
+  {
+   "name": "Reki, the History of Kamigawa",
+   "status": "planned",
+   "why": "To buy. {2}{G} legendary 1/2: draw whenever you cast a legendary spell (not on She-Ra fetches). Cut not chosen yet."
+  },
+  {
+   "name": "Elemental Bond",
+   "status": "planned",
+   "why": "To buy (budget option, uncommon). {2}{G} enchantment: draw whenever a creature with power 3+ enters. Cut not chosen yet."
+  }
+ ],
+ "bracket": "High Bracket 2",
+ "bracketGoal": "0 Game Changers · She-Ra Secret Lair + Marvel / Spider-Man commons & uncommons · five-color legends",
+ "cards": [
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Silence",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Swift Wind, Steed of She-Ra (Emiel the Blessed)",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Catra, Force Captain (Kutzil, Malamet Exemplar)",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Bow, Master Archer (Hajar, Loyal Bodyguard)",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Jessica Jones, Private Eye",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Red Guardian, Super-Soldier",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Okoye, Dora Milaje Leader",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Charge of Eternia (Full Throttle)",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Wraith, Vicious Vigilante",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Raphael, the Muscle",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Mighty Thor, Jane Foster",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Talisman of Creativity",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Echo, Perceptive Prodigy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Falcon, Winged Wonder",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "He-Man's Battle Harness (Konda's Banner)",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Gwenom, Remorseless",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Talisman of Dominance",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Unbeatable Squirrel Girl",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Shocker, Unshakable",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Gwen, Free Spirit",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ka-Zar of the Savage Land",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "She-Hulk, Jade Defender",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Man, Brooklyn Visionary",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "He-Man, Champion of Eternia (Winota, Joiner of Forces)",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Michelangelo, the Heart",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain America, Living Legend",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Woman, Secret Agent",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "SP//dr, Piloted by Peni",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain America, Super-Soldier",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Heroes' Podium",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Kang, Temporal Tyrant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Karolina Dean, Runaway",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Daredevil, Man Without Fear",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mister Fantastic, Reed Richards",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Orko, Trollan Magician (Delina, Wild Mage)",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Leatherhead, Iron Gator",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Man-At-Arms, Master Tactician (Bruenor Battlehammer)",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Fantastic Four",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Black Panther, Vanguard",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Silk, Web Weaver",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Man India",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Camaraderie",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Cloak and Dagger, Entwined",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Heroes in a Half Shell",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ant-Man, Colony Commander",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Tokka & Rahzar, Unsupervised",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Elektra, Daughter of the Hand",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Chromatic Lantern",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Behold the Sinister Six!",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Web Up",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Path to Exile",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Avatar Aang // Aang, Master of Elements",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Denial",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Crackle with Power",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Assassin's Trophy",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "The Spot, Living Portal",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Continue?",
+   "qty": 1,
+   "role": "recur",
+   "type": "Instant",
+   "uv": true
+  },
+  {
+   "name": "Shredder, Shadow Master",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Harmonize",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Avengers Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Daily Bugle Building",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Baxter Building",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fabled Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sunken Hollow",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Battlefield Forge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Adarkar Wastes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Brushland",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Caves of Koilos",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Dragonskull Summit",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rootbound Crag",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Hinterland Harbor",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Shivan Reef",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Llanowar Wastes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Smoldering Marsh",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Cinder Glade",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Underground River",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Suburban Sanctuary",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "University Campus",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plains",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Forest",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Farseek",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  }
+ ],
+ "colors": [
+  "W",
+  "U",
+  "B",
+  "R",
+  "G"
+ ],
+ "commanders": [
+  "She-Ra, Princess of Power (Sisay, Weatherlight Captain)"
+ ],
+ "format": "Commander",
+ "name": "She-Ra, Princess of Power",
+ "notes": [
+  "Commander is the She-Ra printing of Sisay, Weatherlight Captain: +1/+1 for each color among your OTHER legendary permanents; {W}{U}{B}{R}{G}: put a legendary permanent with mana value LESS than her power from library onto the battlefield.",
+  "All six She-Ra pack cards are in: Sisay (commander), Swift Wind (Emiel), Silence, Sol Ring, Kutzil, Hajar. Kutzil is already in her lawyer deck — the pack brings its own copy.",
+  "Game plan: curve out two-color Marvel legends (14 gold uncommons) so She-Ra hits 5+ power by turn 4–5, then tutor every turn. Swift Wind blinks the ETB legends (Spider-Byte, Justice, Klaw, Shocker, Killmonger, Okoye, Falcon, Ka-Zar).",
+  "Echo, Perceptive Prodigy copies She-Ra's tutor for {1} (it's an activated ability of a creature) — Captain America, Living Legend untaps Echo once per turn for a second copy. Strong, but capped; not infinite.",
+  "Protection for the big turn: Silence, Kutzil (opponents can't cast spells on your turn), Hajar (sac: legends indestructible), Secret Identity, Spectacular Tactics.",
+  "Bracket 2 check: 0 Game Changers, no mass land denial, no extra turns, no two-card infinite combos. The only tutoring is She-Ra's own ability (and Echo copying it). Skip Kang the Conqueror (extra turns) if she adds rares.",
+  "Rarity check: every nonland was confirmed common/uncommon except Command Tower (any precon copy). Land rarities for Daily Bugle Building, Surveillance Room, Vibrant Cityscape and the SPM surveil lands weren't confirmed — if any turn out rare and aren't in the binder, swap in a basic.",
+  "Shared with other vault decks (fine if the playsets cover it): Spider-Verse shares SP//dr, Spider-Byte, Spider-Girl, Spider-Man India, Spider-UK, Guy in the Chair + SPM lands; Hulk shares Abomination, Hulk Gamma Goliath, Ka-Zar, She-Hulk, Ant-Man; Sinister Six / Doom Connive / Thanos share Kang, Tombstone, Green Goblin Revenant, Bullseye, Swarm; Winter Soldier shares Red Guardian, Black Widow Double Agent.",
+  "Daredevil (your spare copy) replaced Scarlet Spider, Kaine: it's the deck's only red-white legend, vigilance + haste, and nearly every legend in the deck is a Hero for its attack bonus. Baron Zemo ({B}{B}{B}, black-spell payoff) doesn't fit five colors. No spare Cosmic Spider-Man, so it's off the list.",
+  "Owned rares swapped in Oct 29: The Spot, Living Portal (for Hour of Defeat), Silk, Web Weaver (for Spider-Girl), Captain America, Super-Soldier (for Flash Thompson — Andrew believes he has it). Wraith stays: double strike + unblockable doubles every counter/pump (India, Ant-Man, Silk, Black Panther) and reliably triggers Kutzil's draw.",
+  "He-Man Secret Lair added Oct 29: He-Man's Battle Harness (Konda's Banner) for Swarm, Man-At-Arms (Bruenor Battlehammer) for Abomination, Orko (Delina, Wild Mage) for Kraven, Proud Predator, Crackle with Power for Lightning Strike. Spider-Gwen kept on purpose.",
+  "Oct 29: He-Man (Winota, Joiner of Forces) in for Hercules — NOT a Game Changer (checked the current list). Non-Human attackers (Swift Wind, Kutzil, SP//dr, Man-At-Arms, Orko, Spider Manifestation, Okoye's Soldiers, Ant-Man's Insects, Redwing, Zabu) dig for the many Humans. Gwenom (owned) in for Klaw. Winota is the strongest card here — if the table feels it's too much for Bracket 2, Hercules comes back.",
+  "Oct 29: The Fantastic Four (MSH Commander mythic, W/U/R/G) in for Iron Man, Master of Machines; Heroes in a Half Shell (TMNT, WUBRG) in for Black Widow, Double Agent. Each alone pushes She-Ra to near-max power. Both come from precons — pulled from the Fantastic Four / TMNT boxes.",
+  "Oct 29: Cloak and Dagger, Entwined (owned) in for Titania — white-black deathtouch/lifelink that exiles a hand card or creature; Killmonger still covers black-green.",
+  "Oct 29: Swords to Plowshares (for Scorpion's Sting), Path of Ancestry (for a Plains), Exotic Orchard (for an Island) — all owned. Basics now 14 (Plains 3, Island 2, Swamp 3, Mountain 3, Forest 3).",
+  "Oct 29: Continue? (TMNT rare, owned) in for Electro's Bolt — 2-mana instant that returns up to four creatures that died this turn. Board-wipe insurance; returning legends re-trigger their enter abilities and She-Ra's colors come right back.",
+  "Oct 29 — TMNT precon parts: Arcane Signet, Chromatic Lantern, Cultivate (ramp/fixing for Spider Manifestation, Hot Dog Cart, Undercover Skrull); Assassin's Trophy (for Wisecrack); Harmonize (for Risky Research); untapped/better duals Rootbound Crag, Dragonskull Summit, Hinterland Harbor, Sunken Hollow, Smoldering Marsh, Cinder Glade, Fabled Passage replace the RG/BR/GU/UB gain-lands and surveil lands and Vibrant Cityscape.",
+  "Oct 29 — TMNT legends: Leatherhead, Iron Gator (for Hulk, Gamma Goliath; haste, two +1/+1 counters on every creature each attack), Raphael, the Muscle (for Captain Mar-Vell; doubles damage from creatures with counters), Tokka & Rahzar (for Guy in the Chair; Treasure when a creature leaves), Michelangelo, the Heart (for White Tiger). All are Mutants/Turtles, so they feed Heroes in a Half Shell's card draw and are non-Humans for He-Man (Winota). Skipped Krang, Donatello, April, Splinter, Tempestra — their engines need tokens/draws this deck doesn't make much.",
+  "Oct 29: Shredder, Shadow Master in for Secret Identity (protection still covered by Silence, Hajar, Captain America Super-Soldier, Spectacular Tactics, Continue?).",
+  "Oct 29: Elektra, Daughter of the Hand (owned) in for Damage Control Crew; Wolverine, Fierce Fighter (owned) in for Spider-UK. Artifact/enchantment answers still: Assassin's Trophy, She-Hulk, Web Up.",
+  "Oct 29: The Unbeatable Squirrel Girl (spare copy) in for Night Nurse (Continue? covers recursion better). Jessica Jones kept for card advantage. {1}{G}{G}{G} is easier now with Chromatic Lantern, Arcane Signet and Cultivate.",
+  "Oct 29 — Fantastic Jumpstart packet: Baxter Building (for Surveillance Room; {4},{T} for four mana of any colors, draws with a 4-toughness creature out) and Mister Fantastic (for Green Goblin, Revenant; draws when tokens enter — Okoye, Silk, Ant-Man, Squirrel Girl, Orko, Tokka & Rahzar Treasures, Michelangelo Food).",
+  "Oct 29 — Runaways Jumpstart: Karolina Dean, Runaway in for Bullseye. She adds {W}{U}{B}{R}{G} every first main phase; it can't cast spells from hand but CAN pay She-Ra's tutor — a free tutor every turn while she lives. Prime removal target; protect her. Rest of the packet (mono-red Runaways) skipped.",
+  "Oct 29: Farseek in for a Swamp (35 lands). Farseek can grab Sunken Hollow, Smoldering Marsh or Cinder Glade since they have basic land types. Basics now 13 (Plains 3, Island 2, Swamp 2, Mountain 3, Forest 3).",
+  "Oct 29: The Mighty Thor, Jane Foster (owned) in for Spider-Byte. Every attack she flickers a creature/artifact (yours to re-trigger Elektra, Shocker, Killmonger, Cloak and Dagger, Okoye, The Fantastic Four; theirs to tap a blocker and strip counters/Auras). Draws off the Battle Harness.",
+  "Michelangelo, the Heart is better than he looks here: a 2-drop non-Human attacker that triggers He-Man (Winota); his Raid counter each turn powers Raphael's double damage, Kutzil's card draw (the creature stays above base power), Ant-Man's Insect, Wraith, and Leatherhead; the Food is a token for Mister Fantastic; and he's a Turtle for Heroes in a Half Shell's draw. Keep him.",
+  "Oct 29: Talisman of Dominance (U/B) and Talisman of Creativity (U/R) in for Tombstone and Justice — blue and black were the thinnest colors (15 sources each vs 16). Arcane Denial in for Spectacular Tactics (originally Swan Song, but no spare copy) (one cheap counter for board wipes/bombs; She-Ra wants to tap out, so just one). Path to Exile in for Dark Deed (exile removal).",
+  "Oct 29 — pain lands from Andrew's collection replaced the always-tapped gain lands/surveil land: Battlefield Forge, Adarkar Wastes, Brushland, Caves of Koilos, Shivan Reef, Llanowar Wastes, Underground River. Still tapped: University Campus, Suburban Sanctuary (surveil). Mana: 35 lands + Sol Ring, Arcane Signet, Chromatic Lantern, 2 Talismans, Cultivate, Farseek, Brooklyn Visionary, Karolina.",
+  "Nov 1: the two Secret Lair bonus cards went in — Charge of Eternia (Full Throttle, He-Man pack bonus; two extra combats, untapping attackers — each combat re-triggers He-Man, Leatherhead's counters, Jane Foster, Ant-Man, Shredder) for Wolverine, and Camaraderie (She-Ra pack bonus; gain life and draw a card per creature, team +1/+1) for Killmonger. Extra combats are fine in Bracket 2 (extra turns are what's restricted).",
+  "Nov 4: Behold the Sinister Six! in for Pictures of Spider-Man (recovery). Next gap: card draw.",
+  "Nov 4 purchase list (card draw): Guardian Project, Reki, the History of Kamigawa, Elemental Bond.",
+  "Nov 4: Behold the Sinister Six! is owned (not on the purchase list).",
+  "Nov 5: Heroes' Podium in for Morbius, Avatar Aang (second copy) in for The Spot's Portal. She chose these cuts after reading the cards."
+ ],
+ "order": 12,
+ "owner": "Wife",
+ "source": "Built by Claude Oct 28, 2026 from the She-Ra Secret Lair + Marvel Super Heroes / Spider-Man commons & uncommons; not yet checked against your binder",
+ "target": 100,
+ "themeLabel": "Legend parade",
+ "updated": "Nov 5, 2026",
+ "variants": [
+  {
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers · five more cartoon legends, three colors where possible",
+   "id": "nov15-cartoons",
+   "in": [
+    {
+     "name": "Sonic the Hedgehog",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Miles \"Tails\" Prower",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Amy Rose",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Optimus Prime, Hero",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Megatron, Tyrant",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    }
+   ],
+   "label": "More cartoons",
+   "name": "She-Ra (more Saturday morning cartoons)",
+   "notes": [
+    "Not simulated: theme picks. All five are legal legends under $6 in the mtg-data repo (Nov 12): Sonic $3.66, Tails $1.04, Amy Rose $1.42, Optimus Prime $5.22, Megatron $1.93. None are owned as far as the vault knows.",
+    "Sonic (blue-red-white, haste) puts a +1/+1 counter on each of her creatures with flash or haste when he attacks. Amy Rose attaches an Equipment when she attacks, which suits the Battle Harness. Megatron stops opponents casting spells during combat. Optimus and Megatron are three colors each for She-Ra's power.",
+    "Other cartoon options: Soundwave, Sonic Spy; Leonardo, the Balance; Sokka and Suki; Katara, the Fearless; Toph, the First Metalbender.",
+    "The cuts are suggestions; she should pick. Correction to the Nov 15 review doc: do not cut Kutzil. It is Catra from the She-Ra pack."
+   ],
+   "out": [
+    {
+     "name": "Falcon, Winged Wonder",
+     "qty": 1
+    },
+    {
+     "name": "Ka-Zar of the Savage Land",
+     "qty": 1
+    },
+    {
+     "name": "Okoye, Dora Milaje Leader",
+     "qty": 1
+    },
+    {
+     "name": "Jessica Jones, Private Eye",
+     "qty": 1
+    },
+    {
+     "name": "Black Panther, Vanguard",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 15, 2026 theme search of the mtg-data repo",
+   "updated": "Nov 15, 2026"
+  }
+ ]
+}

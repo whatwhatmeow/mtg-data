@@ -1,0 +1,7 @@
+{
+ "howto": "PYTHONHASHSEED=0 python3 du_tools.py deck.json goldfish|bracket3|bracket4|cedh 4000 [combo_from]. compare() reports win-by-turn and 'raced' (opponents won first).",
+ "modeled": "Doom readiness/haste (Greaves, Boots, Lavaspur, Drawbridge, Hall, Elixir); Consultation, Tainted Pact (unique-name library), Leveler, Inverter, Doomsday pile, Entomb+Reanimate lines, Ad Nauseam/Peer digs, draw-out engines; burst mana held for wins; Jeweled Lotus; removal on Doom, combo disruption incl. fizzle when Doom is killed in response; cEDH opponents racing, stopped by held free interaction, stax and discard.",
+ "name": "Doom Unrivaled empty-library simulator",
+ "not_modeled": "Counter-war details, Cavern/uncounterable, Marvin/Phyrexian Devourer lines, Necropotence true value (undervalued), Bolas's Citadel lines.",
+ "updated": "Oct 16, 2026"
+}

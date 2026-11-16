@@ -1,0 +1,594 @@
+{
+ "adds": [
+  {
+   "name": "Gwenom, Remorseless",
+   "status": "planned",
+   "why": "Nov 13 sim, top swap: for Eerie Gravestone, +3.3 win-rate pts (noise about 1.5). SPM mythic, {3}{B}{B}: deathtouch, lifelink, and on attack you may play cards off the top paying life. Every spell cast from the top is a black spell for Zemo's connive. Second pick: Viv Vision for Bob, +2.1."
+  },
+  {
+   "name": "Sol Ring",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Loose copy needed: for a Swamp. Keep Hot Dog Cart; he needs more rocks, not swapped ones."
+  },
+  {
+   "name": "Arcane Signet",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Loose copy needed: for a Swamp. Keep Dependable Quinjet."
+  },
+  {
+   "name": "Fellwar Stone (S.H.I.E.L.D. Spy Satellite)",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Check for a spare: for a Swamp."
+  },
+  {
+   "name": "Night's Whisper",
+   "status": "verify",
+   "why": "Check for a spare (Doom precon): for Eerie Gravestone."
+  },
+  {
+   "name": "Syphon Mind",
+   "status": "verify",
+   "why": "Check for a spare (Doom precon): for Robot Domination."
+  },
+  {
+   "name": "Black Market Connections",
+   "status": "verify",
+   "why": "Check for a spare (Doom precon): for Kingpin's Enforcers."
+  },
+  {
+   "name": "Skullclamp",
+   "status": "verify",
+   "why": "Check for a spare (Doom precon): for Mechanical Mobster."
+  },
+  {
+   "name": "Kindred Dominance (name Villain)",
+   "status": "verify",
+   "why": "Check for a spare (Doom precon): for Cruel Alliance."
+  },
+  {
+   "name": "Lethal Scheme (2nd copy)",
+   "status": "verify",
+   "why": "Check for a spare (Doom precon): for Hour of Defeat."
+  },
+  {
+   "name": "Withering Torment (2nd copy)",
+   "status": "verify",
+   "why": "Check for a spare (Doom precon): for Dark Deed."
+  },
+  {
+   "name": "Doctor Doom",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "M.O.D.O.K.",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Villainous Wrath",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Black Cat, Cunning Thief",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "The Soul Stone",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Agent Venom",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Black Widow, Super Spy",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Construct a Cosmic Cube",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "The Death of Gwen Stacy",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Behold the Sinister Six!",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Morlun, Devourer of Spiders",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Doom Reigns Supreme",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Super-Adaptoid",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Patchwork Banner (name Villain)",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Rock plus a Villain anthem: for Venomized Cat."
+  },
+  {
+   "name": "Herald's Horn (Avengers Monitoring Station, name Villain)",
+   "status": "verify",
+   "why": "Utility round (Nov 9). Cost reduction plus free Villains off the top: for Roxxon Brutes."
+  }
+ ],
+ "bracket": "Bracket 2",
+ "bracketGoal": "0 Game Changers · Marvel & Spider-Man nonlands · Villains · connive · graveyard",
+ "cards": [
+  {
+   "name": "Arnim Zola, Bio-Fanatic",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Baron Strucker, HYDRA Overlord",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Bob, Reluctant HYDRA Agent",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Boomerang, Blade Flinger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Citizen V, Helmut Zemo",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Common Crook",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Count Nefaria",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Criminal Enterprise",
+   "qty": 1,
+   "role": "recur",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Crimson Cowl, Master of Evil",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Crossbones, Malicious Mercenary",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Cruel Alliance",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Dark Deed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Deadly Dispute",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Dependable Quinjet",
+   "qty": 1,
+   "role": "ramp",
+   "sub": "Vehicle",
+   "type": "Artifact"
+  },
+  {
+   "name": "Eerie Gravestone",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Elektra, Daughter of the Hand",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Fixer, Techno Terror",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Green Goblin, Back for More",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Grim Reaper's Scythe",
+   "qty": 1,
+   "role": "recur",
+   "type": "Artifact"
+  },
+  {
+   "name": "Grim Reaper, Lethal Legionnaire",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "HYDRA Troopers",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hot Dog Cart",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hour of Defeat",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Infernal Rebirth",
+   "qty": 1,
+   "role": "recur",
+   "type": "Instant"
+  },
+  {
+   "name": "Kingpin's Enforcers",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Kingpin, Wilson Fisk",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "M.O.D.O.K., Evil Intellect",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "MACH-1, Swooping Scoundrel",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Madame Masque",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Mechanical Mobster",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Minion Missile",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Moonstone, Harsh Mistress",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Ninja of the Hand",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Project Deathlok Soldier",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Radioactive Man",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Red Room Recruit",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Risky Research",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery",
+   "uv": true
+  },
+  {
+   "name": "Robot Domination",
+   "qty": 1,
+   "role": "draw",
+   "sub": "Plan",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Roxxon Brutes",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Sadistic Slash",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Sandman's Quicksand",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Scorpion, Seething Striker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Songbird, Sonic Screamer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Man Noir",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Stolen Stark Tech",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Surveillance Room",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 37,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swarm, Being of Bees",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "The Masters of Evil",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Spot's Portal",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Thunderbolts Conspiracy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Tombstone, Career Criminal",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Too Evil to Stay Dead",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Ultimo, Civilization's End",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Undead Hand Ninja",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Unliving Legionnaire",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Valentina Allegra de Fontaine",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Venom's Hunger",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant",
+   "uv": true
+  },
+  {
+   "name": "Venom, Evil Unleashed",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Venomized Cat",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Villainous Hideout",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Visions of Villainy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Void Helix",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  }
+ ],
+ "colors": [
+  "B"
+ ],
+ "commanders": [
+  "Baron Helmut Zemo"
+ ],
+ "format": "Commander",
+ "name": "Zemo: Thunderbolts",
+ "notes": [
+  "Zemo leads the Thunderbolts: Citizen V (his own alias), Songbird, MACH-1, Fixer, Moonstone, Radioactive Man, Bob and Valentina, all mono-black. Every black spell you cast from hand makes Zemo connive, and Valentina turns your Villains into Heroes she can connive again every turn.",
+  "Turns 1–3: Songbird, MACH-1, Fixer, Bob or Boomerang. Baron Strucker and Tombstone make every Villain cost {1} less.",
+  "Turns 4–6: Zemo connives off every black spell. Citizen V puts a +1/+1 counter on every Villain each time you gain life, and Songbird, Boomerang, Undead Hand Ninja, Criminal Enterprise and Void Helix gain life constantly. Valentina taps to make a Hero (all your Villains) connive.",
+  "Closing: Crimson Cowl adds a menace Villain each attack and The Masters of Evil pumps the team. Once Zemo has attacked, his Boast recasts heavy black cards from the graveyard: Elektra, Void Helix, Ultimo, Green Goblin and Sandman's Quicksand all have two black symbols. Count Nefaria drops in cheap after any sacrifice, and Grim Reaper's Scythe makes Zombies whenever you return creatures from the graveyard.",
+  "Bracket 2: Thunderbolts outside black (Red Guardian, U.S.Agent, Yelena's white card, Ghost, Taskmaster, Atlas) aren't legal in mono-black. Most of them are in the Winter Soldier deck instead. White Widow, Yelena Belova (black) comes from the Lethal packet; add her if you have it. Thunderbolts Conspiracy brings your Villains back as Heroes when they die, and Elektra adds removal plus two more black symbols for Boast. M.O.D.O.K., Evil Intellect makes an opponent sacrifice a creature whenever you draw your second card in a turn, which Zemo's connives trigger constantly. Doctor Doom is the next rare to chase.",
+  "Set tags: MSH = Marvel Super Heroes, SPM = Marvel's Spider-Man, MSC = Marvel Super Heroes Commander and Jumpstart cards. Every card listed is one you own. Hot Dog Cart and Dependable Quinjet are in all five Marvel B2 decks; some other commons and uncommons are shared too."
+ ],
+ "order": 61,
+ "owner": "Andrew",
+ "section": "Marvel Bracket 2",
+ "source": "Moved from the Marvel Bracket 2 Decks page (Oct 29, 2026). Built from cards you own.",
+ "target": 100,
+ "themeLabel": "Thunderbolts villains",
+ "updated": "2026-11-13",
+ "variants": [
+  {
+   "bracket": "Bracket 2",
+   "bracketGoal": "0 Game Changers · every card has a Marvel printing · black card flow over colorless rocks",
+   "id": "nov15-sim",
+   "in": [
+    {
+     "name": "Sol Ring",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Night's Whisper",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Toxic Deluge",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    }
+   ],
+   "label": "Nov 15 tune",
+   "name": "Zemo (Nov 15 tune)",
+   "notes": [
+    "Nov 15 generic sim: the planned Sol Ring, Arcane Signet and Fellwar Stone for three Swamps added 0.35 mana on turn 4 but no win rate (21.8% to 20.3%, inside noise). Zemo connives on black spells and a rock is not one, so only Sol Ring is kept.",
+    "This exact three-card swap was not simulated. Night's Whisper and Toxic Deluge are judgment picks: both are black spells for Zemo, and the deck had one wipe.",
+    "Against: Toxic Deluge kills your own Villains too."
+   ],
+   "out": [
+    {
+     "name": "Swamp",
+     "qty": 1
+    },
+    {
+     "name": "Eerie Gravestone",
+     "qty": 1
+    },
+    {
+     "name": "Hour of Defeat",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 15, 2026 vault-wide sim",
+   "updated": "Nov 15, 2026"
+  }
+ ]
+}

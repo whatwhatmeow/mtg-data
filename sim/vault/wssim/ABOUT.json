@@ -1,0 +1,8 @@
+{
+ "howto": "Put these files in a folder with deck JSONs ({cards:[{name,qty}]}). Run: PYTHONHASHSEED=0 python3 ws_loo.py deck.json bracket2|bracket3|bracket4 3000 for leave-one-out; ws_swap.py compare() for paired tests.",
+ "modeled": "Equipment/aura P/T incl. dynamic; colored opposing blockers; removal/wipes by bracket profile; protection colors (Swords, Plate); Mother/Giver; held-up protection; Stoneforge/Stonehewer; Akroma's Will; Jitte; Genji/extra combat; Squall/Peggy alone. v3: each attached Bloodforged Battle-Axe copies itself on every combat damage step (double strike = two triggers for all hit effects); pilot casts a better Equipment from hand before paying to equip a weaker loose one.",
+ "name": "Winter Soldier voltron simulator (v3)",
+ "not_modeled": "Opponents attacking you; politics; Nesting Grounds; some Marvel creature abilities.",
+ "results_oct16": {},
+ "updated": "Oct 16, 2026"
+}

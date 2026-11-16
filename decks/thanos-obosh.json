@@ -1,0 +1,634 @@
+{
+ "adds": [],
+ "bracket": "Bracket 3",
+ "bracketGoal": "3 Game Changers: Opposition Agent, Mystical Tutor, Aura Shards · all-odd deck, Obosh companion",
+ "cards": [
+  {
+   "name": "An Offer You Can't Refuse",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Anguished Unmaking",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Arid Mesa",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Aura Shards",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Baron Strucker, HYDRA Overlord",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Basalt Monolith",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Bastion of Remembrance",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Beast Within",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Birds of Paradise",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Blasphemous Act",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Bloodstained Mire",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Braids, Arisen Nightmare",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Bullseye, Death Dealer",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Chaos Warp",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Chromatic Lantern",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Citizen V, Helmut Zemo",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "City of Brass",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Coalition Relic",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Conjurer's Closet",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Crimson Cowl, Master of Evil",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Dauntless Escort",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Deflecting Swat",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Delighted Halfling",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Doctor Octopus, Master Planner",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Eddie Brock // Venom, Lethal Protector",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ephemerate",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Faeburrow Elder",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Flawless Maneuver",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Flooded Strand",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Glissa Sunslayer",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Green Goblin, Revenant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Grim Tutor",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Ignoble Hierarch",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Indatha Triome",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Jeska, Thrice Reborn",
+   "qty": 1,
+   "role": "win",
+   "type": "Planeswalker"
+  },
+  {
+   "name": "Jetmir's Garden",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Kang Prime",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ketria Triome",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Kid Loki",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Luxury Suite",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "M.O.D.O.K.",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "M.O.D.O.K., Evil Intellect",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mana Confluence",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Marsh Flats",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Massacre Girl",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Creature"
+  },
+  {
+   "name": "Mayhem Devil",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mister Negative",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mister Sinister, Hubris Unbound",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Misty Rainforest",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mole Man, Moloid Master",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mountain",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mysterio's Mirage",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Mystic Remora",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Mystical Tutor",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Instant"
+  },
+  {
+   "name": "Opposition Agent",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Origin of Black Widow",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Oscorp Industries",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Overgrown Tomb",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Patchwork Banner",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Path to Exile",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Phyrexian Arena",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Plains",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plaza of Heroes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Polluted Delta",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Professional Face-Breaker",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Prowler, Clawed Thief",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Raffine's Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Raugrin Triome",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rogue's Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Savai Triome",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Scalding Tarn",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Secluded Courtyard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Spara's Headquarters",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Spectator Seating",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Stomping Ground",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Superior Foes of Spider-Man",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Swamp",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "The Squadron Sinister",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Watcher's Warning",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant",
+   "uv": true
+  },
+  {
+   "name": "Tombstone, Career Criminal",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Toxic Deluge",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Tri-Sentinel, Act of Vengeance",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultimate Green Goblin",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultron, Unlimited",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Unknown Shores",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Verdant Catacombs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Villainous Hideout",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Windswept Heath",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Wooded Foothills",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Worn Powerstone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Xander's Lounge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Zagoth Triome",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Ziatora's Proving Ground",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Venser, the Sojourner",
+   "qty": 1,
+   "role": "eng",
+   "type": "Planeswalker"
+  }
+ ],
+ "colors": [
+  "W",
+  "U",
+  "B",
+  "R",
+  "G"
+ ],
+ "commanders": [
+  "Thanos, the Mad Titan"
+ ],
+ "format": "Commander",
+ "name": "Thanos & Obosh",
+ "notes": [
+  "Companion: Obosh, the Preypiercer (outside the 100). Every nonland card must have an odd mana value or Obosh is illegal. No even-cost cards, ever (Coalition Victory was ruled out for this; he chose Obosh).",
+  "Plan: cast Thanos ({R}{W}{B}), then power-up for {C}{W}{U}{B}{R}{G} (only {C}{U}{G} the turn he enters). Always choose EVEN: his creatures are all odd, so the wipe is one-sided. Obosh doubles damage from odd sources: Thanos, Jeska, Mayhem Devil, Bastion.",
+  "The {C} is true colorless, and it's the bottleneck. Colorless sources: Sol Ring, Worn Powerstone, Basalt Monolith, Plaza of Heroes, Rogue's Passage, Villainous Hideout, Secluded Courtyard (name Villain), Unknown Shores.",
+  "Plaza of Heroes and Villainous Hideout can pay any symbol of the power-up once Thanos is out. Oscorp Industries taps for U, B or R only.",
+  "Repeat wipes: Ephemerate, Conjurer's Closet or Venser's +2 blinks Thanos, so he 'entered this turn' and the power-up costs just {C}{U}{G} again.",
+  "Tokens are mana value 0 (even), so his own tokens die to the wipe too. Bastion of Remembrance turns that into drain. Mister Sinister's Thrulls reset this way before he hits seven.",
+  "Game Changers (3): Opposition Agent, Mystical Tutor, Aura Shards. Mystic Remora: draw off it 2–3 turns, then let it go.",
+  "Changes since Oct 17 rebuild: Champion's Helm → Ephemerate; Forest, Island → Secluded Courtyard, Unknown Shores; Rhystic Study → Mystic Remora; Teferi's Protection → Mystical Tutor; Painful Truths → Narset → Aura Shards.",
+  "Odd-cost upgrade ideas if a villain is a dud: Esper Sentinel, Skullclamp, Vindicate, Generous Gift, Swan Song, Gilded Lotus, Palladium Myr. Avoid Ancient Tomb/Mana Vault (Game Changers) and Mind Stone/Thran Dynamo (even).",
+  "Not all Marvel card mana values were confirmed. Moxfield will flag an illegal Obosh on import if one is even.",
+  "Nov 4, 2026: cut Aang's Shelter. It's Teferi's Protection under another name, and that made a 4th Game Changer. Venser, the Sojourner took the open slot, so the deck is back to 100."
+ ],
+ "order": 40,
+ "owner": "Middle",
+ "source": "Rebuilt Oct 17–18, 2026 from his list (not checked against your collection)",
+ "target": 100,
+ "themeLabel": "Odd-cost villains",
+ "updated": "Nov 4, 2026"
+}

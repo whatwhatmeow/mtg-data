@@ -1,0 +1,637 @@
+{
+ "adds": [
+  {
+   "name": "Molly Hayes, Runaway",
+   "status": "planned",
+   "why": "Nov 13 sim, top swap: for S.H.I.E.L.D. Helicarrier, +3.4 win-rate pts (noise about 1.5). Red MSC common, {2}{R}: cheap body that turns spare mana into two counters and a card. Runner-ups: Arcane Denial +3.1, Wiccan, Young Avenger +3.0."
+  },
+  {
+   "name": "Mjölnir, Hammer of Thor",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Ironheart, Clever Champion",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Interdimensional Web Watch",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Lady Octopus, Inspired Inventor",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Iron Spider, Stark Upgrade",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "The Vision",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "S.H.I.E.L.D. Flying Car",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Rocket-Powered Goblin Glider",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Fin Fang Foom",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Spider-Sense",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Hide on the Ceiling",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "The Wondrous Wasp",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Spider-Man 2099",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Sol Ring",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Loose copy needed; another artifact for Tony to find: for a Mountain."
+  },
+  {
+   "name": "Arcane Signet",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Loose copy needed: for an Island."
+  },
+  {
+   "name": "Talisman of Creativity",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Blue-red Talisman from the Marvel precons: for Shock."
+  },
+  {
+   "name": "Fellwar Stone (S.H.I.E.L.D. Spy Satellite)",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Check for a spare: for an Island."
+  },
+  {
+   "name": "Patchwork Banner (name Hero or Human)",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Mostly a 3-mana rock here (about 26 creatures); count Heroes vs Humans when sleeving: for Death to Our Enemies."
+  },
+  {
+   "name": "Sulfur Falls",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Untapped with an Island or Mountain: for an Island."
+  },
+  {
+   "name": "Frostboil Snarl",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Untapped if you reveal an Island or Mountain: for a Mountain."
+  },
+  {
+   "name": "Scorched Geyser",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Untapped with two or more basics; counts as Island Mountain for the check lands: for an Island."
+  },
+  {
+   "name": "Coastal Peak",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Always tapped, cycling {2}; Island Mountain type: for a Mountain."
+  },
+  {
+   "name": "Lightning Greaves",
+   "status": "verify",
+   "why": "Utility round (Nov 9). Keeps Tony safe and lets new artifact creatures attack right away; also another artifact: for Iron Suitcase."
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "status": "verify",
+   "why": "Utility round (Nov 9). Second protection piece for Tony: for HYDRA Assault Robot."
+  }
+ ],
+ "bracket": "Bracket 2",
+ "bracketGoal": "FOLDED Nov 16, 2026 · parts to Doom Unrivaled, Kang, Captain America and The Vision and Scarlet Witch · was: 0 Game Changers · Marvel & Spider-Man nonlands · Artifacts · value · Voltron finish",
+ "cards": [
+  {
+   "name": "Arc Reactor",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Armor Wars",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Baxter Building",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Collector's Case",
+   "qty": 1,
+   "role": "rem",
+   "type": "Artifact"
+  },
+  {
+   "name": "Crimson Operative",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Daily Bugle Building",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Daily Bugle Newspaper",
+   "qty": 1,
+   "role": "rem",
+   "type": "Artifact"
+  },
+  {
+   "name": "Death to Our Enemies",
+   "qty": 1,
+   "role": "ramp",
+   "sub": "Plan",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Dismissive Denial",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Echo, Perceptive Prodigy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Falcon's Wing Harness",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Frozen in Ice",
+   "qty": 1,
+   "role": "rem",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Futurist Forge",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "H.E.R.B.I.E. Scout Unit",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "HULK SMASH!",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "HYDRA Assault Robot",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hex Magic",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Hot Dog Cart",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hydraulic Helper",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "I Am Iron Man",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Iron Lad, Diverging Destiny",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Lad, Young Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Man Armor",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Iron Man, Bleeding Edge",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Man, Master of Machines",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Suitcase",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Island",
+   "qty": 16,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Justice, Vance Astrovik",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Kree Sentinel",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Lightning Strike",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Luke Cage, Hero for Hire",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Machine Man, Model X-51",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Machinesmith Automaton",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Marvelous Melee",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Mister Fantastic, Reed Richards",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mountain",
+   "qty": 17,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Origin of Iron Man",
+   "qty": 1,
+   "role": "draw",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Reed Richards, Smartest Man",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Rescue, Pepper Potts",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Robotics Mastery",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "S.H.I.E.L.D. Deployment Drone",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "S.H.I.E.L.D. Helicarrier",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Vehicle",
+   "type": "Artifact"
+  },
+  {
+   "name": "School Daze",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Shock",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Shuri, Wakandan Inventor",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Silver Surfer, Cosmic Voyager",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spaceshift",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Stark Industries",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Stark Industries Executive",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Steel Wrecking Ball",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact",
+   "uv": true
+  },
+  {
+   "name": "Super Suit",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Surveillance Room",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Team Tactics",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "The Ten Rings",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "The Thanos-Copter",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Vehicle",
+   "type": "Artifact"
+  },
+  {
+   "name": "The Vision and Scarlet Witch",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Thirst for Knowledge",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Trickster's Stratagem",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Truck Toss",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Ultron, Artificial Malevolence",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultron, Machine Overlord",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Vibranium Energy Daggers",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Vibrant Cityscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Victor Timely, Wily Tycoon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Vision Quest",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "We Say Thee Nay!",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Whoosh!",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Wiccan, Rising Magician",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  }
+ ],
+ "colors": [
+  "U",
+  "R"
+ ],
+ "commanders": [
+  "Tony Stark // The Invincible Iron Man"
+ ],
+ "folded": "Nov 16, 2026: broken up. The Vision and Scarlet Witch becomes a commander. Ultron, Artificial Malevolence and Ultron, Machine Overlord to Doom Unrivaled. To Kang: Victor Timely, Iron Lad, Diverging Destiny, Wiccan, Rising Magician, Spaceshift, Silver Surfer, Cosmic Voyager, Arc Reactor, School Daze, Whoosh!, We Say Thee Nay!. To Captain America: Shield Throw: Tony Stark, Falcon's Wing Harness, Thirst for Knowledge. To King T'Challa: Rescue, Pepper Potts, Dismissive Denial. To The Vision and Scarlet Witch: Machine Man, Crimson Operative, Hex Magic, Death to Our Enemies. Iron Man Armor is a spare.",
+ "format": "Commander",
+ "name": "Tony Stark: Stark Industries",
+ "notes": [
+  "Tony Stark comes down on turn two and digs for an artifact every turn. At six mana he becomes The Invincible Iron Man, a hasty 5/5 flier that drops an artifact from your hand every combat. The Jumpstart Iron Man packet adds Iron Man, Bleeding Edge (copy an artifact spell each turn), Rescue and Iron Lad.",
+  "Turns 1–3: Tony Stark, then Shuri, Iron Lad or Hydraulic Helper; Iron Suitcase and Collector's Case are cheap artifacts for Tony to find.",
+  "Turns 4–6: Iron Man, Bleeding Edge copies your best artifact each turn; Machinesmith Automaton, Machine Man and HYDRA Assault Robot grow or ping with every arrival. Silver Surfer and Rescue replay your enters-the-battlefield artifacts. Reed Richards turns your extra draws into four cards each.",
+  "Closing: Transform Tony and put Equipment straight onto him each combat. The Thanos-Copter and Iron Man, Master of Machines add flying damage, and Team Tactics gives a big flier double strike.",
+  "Bracket 2: No combos or extra turns. Dismissive Denial is the one hard counter. Ultron, Artificial Malevolence pays {2} to copy every nontoken artifact you play, and noncreature copies become 2/2 Robots, which Ultron, Machine Overlord pumps by +2/+2 along with the deck's other Robots. Vision Quest finds Ultron or Iron Man, Bleeding Edge straight from your library or graveyard (it's the deck's one tutor), and Armor Wars draws a card per artifact before hitting an opponent for your biggest one. Arc Reactor ramps you to Tony's transform turn, Iron Man Armor becomes a flier with +1/+1 per artifact you control, and The Ten Rings refills your hand to ten every end step. Mjölnir lives in the Miles deck; Ironheart is the only other rare worth chasing.",
+  "Set tags: MSH = Marvel Super Heroes, SPM = Marvel's Spider-Man, MSC = Marvel Super Heroes Commander and Jumpstart cards. Every card listed is one you own. Hot Dog Cart and Dependable Quinjet are in all five Marvel B2 decks; some other commons and uncommons are shared too."
+ ],
+ "order": 62,
+ "owner": "Andrew",
+ "section": "Marvel Bracket 2",
+ "source": "Moved from the Marvel Bracket 2 Decks page (Oct 29, 2026). Built from cards you own.",
+ "target": 100,
+ "themeLabel": "Artifact engine",
+ "updated": "2026-11-13",
+ "variants": [
+  {
+   "bracket": "Bracket 2",
+   "bracketGoal": "0 Game Changers · every card has a Marvel printing · two rocks for the two slowest cantrips",
+   "id": "nov15-sim",
+   "in": [
+    {
+     "name": "Sol Ring",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Talisman of Creativity",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Sulfur Falls",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Command Tower",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Nov 15 tune",
+   "name": "Tony Stark (Nov 15 tune)",
+   "notes": [
+    "Nov 15 generic sim: Futurist Forge and Daily Bugle Newspaper were the two lowest cards in the deck. Rocks are artifacts Tony can still find, and they speed the six-mana transform.",
+    "Honest caveat: the bigger tested package (four rocks, four dual lands) added 0.45 mana on turn 4 and no win rate (20.9% to 20.6%). Tony costs two, so rocks do not bring him down sooner. Treat this as a small tidy-up, not a fix."
+   ],
+   "out": [
+    {
+     "name": "Futurist Forge",
+     "qty": 1
+    },
+    {
+     "name": "Daily Bugle Newspaper",
+     "qty": 1
+    },
+    {
+     "name": "Island",
+     "qty": 1
+    },
+    {
+     "name": "Mountain",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 15, 2026 vault-wide sim",
+   "updated": "Nov 15, 2026"
+  }
+ ]
+}

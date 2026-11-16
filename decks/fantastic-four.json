@@ -1,0 +1,868 @@
+{
+ "adds": [
+  {
+   "name": "The Fantastic Four",
+   "status": "added",
+   "why": "Owned (Jumpstart packet). Any spell with MV/power/toughness 4 picks a mode: Wall, 3 to each opponent, counters or a card."
+  },
+  {
+   "name": "Storm-Kiln Artist",
+   "status": "planned",
+   "why": "Treasure on every cast or copy; Treasures are tokens, so Reed Richards draws too."
+  },
+  {
+   "name": "Archmage Emeritus",
+   "status": "planned",
+   "why": "Draws a card on every instant or sorcery, copies included."
+  },
+  {
+   "name": "Swords to Plowshares",
+   "status": "planned",
+   "why": "Cheap exile removal from your white pile."
+  },
+  {
+   "name": "Heroic Intervention",
+   "status": "planned",
+   "why": "Saves the board from a wrath; 1 green = 1 damage from Crystal."
+  },
+  {
+   "name": "Counterspell",
+   "status": "planned",
+   "why": "From your counterspell pile."
+  },
+  {
+   "name": "Negate",
+   "status": "planned",
+   "why": "From your counterspell pile."
+  },
+  {
+   "name": "Izzet Charm",
+   "status": "planned",
+   "why": "2 colors = 2 damage to each opponent, plus a counter, removal or loot."
+  },
+  {
+   "name": "Boros Charm",
+   "status": "planned",
+   "why": "2 to each opponent, 4 to a player, or saves the board from a wrath."
+  },
+  {
+   "name": "Naya Charm",
+   "status": "planned",
+   "why": "3 to each opponent, plus removal or a tap-down for the alpha strike."
+  },
+  {
+   "name": "Jeskai Charm",
+   "status": "planned",
+   "why": "3 to each opponent, plus a tuck, 4 to an opponent, or a team pump."
+  },
+  {
+   "name": "Temur Charm",
+   "status": "planned",
+   "why": "3 to each opponent, plus fight, a soft counter or a block lock."
+  },
+  {
+   "name": "Electrolyze",
+   "status": "planned",
+   "why": "2 to each opponent, split damage and draw a card."
+  },
+  {
+   "name": "Prismari Command",
+   "status": "planned",
+   "why": "2 to each opponent, damage, loot or Treasure, artifact removal."
+  },
+  {
+   "name": "Lorehold Command",
+   "status": "planned",
+   "why": "2 to each opponent, plus 3 damage, a team pump or card draw."
+  },
+  {
+   "name": "Growth Spiral",
+   "status": "planned",
+   "why": "2 to each opponent, a card and a land drop."
+  },
+  {
+   "name": "Talisman of Creativity",
+   "status": "planned",
+   "why": "2-mana rock that fixes U/R. From your rock pile."
+  },
+  {
+   "name": "Talisman of Impulse",
+   "status": "planned",
+   "why": "2-mana rock that fixes R/G."
+  },
+  {
+   "name": "Talisman of Unity",
+   "status": "planned",
+   "why": "2-mana rock that fixes G/W."
+  },
+  {
+   "name": "Jeskai Ascendancy",
+   "status": "planned",
+   "why": "3 to each opponent when cast, then every spell loots, untaps your creatures (Crystal taps for mana again) and pumps the team."
+  },
+  {
+   "name": "Thor, Guardian of Midgard",
+   "status": "added",
+   "why": "Noncombat damage to an opponent exiles that many cards to play this turn; Crystal pings fuel it. Cut Franklin Richards, Ascendant."
+  },
+  {
+   "name": "Thor, Asgard's Avenger",
+   "status": "added",
+   "why": "+1 to all damage your other sources deal to opponents, per opponent per Crystal trigger. Cut Lockjaw, Slobbering Teleporter."
+  },
+  {
+   "name": "Thor, God of Thunder",
+   "status": "added",
+   "why": "Each noncreature spell also deals its mana value to any target; ETB recasts an instant or sorcery. Cut Medusa, Inhuman Queen."
+  },
+  {
+   "name": "Human Torch, Johnny Storm",
+   "status": "added",
+   "why": "1 damage to an opponent per card drawn while she has another Hero. Cut Bovine Intervention."
+  },
+  {
+   "name": "Hawkeye, Young Avenger",
+   "status": "added",
+   "why": "Spare copy. Adds her power to every noncombat ping, so Crystal triggers get +2 per opponent. Cut Galvanic Iteration."
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "status": "planned",
+   "why": "Hexproof + haste for Crystal; about $1-2 if not in bulk. Cut Opt."
+  },
+  {
+   "name": "Flawless Maneuver",
+   "status": "planned",
+   "why": "Free with a commander out: team indestructible vs wraths. Cut Taunt from the Rampart."
+  },
+  {
+   "name": "Snakeskin Veil",
+   "status": "planned",
+   "why": "{G}: hexproof + counter. About $0.25. Cut Hull Breach."
+  },
+  {
+   "name": "Tyvar's Stand",
+   "status": "planned",
+   "why": "Hexproof + indestructible. About $1.17. Cut It's Clobberin' Time!."
+  },
+  {
+   "name": "Tamiyo's Safekeeping",
+   "status": "planned",
+   "why": "{G}: hexproof + indestructible; budget stand-in for Deflecting Swat. About $1.49. Cut Preordain."
+  },
+  {
+   "name": "Karplusan Forest",
+   "status": "added",
+   "why": "Spare pain land; untapped R/G. Cut Terramorphic Expanse."
+  },
+  {
+   "name": "Yavimaya Coast",
+   "status": "added",
+   "why": "Spare pain land; untapped G/U. Cut Evolving Wilds."
+  },
+  {
+   "name": "Battlefield Forge",
+   "status": "added",
+   "why": "Spare pain land; untapped R/W. Cut Fabled Passage."
+  },
+  {
+   "name": "Shivan Reef",
+   "status": "added",
+   "why": "Spare pain land; untapped U/R. Cut Path of Ancestry."
+  },
+  {
+   "name": "Brushland",
+   "status": "added",
+   "why": "Spare pain land; untapped G/W. Cut Prairie Stream."
+  },
+  {
+   "name": "Adarkar Wastes",
+   "status": "added",
+   "why": "Spare pain land; untapped W/U. Cut Canopy Vista."
+  },
+  {
+   "name": "Birds of Paradise",
+   "status": "planned",
+   "why": "1-drop, any color: Crystal on turn 2-3. About $4.98. Cut Council of Reeds."
+  },
+  {
+   "name": "Utopia Sprawl",
+   "status": "planned",
+   "why": "1-mana ramp on a Forest (basic or Forest-typed dual). About $1.25. Cut Third Path Iconoclast."
+  },
+  {
+   "name": "Rampant Growth",
+   "status": "planned",
+   "why": "2-mana land ramp. About $0.37. Cut Monastery Mentor."
+  },
+  {
+   "name": "Nature's Lore",
+   "status": "planned",
+   "why": "2-mana untapped Forest-card ramp (can grab Cinder Glade/Sodden Verdure). About $1.93. Cut Chromatic Lantern."
+  },
+  {
+   "name": "Fellwar Stone",
+   "status": "planned",
+   "why": "2-mana rock that fixes. About $0.86. Cut Bant Charm."
+  }
+ ],
+ "bracket": "Bracket 2",
+ "bracketGoal": "0 Game Changers · strongest B2 spellslinger · B3 variant saved",
+ "cards": [
+  {
+   "name": "Invisible Woman",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mister Fantastic",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Human Torch",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "The Thing",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Alicia Masters, Skilled Sculptor",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Black Bolt, Inhuman King",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "H.E.R.B.I.E., Lovable Robot",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Mister Fantastic, Reed Richards",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Namor, Atlantean King",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Valeria Richards, Precocious",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "The Fantastic Four",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Storm-Kiln Artist",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Archmage Emeritus",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Path to Exile",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Clever Concealment",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "First Family",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Invisible Force Field",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Heroic Intervention",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Counterspell",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Negate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Izzet Charm",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Boros Charm",
+   "qty": 1,
+   "role": "win",
+   "type": "Instant"
+  },
+  {
+   "name": "Naya Charm",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Jeskai Charm",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Temur Charm",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Electrolyze",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Prismari Command",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Lorehold Command",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Cleansing Nova",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Ultimate Nullification",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Farseek",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Three Visits",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Growth Spiral",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Expressive Iteration",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Fantastic Elasticity",
+   "qty": 1,
+   "role": "prot",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Flame On!",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Creativity",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Impulse",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Unity",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Lightning Greaves",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Unstable Molecule Suit",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Annie Joins Up",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Cosmic Crucible",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Whirlwind of Thought",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Jeskai Ascendancy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Cinder Glade",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Clifftop Retreat",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Glacial Fortress",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Hinterland Harbor",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Radiant Summit",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rejuvenating Springs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rootbound Crag",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Scorched Geyser",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sodden Verdure",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfur Falls",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sunpetal Grove",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Baxter Building",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plains",
+   "qty": 4,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 4,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Forest",
+   "qty": 4,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thor, Guardian of Midgard",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Thor, Asgard's Avenger",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Thor, God of Thunder",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Human Torch, Johnny Storm",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Hawkeye, Young Avenger",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Flawless Maneuver",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Snakeskin Veil",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Tyvar's Stand",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Tamiyo's Safekeeping",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Karplusan Forest",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Yavimaya Coast",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Battlefield Forge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Shivan Reef",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Brushland",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Adarkar Wastes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Birds of Paradise",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Utopia Sprawl",
+   "qty": 1,
+   "role": "ramp",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Rampant Growth",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Nature's Lore",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Fellwar Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  }
+ ],
+ "colors": [
+  "W",
+  "U",
+  "R",
+  "G"
+ ],
+ "commanders": [
+  "Crystal, Inhuman Princess"
+ ],
+ "format": "Commander",
+ "name": "Fantastic Four (wife)",
+ "notes": [
+  "Rebuilt from the stock precon (the Walls build is dropped).",
+  "Commander: Crystal, Inhuman Princess. Every noncreature spell deals damage to each opponent equal to its color count, so 2- and 3-color spells are the backbone (the Charms package). Invisible Woman, her other pick, is in the 99, and the build still works with her as commander: swap the two.",
+  "Engine: Reed Richards draws whenever tokens enter (Namor, Storm-Kiln and Alicia Treasures, Invisible Woman Walls, The Fantastic Four Wall). Valeria discounts spells and draws; Mister Fantastic, Whirlwind, Archmage and First Family refill.",
+  "Cuts from the stock precon (25): Galactus, Devourer of Worlds, Silver Surfer, Galactus's Herald, Dragon Man, Reformed Robot, Willie Lumpkin, Postman, Power Pack, Collective Effort, Cut a Deal, Deep Analysis, Genesis Ultimatum, Into the Time Vortex, Nova Flame, Promise of Loyalty, Quantum Misalignment, Recurring Insight, Terramorph, Tragic Arrogance, Seize the Day, Mirage Mirror, Negative Zone Portal, The Fantasticar, Mind's Dilation, Monologue Tax, Path of Discovery, Plains, Forest.",
+  "Bracket 2 check: no Game Changers, no extra turns, no mass land destruction. Jeskai Ascendancy with Crystal makes 1-mana spells nearly free, but it is not an infinite combo.",
+  "Adds marked planned: confirm she has a free copy (Charms, Electrolyze, the Commands and the token creatures may need buying; all are cheap). Swan Song stays out (no spare).",
+  "Nov 10, 2026: 10 swaps. Thor package (Guardian of Midgard, Asgard's Avenger, God of Thunder), Human Torch Johnny Storm and Hawkeye (Kate Bishop) for burn; protection package for Crystal (Swiftfoot Boots, Flawless Maneuver, Snakeskin Veil, Tyvar's Stand, Tamiyo's Safekeeping). Deflecting Swat skipped on price. The Mighty Thor (Jane) and Thor Odinson considered and left out. B3 variant now cuts Negate, Electrolyze and Expressive Iteration, since Opt and Bovine Intervention are gone.",
+  "Nov 13, 2026: speed package from a 3,000-game sim using exact card text from the mtg-data repo. Crystal on turn 3 went from 47% to 64% (avg turn 4.1 to 3.75). Six tapped/fetch lands swapped for spare pain lands; Council of Reeds, Third Path Iconoclast, Monastery Mentor, Chromatic Lantern and Bant Charm swapped for 1-2 mana ramp (Birds, Utopia Sprawl, Rampant Growth, Nature's Lore, Fellwar Stone; about $9.40). Invisible Woman kept by choice. Rule for this deck: ramp costs 1-2 mana (Cultivate the one 3-mana exception); don't add more ramp than this."
+ ],
+ "order": 11,
+ "owner": "Wife",
+ "source": "Stock precon + F4 Jumpstart packet + 25 swaps, Nov 9, 2026",
+ "target": 100,
+ "themeLabel": "Crystal spellslinger",
+ "updated": "Nov 13, 2026",
+ "variants": [
+  {
+   "adds": [
+    {
+     "name": "Jeska's Will",
+     "status": "planned",
+     "why": "Game Changer. Mana equal to an opponent's hand size plus impulse-draw 3: a whole Crystal turn in one card."
+    },
+    {
+     "name": "Rhystic Study",
+     "status": "planned",
+     "why": "Game Changer. Card flow that also triggers Crystal for 1."
+    },
+    {
+     "name": "Fierce Guardianship",
+     "status": "owned",
+     "why": "Game Changer. Free counter while she has a commander out, to protect Crystal or a key spell. A copy arrived in the History of Heroes kit (Nov 16)."
+    }
+   ],
+   "bracket": "Bracket 3",
+   "bracketGoal": "3 Game Changers · Crystal spellslinger",
+   "id": "b3",
+   "in": [
+    {
+     "name": "Jeska's Will",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Rhystic Study",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Fierce Guardianship",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    }
+   ],
+   "label": "B3",
+   "name": "Fantastic Four (B3)",
+   "notes": [
+    "Same 99 as the B2 list, with Opt, Negate and Bovine Intervention swapped for three Game Changers.",
+    "Next steps toward B3 power: fetch and shock lands, Arcane Denial, and Mana Drain or An Offer You Can't Refuse."
+   ],
+   "out": [
+    {
+     "name": "Negate",
+     "qty": 1
+    },
+    {
+     "name": "Electrolyze",
+     "qty": 1
+    },
+    {
+     "name": "Expressive Iteration",
+     "qty": 1
+    }
+   ],
+   "source": "B2 list + 3 Game Changers, Nov 9, 2026",
+   "updated": "Nov 9, 2026"
+  },
+  {
+   "bracket": "Bracket 2",
+   "bracketGoal": "0 Game Changers · Storm in the 99",
+   "id": "nov16-storm",
+   "in": [
+    {
+     "name": "Storm, Force of Nature",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    }
+   ],
+   "label": "+ Storm",
+   "name": "Fantastic Four (+ Storm)",
+   "notes": [
+    "Nov 16, 2026: Storm, Force of Nature (owned) in. She is a 3/4 flier with vigilance; when she hits a player, the next instant or sorcery you cast that turn has storm.",
+    "Storm copies are not cast, so they do not trigger Crystal. The value is in the copies themselves: a stormed Jeskai Charm deals 4 to an opponent per copy, and a stormed Boros Charm deals 4 per copy.",
+    "Suggested cut: Black Bolt, Inhuman King. He fills the same slot (a flier that rewards spells) with a lower ceiling. The cut is your wife's call; The Thing and Namor, Atlantean King are the other candidates.",
+    "Not simulated."
+   ],
+   "out": [
+    {
+     "name": "Black Bolt, Inhuman King",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 16, 2026 Marvel commander review",
+   "updated": "Nov 16, 2026"
+  }
+ ]
+}

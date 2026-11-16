@@ -1,0 +1,808 @@
+{
+ "adds": [
+  {
+   "name": "Birgi, God of Storytelling",
+   "status": "planned",
+   "why": "About $24.73. A second copy of the commander's mana ability. The strongest upgrade; pushes the deck toward Bracket 3. Swap for Crimson Operative."
+  },
+  {
+   "name": "Pyretic Ritual",
+   "status": "planned",
+   "why": "About $6.45. With the commander out a ritual nets four mana. Rituals were left out to keep the deck at Bracket 2 speed. Desperate Ritual ($6.06) and Seething Song ($7.00) are the same idea."
+  },
+  {
+   "name": "Tibalt's Trickery",
+   "status": "planned",
+   "why": "About $12.32. Red's counterspell, to protect the commander from removal. Swap for Thermo-Alchemist."
+  },
+  {
+   "name": "Thor, God of Thunder",
+   "status": "owned",
+   "why": "Every noncreature spell also deals its mana value to any target. One of the contested Thors; add him if a copy is free. Swap for The Immortal Weapons."
+  }
+ ],
+ "bracket": "High Bracket 2",
+ "bracketGoal": "0 Game Changers · mono-red spellslinger · every spell refunds a red mana and grows the commander",
+ "cards": [
+  {
+   "name": "Forgotten Cave",
+   "own": "buy",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Myriad Landscape",
+   "own": "buy",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "War Room",
+   "own": "buy",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Avengers Tower",
+   "own": "likely",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sol Ring",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mind Stone",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hot Dog Cart",
+   "own": "freed",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Fire Diamond",
+   "own": "buy",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Wayfarer's Bauble",
+   "own": "buy",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Strike It Rich",
+   "own": "buy",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Nico Minoru, Runaway",
+   "own": "freed",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Fist, Hero for Hire",
+   "own": "freed",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Jessica Jones, Private Eye",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Machine Man, Model X-51",
+   "own": "freed",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Speed, Young Avenger",
+   "own": "freed",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Crimson Operative",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Wiccan, Young Avenger",
+   "own": "likely",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Molten Lavamancer",
+   "own": "likely",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Loki Laufeyson",
+   "own": "likely",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Electro, Assaulting Battery",
+   "own": "buy",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "The Vision",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Immortal Weapons",
+   "own": "buy",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Runaway Steam-Kin",
+   "own": "buy",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Young Pyromancer",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Coruscation Mage",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Thermo-Alchemist",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Guttersnipe",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Firebrand Archer",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Kessig Flamebreather",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Electrostatic Field",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Storm-Kiln Artist",
+   "own": "buy",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "The Fantasticar",
+   "own": "freed",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Vehicle",
+   "type": "Artifact"
+  },
+  {
+   "name": "Death to Our Enemies",
+   "own": "freed",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Wanda's Vision",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Interdimensional Web Watch",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Lightning Greaves",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hex Magic",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Asgardian Inspiration",
+   "own": "likely",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Heroes' Hangout",
+   "own": "likely",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Romantic Rendezvous",
+   "own": "likely",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Vision of Love",
+   "own": "likely",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Origin of Thor",
+   "own": "likely",
+   "qty": 1,
+   "role": "draw",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Thrill of Possibility",
+   "own": "check",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Faithless Looting",
+   "own": "check",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Big Score",
+   "own": "check",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Reckless Impulse",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Wrenn's Resolve",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Light Up the Stage",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Unexpected Windfall",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Lightning Bolt",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Shock",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Lightning Strike",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "HULK SMASH!",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Wisecrack",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Unholy Heat",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Electro's Bolt",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Repulsor Rays",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Chaos Warp",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Vandalblast",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Blasphemous Act",
+   "own": "buy",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Abrade",
+   "own": "buy",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Team Tactics",
+   "own": "freed",
+   "qty": 1,
+   "role": "win",
+   "type": "Instant"
+  },
+  {
+   "name": "Photon Blast Barrage",
+   "own": "likely",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Grapeshot",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Temur Battle Rage",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Instant"
+  },
+  {
+   "name": "Monstrous Rage",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Instant"
+  },
+  {
+   "name": "Past in Flames",
+   "own": "buy",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Fists of Flame",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Mountain",
+   "own": "have",
+   "qty": 29,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "R"
+ ],
+ "commanders": [
+  "The Vision and Scarlet Witch"
+ ],
+ "format": "Commander",
+ "name": "The Vision and Scarlet Witch: Chaos Magic",
+ "notes": [
+  "Plan: the commander adds {R} and gets a +1/+1 counter whenever you cast a spell. One-mana red spells are free and two-mana spells cost one, so a hand of cheap spells turns into a large flier and a pile of triggers in one turn.",
+  "Why mono-red works here: the commander is the mana engine. The deck needs cheap spells and ways to keep drawing them, and red has both.",
+  "Card flow that keeps the chain going: Wiccan, Young Avenger (exile and play the top card on every noncreature spell), Hex Magic, Reckless Impulse, Wrenn's Resolve, Light Up the Stage, Asgardian Inspiration, Heroes' Hangout, Wanda's Vision.",
+  "Nico Minoru deals 2 to each opponent whenever you cast a spell from anywhere other than your hand, and most of the card flow above plays cards from exile.",
+  "Ways to win: commander damage in the air (Team Tactics or Temur Battle Rage for double strike), Guttersnipe, Firebrand Archer, Kessig Flamebreather, Electrostatic Field and Thermo-Alchemist pinging per spell, Grapeshot, and Photon Blast Barrage.",
+  "The commander is an artifact creature, so Vandalblast from an opponent and artifact removal both hit it. Lightning Greaves and Swiftfoot Boots are the protection.",
+  "Ownership tags on each card: have = confirmed owned; freed = from a deck folded Nov 16 or a precon cut; likely = Marvel common or uncommon, or your staples pile; check = owned but maybe sleeved elsewhere; buy = not known to be owned. Several of the spell payoffs are also in the Gandalf deck.",
+  "Buy list (Nov 12 snapshot): about $30 for the 31 buy cards, most of them under $1. Estimated, not simulated: wins around turns 8-10, faster with a full hand and the commander surviving a turn.",
+  "Bracket 2 check: 0 Game Changers, no extra turns, no land destruction, no tutors, no rituals. Past in Flames plus a long chain can end a game in one turn; mention it at a new table."
+ ],
+ "order": 6.3,
+ "owner": "Andrew",
+ "source": "Built by Claude Nov 16, 2026 around the owned commander (it was in the Tony Stark 99), from the red cards freed by the Daredevil and Tony Stark folds plus cheap pickups. Card text, colour identity and legality checked against mtg-data; ownership is tagged, not confirmed.",
+ "target": 100,
+ "themeLabel": "Cheap spells, big robot",
+ "updated": "Nov 16, 2026",
+ "variants": [
+  {
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers · every card has a Marvel printing",
+   "id": "marvel-only",
+   "in": [
+    {
+     "name": "Dependable Quinjet",
+     "qty": 1,
+     "role": "ramp",
+     "sub": "Vehicle",
+     "type": "Artifact"
+    },
+    {
+     "name": "Fellwar Stone",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Thought Vessel",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Heroes for Hire",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Alicia Masters, Skilled Sculptor",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Chase Stein, Runaway",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Molly Hayes, Runaway",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Iron Fist, Living Weapon",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Thor, God of Thunder",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Spider-Verse",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Shadow of the Goblin",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Cosmic Cube",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Winds of Change",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Blazing Crescendo",
+     "qty": 1,
+     "role": "draw",
+     "type": "Instant"
+    },
+    {
+     "name": "Galvanic Blast",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Truck Toss",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Avengers Disassembled",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Claim the Firstborn",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Smashing Spree",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Bionic Blow",
+     "qty": 1,
+     "role": "win",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Molten Duplication",
+     "qty": 1,
+     "role": "eng",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Mountain",
+     "qty": 3,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Marvel only",
+   "name": "The Vision and Scarlet Witch (Marvel only)",
+   "notes": [
+    "24 swaps: the 21 nonland cards and 3 lands with no Marvel printing come out; three Mountains replace the lands.",
+    "What it loses: the creatures that ping per spell (Guttersnipe, Firebrand Archer, Kessig Flamebreather, Electrostatic Field, Thermo-Alchemist) and the cheap exile-and-play spells. It wins more by commander damage and less by pinging.",
+    "What replaces them: Spider-Verse copies every spell you cast from exile, which Wiccan, Hex Magic and Jessica Jones all provide; Cosmic Cube casts a free spell on each attack; Thor, God of Thunder adds each noncreature spell's mana value as damage; Bionic Blow turns a large commander into a one-shot finisher.",
+    "Thor, God of Thunder is one of the contested Thors. If no copy is free, run Franklin Richards, Ascendant.",
+    "Avengers Disassembled: use the three-damage mode. Its other mode destroys a land, which is single-target and fine at Bracket 2, but worth a word at the table.",
+    "Molten Duplication is the copy from the History of Heroes kit. The token is legendary if it copies the commander, so aim it at Nico Minoru or Wiccan.",
+    "Prices (Nov 12 snapshot) for the pieces you may not own: Cosmic Cube $6.77, Winds of Change $3.23, Galvanic Blast $2.20; the rest are under $1.",
+    "Not simulated."
+   ],
+   "out": [
+    {
+     "name": "Mind Stone",
+     "qty": 1
+    },
+    {
+     "name": "Fire Diamond",
+     "qty": 1
+    },
+    {
+     "name": "Wayfarer's Bauble",
+     "qty": 1
+    },
+    {
+     "name": "Strike It Rich",
+     "qty": 1
+    },
+    {
+     "name": "Runaway Steam-Kin",
+     "qty": 1
+    },
+    {
+     "name": "Young Pyromancer",
+     "qty": 1
+    },
+    {
+     "name": "Coruscation Mage",
+     "qty": 1
+    },
+    {
+     "name": "Thermo-Alchemist",
+     "qty": 1
+    },
+    {
+     "name": "Guttersnipe",
+     "qty": 1
+    },
+    {
+     "name": "Firebrand Archer",
+     "qty": 1
+    },
+    {
+     "name": "Kessig Flamebreather",
+     "qty": 1
+    },
+    {
+     "name": "Electrostatic Field",
+     "qty": 1
+    },
+    {
+     "name": "Storm-Kiln Artist",
+     "qty": 1
+    },
+    {
+     "name": "Faithless Looting",
+     "qty": 1
+    },
+    {
+     "name": "Reckless Impulse",
+     "qty": 1
+    },
+    {
+     "name": "Wrenn's Resolve",
+     "qty": 1
+    },
+    {
+     "name": "Light Up the Stage",
+     "qty": 1
+    },
+    {
+     "name": "Abrade",
+     "qty": 1
+    },
+    {
+     "name": "Temur Battle Rage",
+     "qty": 1
+    },
+    {
+     "name": "Past in Flames",
+     "qty": 1
+    },
+    {
+     "name": "Fists of Flame",
+     "qty": 1
+    },
+    {
+     "name": "Forgotten Cave",
+     "qty": 1
+    },
+    {
+     "name": "Myriad Landscape",
+     "qty": 1
+    },
+    {
+     "name": "War Room",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 16, 2026; each card checked for a Marvel, Spider-Man, Marvel Commander, Marvel Jumpstart or Marvel Secret Lair printing in mtg-data",
+   "updated": "Nov 16, 2026"
+  }
+ ]
+}

@@ -1,0 +1,636 @@
+{
+ "adds": [
+  {
+   "name": "Approach of the Second Sun",
+   "status": "added",
+   "why": "Win con #1. Replaced Sphere of Resistance (it taxed her own 7-mana win con)."
+  },
+  {
+   "name": "Insurrection",
+   "status": "added",
+   "why": "Win con #2. Replaced Unwind."
+  },
+  {
+   "name": "Gifts Ungiven",
+   "status": "added",
+   "why": "Game Changer. Can find both win cons at once. Replaced Evolution Sage."
+  },
+  {
+   "name": "Narset, Parter of Veils",
+   "status": "added",
+   "why": "Game Changer. Replaced Inexorable Tide."
+  },
+  {
+   "name": "Mystic Remora",
+   "status": "planned",
+   "why": "Optional draw engine that isn't a Game Changer. Would replace Flux Channeler."
+  },
+  {
+   "name": "Felidar Sovereign",
+   "status": "added",
+   "why": "Win con: win at your upkeep with 40+ life. Filled the open slot left by Aang's Shelter."
+  },
+  {
+   "name": "Expropriate",
+   "status": "added",
+   "why": "Win con: council vote for extra turns or stealing permanents. Replaced Fated Retribution."
+  },
+  {
+   "name": "Crackle with Power",
+   "status": "planned",
+   "why": "Out for now (Nov 3): at ~10-12 mana it deals ~15, so removal/finisher rather than a win con. Can return as flexible removal."
+  },
+  {
+   "name": "Dovin's Veto",
+   "status": "added",
+   "why": "Owned. WU instant: counter a noncreature spell; can't be countered. Replaced Shadowbringers (weakest measured card; Supreme Verdict, Time Wipe, Cleansing Nova remain)."
+  },
+  {
+   "name": "Dovin, Architect of Law",
+   "status": "added",
+   "why": "Owned. 6-mana planeswalker (4 with Grand Arbiter): +1 gain 2 life and draw; -1 tap a creature, it stays tapped next untap. Card draw, keeps her at 40+ for Felidar, locks a voltron commander. Replaced Ral, Storm Conduit."
+  },
+  {
+   "name": "Aven Mindcensor",
+   "status": "added",
+   "why": "Owned. Flash flier; opponents search only the top four cards of their library. Slows Tom's Maze's End, Crop Rotation and tutors, Doom's tutors, Cloud's Gamble. Replaced Akroma's Will."
+  },
+  {
+   "name": "Cyclonic Rift",
+   "status": "added",
+   "why": "Owned. Game Changer. Overload (6 with Grand Arbiter) bounces every opponent's nonland permanent. Replaced Gifts Ungiven to stay at 3 Game Changers."
+  },
+  {
+   "name": "Azor's Elocutors",
+   "status": "added",
+   "why": "Owned. Win con: filibuster counter each upkeep, win at five; each damage source removes one. On theme. Replaced Flux Channeler."
+  },
+  {
+   "name": "Cloudsteel Kirin",
+   "status": "added",
+   "why": "Owned. 3-mana flier; reconfigure {5}: equipped creature and you can't lose the game and opponents can't win. Stops Maze's End, Helix Pinnacle, drain and commander-damage kills. Replaced Authority of the Consuls (Disorder in the Court kept for theme)."
+  },
+  {
+   "name": "Faeburrow Elder",
+   "status": "added",
+   "why": "Owned. 3-mana G/U creature; taps for one mana of each color among her permanents (usually 3-4). Replaced Kodama's Reach."
+  },
+  {
+   "name": "Fabled Passage",
+   "status": "added",
+   "why": "Owned. Fetches a basic, untapped with 4+ lands. Replaced Thriving Heath."
+  },
+  {
+   "name": "Azorius Signet",
+   "status": "added",
+   "why": "Owned. W/U rock, her heaviest colors. Replaced Thriving Isle (35 lands now)."
+  },
+  {
+   "name": "First Family",
+   "status": "added",
+   "why": "Owned. 4-mana instant: draw X and gain X, X = colors among her permanents (usually 4). Replaced Growth Spiral."
+  },
+  {
+   "name": "Fact or Fiction",
+   "status": "added",
+   "why": "Owned. 4-mana instant card draw (five cards split into piles). Replaced Negate."
+  },
+  {
+   "name": "Dovin's Dismissal",
+   "status": "added",
+   "why": "Owned. Instant (2 with Grand Arbiter): put a tapped creature on top of its library and fetch Dovin, Architect of Law. Replaced Naya Charm."
+  },
+  {
+   "name": "Fall of the Gavel",
+   "status": "added",
+   "why": "Owned. Instant (3 with Grand Arbiter): counter target spell, gain 5 life. Replaced Rewind."
+  },
+  {
+   "name": "Talisman of Conviction",
+   "status": "added",
+   "why": "Owned. R/W rock that taps straight for color. Replaced Boros Signet."
+  },
+  {
+   "name": "Rule of Law",
+   "status": "added",
+   "why": "Owned. Enchantment: each player casts only one spell per turn. Slows wheel, combo and equipment turns. Replaced Expressive Iteration."
+  },
+  {
+   "name": "Ivory Tower",
+   "status": "added",
+   "why": "Owned. Upkeep: gain life equal to cards in hand minus 4; helps stay at 40 for Felidar. Replaced Simic Signet (plenty of mana with Faeburrow Elder)."
+  },
+  {
+   "name": "She-Hulk, Jade Defender",
+   "status": "added",
+   "why": "Owned. 4-mana 4/4 reach, trample; power-up {4}{G}{G}: destroy an artifact or enchantment, +1/+1 counter. Third She-Hulk card. Replaced Orzhov Advokist."
+  },
+  {
+   "name": "Gleaming Bastion",
+   "status": "added",
+   "why": "Owned. W/U, untapped with a basic. Replaced Seaside Citadel."
+  },
+  {
+   "name": "Spire Garden",
+   "status": "added",
+   "why": "Owned. R/G, untapped with 2+ opponents. Replaced Thriving Bluff."
+  },
+  {
+   "name": "Vineglimmer Snarl",
+   "status": "added",
+   "why": "Owned. G/U snarl. Replaced Thriving Grove."
+  },
+  {
+   "name": "Cascade Bluffs",
+   "status": "added",
+   "why": "Owned. U/R filter land. Replaced Path of Ancestry."
+  },
+  {
+   "name": "Ledger Shredder",
+   "status": "added",
+   "why": "Owned. Bird Advisor (bird lawyer): 2-mana 1/3 flier, connives when any player casts their second spell in a turn. Weaker while Rule of Law is out. Replaced Ponder."
+  },
+  {
+   "name": "Aven Interrupter",
+   "status": "added",
+   "why": "Owned. Bird Rogue: 3-mana 2/2 flash flier; exiles a spell on entry (owner can recast it later). Replaced Noble Hierarch."
+  },
+  {
+   "name": "Overrule",
+   "status": "added",
+   "why": "Owned. {X}{W}{U}: counter unless they pay X; gain X life (helps Felidar). Replaced Arcane Denial, which gave opponents cards."
+  },
+  {
+   "name": "Counterspell",
+   "status": "planned",
+   "why": "Temporarily out: Negate is in its slot for now. Swap back when Counterspell is available."
+  },
+  {
+   "name": "Stock Up",
+   "status": "added",
+   "why": "Owned. 3-mana sorcery (2 with Grand Arbiter): look at top five, keep two. Replaced Crackle with Power, which is not a real win con at 40 life with her mana."
+  },
+  {
+   "name": "Spider-Woman, Stunning Savior",
+   "status": "added",
+   "why": "Owned. {1}{W/U} 2/2 flier (1 mana with Grand Arbiter): opponents' creatures and artifacts enter tapped. Replaced Arcane Signet."
+  },
+  {
+   "name": "Dovin's Acuity",
+   "status": "added",
+   "why": "Owned. 3-mana enchantment (2 with Grand Arbiter): gain 2 life, draw a card; returns to hand when she casts an instant in her main phase. Replaced Sylvan Library (not owned)."
+  },
+  {
+   "name": "Azorius Charm",
+   "status": "added",
+   "why": "Owned. WU instant: put an attacking creature on top of its library, draw a card, or lifelink. Replaced Render Silent."
+  },
+  {
+   "name": "Naturalize",
+   "status": "added",
+   "why": "Owned. Instant: destroy an artifact or enchantment. Temporary swap for Beast Within (Beast Within also answers lands like Maze's End)."
+  },
+  {
+   "name": "Beast Within",
+   "status": "planned",
+   "why": "Temporarily out for Naturalize. Her only answer to a land such as Tom's Maze's End; swap back when available."
+  },
+  {
+   "name": "Austere Command",
+   "status": "added",
+   "why": "Owned (spare copy). 6-mana sorcery (5 with Grand Arbiter), choose two: all artifacts, all enchantments, creatures MV 3 or less, creatures MV 4 or more. Can kill big creatures and equipment while sparing her pillowfort enchantments. Replaced Cleansing Nova."
+  },
+  {
+   "name": "Approach of the Second Sun",
+   "status": "verify",
+   "why": "On its way (Nov 3). Stays in the list."
+  },
+  {
+   "name": "Ghostly Prison",
+   "status": "added",
+   "why": "Arrived Nov 7. Already in the 100; nothing replaced."
+  },
+  {
+   "name": "Sphere of Safety",
+   "status": "added",
+   "why": "Arrived Nov 7. Already in the 100; nothing replaced."
+  },
+  {
+   "name": "Sol Ring",
+   "status": "verify",
+   "why": "To buy a second copy. Stays in the list."
+  },
+  {
+   "name": "Grand Abolisher",
+   "status": "planned",
+   "why": "To buy. Not a Game Changer. WW: during her turn opponents can't cast spells or activate abilities of artifacts, creatures or enchantments. Planned replacement for Kutzil, Malamet Exemplar (off theme). Backup option: Myrel, Shield of Argive."
+  },
+  {
+   "name": "Chromatic Lantern",
+   "status": "added",
+   "why": "Owned. 3-mana rock; all her lands tap for any color. Replaced Oath of Teferi (not owned, weak with 4 planeswalkers)."
+  }
+ ],
+ "bracket": "High Bracket 3",
+ "bracketGoal": "3 Game Changers · must hold up in Bracket 4",
+ "cards": [
+  {
+   "name": "Approach of the Second Sun",
+   "qty": 1
+  },
+  {
+   "name": "Austere Command",
+   "qty": 1
+  },
+  {
+   "name": "Aven Interrupter",
+   "qty": 1
+  },
+  {
+   "name": "Aven Mindcensor",
+   "qty": 1
+  },
+  {
+   "name": "Azor's Elocutors",
+   "qty": 1
+  },
+  {
+   "name": "Azorius Charm",
+   "qty": 1
+  },
+  {
+   "name": "Azorius Signet",
+   "qty": 1
+  },
+  {
+   "name": "Baird, Steward of Argive",
+   "qty": 1
+  },
+  {
+   "name": "Birds of Paradise",
+   "qty": 1
+  },
+  {
+   "name": "Canopy Vista",
+   "qty": 1
+  },
+  {
+   "name": "Cascade Bluffs",
+   "qty": 1
+  },
+  {
+   "name": "Chromatic Lantern",
+   "qty": 1
+  },
+  {
+   "name": "Cinder Glade",
+   "qty": 1
+  },
+  {
+   "name": "Clifftop Retreat",
+   "qty": 1
+  },
+  {
+   "name": "Cloudsteel Kirin",
+   "qty": 1
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1
+  },
+  {
+   "name": "Cyclonic Rift",
+   "qty": 1
+  },
+  {
+   "name": "Daredevil, Man Without Fear",
+   "qty": 1
+  },
+  {
+   "name": "Derevi, Empyrial Tactician",
+   "qty": 1
+  },
+  {
+   "name": "Disorder in the Court",
+   "qty": 1
+  },
+  {
+   "name": "Dovin's Acuity",
+   "qty": 1
+  },
+  {
+   "name": "Dovin's Dismissal",
+   "qty": 1
+  },
+  {
+   "name": "Dovin's Veto",
+   "qty": 1
+  },
+  {
+   "name": "Dovin, Architect of Law",
+   "qty": 1
+  },
+  {
+   "name": "Dovin, Grand Arbiter",
+   "qty": 1
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1
+  },
+  {
+   "name": "Expropriate",
+   "qty": 1
+  },
+  {
+   "name": "Fabled Passage",
+   "qty": 1
+  },
+  {
+   "name": "Fact or Fiction",
+   "qty": 1
+  },
+  {
+   "name": "Faeburrow Elder",
+   "qty": 1
+  },
+  {
+   "name": "Falco Spara, Pactweaver",
+   "qty": 1
+  },
+  {
+   "name": "Fall of the Gavel",
+   "qty": 1
+  },
+  {
+   "name": "Felidar Sovereign",
+   "qty": 1
+  },
+  {
+   "name": "First Family",
+   "qty": 1
+  },
+  {
+   "name": "Foggy Nelson, On Retainer",
+   "qty": 1
+  },
+  {
+   "name": "Forest",
+   "qty": 4
+  },
+  {
+   "name": "Frontier Bivouac",
+   "qty": 1
+  },
+  {
+   "name": "Ghostly Prison",
+   "qty": 1
+  },
+  {
+   "name": "Glacial Fortress",
+   "qty": 1
+  },
+  {
+   "name": "Gleaming Bastion",
+   "qty": 1
+  },
+  {
+   "name": "Grand Arbiter Augustin IV",
+   "qty": 1
+  },
+  {
+   "name": "Gwafa Hazid, Profiteer",
+   "qty": 1
+  },
+  {
+   "name": "Hellcat, Undying Vigilante",
+   "qty": 1
+  },
+  {
+   "name": "Hinterland Harbor",
+   "qty": 1
+  },
+  {
+   "name": "Insurrection",
+   "qty": 1
+  },
+  {
+   "name": "Iron Fist, Hero for Hire",
+   "qty": 1
+  },
+  {
+   "name": "Island",
+   "qty": 4
+  },
+  {
+   "name": "Ivory Tower",
+   "qty": 1
+  },
+  {
+   "name": "Jennifer Walters",
+   "qty": 1
+  },
+  {
+   "name": "Jessica Jones, Private Eye",
+   "qty": 1
+  },
+  {
+   "name": "Jungle Shrine",
+   "qty": 1
+  },
+  {
+   "name": "Kutzil, Malamet Exemplar",
+   "qty": 1
+  },
+  {
+   "name": "Ledger Shredder",
+   "qty": 1
+  },
+  {
+   "name": "Luke Cage, Hero for Hire",
+   "qty": 1
+  },
+  {
+   "name": "Mangara, the Diplomat",
+   "qty": 1
+  },
+  {
+   "name": "Matt Murdock, Justice Seeker",
+   "qty": 1
+  },
+  {
+   "name": "Mountain",
+   "qty": 3
+  },
+  {
+   "name": "Murdock's Crusade",
+   "qty": 1
+  },
+  {
+   "name": "Mystic Monastery",
+   "qty": 1
+  },
+  {
+   "name": "Narset, Parter of Veils",
+   "qty": 1
+  },
+  {
+   "name": "Naturalize",
+   "qty": 1
+  },
+  {
+   "name": "Negate",
+   "qty": 1
+  },
+  {
+   "name": "Overrule",
+   "qty": 1
+  },
+  {
+   "name": "Path to Exile",
+   "qty": 1
+  },
+  {
+   "name": "Plains",
+   "qty": 4
+  },
+  {
+   "name": "Plaza of Heroes",
+   "qty": 1
+  },
+  {
+   "name": "Prairie Stream",
+   "qty": 1
+  },
+  {
+   "name": "Propaganda",
+   "qty": 1
+  },
+  {
+   "name": "Ral, Crackling Wit",
+   "qty": 1
+  },
+  {
+   "name": "Rootbound Crag",
+   "qty": 1
+  },
+  {
+   "name": "Rule of Law",
+   "qty": 1
+  },
+  {
+   "name": "She-Hulk, Attorney-at-Law",
+   "qty": 1
+  },
+  {
+   "name": "She-Hulk, Jade Defender",
+   "qty": 1
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1
+  },
+  {
+   "name": "Sphere of Safety",
+   "qty": 1
+  },
+  {
+   "name": "Spider-Woman, Stunning Savior",
+   "qty": 1
+  },
+  {
+   "name": "Spire Garden",
+   "qty": 1
+  },
+  {
+   "name": "Stock Up",
+   "qty": 1
+  },
+  {
+   "name": "Sulfur Falls",
+   "qty": 1
+  },
+  {
+   "name": "Sunpetal Grove",
+   "qty": 1
+  },
+  {
+   "name": "Supreme Verdict",
+   "qty": 1
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1
+  },
+  {
+   "name": "Talisman of Conviction",
+   "qty": 1
+  },
+  {
+   "name": "Time Wipe",
+   "qty": 1
+  },
+  {
+   "name": "Tomik, Distinguished Advokist",
+   "qty": 1
+  },
+  {
+   "name": "Vineglimmer Snarl",
+   "qty": 1
+  },
+  {
+   "name": "Windborn Muse",
+   "qty": 1
+  }
+ ],
+ "colors": [
+  "W",
+  "U",
+  "R",
+  "G"
+ ],
+ "commanders": [
+  "Kynaios and Tiro of Meletis"
+ ],
+ "format": "Commander",
+ "name": "Lawyer Deck (wife)",
+ "notes": [
+  "Wife's lawyer deck, rebuilt from an older pasted list plus her real cards. Confirm against the physical deck.",
+  "Win cons: Approach of the Second Sun, Insurrection, Felidar Sovereign, Expropriate, Azor's Elocutors.",
+  "Game Changers (3, Bracket 3 cap): Grand Arbiter Augustin IV, Narset, Parter of Veils, Cyclonic Rift.",
+  "Oct 22: Grand Abolisher in the pasted list was a mistake; swapped for Grand Arbiter Augustin IV. Made 4 swaps for her real cards. Main remaining gap: card draw.",
+  "Marvel lawyer package left untouched.",
+  "Gifts Ungiven note: the opponent picks which 2 of the 4 go to the graveyard, so it cannot reliably fetch Approach or Insurrection.",
+  "Oct 22 heads-up sim (5,000 games each, 40 life): won 36% vs Doom Discard, 41% vs Tom's Bombs, 49% vs Cloud, 39% vs Winter Soldier. Most valuable cards: Insurrection, Approach, Gwafa Hazid, Grand Arbiter, Swords, Narset (big vs Doom). Weakest: Fated Retribution, Monologue Tax, Shadowbringers.",
+  "Nov 3: added Felidar Sovereign (open slot) and Expropriate (for Fated Retribution). Crackle with Power in for Monologue Tax (Oct 28). Still 3 Game Changers.",
+  "Nov 3: Dovin's Veto in for Shadowbringers, Dovin, Architect of Law in for Ral, Storm Conduit (both owned). Still 3 Game Changers.",
+  "Nov 3: Aven Mindcensor for Akroma's Will, Cyclonic Rift for Gifts Ungiven (Game Changer swap), Azor's Elocutors for Flux Channeler. All owned. Not yet simulated.",
+  "Nov 3: Cloudsteel Kirin for Authority of the Consuls, Faeburrow Elder for Kodama's Reach, Fabled Passage for Thriving Heath, Azorius Signet for Thriving Isle. 35 lands + 6 rocks. Chromatic Lantern held for later.",
+  "Nov 3: First Family for Growth Spiral, Fact or Fiction for Negate, Dovin's Dismissal for Naya Charm, Fall of the Gavel for Rewind. ",
+  "Nov 3: Talisman of Conviction for Boros Signet, Rule of Law for Expressive Iteration, Ivory Tower for Simic Signet. Stock Up would now replace Ponder if wanted. 35 lands + 5 rocks.",
+  "Nov 3: She-Hulk, Jade Defender in for Orzhov Advokist.",
+  "Nov 3: land upgrades: Gleaming Bastion for Seaside Citadel, Spire Garden for Thriving Bluff, Vineglimmer Snarl for Thriving Grove, Cascade Bluffs for Path of Ancestry. Painlands and City of Brass skipped on purpose: their damage removes Azor's Elocutors counters and costs Felidar life.",
+  "Nov 3: theme is BIRD lawyers. Ledger Shredder for Ponder, Aven Interrupter for Noble Hierarch. Birds now: Birds of Paradise, Derevi, Falco Spara, Aven Mindcensor, Ledger Shredder, Aven Interrupter. Check other bird cards she owns for the theme.",
+  "Nov 3: Overrule in for Arcane Denial.",
+  "Nov 3: Negate in for Counterspell, temporarily (user is using Negate for now).",
+  "Nov 3: Stock Up in for Crackle with Power.",
+  "Nov 3: Spider-Woman, Stunning Savior in for Arcane Signet. Mana: 35 lands + Sol Ring, Azorius Signet, Talisman of Conviction, Faeburrow Elder, Birds of Paradise, Cultivate.",
+  "Nov 3: Dovin's Acuity for Sylvan Library (not owned), Azorius Charm for Render Silent, Naturalize for Beast Within (temporary).",
+  "Nov 3: Austere Command (spare) in for Cleansing Nova. Shopping list: Ghostly Prison, Sphere of Safety, Sol Ring; Approach arriving. Oath of Teferi not owned.",
+  "Nov 3: shopping list adds Grand Abolisher, to replace Kutzil once it arrives.",
+  "Nov 3: Chromatic Lantern in for Oath of Teferi.",
+  "Nov 4 heads-up sim (5,000 games each, same seeds): current list wins 57% vs Doom, 63% vs Tom, 74% vs Cloud, 52% vs Winter Soldier (avg 61%); the Oct 22 list scored 37/42/51/40 (avg 42%). Assumes Ghostly Prison, Sphere of Safety, Sol Ring and Approach are in hand.",
+  "Nov 7: Ghostly Prison and Sphere of Safety arrived. Still to buy: Grand Abolisher, second Sol Ring; Approach on its way.",
+  "Nov 13, 2026 head-to-head vs Tom's Bombs (new Saga package), 3,000 games, kill-turn race: Lawyers win by turn 12 only 9% (B3 table) / 5% (B4) vs 47% / 25% for Tom. Tom wins the race 79% vs 10% on a B3 table, and still 47% vs 13% when the Lawyers' counters, wipes and enchantment removal are doubled. The sim lacks Rule of Law, Prison, Propaganda, Sphere, Austere Command and Cyclonic Rift, so the real matchup is slower than a race. The Nov 4 heads-up numbers assumed Prison, Sphere, Sol Ring and Approach in hand. Sim saved in vault tools as lawyersim."
+ ],
+ "order": 10,
+ "owner": "Wife",
+ "source": "as pasted Oct 22, 2026 (a version of her list)",
+ "target": 100,
+ "themeLabel": "Bird lawyers",
+ "updated": "Nov 3, 2026"
+}

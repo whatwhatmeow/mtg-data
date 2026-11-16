@@ -1,0 +1,1923 @@
+{
+ "adds": [
+  {
+   "name": "The Cruelty of Gix",
+   "status": "owned",
+   "why": "High. {3}{B}{B} saga with read ahead: II tutors any card (lose 3), III reanimates from any graveyard. Start on III to reanimate Leveler at once, or on II to tutor now and reanimate next turn. Suggested cut: Codex Shredder (Read the Bones went out for Splinter's Technique). Diabolic Tutor stays."
+  },
+  {
+   "name": "Nettlecyst",
+   "status": "owned",
+   "why": "Top Equipment alternate (4th slot, ahead of Mask of Memory). Living weapon: +1/+1 for each artifact and enchantment you control, equip {2}. You have a copy set aside for this deck."
+  },
+  {
+   "name": "Mask of Memory",
+   "status": "owned",
+   "why": "Equipment #4, the optional one. Combat damage to a player: draw 2, discard 1 (discard Leveler or an Ultron to reanimate). Equip {1}."
+  },
+  {
+   "name": "Vorpal Sword",
+   "status": "owned",
+   "why": "Equipment, 5th choice. +2/+0 and deathtouch; {5}{B}{B}{B}: combat damage makes that player lose the game."
+  },
+  {
+   "name": "Sword of the Animist",
+   "status": "owned",
+   "why": "Tier C. Equipment, 6th choice. +1/+1; fetches a basic land on each attack."
+  },
+  {
+   "name": "Mister Sinister, Hubris Unbound",
+   "status": "owned",
+   "why": "Tier B. Mid. 5-mana 2/2: Thrulls equal to each creature spell's mana value (recasting Doom = 4). Great with Skullclamp and Idol; Thrulls don't drain with Ultron."
+  },
+  {
+   "name": "Doom Reigns Supreme",
+   "status": "owned",
+   "why": "Tier B. Mid. 2-mana Plan: each Villain entering drains 1 and gains 1; fifth counter casts two spells from an opponent's library free."
+  },
+  {
+   "name": "Jhoira's Familiar",
+   "status": "owned",
+   "why": "Mid. 4-mana flying artifact creature; artifacts and legendary spells cost 1 less. Equipment carrier."
+  },
+  {
+   "name": "Molecule Man",
+   "status": "owned",
+   "why": "Tier C. Mid. 6-mana 5/5: nonland cards in hand have miracle {0} (first draw each turn, opponents' turns included, is free)."
+  },
+  {
+   "name": "Project Deathlok Soldier",
+   "status": "owned",
+   "why": "Mid. 1-mana 1/2 artifact creature; {2}{B}: return it from graveyard to hand. Reusable sacrifice fodder with an Ultron drain each loop."
+  },
+  {
+   "name": "Breach the Multiverse",
+   "status": "owned",
+   "why": "Tier A - in the Owned build. Also printed as Rally the Evil Warriors (Skeletor Secret Lair). 7 mana: everyone mills 10, take the best creature - Leveler if you milled it."
+  },
+  {
+   "name": "Arc Reactor",
+   "status": "owned",
+   "why": "Tier C. 5-mana improvise rock, enters tapped, taps for {C}{C}{C}."
+  },
+  {
+   "name": "Faith of the Devoted",
+   "status": "owned",
+   "why": "Low, only with Zombie Infestation. Each discard: pay {1}, each opponent loses 2, you gain 2."
+  },
+  {
+   "name": "Duress",
+   "status": "owned",
+   "why": "Tier C. Low. 1-mana combo protection: strip a counterspell or removal before Doomsday or a Leveler line."
+  },
+  {
+   "name": "Roxxon Brutes",
+   "status": "owned",
+   "why": "Low. 5-mana 4/4 menace; counter on your second draw each turn; basic landcycling {2}."
+  },
+  {
+   "name": "Rat King, Pale Piper",
+   "status": "owned",
+   "why": "{2}, sac a token: draw. Makes Rats."
+  },
+  {
+   "name": "Gwenom, Remorseless",
+   "status": "owned",
+   "why": "Citadel-style play-for-life on attack."
+  },
+  {
+   "name": "Sign in Blood",
+   "status": "owned",
+   "why": "Draw 2, lose 2."
+  },
+  {
+   "name": "Withering Torment",
+   "status": "owned",
+   "why": "Creature or enchantment, 2 life."
+  },
+  {
+   "name": "Behold the Sinister Six!",
+   "status": "owned",
+   "why": "Tier C. 7 mana: return six creatures with different names."
+  },
+  {
+   "name": "Zombify",
+   "status": "owned",
+   "why": "Tier B. Reanimate, 4 mana."
+  },
+  {
+   "name": "Victimize",
+   "status": "owned",
+   "why": "Tier A - in the Owned build. Sac one, return two."
+  },
+  {
+   "name": "Rescue from the Underworld",
+   "status": "owned",
+   "why": "Tier C. Sac a creature, return it and another."
+  },
+  {
+   "name": "Fated Return",
+   "status": "owned",
+   "why": "Tier C. 6 mana: reanimate from any graveyard, indestructible."
+  },
+  {
+   "name": "Lash of the Balrog",
+   "status": "owned",
+   "why": "Tier B - in the Owned build until the Borg deck is open. Kill, with a sacrifice or 4 extra mana."
+  },
+  {
+   "name": "Black Vise",
+   "status": "owned",
+   "why": "1 damage per card over four in the chosen opponent's hand."
+  },
+  {
+   "name": "Skullcage",
+   "status": "owned",
+   "why": "2 damage to each opponent not holding 3-4 cards."
+  },
+  {
+   "name": "Leyline of the Void",
+   "status": "owned",
+   "why": "Low. Free from your opening hand; opponents' cards going to the graveyard are exiled instead. It also switches off stealing with Reanimate, Animate Dead and Fated Return (all can target any graveyard). Only for tables where opposing graveyards are the bigger threat."
+  },
+  {
+   "name": "Alien Symbiosis",
+   "status": "owned",
+   "why": "+1/+1 menace aura; recast from graveyard by discarding."
+  },
+  {
+   "name": "Arnim Zola, Bio-Fanatic",
+   "status": "owned",
+   "why": "{3},T: 2/1 menace Villain, needs 2 creatures in graveyard."
+  },
+  {
+   "name": "Bottomless Pit",
+   "status": "owned",
+   "why": "Everyone discards at random each upkeep. Wrong deck."
+  },
+  {
+   "name": "Cabal Ritual",
+   "status": "owned",
+   "why": "BBB, or BBBBB with threshold. Placeholder."
+  },
+  {
+   "name": "Carrion Cruiser",
+   "status": "owned",
+   "why": "Tier C. Vehicle: mill 2, return a creature or Vehicle card."
+  },
+  {
+   "name": "Chromatic Sphere",
+   "status": "owned",
+   "why": "Tier C. 1 mana, sac: filter mana, draw."
+  },
+  {
+   "name": "Chromatic Star",
+   "status": "owned",
+   "why": "Tier C. 1 mana filter; draws when it hits the graveyard."
+  },
+  {
+   "name": "Common Crook",
+   "status": "owned",
+   "why": "2-mana 2/2; Treasure when it dies."
+  },
+  {
+   "name": "Construct a Cosmic Cube",
+   "status": "owned",
+   "why": "Tier C. Plan: 2/1 menace per second draw; seventh counter steals a turn."
+  },
+  {
+   "name": "Containment Construct",
+   "status": "owned",
+   "why": "Discarded cards become playable. Nothing here discards."
+  },
+  {
+   "name": "Cryptex",
+   "status": "owned",
+   "why": "Slow any-color rock that eventually draws 3."
+  },
+  {
+   "name": "Darksteel Plate",
+   "status": "owned",
+   "why": "Indestructible equipment."
+  },
+  {
+   "name": "Dependable Quinjet",
+   "status": "owned",
+   "why": "3-mana flying Vehicle, taps for any color; crew 4."
+  },
+  {
+   "name": "Doom's Time Platform",
+   "status": "owned",
+   "why": "Tier D. 4 mana: whenever you attack, suspend a card from your graveyard."
+  },
+  {
+   "name": "Elektra, Daughter of the Hand",
+   "status": "owned",
+   "why": ""
+  },
+  {
+   "name": "Eumidian Hatchery",
+   "status": "owned",
+   "why": "B for 1 life; Insects when it dies."
+  },
+  {
+   "name": "Fellwar Stone",
+   "status": "owned",
+   "why": "2-mana rock, color depends on opponents."
+  },
+  {
+   "name": "Festerleech",
+   "status": "owned",
+   "why": "Tier D. Mills 2 on combat damage."
+  },
+  {
+   "name": "Frogmite",
+   "status": "owned",
+   "why": "Tier B. Affinity 4/4. Present."
+  },
+  {
+   "name": "Game Over",
+   "status": "owned",
+   "why": "5 mana (3 if someone is at half life): destroy all creatures."
+  },
+  {
+   "name": "Grim Discovery",
+   "status": "owned",
+   "why": "Creature and land back to hand."
+  },
+  {
+   "name": "Hedron Crawler",
+   "status": "wishlist",
+   "why": "2-mana artifact creature that taps for {C}. Not owned yet; optional pickup (about $0.20). Chromatic Star holds its slot in the Owned build."
+  },
+  {
+   "name": "Inspiring Statuary",
+   "status": "owned",
+   "why": "Tier C. Improvise for nonartifact spells."
+  },
+  {
+   "name": "Isolinear Processor",
+   "status": "owned",
+   "why": "Tier C+. 2-mana artifact: {T}: add {C} for artifact spells or artifact abilities (equip costs, Millstone, Codex Shredder, the Scythe's generic cost all count). {2},{T}: draw, then discard - discard Leveler and reanimate it. Out because Mind Stone and Leaden Myr make better mana; the best pick if you want another Leveler enabler."
+  },
+  {
+   "name": "Jalum Tome",
+   "status": "owned",
+   "why": "{2},T: loot."
+  },
+  {
+   "name": "Leaden Myr",
+   "status": "owned",
+   "why": "Tier B - in the Owned build. 2-mana black dork."
+  },
+  {
+   "name": "Macabre Waltz",
+   "status": "owned",
+   "why": "Tier D. Two creatures to hand, then discard."
+  },
+  {
+   "name": "Meteor Golem",
+   "status": "owned",
+   "why": "Tier C. 7 mana: destroy a nonland permanent."
+  },
+  {
+   "name": "Moonstone, Harsh Mistress",
+   "status": "owned",
+   "why": "Discard payoff in a deck that rarely discards."
+  },
+  {
+   "name": "Murmuring Volume",
+   "status": "owned",
+   "why": "Any-color rock; {2},T, discard: draw."
+  },
+  {
+   "name": "Necrogen Mists",
+   "status": "owned",
+   "why": "Everyone discards each upkeep. Wrong deck."
+  },
+  {
+   "name": "Nightmare Lash",
+   "status": "owned",
+   "why": ""
+  },
+  {
+   "name": "Ninja of the Hand",
+   "status": "owned",
+   "why": "2/2 deathtouch; power-up makes each opponent discard."
+  },
+  {
+   "name": "Pull from the Grave",
+   "status": "owned",
+   "why": "Tier D. Two creatures to hand, gain 2."
+  },
+  {
+   "name": "Rat King, Verminister",
+   "status": "owned",
+   "why": "Rare (TMNT). If you have it, swap it for Mister Sinister: Rats that replace themselves feed Altar, Skullclamp and Pale Piper."
+  },
+  {
+   "name": "Resentful Revelation",
+   "status": "owned",
+   "why": "Tier A - in the Owned build. Top 3: one to hand, two to graveyard; flashback."
+  },
+  {
+   "name": "Shadow of the Grave",
+   "status": "owned",
+   "why": "Returns cards you cycled or discarded this turn."
+  },
+  {
+   "name": "Shredder's Revenge",
+   "status": "owned",
+   "why": "Common draw spell. Placeholder-grade."
+  },
+  {
+   "name": "Spider-Man Noir",
+   "status": "owned",
+   "why": ""
+  },
+  {
+   "name": "Thriving Moor",
+   "status": "owned",
+   "why": "A tapped Swamp that isn't a Swamp, in mono-black."
+  },
+  {
+   "name": "Tinybones, Pocket Nuisance",
+   "status": "owned",
+   "why": "Pings on discards. Discards are rare here."
+  },
+  {
+   "name": "Tinybones, the Pickpocket",
+   "status": "owned",
+   "why": "1-mana deathtouch; casts from opponents' graveyards."
+  },
+  {
+   "name": "Toxic Deluge",
+   "status": "owned",
+   "why": "Pay life: -X/-X to everything, yours included."
+  },
+  {
+   "name": "Unclaimed Territory",
+   "status": "owned",
+   "why": "Tier D. "
+  },
+  {
+   "name": "Urn of Godfire",
+   "status": "owned",
+   "why": "6-mana rock that later destroys something."
+  },
+  {
+   "name": "Venomized Cat",
+   "status": "owned",
+   "why": "Deathtouch 2/3, mills 2."
+  },
+  {
+   "name": "Viper, Cruel Conspirator",
+   "status": "owned",
+   "why": ""
+  },
+  {
+   "name": "Walking Atlas",
+   "status": "owned",
+   "why": "Tier D. Puts a land from hand into play."
+  },
+  {
+   "name": "Feed the Swarm",
+   "status": "owned",
+   "why": "Cut for Shred Memory (Nov 10). Sorcery-speed removal for a creature or enchantment, costs life."
+  },
+  {
+   "name": "Read the Bones",
+   "status": "owned",
+   "why": "Tier B. Scry 2, draw 2, lose 2. Replaced in the Owned build by Risky Research (Nov 11), which surveils instead of scrying."
+  },
+  {
+   "name": "Millikin",
+   "status": "owned",
+   "why": "Tier A - in the Owned build. 2-mana 0/1 artifact creature: {T}, mill a card: add {C}. Ramp, self-mill and Ultron fodder."
+  },
+  {
+   "name": "Ultron, Machine Overlord",
+   "status": "owned",
+   "why": "Tier B. 5-mana 4/4 flying legendary artifact Robot Villain: other Robots and Constructs get +2/+2. Best Equipment carrier; nearest cut Jhoira's Familiar."
+  },
+  {
+   "name": "The Spot's Portal",
+   "status": "owned",
+   "why": "Tier B. Instant: put a creature on the bottom of its owner's library; lose 2 unless you control a Villain. Check the mana cost. Nearest cut Withering Torment."
+  },
+  {
+   "name": "Shark Shredder, Killer Clone",
+   "status": "owned",
+   "why": "Tier C. {2}{B}{B} 4/4 first strike; on combat damage, steal a creature card from that player's graveyard tapped and attacking. Sneak {3}{B}{B}."
+  },
+  {
+   "name": "Machine Man, Model X-51",
+   "status": "owned",
+   "why": "Tier C. 4-mana 2/3 legendary artifact Robot: +1/+1 counter and flying whenever you cast a noncreature spell."
+  },
+  {
+   "name": "Terror Ballista",
+   "status": "owned",
+   "why": "Tier C. 7-mana 5/3 menace artifact; sac a creature on attack to destroy one; unearth {3}{B}{B} (exiled after, no Ultron drain)."
+  },
+  {
+   "name": "Overwrite the Multiverse",
+   "status": "owned",
+   "why": "Tier D. {4}{B}{B}: exile all creatures, yours included."
+  },
+  {
+   "name": "Armageddon Clock",
+   "status": "owned",
+   "why": "Tier D. Symmetric damage clock; any player can pay {4} in an upkeep to remove a counter."
+  },
+  {
+   "name": "Altar of the Goyf",
+   "status": "owned",
+   "why": "Tier D. Pumps a creature attacking alone."
+  },
+  {
+   "name": "Pentad Prism",
+   "status": "owned",
+   "why": "Tier D. Sunburst gets one counter in mono-black."
+  },
+  {
+   "name": "Demon's Horn",
+   "status": "owned",
+   "why": "Tier D. 1 life per black spell."
+  },
+  {
+   "name": "Raise Dead",
+   "status": "owned",
+   "why": "Tier D. Returns a creature card to hand."
+  },
+  {
+   "name": "Risky Research",
+   "status": "owned",
+   "why": "Tier A - in the Owned build. {2}{B}: surveil 2, draw 2, lose 2."
+  },
+  {
+   "name": "Battle of Wolf 359",
+   "status": "Borg (unopened)",
+   "why": "Cut for Buried Alive (Nov 8). 5 mana: non-artifact creatures get -X/-X, X = your artifact creatures. A second one-sided wipe if you want one back; it kills Doom at X 4+."
+  },
+  {
+   "name": "Unwinding Clock",
+   "status": "Borg (unopened)",
+   "why": "Untap your artifacts on each other player's untap step."
+  },
+  {
+   "name": "Class-4 Tactical Cube",
+   "status": "Borg (unopened)",
+   "why": "4 mana: two 1/1 artifact Borg tokens."
+  },
+  {
+   "name": "Reconnaissance Partition",
+   "status": "Borg (unopened)",
+   "why": "4-mana artifact: two charge counters, each a basic land or a card."
+  },
+  {
+   "name": "Commander's Sphere",
+   "status": "Borg (unopened)",
+   "why": ""
+  },
+  {
+   "name": "Rogue's Passage",
+   "status": "owned",
+   "why": "Loose copy from another set (Nov 12). In the Owned build."
+  },
+  {
+   "name": "Assimilate the Wounded",
+   "status": "Borg (unopened)",
+   "why": "3 mana: assimilate up to one creature card per opponent that died this turn. Read assimilate's reminder text."
+  },
+  {
+   "name": "Assimilation Assessor",
+   "status": "Borg (unopened)",
+   "why": "5-mana 5/5: exiles a graveyard and steals a creature card on attack."
+  },
+  {
+   "name": "Command Tower",
+   "status": "Borg (unopened)",
+   "why": ""
+  },
+  {
+   "name": "Everflowing Chalice",
+   "status": "Borg (unopened)",
+   "why": "Multikicker rock."
+  },
+  {
+   "name": "Evolving Wilds",
+   "status": "Borg (unopened)",
+   "why": ""
+  },
+  {
+   "name": "Exotic Orchard",
+   "status": "Borg (unopened)",
+   "why": ""
+  },
+  {
+   "name": "Extraction Integrant",
+   "status": "Borg (unopened)",
+   "why": "Gives artifact creatures menace."
+  },
+  {
+   "name": "Hive Mind Coprocessor",
+   "status": "Borg (unopened)",
+   "why": "5-mana 4/4: artifact creatures pay 1 life to draw on combat damage."
+  },
+  {
+   "name": "Path of Ancestry",
+   "status": "Borg (unopened)",
+   "why": ""
+  },
+  {
+   "name": "Queen's Diamond",
+   "status": "Borg (unopened)",
+   "why": "Mana only for your commander; needs another creature to charge it."
+  },
+  {
+   "name": "Spire of Industry",
+   "status": "Borg (unopened)",
+   "why": ""
+  },
+  {
+   "name": "Stonespeaker Crystal",
+   "status": "Borg (unopened)",
+   "why": "Rock; sac to exile a graveyard."
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "status": "Borg (unopened)",
+   "why": ""
+  },
+  {
+   "name": "Death in the Family",
+   "status": "check",
+   "why": "Cheap instant exile."
+  },
+  {
+   "name": "Paramecia Coloniex",
+   "status": "check",
+   "why": "2-drop that mills you."
+  },
+  {
+   "name": "Shredder's Armor",
+   "status": "check",
+   "why": "Free sacrifice outlet."
+  },
+  {
+   "name": "Shredder's Technique",
+   "status": "check",
+   "why": "Destroy creature or enchantment."
+  },
+  {
+   "name": "Stomped by the Foot",
+   "status": "check",
+   "why": "-2/-2 or -5/-5."
+  },
+  {
+   "name": "Cursed Rack",
+   "status": "Big Wheels",
+   "why": "Moved to Doom's Big Wheels."
+  },
+  {
+   "name": "Dakmor Salvage",
+   "status": "Big Wheels",
+   "why": "Lives in Doom's Big Wheels."
+  },
+  {
+   "name": "The Rack",
+   "status": "Big Wheels",
+   "why": "Moved to Doom's Big Wheels."
+  },
+  {
+   "name": "Ad Nauseam",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Aetherflux Reservoir",
+   "status": "wishlist",
+   "why": "Lifegain per spell; 50 life pays for 50 damage."
+  },
+  {
+   "name": "Agadeem's Awakening // Agadeem, the Undercrypt",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Agent Venom",
+   "status": "wishlist",
+   "why": "Draws when creatures die (per set review)."
+  },
+  {
+   "name": "Anchovy & Banana Pizza",
+   "status": "wishlist",
+   "why": "TMNT common Food with a removal mode (per set review)."
+  },
+  {
+   "name": "Ancient Tomb",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Beseech the Mirror",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Bitter Downfall",
+   "status": "wishlist",
+   "why": "Lord of the Rings removal."
+  },
+  {
+   "name": "Bojuka Bog",
+   "status": "wishlist",
+   "why": "Enters tapped, exiles a graveyard."
+  },
+  {
+   "name": "Burnished Hart",
+   "status": "wishlist",
+   "why": "{3}, sac: two basics. Artifact for Ultron."
+  },
+  {
+   "name": "Cabal Pit",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Call of the Ring",
+   "status": "wishlist",
+   "why": "Rare (Lord of the Rings). If you have it, swap it for Cabal Ritual: a draw every turn."
+  },
+  {
+   "name": "Cavern of Souls",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Charcoal Diamond",
+   "status": "wishlist",
+   "why": "Enters-tapped black rock."
+  },
+  {
+   "name": "Chrome Mox",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "City of Brass",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "City of Traitors",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Claim the Precious",
+   "status": "wishlist",
+   "why": "Lord of the Rings common removal."
+  },
+  {
+   "name": "Clock of Omens",
+   "status": "wishlist",
+   "why": "Tap two artifacts: untap an artifact."
+  },
+  {
+   "name": "Coldsteel Heart",
+   "status": "wishlist",
+   "why": "Enters-tapped black rock."
+  },
+  {
+   "name": "Crashing Drawbridge",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Cruel Tutor",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Crypt Ghast",
+   "status": "wishlist",
+   "why": "Swamps tap for an extra {B}."
+  },
+  {
+   "name": "Crystal Vein",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Cut Down",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Damnable Pact",
+   "status": "wishlist",
+   "why": "Draw X, lose X."
+  },
+  {
+   "name": "Damnation",
+   "status": "wishlist",
+   "why": "Destroy all creatures, yours included."
+  },
+  {
+   "name": "Damping Sphere",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Dark Confidant",
+   "status": "wishlist",
+   "why": "Extra card each upkeep for life."
+  },
+  {
+   "name": "Dark Deed",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Deadly Rollick",
+   "status": "wishlist",
+   "why": "Free exile with your commander out."
+  },
+  {
+   "name": "Defense Grid",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Demonic Consultation",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Diabolic Intent",
+   "status": "wishlist",
+   "why": "Sac a creature: any card."
+  },
+  {
+   "name": "Dismember",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Ebon Stronghold",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Entomb",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Extinction Event",
+   "status": "wishlist",
+   "why": "Exile all odd or all even creatures."
+  },
+  {
+   "name": "Fatal Push",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Feign Death",
+   "status": "wishlist",
+   "why": "Protection by dying and returning."
+  },
+  {
+   "name": "Fell the Profane // Fell Mire",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Gemstone Caverns",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Gemstone Mine",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Grim Monolith",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Grim Tutor",
+   "status": "wishlist",
+   "why": "Any card, 3 mana."
+  },
+  {
+   "name": "Hagra Mauling",
+   "status": "wishlist",
+   "why": "MDFC removal or land."
+  },
+  {
+   "name": "Hall of the Bandit Lord",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Henchbots",
+   "status": "wishlist",
+   "why": "Colorless TMNT uncommon: exiles a tapped creature (per set review)."
+  },
+  {
+   "name": "Imperial Seal",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Inverter of Truth",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Jet Medallion",
+   "status": "wishlist",
+   "why": "Black spells cost 1 less."
+  },
+  {
+   "name": "Kindred Dominance",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Lake of the Dead",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Lavaspur Boots",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Lethal Protection",
+   "status": "wishlist",
+   "why": "Spider-Man removal (per set review)."
+  },
+  {
+   "name": "Liliana, Death's Majesty",
+   "status": "wishlist",
+   "why": "Zombies and reanimation."
+  },
+  {
+   "name": "Lotus Petal",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Malakir Rebirth",
+   "status": "wishlist",
+   "why": "MDFC reanimate or land."
+  },
+  {
+   "name": "Mana Confluence",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Mana Vault",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Mox Amber",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Mox Diamond",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Opposition Agent",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Orcish Bowmasters",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Patriar's Seal",
+   "status": "wishlist",
+   "why": "Untaps a legend (Doom)."
+  },
+  {
+   "name": "Peat Bog",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Perpetual Timepiece",
+   "status": "wishlist",
+   "why": "Slow self-mill and shuffle-back."
+  },
+  {
+   "name": "Polluted Delta",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Savanti Romero, Time's Exile",
+   "status": "wishlist",
+   "why": "Rare (TMNT). Big draw creature; alternative swap for Cabal Ritual."
+  },
+  {
+   "name": "Scheming Symmetry",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Scorpion's Sting",
+   "status": "wishlist",
+   "why": "Spider-Man removal (per set review)."
+  },
+  {
+   "name": "Sensei's Divining Top",
+   "status": "wishlist",
+   "why": "Top-deck control; draws itself."
+  },
+  {
+   "name": "Sheoldred's Edict",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Shizo, Death's Storehouse",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Snow-Covered Swamp",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Snuff Out",
+   "status": "wishlist",
+   "why": "Free kill for 4 life."
+  },
+  {
+   "name": "Staff of Domination",
+   "status": "wishlist",
+   "why": "Untaps Doom for {1}; makes infinite mana combos."
+  },
+  {
+   "name": "Stitcher's Supplier",
+   "status": "wishlist",
+   "why": "1-drop: mill 3 twice."
+  },
+  {
+   "name": "Tainted Pact",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Tarnished Citadel",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Technodrome",
+   "status": "wishlist",
+   "why": "Turns tokens into cards (per set review)."
+  },
+  {
+   "name": "The One Ring",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Thought Vessel",
+   "status": "wishlist",
+   "why": "Rock, no max hand size."
+  },
+  {
+   "name": "Thoughtseize",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Tomb of Urami",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Tormod's Crypt",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Undying Malice",
+   "status": "wishlist",
+   "why": "Protection by dying and returning."
+  },
+  {
+   "name": "Urza's Saga",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Vampiric Tutor",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Venom, Eddie Brock",
+   "status": "wishlist",
+   "why": "Draws when creatures die (per set review)."
+  },
+  {
+   "name": "Villainous Wrath",
+   "status": "wishlist",
+   "why": "Spider-Man board wipe."
+  },
+  {
+   "name": "War Room",
+   "status": "wishlist",
+   "why": "Draw for life."
+  },
+  {
+   "name": "Wayfarer's Bauble",
+   "status": "wishlist",
+   "why": "Sac: fetch a Swamp. Drains with Ultron."
+  },
+  {
+   "name": "Wishclaw Talisman",
+   "status": "wishlist",
+   "why": ""
+  },
+  {
+   "name": "Worn Powerstone",
+   "status": "wishlist",
+   "why": "Enters tapped, taps for 2."
+  },
+  {
+   "name": "Academy Ruins",
+   "status": "not legal",
+   "why": "Artifact recursion, but {1}{U} in its text makes it blue: not legal here."
+  },
+  {
+   "name": "Contaminated Landscape",
+   "status": "not legal",
+   "why": "Cycling cost has {W}{U}: not legal here."
+  },
+  {
+   "name": "Shore Leave Planet",
+   "status": "not legal",
+   "why": "Blue in its text: not legal here."
+  },
+  {
+   "name": "Talisman of Dominance",
+   "status": "not legal",
+   "why": "Blue: illegal here."
+  },
+  {
+   "name": "Tasha's Hideous Laughter",
+   "status": "not legal",
+   "why": "Blue-black: not legal here."
+  },
+  {
+   "name": "Umbral Expanse",
+   "status": "not legal",
+   "why": "White-black: not legal here."
+  },
+  {
+   "name": "The Mind Stone",
+   "status": "not legal",
+   "why": "Infinity Stone with off-color mana in its cost or text: outside Doom's mono-black color identity. Not the same card as Mind Stone, which is in both builds."
+  }
+ ],
+ "baseLabel": "Best build",
+ "bracket": "Bracket 3",
+ "bracketGoal": "3 Game Changers: Necropotence, Bolas's Citadel, Demonic Tutor",
+ "cards": [
+  {
+   "name": "Adaptive Omnitool",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Artifact"
+  },
+  {
+   "name": "Age of Ultron",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Altar of Dementia",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Animate Dead",
+   "qty": 1,
+   "role": "recur",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Big Mother Mouser",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Bitter Triumph",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Black Market Connections",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Bolas's Citadel",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Buried Alive",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Cabal Coffers",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Castle Doom",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Castle Locthwain",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Codex Shredder",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Cranial Plating",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Dark Ritual",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Instant"
+  },
+  {
+   "name": "Deadly Dispute",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Demonic Tutor",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Diabolic Tutor",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Doctor Doom",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Doom Blade",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Doom's Servo-Guards",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Doombot Harbinger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Doomfall",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Doomsday",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Exsanguinate",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Genesis of the Daleks",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Go for the Throat",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Grim Reaper's Scythe",
+   "qty": 1,
+   "role": "recur",
+   "type": "Artifact"
+  },
+  {
+   "name": "Horn of Greed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Howling Mine",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Idol of Oblivion",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Illusionist's Bracers",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Infernal Grasp",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Kingpin, Wilson Fisk",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Lashwrithe",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Leveler",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Lightning Greaves",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Liquimetal Torque",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Magewright's Stone",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Memorial to Folly",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mesmeric Orb",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Millstone",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mind Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Nasty End",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Necropotence",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Night's Whisper",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Peer into the Abyss",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Persist",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Peter Parker's Camera",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Phyrexian Arena",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Phyrexian Scriptures",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Phyrexian Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Psychosis Crawler",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Reanimate",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Reclamation Specialist",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Reliquary Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rings of Brighthearth",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Shred Memory",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Instant"
+  },
+  {
+   "name": "Skullclamp",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Splinter's Technique",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Spymaster's Vault",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Stargaze",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Swamp",
+   "qty": 23,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Takenuma, Abandoned Mire",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "The Soul Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "The War in Heaven",
+   "qty": 1,
+   "role": "recur",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Thousand-Year Elixir",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Ultron the Annihilator",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultron, Artificial Malevolence",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Umbral Mantle",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Urborg, Tomb of Yawgmoth",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Vault of Whispers",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Village Rites",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Zombie Infestation",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  }
+ ],
+ "colors": [
+  "B"
+ ],
+ "commanders": [
+  "Doctor Doom, Unrivaled"
+ ],
+ "format": "Commander",
+ "name": "Doom Unrivaled",
+ "notes": [
+  "One list, merged Nov 8, 2026 from: B3 main, Owned now, Doom+Ultron owned and optimal, last night's physical build, and every card discussed. Everything that isn't in the 100 is on Cards to add.",
+  "Plan: Doom taps several times a turn (Thousand-Year Elixir, Magewright's Stone, Umbral Mantle, Illusionist's Bracers, Rings of Brighthearth, Peter Parker's Camera) while Mesmeric Orb, Millstone, Altar of Dementia, Stargaze, Necropotence and Peer into the Abyss empty the library.",
+  "Shortcuts: Leveler (Buried Alive it into the graveyard, tutor it, or reanimate it with Reanimate, Animate Dead, Persist, The War in Heaven, Grim Reaper's Scythe; Zombie Infestation discards it on purpose) and Doomsday.",
+  "Backup: Ultron the Annihilator drains each opponent for every artifact that hits your graveyard. Fuel: Kingpin's Treasures, Genesis of the Daleks, Doombot Harbinger, Servo-Guards, Big Mother Mouser, Castle Doom; outlets: Deadly Dispute, Village Rites, Nasty End, Reclamation Specialist, Skullclamp, Altar. Psychosis Crawler and Exsanguinate close.",
+  "Bracket 3: exactly 3 Game Changers (Necropotence, Bolas's Citadel, Demonic Tutor). Rule 0: Doom + Leveler and Doomsday are near-two-card wins.",
+  "18 cards in this list aren't in your collection yet. The Owned build version swaps each for an owned stand-in so you can sleeve it now.",
+  "Equipment: Cranial Plating, Lashwrithe, Adaptive Omnitool. Mask of Memory is the 4th if you want one. Never copy Equipment with Ultron, Artificial Malevolence.",
+  "Timing: if Leveler enters during your upkeep (Rescue, Scythe tricks), tap Doom before your draw step.",
+  "Cards to add tags: owned, Borg (unopened), check (ownership unconfirmed), Big Wheels (moved there), wishlist (not owned), not legal (off-color).",
+  "Retired versions: B3+ sim, B4 sim, cEDH sim, Owned now, Doom+Ultron owned and optimal. All of their cards are in the 100 or on Cards to add.",
+  "Nov 10: Shred Memory in for Feed the Swarm, Splinter's Technique in for Read the Bones (both builds). Still 3 Game Changers.",
+  "Nov 12 sim (Owned build, exact card text from mtg-data; 4,000 games against a normal table and 3,000 against a hostile one, with removal modeled as random events; removal spells count as blanks). Win split: Doom + Leveler about 90% of wins, Doomsday about 7%, damage/drain 1-2%, natural empty library under 1%. That replaces the Nov 10 estimate (damage 25-35%). Win by turn 10: 69% normal table, 55% hostile.",
+  "Nov 12 sim, card values: the biggest are Leveler, Demonic Tutor, Splinter's Technique, Sol Ring, Diabolic Tutor, Doomsday, Howling Mine, Lightning Greaves, and every land (a 34th land is worth about +2%). At or below zero: Zombie Infestation, Psychosis Crawler, Big Mother Mouser, Codex Shredder, Kingpin, Peter Parker's Camera, Cranial Plating, Lashwrithe, Ultron, Artificial Malevolence. Ultron the Annihilator is about zero: the backup plan rarely wins before Leveler does.",
+  "Nov 12: the Owned build is now the speed build: 11 sim swaps applied (see its notes). Win by turn 8 went from 49% to 66%. The Best build is unchanged.",
+  "Nov 12 card-text checks: Kingpin makes Treasures once per turn, only when you sacrifice a creature. Rat King, Verminister reanimates (tap, sacrifice three Rats). Buried Alive finds creature cards only. Urn of Godfire costs 1. Death in the Family hits mana value 3 or less. Doombots, Servo-Guards, Harbinger, Age of Ultron tokens and Millikin get Ultron, Machine Overlord's bonus; Leaden Myr doesn't."
+ ],
+ "order": 2,
+ "owner": "Andrew",
+ "source": "Merged Doom + Ultron build, Nov 8, 2026",
+ "target": 100,
+ "themeLabel": "Empty the library",
+ "updated": "Nov 8, 2026",
+ "variants": [
+  {
+   "bracket": "Bracket 3",
+   "bracketGoal": "1 Game Changer (Demonic Tutor) for now; 3 once Vampiric Tutor and Ancient Tomb arrive.",
+   "id": "owned-build",
+   "in": [
+    {
+     "name": "Arc Reactor",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Breach the Multiverse",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Cabal Ritual",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Instant"
+    },
+    {
+     "name": "Champion's Helm",
+     "qty": 1,
+     "role": "prot",
+     "type": "Artifact"
+    },
+    {
+     "name": "Chromatic Star",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Duress",
+     "qty": 1,
+     "role": "prot",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Fellwar Stone",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Isolinear Processor",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Lash of the Balrog",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Leaden Myr",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Mask of Memory",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Millikin",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Murmuring Volume",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Rat King, Pale Piper",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Rat King, Verminister",
+     "qty": 1,
+     "role": "recur",
+     "type": "Creature"
+    },
+    {
+     "name": "Read the Bones",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Rescue from the Underworld",
+     "qty": 1,
+     "role": "recur",
+     "type": "Instant"
+    },
+    {
+     "name": "Resentful Revelation",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Risky Research",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Rogue's Passage",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Shredder's Revenge",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Sign in Blood",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Swamp",
+     "qty": 6,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Victimize",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Withering Torment",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Zombify",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    }
+   ],
+   "label": "Owned build",
+   "name": "Doom Unrivaled (Owned build)",
+   "notes": [
+    "Plan: Doom + Leveler. Put Leveler onto the battlefield (cast it, tutor it, or bin and reanimate it) while Doom is untapped and protected, then tap Doom. Doomsday is the second route. Ultron the Annihilator is the long-game backup.",
+    "How to pilot (Nov 13 sim with opponents holding counterspells and removal): hold Doom until he can arrive protected. Cast him when Lightning Greaves, Swiftfoot Boots or Champion's Helm is on the battlefield and you can pay to equip it that turn, or when you can cast him, give him haste and get Leveler in the same turn. By turn 9 with neither, cast him anyway.",
+    "Only fire Leveler when Doom has shroud or hexproof. If no protection piece is on the battlefield, the first tutor finds one (Shred Memory can transmute for Greaves or Boots); the next finds Leveler. Cast Duress the turn before you go off. A countered Leveler isn't a loss: reanimate it.",
+    "Then let Leveler's trigger resolve and tap Doom immediately. Emergency only: if Doom is already tapped, untap next turn and tap him in your upkeep, before the draw step.",
+    "Sim at your kind of table: playing Doom on curve and comboing whenever possible won 57% (36% by turn 10), and opponents blew up the combo in 17% of games. Holding Doom and only comboing protected won 79% (58% by turn 10), with the combo blown up in 1%. At a light table holding costs about 5% of turn-8 wins but still wins more overall. Greaves, Boots and Champion's Helm together are worth over 50% of wins under this plan.",
+    "Nov 12 swaps, round 1: Swamp for Zombie Infestation, The Cruelty of Gix for Big Mother Mouser, Sign in Blood for Codex Shredder, Arc Reactor for Peter Parker's Camera, Isolinear Processor for Cranial Plating, Rescue from the Underworld for Kingpin. Round 2: Hedron Crawler for Psychosis Crawler, Read the Bones for Genesis of the Daleks, Zombify for Ultron, Artificial Malevolence, Shredder's Revenge for Millstone, Cabal Ritual for Gwenom.",
+    "Nov 13: Fellwar Stone in for Lashwrithe. Murmuring Volume in for Project Deathlok Soldier as the placeholder for Vampiric Tutor. Duress in for Idol of Oblivion; Champion's Helm (owned) in for Reclamation Specialist (Borg, unopened). Chromatic Star in for Hedron Crawler (not owned). Duress + Helm tested about +3-5% at your kind of table.",
+    "To pick up: Hedron Crawler (about $0.20), maybe. It's a 2-mana artifact creature that taps for {C}. In the latest sim it's worth about the same as Chromatic Star, so it's optional.",
+    "Game Changers to add (not owned yet): Vampiric Tutor replaces Murmuring Volume; Ancient Tomb replaces a Swamp. With Demonic Tutor that makes 3, the Bracket 3 maximum. Necropotence and Bolas's Citadel tested negative here, so they aren't the picks for this build.",
+    "34 lands (29 Swamps). A 35th land adds nothing more.",
+    "Lash of the Balrog is in for Bitter Triumph until you open the Borg precon. Rogue's Passage: loose copy from another set (Nov 12).",
+    "Isolinear Processor's mana only pays for artifact spells and artifact abilities; Leveler, Arc Reactor and equip costs all count. Champion's Helm gives hexproof only to a legendary creature, which Doom is.",
+    "Bracket 3 either way: Bracket 2 expects no Game Changers, few tutors, no two-card game-enders and games of 8+ turns. Mention Doom + Leveler and Doomsday before the game.",
+    "Earlier: Nov 10 Millikin, Victimize, Resentful Revelation, Breach the Multiverse and Leaden Myr in; Nov 11 Risky Research in for Read the Bones (Read the Bones back Nov 12)."
+   ],
+   "out": [
+    {
+     "name": "Altar of Dementia",
+     "qty": 1
+    },
+    {
+     "name": "Big Mother Mouser",
+     "qty": 1
+    },
+    {
+     "name": "Bitter Triumph",
+     "qty": 1
+    },
+    {
+     "name": "Bolas's Citadel",
+     "qty": 1
+    },
+    {
+     "name": "Cabal Coffers",
+     "qty": 1
+    },
+    {
+     "name": "Castle Locthwain",
+     "qty": 1
+    },
+    {
+     "name": "Codex Shredder",
+     "qty": 1
+    },
+    {
+     "name": "Cranial Plating",
+     "qty": 1
+    },
+    {
+     "name": "Genesis of the Daleks",
+     "qty": 1
+    },
+    {
+     "name": "Idol of Oblivion",
+     "qty": 1
+    },
+    {
+     "name": "Illusionist's Bracers",
+     "qty": 1
+    },
+    {
+     "name": "Infernal Grasp",
+     "qty": 1
+    },
+    {
+     "name": "Kingpin, Wilson Fisk",
+     "qty": 1
+    },
+    {
+     "name": "Lashwrithe",
+     "qty": 1
+    },
+    {
+     "name": "Magewright's Stone",
+     "qty": 1
+    },
+    {
+     "name": "Mesmeric Orb",
+     "qty": 1
+    },
+    {
+     "name": "Millstone",
+     "qty": 1
+    },
+    {
+     "name": "Necropotence",
+     "qty": 1
+    },
+    {
+     "name": "Peer into the Abyss",
+     "qty": 1
+    },
+    {
+     "name": "Peter Parker's Camera",
+     "qty": 1
+    },
+    {
+     "name": "Phyrexian Tower",
+     "qty": 1
+    },
+    {
+     "name": "Psychosis Crawler",
+     "qty": 1
+    },
+    {
+     "name": "Reclamation Specialist",
+     "qty": 1
+    },
+    {
+     "name": "Reliquary Tower",
+     "qty": 1
+    },
+    {
+     "name": "Rings of Brighthearth",
+     "qty": 1
+    },
+    {
+     "name": "Takenuma, Abandoned Mire",
+     "qty": 1
+    },
+    {
+     "name": "Thousand-Year Elixir",
+     "qty": 1
+    },
+    {
+     "name": "Ultron, Artificial Malevolence",
+     "qty": 1
+    },
+    {
+     "name": "Umbral Mantle",
+     "qty": 1
+    },
+    {
+     "name": "Urborg, Tomb of Yawgmoth",
+     "qty": 1
+    },
+    {
+     "name": "Village Rites",
+     "qty": 1
+    },
+    {
+     "name": "Zombie Infestation",
+     "qty": 1
+    }
+   ],
+   "source": "Best build with owned stand-ins, then the Nov 12-13 sim swaps",
+   "updated": "Nov 13, 2026"
+  }
+ ]
+}

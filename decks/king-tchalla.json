@@ -1,0 +1,845 @@
+{
+ "adds": [
+  {
+   "name": "Doctor Strange, Master of Magic",
+   "status": "owned",
+   "why": "From the History of Heroes kit; legal from April 2, 2027. Taps to draw after a noncreature spell, and that draw can be your second of the turn. Swap for Flash Thompson, Spider-Fan."
+  },
+  {
+   "name": "Kami of the Crescent Moon",
+   "status": "planned",
+   "why": "About $4.40. A second Howling Mine on a body. Swap for Jace Beleren."
+  },
+  {
+   "name": "Ghostly Prison",
+   "status": "planned",
+   "why": "About $5.79. Keeps attackers off you while the table draws. Swap for Prosperity."
+  },
+  {
+   "name": "Font of Mythos",
+   "status": "planned",
+   "why": "About $14.68. Two extra cards for every player each turn; only if the table enjoys it."
+  }
+ ],
+ "bracket": "High Bracket 2",
+ "bracketGoal": "0 Game Changers · flash control · draw whenever anyone draws a second card",
+ "cards": [
+  {
+   "name": "Command Tower",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Glacial Fortress",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Reliquary Tower",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rogue's Passage",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Adarkar Wastes",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Evolving Wilds",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Prairie Stream",
+   "own": "freed",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thriving Heath",
+   "own": "freed",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thriving Isle",
+   "own": "freed",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Avengers Tower",
+   "own": "likely",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Azorius Chancery",
+   "own": "buy",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sol Ring",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mind Stone",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Commander's Sphere",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Azorius Signet",
+   "own": "likely",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Progress",
+   "own": "likely",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Solemn Simulacrum",
+   "own": "freed",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Howling Mine",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Dictate of Kruphix",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Jace Beleren",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Planeswalker"
+  },
+  {
+   "name": "Words of Wisdom",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Vision Skeins",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Cut a Deal",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Secret Rendezvous",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Willie Lumpkin, Postman",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Reed Richards, Smartest Man",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Stark's Ingenuity",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Super Intelligence",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Kid Loki",
+   "own": "likely",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Graviton, Fundamental Force",
+   "own": "likely",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Flash Thompson, Spider-Fan",
+   "own": "likely",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Night Nurse, Healer of Heroes",
+   "own": "likely",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Woman, Secret Agent",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Shang-Chi and the Ten Rings",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Ms. Marvel, Kamala Khan",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Triskaidekaphile",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Psychosis Crawler",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Man, Armored Avenger",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "The Wondrous Wasp",
+   "own": "buy",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain Marvel, Earth's Protector",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Red Guardian, Super-Soldier",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Rescue, Pepper Potts",
+   "own": "freed",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "The Wasp, Winsome Avenger",
+   "own": "freed",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Foggy Nelson, On Retainer",
+   "own": "freed",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Counterspell",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Negate",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Denial",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Essence Scatter",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Dismissive Denial",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "We Say Thee Nay!",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Absorb",
+   "own": "buy",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Dovin's Veto",
+   "own": "buy",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Path to Exile",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Generous Gift",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Super Villain Lockup",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Frozen in Ice",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Raise the Palisade",
+   "own": "freed",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Wrath of God",
+   "own": "buy",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Supreme Verdict",
+   "own": "buy",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Think Twice",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Thirst for Knowledge",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Take Up the Shield",
+   "own": "freed",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Unstable Experiment",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Opt",
+   "own": "check",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Brainstorm",
+   "own": "check",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Timeline Inquiry",
+   "own": "check",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Fact or Fiction",
+   "own": "check",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Iron Man Armor",
+   "own": "have",
+   "qty": 1,
+   "role": "win",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Whispersilk Cloak",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Falcon's Wing Harness",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Prosperity",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Propaganda",
+   "own": "buy",
+   "qty": 1,
+   "role": "prot",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Plains",
+   "own": "have",
+   "qty": 11,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "own": "have",
+   "qty": 13,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "W",
+  "U"
+ ],
+ "commanders": [
+  "King T'Challa // Black Panther, Hope Enduring"
+ ],
+ "format": "Commander",
+ "name": "King T'Challa: Diplomatic Immunity",
+ "notes": [
+  "Plan: King T'Challa has flash and draws you a card whenever any player draws their second card in a turn. Give everyone a second card every turn (Howling Mine, Dictate of Kruphix, Jace Beleren) and you draw on every turn at the table.",
+  "Best single cards: Vision Skeins on an opponent's turn makes all four players draw two, which is up to four triggers for two mana. Words of Wisdom on an opponent's turn is two triggers. Super Intelligence on one of your own creatures gives you a second draw each upkeep.",
+  "Reed Richards, Smartest Man turns your first extra draw each turn into four cards.",
+  "Finishers: transform T'Challa for {4}{W}{U} into Black Panther, Hope Enduring (flash, double strike, takes no damage, draws on a hit) and give him evasion with Iron Man Armor, Whispersilk Cloak, Falcon's Wing Harness or Rogue's Passage. Backups: Shang-Chi and the Ten Rings, Ms. Marvel, Psychosis Crawler, Triskaidekaphile.",
+  "You are feeding the table cards. Hold counterspells for the things those cards find, and keep Propaganda out early.",
+  "Owner is set to Andrew for now; this was suggested as a second Marvel deck for your wife.",
+  "Ownership tags on each card: have = confirmed owned; freed = from a deck folded Nov 16 or a precon cut; likely = Marvel common or uncommon, or your staples pile; check = owned but maybe sleeved elsewhere; buy = not known to be owned.",
+  "Buy list (Nov 12 snapshot): about $17 for the 18 buy cards. Estimated, not simulated: wins around turns 9-11.",
+  "Bracket 2 check: 0 Game Changers, no extra turns, no land destruction, no infinite combo, no tutors."
+ ],
+ "order": 5.7,
+ "owner": "Andrew",
+ "source": "Built by Claude Nov 16, 2026 around the owned King T'Challa, from cards freed by the Nov 16 folds plus cheap pickups. Card text, colour identity and legality checked against mtg-data; ownership is tagged, not confirmed.",
+ "target": 100,
+ "themeLabel": "Everyone draws, you draw more",
+ "updated": "Nov 16, 2026",
+ "variants": [
+  {
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers · every card has a Marvel printing · flash Heroes with a lighter draw engine",
+   "id": "marvel-only",
+   "in": [
+    {
+     "name": "Horn of Greed",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Wedding Ring",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Mind's Eye",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Rent Is Due",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Blur of Heroism",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Rewrite History",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Reconnaissance Mission",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Kang Dynasty",
+     "qty": 1,
+     "role": "draw",
+     "sub": "Saga",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Daughter of the Deep",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Valeria Richards, Precocious",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Namor, Atlantean King",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Black Bolt, Inhuman King",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Captain America, Unbowed",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "King Solomon's Frogs",
+     "qty": 1,
+     "role": "rem",
+     "type": "Artifact"
+    },
+    {
+     "name": "Damning Verdict",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Austere Command",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Fellwar Stone",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Thought Vessel",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Hot Dog Cart",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Port Town",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Irrigated Farmland",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Plains",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Marvel only",
+   "name": "King T'Challa (Marvel only)",
+   "notes": [
+    "22 swaps: the 19 nonland cards and 3 lands with no Marvel printing come out.",
+    "This is a different deck from the open list. The cards that make every player draw each turn (Howling Mine, Dictate of Kruphix, Vision Skeins, Words of Wisdom, Jace Beleren, Prosperity) have no Marvel printing.",
+    "What carries the draw plan instead: Horn of Greed (each player draws when they play a land, which is usually their second card that turn), Wedding Ring, Mind's Eye, Rent Is Due, Super Intelligence and Cut a Deal. Expect one or two T'Challa triggers a round where the open list gets four or more.",
+    "It leans harder on the Black Panther side: more fliers (Namor, Black Bolt) and Reconnaissance Mission to draw off combat.",
+    "Counterspells drop from seven to four (Counterspell, Arcane Denial, Dismissive Denial, We Say Thee Nay!). Damning Verdict is the copy from the History of Heroes kit; Shang-Chi and Iron Man, Armored Avenger put counters on your own creatures so some survive it.",
+    "Black Bolt is the suggested cut from the Fantastic Four deck. If your wife keeps him there, run Captain Marvel's partner slot as Hyperion, Supreme Hero ($5.84) or a second basic.",
+    "Prices (Nov 12 snapshot) for the pieces you may not own: Horn of Greed $7.31 (you own one, listed in Doom Unrivaled), Wedding Ring $2.99, Daughter of the Deep $2.07, Captain America, Unbowed $1.79; the rest are under $1.",
+    "Not simulated. Weaker than the open list; the other two Marvel-only versions lose much less."
+   ],
+   "out": [
+    {
+     "name": "Mind Stone",
+     "qty": 1
+    },
+    {
+     "name": "Commander's Sphere",
+     "qty": 1
+    },
+    {
+     "name": "Azorius Signet",
+     "qty": 1
+    },
+    {
+     "name": "Howling Mine",
+     "qty": 1
+    },
+    {
+     "name": "Dictate of Kruphix",
+     "qty": 1
+    },
+    {
+     "name": "Jace Beleren",
+     "qty": 1
+    },
+    {
+     "name": "Words of Wisdom",
+     "qty": 1
+    },
+    {
+     "name": "Vision Skeins",
+     "qty": 1
+    },
+    {
+     "name": "Secret Rendezvous",
+     "qty": 1
+    },
+    {
+     "name": "Triskaidekaphile",
+     "qty": 1
+    },
+    {
+     "name": "Psychosis Crawler",
+     "qty": 1
+    },
+    {
+     "name": "Negate",
+     "qty": 1
+    },
+    {
+     "name": "Essence Scatter",
+     "qty": 1
+    },
+    {
+     "name": "Absorb",
+     "qty": 1
+    },
+    {
+     "name": "Dovin's Veto",
+     "qty": 1
+    },
+    {
+     "name": "Wrath of God",
+     "qty": 1
+    },
+    {
+     "name": "Supreme Verdict",
+     "qty": 1
+    },
+    {
+     "name": "Opt",
+     "qty": 1
+    },
+    {
+     "name": "Prosperity",
+     "qty": 1
+    },
+    {
+     "name": "Reliquary Tower",
+     "qty": 1
+    },
+    {
+     "name": "Adarkar Wastes",
+     "qty": 1
+    },
+    {
+     "name": "Azorius Chancery",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 16, 2026; each card checked for a Marvel, Spider-Man, Marvel Commander, Marvel Jumpstart or Marvel Secret Lair printing in mtg-data",
+   "updated": "Nov 16, 2026"
+  }
+ ]
+}

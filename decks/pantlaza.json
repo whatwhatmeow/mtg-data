@@ -1,0 +1,649 @@
+{
+ "adds": [
+  {
+   "name": "Trapjaw Tyrant",
+   "status": "planned",
+   "why": "Mythic, usually a few dollars. Repeatable removal with enrage. Swap for Kinjalli's Sunwing."
+  },
+  {
+   "name": "Terrian, World Tyrant",
+   "status": "planned",
+   "why": "From the precon. A plain 9/7 for 5 with a high toughness discover. Swap for Thundering Spineback."
+  },
+  {
+   "name": "Ram Through",
+   "status": "planned",
+   "why": "From the precon. Strong trample removal. Swap for Savage Stomp."
+  },
+  {
+   "name": "Rishkar's Expertise",
+   "status": "planned",
+   "why": "From the precon. Big refill, and a fine discover hit. Swap for Shamanic Revelation."
+  }
+ ],
+ "bracket": "High Bracket 2",
+ "bracketGoal": "0 Game Changers · Tramplesaurus Rex precon as the green base · discover a free spell every turn",
+ "cards": [
+  {
+   "name": "Annoyed Altisaur",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Arcane Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Atzocan Seer",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Balamb T-Rexaur",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Battlefield Forge",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Beast Whisperer",
+   "own": "precon",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Beast Within",
+   "own": "precon",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Birds of Paradise",
+   "own": "precon",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Bite Down",
+   "own": "precon",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Blossoming Sands",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Brushland",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Carnage Tyrant",
+   "own": "precon",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Command Tower",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Crested Herdcaller",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Cultivate",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Curious Altisaur",
+   "own": "precon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Devil Dinosaur",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Drover of the Mighty",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Earthshaker Dreadmaw",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Elder Gargaroth",
+   "own": "precon",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Evolving Wilds",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Ezuri's Predation",
+   "own": "precon",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Fabled Passage",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Farseek",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Forerunner of the Empire",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Forest",
+   "own": "have",
+   "qty": 12,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fumigate",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Fyndhorn Elves",
+   "own": "precon",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Garruk's Packleader",
+   "own": "precon",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Garruk's Uprising",
+   "own": "precon",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Generous Gift",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Ghalta and Mavren",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Ghalta, Primal Hunger",
+   "own": "precon",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Gishath, Sun's Avatar",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Gruul Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Heroic Intervention",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Hulking Raptor",
+   "own": "precon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ilysian Caryatid",
+   "own": "precon",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Itzquinth, Firstborn of Gishath",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ixalli's Lorekeeper",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Jungle Shrine",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Karplusan Forest",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Kenrith's Transformation",
+   "own": "precon",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Kinjalli's Sunwing",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Knight of the Stampede",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Kodama's Reach",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Llanowar Elves",
+   "own": "precon",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Mosswort Bridge",
+   "own": "precon",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "own": "have",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Nature's Lore",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Overwhelming Stampede",
+   "own": "precon",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Palani's Hatcher",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Paradise Druid",
+   "own": "precon",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Path of Ancestry",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Path to Exile",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Plains",
+   "own": "have",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Pugnacious Hammerskull",
+   "own": "precon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Raging Swordtooth",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ranging Raptors",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Regal Imperiosaur",
+   "own": "precon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Regisaur Alpha",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ripjaw Raptor",
+   "own": "precon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Rogue's Passage",
+   "own": "precon",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rugged Highlands",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Savage Land Dinosaur",
+   "own": "have",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Savage Stomp",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Shamanic Revelation",
+   "own": "precon",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Sol Ring",
+   "own": "precon",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Spider-Rex, Daring Dino",
+   "own": "have",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Stegron the Dinosaur Man",
+   "own": "have",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "own": "precon",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Temple of Abandon",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of Plenty",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of Triumph",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thrashing Brontodon",
+   "own": "precon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Thundering Spineback",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Topiary Stomper",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Trumpeting Carnosaur",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Verdant Sun's Avatar",
+   "own": "precon",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "War Room",
+   "own": "precon",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Wind-Scarred Crag",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Zog, Triceraton Castaway",
+   "own": "have",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  }
+ ],
+ "colors": [
+  "W",
+  "R",
+  "G"
+ ],
+ "commanders": [
+  "Pantlaza, Sun-Favored"
+ ],
+ "format": "Commander",
+ "name": "Pantlaza: Sun-Favored Stampede",
+ "notes": [
+  "Chose Pantlaza over Itzquinth. Pantlaza discovers X (X = the entering Dinosaur's toughness) once each turn, so nearly every Dinosaur brings a free spell. Itzquinth is a fine 2-drop but gives no card flow, so he's in the 99.",
+  "Base is the Foundations Commander deck Tramplesaurus Rex (Ghalta, Primal Hunger): its Dinosaurs, mana creatures, draw, Beast Within, Bite Down, Sol Ring and Overwhelming Stampede all carry over. Ghalta stays in the 99.",
+  "White is mostly a splash for Swords, Path, Generous Gift, Fumigate, Kinjalli's Sunwing and Ghalta and Mavren. Green is the main color (12 Forests).",
+  "Discover note: you may always put the hit in hand instead of casting it, so Fumigate and Bite Down are safe to run.",
+  "Estimated, not simulated: wins around turns 8–10 with hasty fat, Overwhelming Stampede or Gishath. Slowest start of the five, so the 16 ramp pieces matter. Early defense relies on big blockers and 7 spot answers.",
+  "Polyraptor is deliberately out: with Forerunner of the Empire or Marauding Raptor it makes an infinite loop, which breaks Bracket 2.",
+  "Rares and mythics to pick up or check your binder for: Devil Dinosaur; Exotic Orchard; Fabled Passage; Fumigate; Ghalta and Mavren; Gishath, Sun's Avatar; Heroic Intervention; Kinjalli's Sunwing; Palani's Hatcher; Regisaur Alpha; Temple of Abandon; Temple of Plenty; Temple of Triumph; Topiary Stomper; Trumpeting Carnosaur",
+  "Commons and uncommons to pick up or check your binder for: Annoyed Altisaur; Atzocan Seer; Balamb T-Rexaur; Blossoming Sands; Command Tower; Crested Herdcaller; Cultivate; Drover of the Mighty; Earthshaker Dreadmaw; Evolving Wilds; Farseek; Forerunner of the Empire; Generous Gift; Itzquinth, Firstborn of Gishath; Ixalli's Lorekeeper; Jungle Shrine; Knight of the Stampede; Kodama's Reach; Nature's Lore; Path of Ancestry; Raging Swordtooth; Ranging Raptors; Rugged Highlands; Savage Stomp; Terramorphic Expanse; Thundering Spineback; Wind-Scarred Crag"
+ ],
+ "order": 43,
+ "owner": "Middle",
+ "source": "Built by Claude Nov 3, 2026; card text and color identity checked, ownership assumed from your notes",
+ "target": 100,
+ "themeLabel": "Dinosaur stampede",
+ "updated": "Nov 3, 2026"
+}

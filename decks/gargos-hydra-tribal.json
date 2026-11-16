@@ -1,0 +1,573 @@
+{
+ "adds": [
+  {
+   "name": "Doubling Season",
+   "status": "planned",
+   "why": "About $33–45. Doubles tokens and counters, so every Zaxara trigger makes two tokens with double counters. Already in The Astonishing Ant-Man, so move it or buy a second copy. Swap for Ironscale Hydra."
+  },
+  {
+   "name": "Green Sun's Zenith",
+   "status": "planned",
+   "why": "About $32. Finds any green creature directly onto the battlefield. Already listed in Tom's Bombs. Swap for Rishkar's Expertise."
+  },
+  {
+   "name": "Finale of Devastation",
+   "status": "planned",
+   "why": "About $27. Tutor plus a team-wide pump at X=10. Already listed in Tom's Bombs. Swap for Overrun."
+  },
+  {
+   "name": "Craterhoof Behemoth",
+   "status": "planned",
+   "why": "About $19. The best one-card finisher here. Already in The Astonishing Ant-Man. Swap for End-Raze Forerunners."
+  },
+  {
+   "name": "Unbound Flourishing",
+   "status": "planned",
+   "why": "About $16. The top pickup: doubles X on permanents and copies X instants and sorceries. Put its trigger above Zaxara's on the stack, so it resolves first. Copied X spells deal double, so Exsanguinate at X=20 hits for 40. Swap for Stumpsquall Hydra."
+  },
+  {
+   "name": "Heroic Intervention",
+   "status": "planned",
+   "why": "About $15. Best protection against a board wipe. Already in several family decks. Swap for Tamiyo's Safekeeping."
+  },
+  {
+   "name": "Kalonian Hydra",
+   "status": "planned",
+   "why": "About $14. Doubles counters every attack, and Gargos makes it {G}{G}. Swap for Benevolent Hydra."
+  }
+ ],
+ "baseLabel": "B2",
+ "bracket": "Bracket 2",
+ "bracketGoal": "No Game Changers · budget list · no infinite combo",
+ "cards": [
+  {
+   "name": "Hungering Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Mistcutter Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Goldvein Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Genesis Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Primordial Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Steelbane Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Voracious Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Lifeblood Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Vastwood Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Hooded Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Neverwinter Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Hydra Broodmaster",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Hydra Omnivore",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Benevolent Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Managorger Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Heroes' Bane",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Oran-Rief Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Whiptongue Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Ulvenwald Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Mossborn Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Polukranos, World Eater",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Nyxborn Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Rampant Rejuvenator",
+   "qty": 1,
+   "role": "ramp",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Beast Whisperer",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "End-Raze Forerunners",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Llanowar Elves",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Elvish Mystic",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Fyndhorn Elves",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Birds of Paradise",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Sakura-Tribe Elder",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Karametra's Acolyte",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Garruk's Uprising",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Up the Beanstalk",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Season of Growth",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Stumpsquall Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Ironscale Hydra",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Branching Evolution",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Hardened Scales",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Hydra's Growth",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Elementalist's Palette",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Nature's Lore",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Three Visits",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rampant Growth",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Kodama's Reach",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rishkar's Expertise",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Overrun",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Overwhelming Stampede",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Shamanic Revelation",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Hunter's Insight",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Inscription of Abundance",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Snakeskin Veil",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Tamiyo's Safekeeping",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Solidarity of Heroes",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Return of the Wildspeaker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Beast Within",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Nature's Claim",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Bite Down",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Nissa, Who Shakes the World",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Planeswalker"
+  },
+  {
+   "name": "Garruk, Primal Hunter",
+   "qty": 1,
+   "role": "draw",
+   "type": "Planeswalker"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Reliquary Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Lair of the Hydra",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rogue's Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Myriad Landscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Oran-Rief, the Vastwood",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mosswort Bridge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Castle Garenbrig",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "War Room",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Forest",
+   "qty": 27,
+   "role": "land",
+   "sub": "Basic",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "G"
+ ],
+ "commanders": [
+  "Gargos, Vicious Watcher"
+ ],
+ "format": "Commander",
+ "name": "Gargos: Hydra Tribal",
+ "notes": [
+  "Plan: ramp to six, land Gargos, then every other Hydra costs {4} less, so X Hydras get absurd.",
+  "Budget build: the list swaps out 7 cards priced above $10. They now sit in Cards to add with prices and their replacements. Prices are rough Nov 2026 web listings, so recheck them before buying.",
+  "Whenever one of your creatures is targeted by a spell, Gargos fights a creature you don't control. Yours or an opponent's spell both count, so cheap tricks are removal: Snakeskin Veil, Tamiyo's Safekeeping, Solidarity of Heroes, Hunter's Insight, Bite Down.",
+  "Freed from the Real and Pemmin's Aura are blue, so neither is legal here. They live in the Zaxara deck.",
+  "Season of Growth draws a card each time you target your own creature, on top of the Gargos fight.",
+  "Finish with End-Raze Forerunners, Overwhelming Stampede or Overrun. Lifeblood Hydra and Goldvein Hydra refill you if they die.",
+  "Most Hydras here also appear in the Zaxara list, so building both needs two copies of each shared card."
+ ],
+ "order": 9.5,
+ "owner": "Andrew",
+ "source": "Built in chat, Nov 6, 2026",
+ "target": 100,
+ "themeLabel": "Hydras",
+ "updated": "Nov 6, 2026",
+ "variants": [
+  {
+   "bracket": "Bracket 2",
+   "bracketGoal": "No Game Changers · no infinite combo · two cards that are no longer expensive",
+   "id": "nov15-sim",
+   "in": [
+    {
+     "name": "Unbound Flourishing",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Kalonian Hydra",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Hydra",
+     "type": "Creature"
+    }
+   ],
+   "label": "Nov 15 prices",
+   "name": "Gargos (Nov 15, two budget cuts reversed)",
+   "notes": [
+    "Price check against the mtg-data repo (Nov 12 snapshot, cheapest printing): Unbound Flourishing $2.21 and Kalonian Hydra $5.91, not the $16 and $14 noted on Nov 6. Heroic Intervention is $6.32.",
+    "The generic sim showed no gain (19.1% to 18.3%), but it cannot model doubling X, so this is a judgment call, not a sim result."
+   ],
+   "out": [
+    {
+     "name": "Stumpsquall Hydra",
+     "qty": 1
+    },
+    {
+     "name": "Benevolent Hydra",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 15, 2026 vault-wide sim and price check",
+   "updated": "Nov 15, 2026"
+  }
+ ]
+}

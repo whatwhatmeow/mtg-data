@@ -1,0 +1,1147 @@
+{
+ "adds": [
+  {
+   "name": "Captain America's Shield",
+   "status": "planned",
+   "why": "Buy · ~$2. Pairs with Wings of Freedom for a +11/+11 team pump."
+  },
+  {
+   "name": "Captain America, Wings of Freedom",
+   "status": "planned",
+   "why": "Buy · ~$0.40. Attacks to give every other Hero +X/+X equal to his toughness."
+  },
+  {
+   "name": "Jhoira, Weatherlight Captain",
+   "status": "planned",
+   "why": "Buy · ~$0.55 (Edge of Eternities Commander printing). Draws a card on every historic spell."
+  },
+  {
+   "name": "Heroes' Podium",
+   "status": "planned",
+   "why": "Buy · ~$0.45. Pump for every other legendary creature."
+  },
+  {
+   "name": "Shared Animosity",
+   "status": "planned",
+   "why": "Buy · ~$3.70. Attackers get +1/+0 for each other attacking Hero."
+  },
+  {
+   "name": "Ripples of Potential",
+   "status": "planned",
+   "why": "Buy · ~$6. Proliferate the team's counters."
+  },
+  {
+   "name": "The Ozolith",
+   "status": "planned",
+   "why": "Buy later · ~$38. Saves counters when a Hero dies; the one to skip if money's tight."
+  },
+  {
+   "name": "Cadric, Soul Kindler",
+   "status": "planned",
+   "why": "Optional · ~$16. Copies Heroes; cut for Wings of Freedom, worth revisiting."
+  },
+  {
+   "name": "Vibranium Strike Gauntlets",
+   "status": "planned",
+   "why": "Buy · ~$0.65 (Marvel Commander rare, unless one is loose). Flash, attaches free, +3/+0 trample and draws on combat damage."
+  },
+  {
+   "name": "Hawkeye's Bow",
+   "status": "owned",
+   "why": "Freed by the Daredevil fold (Nov 16). On Clint: every tap pings each opponent for 1 + Kate's power."
+  },
+  {
+   "name": "Hawkeye, Young Avenger",
+   "status": "owned",
+   "why": "Kate Bishop. Freed by the Daredevil fold (Nov 16). Adds her power to all your noncombat damage."
+  },
+  {
+   "name": "Mjölnir, Hammer of Thor",
+   "status": "planned",
+   "why": "Optional · ~$21. Doubles the equipped creature's damage; equip worthy {1} works on the legendary white/red Heroes."
+  },
+  {
+   "name": "Thor Odinson",
+   "status": "owned",
+   "why": "Freed by the Daredevil fold (Nov 16). A flier with vigilance and double prowess. Confirm the copy is not the one already sleeved in the Fantastic Four deck."
+  },
+  {
+   "name": "Captain America, Super-Soldier",
+   "status": "owned",
+   "why": "Freed by the Daredevil fold (Nov 16); already in the High B2 version. Gives you and your other Heroes hexproof while he has his shield counter."
+  },
+  {
+   "name": "Damning Verdict",
+   "status": "owned",
+   "why": "From the History of Heroes kit (Nov 16). Destroys every creature with no counters; Cap puts a counter on each Hero, so it mostly misses your side."
+  },
+  {
+   "name": "Collective Effort",
+   "status": "owned",
+   "why": "A copy was cut from the Fantastic Four precon. Removal plus a +1/+1 counter on every creature you control."
+  }
+ ],
+ "baseLabel": "Stock precon",
+ "bracket": "Bracket 2",
+ "bracketGoal": "Stock precon (Director Nick Fury is the alternate commander in the 99)",
+ "cards": [
+  {
+   "name": "Metallic Mimic",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Patriot, Shield Wielder",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Rescue, Pepper Potts",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Speed, Young Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Wasp, Winsome Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ant-Man, Elusive Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Bastion Protector",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Black Widow, Agile Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain America, Living Legend",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Director Nick Fury",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Falcon and Redwing",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Firebird, Blazing Ranger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Jarvis, Earth's Mightiest Butler",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Jocasta, Automaton Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Shang-Chi and the Ten Rings",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hawkeye, Avenging Archer",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Man, Armored Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Photon, Mighty Marvel",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Scarlet Witch, Chaotic Avenger",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Thor, Asgard's Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Vision, Synthezoid Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain Mar-Vell, Space-Born",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hercules, Olympian Hero",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Quicksilver, Speedster",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "War Machine, Avenging Arsenal",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Winter Soldier, Reborn Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Professor Hulk",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "She-Hulk, Wallbreaker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain Marvel, Apex Avenger",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Denial",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Destroy Evil",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Heroic Sacrifice",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Make Your Move",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Methods of the Mighty",
+   "qty": 1,
+   "role": "other",
+   "type": "Instant"
+  },
+  {
+   "name": "Heroic Return",
+   "qty": 1,
+   "role": "recur",
+   "type": "Instant"
+  },
+  {
+   "name": "Rip Apart",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "West Coast Expansion",
+   "qty": 1,
+   "role": "other",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Dismantling Wave",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Raise the Palisade",
+   "qty": 1,
+   "role": "other",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Austere Command",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Avenge",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Fellwar Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hero's Blade",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Conviction",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Creativity",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Progress",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Thought Vessel",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Tome of Legends",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Herald's Horn",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Relic of Legends",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Door of Destinies",
+   "qty": 1,
+   "role": "win",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hulkbuster Armor",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Avengers Quinjet",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Folk Hero",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Gift of Immortality",
+   "qty": 1,
+   "role": "recur",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Love on the Battlefield",
+   "qty": 1,
+   "role": "other",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Reconnaissance Mission",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Kindred Discovery",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Avengers Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Clifftop Retreat",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Coastal Peak",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Frostboil Snarl",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Furycalm Snarl",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Glacial Fortress",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Glittering Massif",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Irrigated Farmland",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mystic Monastery",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plaza of Heroes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Port Town",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Prairie Stream",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Radiant Summit",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Scavenger Grounds",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Scorched Geyser",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Secluded Courtyard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Spectator Seating",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfur Falls",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Unclaimed Territory",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 5,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 5,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plains",
+   "qty": 6,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "W",
+  "U",
+  "R"
+ ],
+ "commanders": [
+  "Captain America, Team Leader"
+ ],
+ "format": "Commander",
+ "name": "Avengers Assemble",
+ "notes": [
+  "Base is the stock precon. His \"slightly upgraded\" swaps aren't recorded yet.",
+  "Director Nick Fury is the backup commander: he makes Heroes cheaper and draws Heroes on attack.",
+  "Future buy list (prices as of Nov 9–10, 2026): ~$51 for the original seven (~$13 without The Ozolith), plus Gauntlets ~$0.65. Mjölnir (~$21) and Cadric (~$16) are optional."
+ ],
+ "order": 39,
+ "owner": "Middle",
+ "source": "Stock Avengers Assemble precon list, cross-checked on Draftsim and playgroup.gg",
+ "target": 100,
+ "themeLabel": "Hero typal go-wide",
+ "updated": "Nov 10, 2026",
+ "variants": [
+  {
+   "bracket": "High Bracket 2",
+   "bracketGoal": "No Game Changers · pain lands only (no fetches/shocks) · go-wide Heroes + team pump",
+   "id": "b2",
+   "in": [
+    {
+     "name": "Adarkar Wastes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Battlefield Forge",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Shivan Reef",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Path to Exile",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Counterspell",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Wave Goodbye",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Desynchronization",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Captain America, Super-Soldier",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Jhoira, Weatherlight Captain",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Captain America, Wings of Freedom",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Agent Phil Coulson",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Monica Rambeau",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Araña, Heart of the Spider",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Shared Animosity",
+     "qty": 1,
+     "role": "win",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Heroes' Podium",
+     "qty": 1,
+     "role": "win",
+     "type": "Artifact"
+    },
+    {
+     "name": "The Ozolith",
+     "qty": 1,
+     "role": "recur",
+     "type": "Artifact"
+    },
+    {
+     "name": "Ripples of Potential",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "The Mighty Thor, Jane Foster",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Captain America's Shield",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Hawkeye, Young Avenger",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Hawkeye's Bow",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Vibranium Strike Gauntlets",
+     "qty": 1,
+     "role": "draw",
+     "sub": "Equipment",
+     "type": "Artifact"
+    }
+   ],
+   "label": "High B2",
+   "notes": [
+    "Plan: curve Heroes out turns 2–5. Cap gives each one haste, vigilance and a counter, so every Hero attacks the turn it lands. Shared Animosity, Heroes' Podium and Door of Destinies turn a wide board into a lethal one; Herald's Horn, Jhoira and Kindred Discovery keep the hand full.",
+    "Cut the off-plan pieces: the flash trio (Quicksilver, Speed, Vision), Hercules, the defensive ones (Patriot, Wasp), slow value (Tome, Gift of Immortality, Scarlet Witch), the dated removal (Destroy Evil, Make Your Move, Avenge, Hero's Blade), and the clunky artifacts and spells (Hulkbuster Armor, Avengers Quinjet, Raise the Palisade, Love on the Battlefield).",
+    "Thor, Asgard's Avenger stays: every other source you control deals +1 damage to opponents and their stuff, so each attacking Hero hits for one more. The Mighty Thor, Jane Foster comes in too: a 3-mana flier whose attack trigger blinks a blocker out of the way or re-enters one of your own Heroes for another Cap trigger.",
+    "Captain America, Wings of Freedom: flying, first strike, ward 1, and when he attacks every other Hero gets +X/+X where X is his toughness. Team Leader's counters grow that toughness, so the team pump grows every turn.",
+    "Captain America's Shield on Wings of Freedom: +0/+8 makes his toughness 11+, so every other attacking Hero gets +11/+11 or more. The Shield is indestructible, gives vigilance and taps a blocker on each attack. On anyone else it's still a blocker-tapper.",
+    "Hawkeye package: Kate Bishop (Hawkeye, Young Avenger) adds her power to all noncombat damage your sources deal to opponents and their stuff. Put Hawkeye's Bow on Clint (Hawkeye, Avenging Archer) and tap him to ping: Clint's ping and the Bow's trigger both get Kate's power, plus 1 more each with Thor, Asgard's Avenger out. With Kate at 3 power that's 5 to one opponent plus 5 to each opponent, every turn, without attacking.",
+    "Equipment rule: an Equipment only earns a slot if it attaches itself or enables a combo. Three made it: Captain America's Shield (Wings of Freedom combo), Hawkeye's Bow (Kate engine), Vibranium Strike Gauntlets (attaches free, draws cards). Skipped Unstable Molecule Suit and Iron Man Armor as stat sticks; Mjölnir is on the buy list as an optional upgrade.",
+    "Don't put the Bow and the Shield on the same creature: the Shield gives vigilance, so that creature never taps to attack.",
+    "From the binder: Adarkar Wastes, Battlefield Forge and Shivan Reef (spares) replace a basic of each color; Captain America, Super-Soldier; Agent Phil Coulson, Monica Rambeau (front face of Monica Rambeau // Photon, Living Light) and The Mighty Thor, Jane Foster (all owned); Path to Exile and a Counterspell from the pile. Check Super-Soldier, Jane Foster and Path aren't already sleeved elsewhere.",
+    "Check the binder first: Araña, Heart of the Spider, Hawkeye, Young Avenger and Hawkeye's Bow are Marvel/Spider-Man cards and may already be in the collection.",
+    "37 lands + 7 rocks (Herald's Horn and the cost reducers on top). Honor-Worn Shaku came out for Captain America's Shield.",
+    "His own swaps to the precon aren't recorded yet. Add them to the base list so this version reads as true swaps."
+   ],
+   "out": [
+    {
+     "name": "Hercules, Olympian Hero",
+     "qty": 1
+    },
+    {
+     "name": "Patriot, Shield Wielder",
+     "qty": 1
+    },
+    {
+     "name": "The Wasp, Winsome Avenger",
+     "qty": 1
+    },
+    {
+     "name": "Quicksilver, Speedster",
+     "qty": 1
+    },
+    {
+     "name": "Speed, Young Avenger",
+     "qty": 1
+    },
+    {
+     "name": "Vision, Synthezoid Avenger",
+     "qty": 1
+    },
+    {
+     "name": "Scarlet Witch, Chaotic Avenger",
+     "qty": 1
+    },
+    {
+     "name": "Tome of Legends",
+     "qty": 1
+    },
+    {
+     "name": "Gift of Immortality",
+     "qty": 1
+    },
+    {
+     "name": "Make Your Move",
+     "qty": 1
+    },
+    {
+     "name": "Destroy Evil",
+     "qty": 1
+    },
+    {
+     "name": "Avenge",
+     "qty": 1
+    },
+    {
+     "name": "Hero's Blade",
+     "qty": 1
+    },
+    {
+     "name": "Thought Vessel",
+     "qty": 1
+    },
+    {
+     "name": "Scavenger Grounds",
+     "qty": 1
+    },
+    {
+     "name": "Island",
+     "qty": 1
+    },
+    {
+     "name": "Mountain",
+     "qty": 1
+    },
+    {
+     "name": "Plains",
+     "qty": 1
+    },
+    {
+     "name": "Raise the Palisade",
+     "qty": 1
+    },
+    {
+     "name": "Avengers Quinjet",
+     "qty": 1
+    },
+    {
+     "name": "Hulkbuster Armor",
+     "qty": 1
+    },
+    {
+     "name": "Love on the Battlefield",
+     "qty": 1
+    }
+   ],
+   "source": "Built Nov 9, 2026 from the stock precon plus EDHREC and EDHLAB upgrade guides",
+   "updated": "Nov 13, 2026"
+  },
+  {
+   "bracket": "Bracket 3",
+   "bracketGoal": "3 Game Changers: Jeska's Will, Rhystic Study, The One Ring",
+   "id": "b3",
+   "in": [
+    {
+     "name": "Adarkar Wastes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Battlefield Forge",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Shivan Reef",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Path to Exile",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Counterspell",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Wave Goodbye",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Desynchronization",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Captain America, Super-Soldier",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Jhoira, Weatherlight Captain",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Captain America, Wings of Freedom",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Agent Phil Coulson",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Monica Rambeau",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Araña, Heart of the Spider",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Shared Animosity",
+     "qty": 1,
+     "role": "win",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Heroes' Podium",
+     "qty": 1,
+     "role": "win",
+     "type": "Artifact"
+    },
+    {
+     "name": "The Ozolith",
+     "qty": 1,
+     "role": "recur",
+     "type": "Artifact"
+    },
+    {
+     "name": "Ripples of Potential",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Jeska's Will",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Rhystic Study",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "The One Ring",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "The Mighty Thor, Jane Foster",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Captain America's Shield",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Hawkeye, Young Avenger",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Hawkeye's Bow",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Vibranium Strike Gauntlets",
+     "qty": 1,
+     "role": "draw",
+     "sub": "Equipment",
+     "type": "Artifact"
+    }
+   ],
+   "label": "B3",
+   "notes": [
+    "Same deck as High B2 (Hawkeye package and Equipment included), with three Game Changers in for Fellwar Stone, Relic of Legends and Reconnaissance Mission.",
+    "The One Ring is currently in the Sauron deck; this needs a second copy or a swap night.",
+    "Only push here if High B2 is running away with games."
+   ],
+   "out": [
+    {
+     "name": "Hercules, Olympian Hero",
+     "qty": 1
+    },
+    {
+     "name": "Patriot, Shield Wielder",
+     "qty": 1
+    },
+    {
+     "name": "The Wasp, Winsome Avenger",
+     "qty": 1
+    },
+    {
+     "name": "Quicksilver, Speedster",
+     "qty": 1
+    },
+    {
+     "name": "Speed, Young Avenger",
+     "qty": 1
+    },
+    {
+     "name": "Vision, Synthezoid Avenger",
+     "qty": 1
+    },
+    {
+     "name": "Scarlet Witch, Chaotic Avenger",
+     "qty": 1
+    },
+    {
+     "name": "Tome of Legends",
+     "qty": 1
+    },
+    {
+     "name": "Gift of Immortality",
+     "qty": 1
+    },
+    {
+     "name": "Make Your Move",
+     "qty": 1
+    },
+    {
+     "name": "Destroy Evil",
+     "qty": 1
+    },
+    {
+     "name": "Avenge",
+     "qty": 1
+    },
+    {
+     "name": "Hero's Blade",
+     "qty": 1
+    },
+    {
+     "name": "Thought Vessel",
+     "qty": 1
+    },
+    {
+     "name": "Scavenger Grounds",
+     "qty": 1
+    },
+    {
+     "name": "Island",
+     "qty": 1
+    },
+    {
+     "name": "Mountain",
+     "qty": 1
+    },
+    {
+     "name": "Plains",
+     "qty": 1
+    },
+    {
+     "name": "Fellwar Stone",
+     "qty": 1
+    },
+    {
+     "name": "Reconnaissance Mission",
+     "qty": 1
+    },
+    {
+     "name": "Relic of Legends",
+     "qty": 1
+    },
+    {
+     "name": "Raise the Palisade",
+     "qty": 1
+    },
+    {
+     "name": "Avengers Quinjet",
+     "qty": 1
+    },
+    {
+     "name": "Hulkbuster Armor",
+     "qty": 1
+    },
+    {
+     "name": "Love on the Battlefield",
+     "qty": 1
+    }
+   ],
+   "source": "High B2 version plus EDHREC's three Game Changer picks",
+   "updated": "Nov 13, 2026"
+  }
+ ]
+}

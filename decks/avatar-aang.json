@@ -1,0 +1,694 @@
+{
+ "adds": [
+  {
+   "name": "Badgermole Cub",
+   "status": "planned",
+   "why": "Mythic, likely not bulk. 2-mana body with earthbend. Swap for Earth Rumble."
+  },
+  {
+   "name": "Waterbender Ascension",
+   "status": "planned",
+   "why": "Repeatable waterbend outlet. Swap for Bitter Work."
+  },
+  {
+   "name": "Firebender Ascension",
+   "status": "planned",
+   "why": "Doubles attack triggers once charged. Swap for Rocky Rebuke."
+  },
+  {
+   "name": "Harmonize",
+   "status": "planned",
+   "why": "Plain 3-card draw. Swap for Energybending."
+  }
+ ],
+ "bracket": "High Bracket 2",
+ "bracketGoal": "0 Game Changers · The Legend of Kyoshi included · bend every turn, draw a card each time",
+ "cards": [
+  {
+   "name": "Aang, Swift Savior",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Aang, at the Crossroads",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Aang, the Last Airbender",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Adarkar Wastes",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Airbender Ascension",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Airbender's Reversal",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Airbending Lesson",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Appa, Loyal Sky Bison",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Arcane Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Avatar's Wrath",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Azorius Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Badgermole",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Battlefield Forge",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Beast Within",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Bender's Waterskin",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Birds of Paradise",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Bitter Work",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Brushland",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Bumi, Unleashed",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Chaos Warp",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Command Tower",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Counterspell",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Crashing Wave",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Cultivate",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Earth Kingdom General",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Earth Rumble",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Earthbender Ascension",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Earthbending Lesson",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Earthbending Student",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Energybending",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Enter the Avatar State",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Evolving Wilds",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fabled Passage",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Farseek",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Fire Nation Attacks",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Fire Nation Palace",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fire Sages",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Firebending Student",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Flexible Waterbender",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Forest",
+   "own": "have",
+   "qty": 5,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Frontier Bivouac",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Generous Gift",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Glider Staff",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Gruul Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Harrow",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Instant"
+  },
+  {
+   "name": "Haru, Hidden Talent",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Heroic Intervention",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Iroh, Grand Lotus",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Island",
+   "own": "have",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Jungle Shrine",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Karplusan Forest",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Katara, Bending Prodigy",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Katara, Water Tribe's Hope",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Kodama's Reach",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Kyoshi Village",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Meditation Pools",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "own": "have",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mystic Monastery",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Nature's Lore",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "North Pole Gates",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "North Pole Patrol",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Omashu City",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Origin of Metalbending",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Path of Ancestry",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Path to Exile",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Plains",
+   "own": "have",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Ran and Shaw",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Rocky Rebuke",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Sandbenders' Storm",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Seaside Citadel",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Selesnya Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Shivan Reef",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Simic Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sol Ring",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sun Warriors",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Temple of Abandon",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of Enlightenment",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of Mystery",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of Plenty",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "The Boulder, Ready to Rumble",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Legend of Kyoshi",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Toph, Hardheaded Teacher",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Toph, the Blind Bandit",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Toph, the First Metalbender",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Uncle Iroh",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Waterbending Lesson",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Yavimaya Coast",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Zuko, Exiled Prince",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  }
+ ],
+ "colors": [
+  "W",
+  "U",
+  "B",
+  "R",
+  "G"
+ ],
+ "commanders": [
+  "Avatar Aang // Aang, Master of Elements"
+ ],
+ "format": "Commander",
+ "name": "Avatar Aang: All Four Elements",
+ "notes": [
+  "Plan: each bend draws a card with Aang out, including firebending, so every attacker with firebending replaces itself. Bend all four ways in one turn and he flips.",
+  "The flip: Aang, Master of Elements makes spells cost {W}{U}{B}{R}{G} less, and at any upkeep you may flip him back to gain 4, draw 4, put four +1/+1 counters on him and deal 4 to each opponent. He can do that on an opponent's upkeep and flip again later.",
+  "Cheapest route to all four: Aang attacks (fire), then Airbending Lesson (instant air), Sandbenders' Storm (instant earth), and North Pole Patrol or Katara (waterbend by tapping creatures).",
+  "Color identity is all five, but the list casts no black spells. You can add black Avatar cards later without breaking legality.",
+  "The Legend of Kyoshi draws off your largest power, so Aang, Zuko or a big earthbent land makes it a refill. It flips into Avatar Kyoshi, a mana engine that protects your lands.",
+  "Aang's Shelter stays out: it's Teferi's Protection, a Game Changer.",
+  "Estimated, not simulated: wins around turns 9–11, with a large flying Aang, the flip-back drain and land creatures. Early game is the deck's weak spot: four colors and many tapped lands, but cheap earthbend and Avatar's Wrath buy time.",
+  "Rares and mythics to pick up or check your binder for: Aang, Swift Savior; Aang, at the Crossroads; Airbender Ascension; Avatar's Wrath; Birds of Paradise; Bumi, Unleashed; Chaos Warp; Earthbender Ascension; Exotic Orchard; Fabled Passage; Fire Nation Palace; Firebending Student; Heroic Intervention; Iroh, Grand Lotus; Katara, Water Tribe's Hope; Ran and Shaw; Temple of Abandon; Temple of Enlightenment; Temple of Mystery; Temple of Plenty; The Legend of Kyoshi; Toph, Hardheaded Teacher; Toph, the First Metalbender",
+  "Commons and uncommons to pick up or check your binder for: Aang, the Last Airbender; Airbender's Reversal; Airbending Lesson; Appa, Loyal Sky Bison; Badgermole; Beast Within; Bender's Waterskin; Bitter Work; Command Tower; Crashing Wave; Cultivate; Earth Kingdom General; Earth Rumble; Earthbending Lesson; Earthbending Student; Energybending; Enter the Avatar State; Evolving Wilds; Farseek; Fire Nation Attacks; Fire Sages; Flexible Waterbender; Frontier Bivouac; Generous Gift; Glider Staff; Harrow; Haru, Hidden Talent; Jungle Shrine; Katara, Bending Prodigy; Kodama's Reach; Kyoshi Village; Meditation Pools; Mystic Monastery; Nature's Lore; North Pole Gates; North Pole Patrol; Omashu City; Origin of Metalbending; Path of Ancestry; Rocky Rebuke; Sandbenders' Storm; Seaside Citadel; Sun Warriors; Terramorphic Expanse; The Boulder, Ready to Rumble; Toph, the Blind Bandit; Uncle Iroh; Waterbending Lesson; Zuko, Exiled Prince"
+ ],
+ "order": 45,
+ "owner": "Middle",
+ "source": "Built by Claude Nov 3, 2026; card text and color identity checked, ownership assumed from your notes",
+ "target": 100,
+ "themeLabel": "Bend it all",
+ "updated": "Nov 3, 2026"
+}

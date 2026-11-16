@@ -1,0 +1,7 @@
+{
+ "howto": "Put lawyer.py, h2h.py and the tomsim files (tom_sim.py, tom_cards.py, tom_tools.py) in one folder with deck.json (vault decks/lawyer-kynaios-tiro; {\"cards\":[{name,qty}]}), tom_deck.json (Tom list; h2h.py swaps in the Nov 13 Saga package) and the mtg-data cards.csv.gz (set CARDS_CSV). Run: PYTHONHASHSEED=0 python3 lawyer.py 3000 for Lawyer win-by-turn, then python3 h2h.py 3000 for the Tom vs Lawyers race. Note: h2h.py imports the Saga-creature version of tomsim (sim10 with FLIPS) for Esper Origins; plain tomsim v5 will not know that card.",
+ "modeled": "Nov 13, 2026. Solitaire kill turns for the Lawyers: Felidar Sovereign (40+ life at upkeep), Azor's Elocutors (5 upkeeps), Approach of the Second Sun (two casts from hand), mana rocks and dorks, Cultivate, Stock Up, Fact or Fiction, Kynaios and Tiro (end-step draw and land drops), land colors from the card database, opponent removal and wipes at the bracket rates, counterspell rolls on win pieces. h2h.py pairs Tom's kill turns with the Lawyers' to give who wins the race, with Tom run under extra Lawyer interference profiles (more counters, wipes, enchantment removal).",
+ "name": "Lawyer deck kill-turn simulator + Tom head-to-head race",
+ "not_modeled": "Rule of Law, Ghostly Prison, Propaganda, Sphere of Safety, Austere Command and Cyclonic Rift as real cards (only flat disruption rates), Lawyer creature damage, Insurrection, Expropriate, Dovin walkers, true heads-up interaction, Jennifer Walters (not in the card database; treated as a blank).",
+ "updated": "Nov 13, 2026"
+}

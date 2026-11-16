@@ -1,0 +1,645 @@
+{
+ "adds": [
+  {
+   "name": "Swan Song",
+   "status": "planned",
+   "why": "Not owned right now. Swap back in for Glint-Horn Buccaneer when you get one: 1-mana counter for sweepers, combo pieces and key enchantments."
+  }
+ ],
+ "bracket": "High Bracket 3",
+ "bracketGoal": "3 Game Changers · must hold up in Bracket 4",
+ "cards": [
+  {
+   "name": "An Offer You Can't Refuse",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Denial",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Archfiend of Ifnir",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Black Market Connections",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Blasphemous Act",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Blightstep Pathway",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Bone Miser",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Burning Inquiry",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Canyon Slough",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Cascade Bluffs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Cephalid Coliseum",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Chaos Warp",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Chromatic Lantern",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Cool but Rude",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Class",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Counterspell",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Crucible of Worlds",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Negate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Dakmor Salvage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Dark Deal",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Darkwater Catacombs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Diabolic Tutor",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Doom Variant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature",
+   "uv": true
+  },
+  {
+   "name": "Dragonskull Summit",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Drowned Catacomb",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Faithless Looting",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Fetid Pools",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Frantic Search",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Geier Reach Sanitarium",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Green Goblin, Nemesis",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Irma, Part-Time Mutant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Island",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Jace's Archivist",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Jace, Wielder of Mysteries",
+   "qty": 1,
+   "role": "win",
+   "type": "Planeswalker"
+  },
+  {
+   "name": "Ledger Shredder",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Library of Leng",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Living Laser",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Loki's Double",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Loki, God of Mischief",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Luxury Suite",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Monument to Endurance",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mountain",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Muddle the Mixture",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Narset, Parter of Veils",
+   "qty": 1,
+   "role": "eng",
+   "type": "Planeswalker"
+  },
+  {
+   "name": "Norman Osborn // Green Goblin",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Notion Thief",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Orcish Bowmasters",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Oscorp Industries",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Perplex",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Petrified Field",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plaza of Heroes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Psychic Frog",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Psychosis Crawler",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Reforge the Soul",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Refute",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Scorched Geyser",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Seething Landscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Seismic Assault",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Shivan Reef",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Shred Memory",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Instant"
+  },
+  {
+   "name": "Smoldering Marsh",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Spire of Industry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Spymaster's Vault",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfur Falls",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfurous Springs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sunken Hollow",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 4,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Tainted Isle",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Tainted Peak",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Talisman of Creativity",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Dominance",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Indulgence",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Taskmaster, Mercenary Mimic",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Tectonic Reformation",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Teferi's Ageless Insight",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Terminate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Tinybones, Pocket Nuisance",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Toxic Deluge",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Trade Routes",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Underground River",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Vandalblast",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Villainous Hideout",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Waste Not",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Wheel of Fortune",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Whispering Madness",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Windfall",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Glint-Horn Buccaneer",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Riverglide Pathway",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Hidden Lair",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Graven Cairns",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Capital City",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Desolate Lighthouse",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Howling Mine",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  }
+ ],
+ "colors": [
+  "U",
+  "B",
+  "R"
+ ],
+ "commanders": [
+  "Doctor Doom, King of Latveria"
+ ],
+ "format": "Commander",
+ "name": "Doom's Big Wheels",
+ "notes": [
+  "Awesome Android in this list is the Marvel printing of Containment Construct (according to you).",
+  "Game Changers you intend to run: Notion Thief, Narset, Parter of Veils, Orcish Bowmasters (3 total).",
+  "Copy cards that get around the legend rule: Loki's Double (Spark Double), Chameleon, Taskmaster, the Multiversal cards, Irma.",
+  "Planned cuts (Oct 12), 22 total: Doom's Time Platform, Crimson Cowl, Glorious Purpose, Doctor Octopus, Doom Reigns Supreme, Construct a Cosmic Cube, Faith of the Devoted, Body Launderer, Brainstorm, Dig Through Time, Prowler, Loki the Deceiver, Withering Torment, Swiftfoot Boots, Patchwork Banner, Glint-Horn Buccaneer, Big Score, Reanimate, Change of Fortune, Doctor Doom (base card), Castle Doom, Surveillance Room. Goes to 39 lands.",
+  "Confirmed Oct 12: Bowmasters, Chameleon and Norman were not in the deck; they are new adds.",
+  "Budget land option: Ash Barrens over Exotic Orchard.",
+  "Decided keeps (Oct 12): Bone Miser, Loki God of Mischief, Library of Leng, Faithless Looting, Dark Deal, Currency Converter, Awesome Android, Crucible of Worlds, Taskmaster, Skirge Familiar, Vandalblast, Green Goblin Nemesis, Living Laser, Archfiend. Playgroup has artifact Voltron and go-wide creature decks.",
+  "Re-add list, in order: 1) Glint-Horn Buccaneer, 2) Big Score, 3) Wheel of Misfortune, 4) Cathartic Reunion, 5) Behold the Sinister Six! (7-mana mass reanimation: returns up to six different-named creatures, rebuilds the engine after Toxic Deluge or Blasphemous Act; for grindy tables, too slow for Bracket 4), 6) Reanimate, 7) Animate Dead, 8) Multiversal Incursion (7-mana copy-every-creature finisher; for a creature-heavier build).",
+  "Bracket 4 upgrade (Oct 14 plan, 9 swaps, 12 Game Changers total): Mana Vault for Talisman of Indulgence; Chrome Mox for Talisman of Creativity; Mox Diamond for Chromatic Lantern; Ancient Tomb for Mountain; Grim Monolith for Path of Ancestry; Force of Will for Arcane Denial; Demonic Tutor for Black Market Connections; Vampiric Tutor for Chaos Warp; Gamble for Exotic Orchard. Leaves 37 lands, fine with 4 fast-mana pieces. Optional next: Imperial Seal, Mystical Tutor, Rhystic Study, The One Ring, Fierce Guardianship, Underworld Breach. Mana Crypt and Jeweled Lotus are banned.",
+  "Oct 13: Swapped planned add Negate for Jace, Wielder of Mysteries (win con). Backup option: Laboratory Maniac.",
+  "Bench (considered, kept for future review). Dropped add: Negate (dropped Oct 13 for Jace; noncreature hard counter, re-check if the table leans on wipes or combo pieces). Planned cuts (Oct 12): Doom's Time Platform, Crimson Cowl, Glorious Purpose, Doctor Octopus, Doom Reigns Supreme, Construct a Cosmic Cube, Faith of the Devoted, Body Launderer, Brainstorm, Dig Through Time, Prowler, Loki, the Deceiver, Withering Torment, Swiftfoot Boots, Patchwork Banner, Glint-Horn Buccaneer, Big Score, Reanimate, Change of Fortune, Doctor Doom (base card), Castle Doom, Surveillance Room.",
+  "Oct 14: In: Reforge the Soul (another 7-card wheel; miracle for {1}{R} if it's the first card you draw that turn, including off a wheel), Burning Inquiry (1 mana: each player draws 3, discards 3 at random; Doom, Tinybones, Bowmasters and Waste Not all trigger), Cephalid Coliseum (untapped blue; with threshold, sac for an uncounterable draw-3/discard-3 for everyone). Out: Bedevil, Lethal Scheme (was a decided keep; mostly cast for 4 without creatures to convoke), 1 Island. Toxic Deluge stays: the playgroup has go-wide decks and it's the only wipe besides Blasphemous Act.",
+  "Oct 14: All 22 planned adds made (each replaced its planned cut). Planned cuts are now on the bench; re-add list unchanged.",
+  "Oct 14: M.O.D.O.K. in over Animate Dead. Pay 3 life: connive, any number of times on your turn, so every land discarded is a Doom drain; flying lifelink pays the life back; opponents' creatures get -1/-1 against the go-wide decks; a Villain for Doom's menace. Animate Dead added to the re-add list.",
+  "Oct 15 lands: In Geier Reach Sanitarium, Plaza of Heroes, Blightstep Pathway. Out Exotic Orchard, Path of Ancestry, Shadowblood Ridge. Still 39 lands. Keep Darkwater Catacombs and Cascade Bluffs: filter lands turn the colorless lands (Geier Reach, Petrified Field) into colors, and Bluffs is a key red source.",
+  "Bench lands (Oct 15): The Grey Havens (untapped, scry 1, colors only from legendary creatures in graveyard; if added, cut Darkwater, never Cascade Bluffs). Passed: Surveillance Room (surveil isn't discard, filter costs {1}), Castle Doom (Doombot costs an artifact; Doom is already a Villain).",
+  "Bracket 4 plan needs new cut targets: Gamble was slated for Exotic Orchard and Grim Monolith for Path of Ancestry, both now gone.",
+  "Oct 15 simulation (3,000 paired games per version): deck has more discard outlets than land ammo; payoffs and card flow matter most. Top cards: Cool but Rude, Black Market Connections, Monument, Jace's Archivist, Sol Ring, Crucible, Windfall, Wheel of Fortune. This package: about 0.5 turns faster on a Bracket 3 table and 0.7 on Bracket 4; Bracket 4 wins by T16 66% -> 77%.",
+  "Oct 15 swaps: In Swiftfoot Boots, Negate, Muddle the Mixture, Perplex. Out Zombie Infestation, Awesome Android, M.O.D.O.K., Molten Vortex. Kept Ledger Shredder, Refute and Skirge Familiar by choice.",
+  "Bench (Oct 15): Zombie Infestation, Awesome Android, M.O.D.O.K. (-1/-1 vs go-wide), Molten Vortex, Moonstone, Harsh Mistress (tested about even with Android, below Crucible). Future upgrade: Deflecting Swat (not owned). Avoid Lightning Greaves: shroud stops Doom's own connive trigger and Irma. Surly Badgersaur tested below Bone Miser.",
+  "SIMULATOR (Oct 15): 3,000 paired games per test, Bracket 3 and Bracket 4 interaction profiles. Code saved in this vault (tools/doomsim). Current list wins by T12: 72% (B3) / 51% (B4); by T16: 95% / 85%. Engine online ~T7.",
+  "Biggest cards (turns slower without): Cool but Rude 0.6, Dakmor Salvage 0.33 (dredge loop), Black Market Connections 0.3-0.4, Monument 0.25, Crucible 0.2, Sol Ring, Wheels, Archivist. Bottleneck: lands to discard, not outlets.",
+  "Multiple Dooms: 2 Dooms -> win ~3 turns later; 3 Dooms -> ~2 turns. 3+ Dooms in ~12% (B3) of games, won 93%.",
+  "Mana base near max: perfect mana only gains 0.1-0.25 turns. Fetches+shocks ~+2 wins/100 (B3). Underground Sea: swap for Darkwater Catacombs if added.",
+  "Play tips from sim: with Oscorp in hand and Doom out, hold land drop, discard it, Mayhem it back. Notion Thief/Narset turn off Bowmasters. Dakmor never played as a land.",
+  "Possible adds tested: Shred Memory +0.16-0.20 turns (finds Cool but Rude), Grim Tutor +0.14-0.20, Diabolic Tutor +0.12-0.15, Dimir Machinations +0.08-0.15. Payoffs (Megrim, Caress, Faith, Glint-Horn) +0.0-0.08. Lowest-scoring creature: Skirge Familiar.",
+  "BRACKET 4 TEST (Oct 15). Core +9: Mana Vault (for Talisman of Indulgence), Chrome Mox (Talisman of Creativity), Mox Diamond (Chromatic Lantern), Ancient Tomb (Mountain), Grim Monolith (Skirge), Force of Will (Arcane Denial), Demonic Tutor (Green Goblin Nemesis), Vampiric Tutor (Chaos Warp), Gamble (Taskmaster). Result: B4 by T12 51% -> 63%, ~0.75 turns faster.",
+  "BRACKET 4 MAX +6 more: Imperial Seal (Irma), Mystical Tutor (Archfiend), Rhystic Study (Psychosis Crawler), The One Ring (Chameleon), Fierce Guardianship (Negate), Necropotence (Living Laser). Result: B4 by T12 75%, by T16 96%, ~1.5 turns faster; avg win still ~T11.",
+  "cEDH (Bracket 5) reality: tables win T3-5; best Doom package still averages ~T10-11. Would need a 2-card combo (Thassa's Oracle or Jace + Demonic Consultation/Tainted Pact; Underworld Breach + Lion's Eye Diamond + Brain Freeze), ~30 lands, full fast mana (all moxen, Lotus Petal, Dark Ritual), free interaction (Force, Pact of Negation, Mental Misstep) and stax. At that point Doom is just the Grixis shell.",
+  "Oct 16: Shred Memory in for Skirge Familiar, Diabolic Tutor in for Negate (sim, 4,000 games): B3 table about +0.25 turns faster than before. Counterspell kept (the Doom variant). Still 3 Game Changers.",
+  "Star Trek (TRK, Nov 13 2026) check, Oct 27 (sim, 4,000 games, each in for Refute): Year of Hell +0.11 turns at B3 / +0.09 at B4 (kill by T12 76.3% -> 78.3%) - each player draws (Notion Thief, Bowmasters, Crawler) plus 2 damage to each player per chapter. Dominion Saboteur (non-legendary Doom copy) +0.02 / -0.03, Those Old Scientists +0.05 / -0.01, Plasma Cascade +0.04 / -0.02, Cloistered Telepath and Captain Kirk about 0 / -0.06. Armus not simulated (7 mana). Sim fix same day: Green Goblin, Ledger Shredder, Archfiend, Loki and Taskmaster had no cast priority (cast last); fixed. Green Goblin still tests near neutral (about 1 Treasure per game).",
+  "Nov 10: Glint-Horn Buccaneer in for Swan Song (Swan Song not owned right now; put it back when you get one). Glint-Horn is #1 on the re-add list; it tested about neutral (+0.00 to +0.08) as a payoff. Counters left: Counterspell, Arcane Denial, Refute, An Offer You Can't Refuse, Muddle the Mixture.",
+  "Nov 10 land update: In Riverglide Pathway, Hidden Lair (for 2 Islands), Graven Cairns, Capital City (for 2 Mountains), Desolate Lighthouse (for Choked Estuary). Reason: hand is usually empty of lands, so reveal-lands (Choked Estuary, Snarls) often enter tapped; Graven Cairns chosen over Frostboil Snarl. Capital City cycling and Desolate Lighthouse looting add land-discard triggers. Still 39 lands: 1 Island, 1 Mountain, 4 Swamps. Not simulated.",
+  "Nov 10: Howling Mine in for Chameleon, Master of Disguise. Sim (10,000 games, realistic hands): +0.11 turns B3, +0.16 B4, the biggest single upgrade tested. Opponents' extra draws trigger Bowmasters or go to you with Notion Thief; your extra draw is doubled by Teferi's Ageless Insight. Caveat: the sim does not model opponents using the extra cards against you. Next adds if wanted: Echo of Eons for Loki, God of Mischief (+0.02 B3 / +0.06 B4 with the Nov 10 wheel rule), Black Vise (+0.02-0.04 with Mine).",
+  "Nov 12 ORACLE RE-CHECK (sim v6, 5,000 paired games, card text checked against the whatwhatmeow/mtg-data repo). Sim errors found and fixed: Jace, Wielder of Mysteries costs {1}{U}{U}{U} (sim had 6 mana); Bone Miser costs {4}{B} (sim had 4 mana); Currency Converter costs {1} (sim had {2}, loot not modeled); Cephalid Coliseum only makes the target player draw/discard 3 (sim had every player). New lands now simulated. No change already made flips: Howling Mine for Chameleon +0.13 B3 / +0.16 B4; Year of Hell for Refute +0.09 / +0.11; Echo of Eons for Loki +0.02 / +0.03; Loki beats Chameleon by 0.03 (Chameleon was the right cut for Mine); Bone Miser worth ~0.02, still above Chameleon; Coliseum ~0 either way. Jace still tests slower than Negate (-0.03 / -0.09); keep him as anti-decking insurance, not for speed. Flag: Currency Converter tests worse than an empty slot (cut = +0.03 / +0.05); Negate for Converter +0.04 / +0.08 (Converter's exile/Treasure half not modeled). Skirge Familiar (text was already right) still the weakest: -0.06 vs Converter, -0.12 vs Bone Miser, -0.14 vs Loki, -0.19 / -0.27 vs Shred Memory. Current list wins by T12: 79% B3 / 58% B4. Not modeled: Norman's Green Goblin side (mayhem for discarded wheels), Faithless flashback, Archfiend cycling."
+ ],
+ "order": 1,
+ "owner": "Andrew",
+ "source": "as pasted Oct 11, 2026",
+ "target": 100,
+ "themeLabel": "Wheels & discard",
+ "updated": "Nov 12, 2026 (Negate in for Currency Converter, +0.04 B3 / +0.08 B4 in sim v6; Converter benched)"
+}

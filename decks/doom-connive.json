@@ -1,0 +1,618 @@
+{
+ "adds": [],
+ "bracket": "High Bracket 3",
+ "bracketGoal": "FOLDED Nov 16, 2026 · kept as a reference list only · was: 3 Game Changers · Villain connive army · dominate B3",
+ "cards": [
+  {
+   "name": "Ultron, Unlimited",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Monger, Sadistic Tycoon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "M.O.D.O.K.",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Leader, Super-Genius",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Prowler, Clawed Thief",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Baron Strucker, HYDRA Overlord",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Kang, Temporal Tyrant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Loki, God of Mischief",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Doc Ock's Henchmen",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mob Lookout",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "A.I.M. Scientists",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Madame Masque",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Norman Osborn // Green Goblin",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Typhoid Mary, Fractured",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Scorpion, Seething Striker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ledger Shredder",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Red Ghost, Intangible Genius",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "M.O.D.O.K., Evil Intellect",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultimate Green Goblin",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Green Goblin, Nemesis",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Doctor Octopus, Master Planner",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Squadron Sinister",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Living Laser",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mysterio, Master of Illusion",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Doctor Doom",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Tombstone, Career Criminal",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Loki, the Deceiver",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Chameleon, Master of Disguise",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spark Double",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Orcish Bowmasters",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Rhystic Study",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "The One Ring",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Glorious Purpose",
+   "qty": 1,
+   "role": "draw",
+   "sub": "Plan",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Robot Domination",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Plan",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Cool but Rude",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Class",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Monument to Endurance",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Black Market Connections",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Mask of the Schemer",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact",
+   "uv": true
+  },
+  {
+   "name": "Change of Plans",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Crucible of Worlds",
+   "qty": 1,
+   "role": "recur",
+   "type": "Artifact"
+  },
+  {
+   "name": "Endless Ranks of HYDRA",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Behold the Sinister Six!",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Animate Dead",
+   "qty": 1,
+   "role": "recur",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Counterspell",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Swan Song",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Denial",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "An Offer You Can't Refuse",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Negate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Pumpkin Bombardment",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Terminate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Bedevil",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Chaos Warp",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Lethal Scheme",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Vandalblast",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Kindred Dominance",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Toxic Deluge",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Dominance",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Indulgence",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Creativity",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Patchwork Banner",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plaza of Heroes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Villainous Hideout",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Spymaster's Vault",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Secluded Courtyard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Unclaimed Territory",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Luxury Suite",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Watery Grave",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Blood Crypt",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Steam Vents",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Polluted Delta",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Bloodstained Mire",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Scalding Tarn",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Choked Estuary",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fetid Pools",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sunken Hollow",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Canyon Slough",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Smoldering Marsh",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Drowned Catacomb",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Dragonskull Summit",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfur Falls",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfurous Springs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Underground River",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Shivan Reef",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Darkwater Catacombs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Blightstep Pathway",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Frostboil Snarl",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Foreboding Ruins",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Crumbling Necropolis",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Oscorp Industries",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "U",
+  "B",
+  "R"
+ ],
+ "commanders": [
+  "Doctor Doom, King of Latveria"
+ ],
+ "folded": "Nov 16, 2026: retired. It competed with Norman Osborn and Thanos for nearly every Villain and was never checked against the collection. Nothing physical to move.",
+ "format": "Commander",
+ "name": "Doom Connive (Villains)",
+ "notes": [
+  "v2, Oct 17, 2026: rebuilt from the full card pool (not limited to cards in the Doom Wheel deck), no wheel package. Not checked against your collection.",
+  "Plan: every connive draws, makes a Robot Villain (Ultron, pay 1), puts a +1/+1 counter on every Villain (Iron Monger), and drains 6 when you discard a land (Doom). Win with flying Villain combat plus drains. Glorious Purpose turns six connives into four free cards.",
+  "Connive sources: Doom (combat), Ultron and Kang (attack), Leader (each combat, plus a draw per connive), M.O.D.O.K. (pay 3 life, repeatable on your turn), Prowler (each Villain entering, including tokens), Baron Strucker, Madame Masque, A.I.M. Scientists, Doc Ock's Henchmen, Mob Lookout, Scorpion, Norman, Ledger Shredder, Mask of the Schemer, Change of Plans, Lethal Scheme, Villainous Hideout, Spymaster's Vault.",
+  "Second-draw payoffs (connive draws count): Red Ghost (3/3 haste Ape Villain), Kang (drain 1, gain 1), Madame Masque (2/1 menace Villain), M.O.D.O.K., Evil Intellect (opponent sacrifices a nontoken creature). Loki, God of Mischief draws off Doom's targeted connive, so the first connive each turn is usually the second draw.",
+  "Game Changers (3): Orcish Bowmasters, Rhystic Study, The One Ring.",
+  "Bracket 3 flag: Ultron + Prowler loop is bounded (each Robot costs {1}; Green Goblin's Treasures enter tapped). Never add Ashnod's Altar, Phyrexian Altar or Krark-Clan Ironworks. Mention it at the table.",
+  "Wipe plan: Kindred Dominance naming Villain is one-sided; Change of Plans can phase your team out in response to a wipe; Behold the Sinister Six! and Robot Domination rebuild.",
+  "Avoid Lightning Greaves: shroud stops Doom's own connive target.",
+  "Not simulated yet. Estimate: engine online turn 5-6; wins turn 7-9 at Bracket 3 tables."
+ ],
+ "order": 3,
+ "owner": "Andrew",
+ "source": "Built by Claude from the full card pool, Oct 17, 2026 (v2, not checked against your collection)",
+ "target": 100,
+ "themeLabel": "Villain connive",
+ "updated": "Oct 17, 2026"
+}

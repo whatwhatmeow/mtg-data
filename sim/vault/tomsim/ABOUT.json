@@ -1,0 +1,7 @@
+{
+ "howto": "PYTHONHASHSEED=0 python3 tom_tools.py deck.json bracket3|bracket4 3000 (leave-one-out). compare(V, profile, N, combo_from=6) for B3 etiquette.",
+ "modeled": "Lore counters, all Saga chapters/Summons, Tom reveal, Smaug Treasures, AWBO pings, Helix Pinnacle, infinite mana (Freed/Pemmin's on dorks, Staff, Mantle, Scepter), TABA+Clockspinning, Bahamut re-triggers, Maze's End, removal/wipes/enchantment removal/combo disruption. Oct 16: Mirrormade enters as a copy of your best Saga (else a mana rock); Terra's Trance ({4}{R}{G}) flips to Esper Terra, whose chapters I-III copy your best Saga with 3 extra lore counters and chapter IV adds WWUUBBRRGG and flips back. Return of the Mole Man: landfall mill 2 (while library > 25); {5}{G} sac for X 1/1 Moloids (X = permanent cards in graveyard, used at X >= 6). Walking Ballista as an infinite-mana outlet (held in hand; not fetched to battlefield by GSZ/Finale). Oct 27: Star Trek Sagas (Year of Hell, The Wrath of Khan, In the Pale Moonlight, The City on the Edge of Forever, All Good Things..., Those Old Scientists).",
+ "name": "Tom's Bombs Saga/combo simulator",
+ "not_modeled": "Opponents' clocks; exact stack interaction; some Saga edge cases.",
+ "updated": "Oct 16, 2026"
+}

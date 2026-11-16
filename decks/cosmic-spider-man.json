@@ -1,0 +1,754 @@
+{
+ "adds": [
+  {
+   "name": "Lolth, Spider Queen",
+   "status": "planned",
+   "why": "Spider-token planeswalker; fun flex slot."
+  }
+ ],
+ "bracket": "High Bracket 2",
+ "bracketGoal": "0 Game Changers · budget mana base · Spider typal go-wide, every Spider gets the full keyword package · no wheels",
+ "cards": [
+  {
+   "name": "Miles Morales",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Peter Parker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Gwen Stacy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Punk",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Radioactive Spider",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Creature"
+  },
+  {
+   "name": "SP//dr, Piloted by Peni",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Scarlet Spider, Ben Reilly",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Aunt May",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spectacular Spider-Man",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Ham, Peter Porker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Woman, Stunning Savior",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider Manifestation",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Mary Jane Watson",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Superior Spider-Man",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Man India",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Araña, Heart of the Spider",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Gwenom, Remorseless",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Pictures of Spider-Man",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arasta of the Endless Web",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Silk, Web Weaver",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Guy in the Chair",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Web-Warriors",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Symbiote Spider-Man",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Shelob, Child of Ungoliant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Man, Miles Morales",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Wall Crawl",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Spider-Byte, Web Warden",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-UK",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spinneret and Spiderling",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Girl, Legacy Hero",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Sensational Spider-Man",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Man 2099, Miguel O'Hara",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Madame Web, Clairvoyant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Skyward Spider",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spiders-Man, Heroic Horde",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ishkanah, Grafwidow",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Twitching Doll",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Metallic Mimic",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Sense",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Arachnogenesis",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Strength of Will",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Path to Exile",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Terminate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Beast Within",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Counterspell",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Heroic Intervention",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Spider-Suit",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Farseek",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rampant Growth",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Kodama's Reach",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Kindred Dominance",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Chromatic Lantern",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Patchwork Banner",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Herald's Horn",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Urza's Incubator",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Vanquisher's Banner",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Impostor Syndrome",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Web of Life and Destiny",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Kindred Discovery",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Spider-Verse",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Origin of Spider-Man",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Multiversal Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plaza of Heroes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Unclaimed Territory",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Secluded Courtyard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rupture Spire",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Gateway Plaza",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Urban Retreat",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Vibrant Cityscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Daily Bugle Building",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Oscorp Industries",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swarmyard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thornwood Falls",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Savage Mansion",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Suburban Sanctuary",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "University Campus",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Jungle Hollow",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sinister Hideout",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Ominous Asylum",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Jungle Shrine",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Frontier Bivouac",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Savage Lands",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Seaside Citadel",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sandsteppe Citadel",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mystic Monastery",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Nomad Outpost",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Opulent Palace",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Forest",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plains",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "W",
+  "U",
+  "B",
+  "R",
+  "G"
+ ],
+ "commanders": [
+  "Cosmic Spider-Man"
+ ],
+ "format": "Commander",
+ "name": "Cosmic Spider-Man: Spider-Verse",
+ "notes": [
+  "v4, Oct 18, 2026 (High Bracket 2, budget lands): Cosmic Spider-Man (WUBRG 5/5 flying, first strike, trample, lifelink, haste). At the beginning of combat on your turn, every other Spider you control gains all five keywords. 36 creatures, about 29 of them Spiders, so every token and Spider-person swings in as a hasty, lifelinking, trampling flyer.",
+  "Plan: ramp turns 1-3 (Sol Ring, Arcane Signet, Farseek, Rampant Growth, Kodama's Reach, Twitching Doll, Guy in the Chair), cast Cosmic turn 4-5, flood the board, swing. Lifelink on the whole team makes racing you nearly impossible.",
+  "v2 swaps from v1: out Rhystic Study, Smothering Tithe, Cyclonic Rift (all Game Changers); in Spider-Verse, Origin of Spider-Man, Spider-Suit. Zero Game Changers now.",
+  "v3 swaps from v2: out Spider-Man Noir, Lightning Greaves, Spider-Man 2099, Spider-Gwen Free Spirit, Ezekiel Sims, Spider-Man Brooklyn Visionary; in Wall Crawl, Vanquisher's Banner, Guy in the Chair, Spider-Girl Legacy Hero, Skyward Spider, Pictures of Spider-Man. Lowers the curve (four 5-drops out).",
+  "v4 swaps from v3 (budget mana base): out Cavern of Souls, Mana Confluence, City of Brass, 5 fetchlands, 3 triomes, 10 shocklands; in Plaza of Heroes (already owned), Gateway Plaza, Rupture Spire, 7 tapped tri-lands, Thornwood Falls, Jungle Hollow, 4 Spider-Man set surveil lands, Island, Swamp, Mountain. Nature's Lore and Three Visits became Rampant Growth and Kodama's Reach because the budget lands have no basic types.",
+  "Origin of Spider-Man and Spider-Suit turn non-Spiders (Aunt May, Metallic Mimic, an opponent-stealing target, anything) into Spider Heroes, so they catch Cosmic's keyword buff too.",
+  "Bracket 2 guardrails: no Game Changers, no extra turns, no mass land destruction, no two-card infinite combos. Don't add Rhystic Study, Smothering Tithe, Cyclonic Rift, Teferi's Protection, Demonic Tutor, Fierce Guardianship or The Great Henge.",
+  "Typal engines: Kindred Discovery, Herald's Horn, Urza's Incubator, Patchwork Banner, Metallic Mimic, Path of Ancestry, Plaza of Heroes, Unclaimed Territory, Secluded Courtyard (all name Spider).",
+  "Protection: Spectacular Spider-Man (sac: your creatures get hexproof + indestructible), Heroic Intervention, Strength of Will, Counterspell, Kindred Dominance naming Spider is a one-sided wipe.",
+  "Token makers: Spiders-Man, Heroic Horde (two 2/1 reach Spiders if web-slung), Arachnogenesis, Ishkanah, Arasta, Spinneret and Spiderling, Web of Life and Destiny.",
+  "Miles Morales, Peter Parker and Gwen Stacy are double-faced and listed by front name (they become Ultimate Spider-Man, Amazing Spider-Man and Ghost-Spider).",
+  "Not simulated yet. Picks lean on EDHREC inclusion rates; worth a quick read of each new Spider-Man set card before sleeving.",
+  "Optional softening for an easier table: cut Kindred Dominance (one-sided wipe) for Villainous Wrath or another Spider.",
+  "Spider-Punk nonbo: its 'spells and abilities can't be countered' applies to everyone, so your Counterspell and Spider-Sense are blank while it's out.",
+  "Mana base now has about 18 lands that enter tapped, so expect Cosmic on turn 5 more often than turn 4. Upgrade path, best first: Cavern of Souls, then the shocklands in the doc's swap table."
+ ],
+ "order": 23,
+ "owner": "Oldest",
+ "source": "Built by Claude from the full card pool and EDHREC data (14.4K decks), Oct 18, 2026; budget lands (not checked against your collection)",
+ "target": 100,
+ "themeLabel": "Spider army",
+ "updated": "Oct 18, 2026",
+ "variants": [
+  {
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers · nine tapped lands swapped for pain lands · no fetches or shocks",
+   "id": "nov15-sim",
+   "in": [
+    {
+     "name": "Battlefield Forge",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Adarkar Wastes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Brushland",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Caves of Koilos",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Shivan Reef",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Llanowar Wastes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Underground River",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Karplusan Forest",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Yavimaya Coast",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Nov 15 pain lands",
+   "name": "Cosmic Spider-Man (Nov 15 pain lands)",
+   "notes": [
+    "Nov 15 generic sim: Cosmic on curve (turn 5) went from 41% to 50% and mana on turn 4 from 4.09 to 4.39. Pod win rate did not move (44.7% to 43.5%), so this is a smoothness change, not a power change.",
+    "The sim does not charge the life for pain lands. The team's lifelink should cover it.",
+    "Several of these pain lands are already in She-Ra, the Fantastic Four deck and Aang. Check the spares before sleeving."
+   ],
+   "out": [
+    {
+     "name": "Rupture Spire",
+     "qty": 1
+    },
+    {
+     "name": "Gateway Plaza",
+     "qty": 1
+    },
+    {
+     "name": "Nomad Outpost",
+     "qty": 1
+    },
+    {
+     "name": "Sandsteppe Citadel",
+     "qty": 1
+    },
+    {
+     "name": "Savage Lands",
+     "qty": 1
+    },
+    {
+     "name": "Opulent Palace",
+     "qty": 1
+    },
+    {
+     "name": "Mystic Monastery",
+     "qty": 1
+    },
+    {
+     "name": "Frontier Bivouac",
+     "qty": 1
+    },
+    {
+     "name": "Seaside Citadel",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 15, 2026 vault-wide sim",
+   "updated": "Nov 15, 2026"
+  }
+ ]
+}

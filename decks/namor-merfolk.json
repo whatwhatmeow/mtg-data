@@ -1,0 +1,356 @@
+{
+ "adds": [
+  {
+   "name": "Summon: Leviathan",
+   "status": "planned",
+   "why": "$1.44. Out: Arcade Cabinet (your pick). Chapter I bounces every non-Merfolk creature; II and III draw a card per attacking Merfolk. Sim +0.08 turns."
+  },
+  {
+   "name": "Reconnaissance Mission",
+   "status": "planned",
+   "why": "$0.39. Out: Merfolk Cave-Diver. Second Coastal Piracy with cycling. Sim +0.17 turns."
+  },
+  {
+   "name": "Seafloor Oracle",
+   "status": "planned",
+   "why": "$0.34. Out: Pongify (Arcade Cabinet now goes for Summon: Leviathan). Merfolk that draws whenever a Merfolk hits. Sim +0.14 turns."
+  },
+  {
+   "name": "Distant Melody",
+   "status": "planned",
+   "why": "$0.34. Out: Kopala, Warden of Waves. Draw one per Merfolk. Sim +0.11 turns."
+  },
+  {
+   "name": "Deepchannel Mentor",
+   "status": "planned",
+   "why": "$1.38. Out: Frozen in Ice. Blue creatures you control can't be blocked. Sim +0.17 turns."
+  },
+  {
+   "name": "Silvergill Adept",
+   "status": "planned",
+   "why": "$0.30. Out: Scroll Thief. 2-mana Merfolk cantrip. Sim +0.09 turns."
+  },
+  {
+   "name": "Kindred Discovery",
+   "status": "planned",
+   "why": "$5.52. Out: Quantum Reduction. Best single add, sim +0.19 turns."
+  },
+  {
+   "name": "Vodalian Hexcatcher",
+   "status": "planned",
+   "why": "$4.98. Out: Fantastic Bounce. Flash lord. Sim +0.16 turns."
+  }
+ ],
+ "bracket": "Bracket 2",
+ "bracketGoal": "0 Game Changers · mono-blue Merfolk go-wide · all Marvel Merfolk",
+ "cards": [
+  {
+   "name": "Aetherize",
+   "qty": 1
+  },
+  {
+   "name": "Arcade Cabinet",
+   "qty": 1
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1
+  },
+  {
+   "name": "Archmage's Charm",
+   "qty": 1
+  },
+  {
+   "name": "Assassin Gauntlet",
+   "qty": 1
+  },
+  {
+   "name": "Atlantean Cavalry",
+   "qty": 1
+  },
+  {
+   "name": "Atlantean Skirmisher",
+   "qty": 1
+  },
+  {
+   "name": "Atlantis Attacks",
+   "qty": 1
+  },
+  {
+   "name": "Attuma, Atlantean Warlord",
+   "qty": 1
+  },
+  {
+   "name": "Back to Basics",
+   "qty": 1
+  },
+  {
+   "name": "Baxter Building",
+   "qty": 1
+  },
+  {
+   "name": "Bident of Thassa",
+   "qty": 1
+  },
+  {
+   "name": "Brainstorm",
+   "qty": 1
+  },
+  {
+   "name": "Brineborn Cutthroat",
+   "qty": 1
+  },
+  {
+   "name": "Chrome Host Seedshark",
+   "qty": 1
+  },
+  {
+   "name": "Coastal Piracy",
+   "qty": 1
+  },
+  {
+   "name": "Counterspell",
+   "qty": 1
+  },
+  {
+   "name": "Crashing Tide",
+   "qty": 1
+  },
+  {
+   "name": "Daughter of the Deep",
+   "qty": 1
+  },
+  {
+   "name": "Depower",
+   "qty": 1
+  },
+  {
+   "name": "Dig Through Time",
+   "qty": 1
+  },
+  {
+   "name": "Dream Fracture",
+   "qty": 1
+  },
+  {
+   "name": "Extract Power",
+   "qty": 1
+  },
+  {
+   "name": "Fabled Passage",
+   "qty": 1
+  },
+  {
+   "name": "Fact or Fiction",
+   "qty": 1
+  },
+  {
+   "name": "Fantastic Bounce",
+   "qty": 1
+  },
+  {
+   "name": "Frozen in Ice",
+   "qty": 1
+  },
+  {
+   "name": "Harbinger of the Tides",
+   "qty": 1
+  },
+  {
+   "name": "Harmonized Crescendo",
+   "qty": 1
+  },
+  {
+   "name": "Here Comes a New Hero!",
+   "qty": 1
+  },
+  {
+   "name": "High Tide",
+   "qty": 1
+  },
+  {
+   "name": "Idol of Oblivion",
+   "qty": 1
+  },
+  {
+   "name": "Kopala, Warden of Waves",
+   "qty": 1
+  },
+  {
+   "name": "Lord of Atlantis",
+   "qty": 1
+  },
+  {
+   "name": "Master of the Pearl Trident",
+   "qty": 1
+  },
+  {
+   "name": "Merfolk Cave-Diver",
+   "qty": 1
+  },
+  {
+   "name": "Merfolk Looter",
+   "qty": 1
+  },
+  {
+   "name": "Merfolk Sovereign",
+   "qty": 1
+  },
+  {
+   "name": "Merfolk Wayfinder",
+   "qty": 1
+  },
+  {
+   "name": "Merfolk Windrobber",
+   "qty": 1
+  },
+  {
+   "name": "Merrow Reejerey",
+   "qty": 1
+  },
+  {
+   "name": "Mind Stone",
+   "qty": 1
+  },
+  {
+   "name": "Mist Dancer",
+   "qty": 1
+  },
+  {
+   "name": "Mist-Cloaked Herald",
+   "qty": 1
+  },
+  {
+   "name": "Muddle the Mixture",
+   "qty": 1
+  },
+  {
+   "name": "Multiversal Incursion",
+   "qty": 1
+  },
+  {
+   "name": "Mystic Sanctuary",
+   "qty": 1
+  },
+  {
+   "name": "Namor, Scourge of the Seas",
+   "qty": 1
+  },
+  {
+   "name": "Namora, the Sea Queen",
+   "qty": 1
+  },
+  {
+   "name": "Patchwork Banner",
+   "qty": 1
+  },
+  {
+   "name": "Peel from Reality",
+   "qty": 1
+  },
+  {
+   "name": "Pongify",
+   "qty": 1
+  },
+  {
+   "name": "Pym Particles",
+   "qty": 1
+  },
+  {
+   "name": "Quantum Reduction",
+   "qty": 1
+  },
+  {
+   "name": "Scroll Thief",
+   "qty": 1
+  },
+  {
+   "name": "Shipwreck Patrol",
+   "qty": 1
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1
+  },
+  {
+   "name": "Stock Up",
+   "qty": 1
+  },
+  {
+   "name": "Stonybrook Banneret",
+   "qty": 1
+  },
+  {
+   "name": "Super Intelligence",
+   "qty": 1
+  },
+  {
+   "name": "Svyelun of Sea and Sky",
+   "qty": 1
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "qty": 1
+  },
+  {
+   "name": "Thirst for Knowledge",
+   "qty": 1
+  },
+  {
+   "name": "Tideshaper Mystic",
+   "qty": 1
+  },
+  {
+   "name": "Timeline Inquiry",
+   "qty": 1
+  },
+  {
+   "name": "Treasure Cruise",
+   "qty": 1
+  },
+  {
+   "name": "Unstable Experiment",
+   "qty": 1
+  },
+  {
+   "name": "Vibrant Cityscape",
+   "qty": 1
+  },
+  {
+   "name": "Whoosh!",
+   "qty": 1
+  },
+  {
+   "name": "Island",
+   "qty": 30
+  }
+ ],
+ "colors": [
+  "U"
+ ],
+ "commanders": [
+  "Namor the Sub-Mariner"
+ ],
+ "format": "Commander",
+ "name": "Namor: Atlantis Rising",
+ "notes": [
+  "Swaps applied from the binder: -Merrow Levitator, Prismwake Merrow, Familiar's Ruse, Merfolk Falconer, Hullbreacher, Sky Diamond; +Harbinger of the Tides, Merfolk Sovereign, Bident of Thassa, Crashing Tide, Merfolk Wayfinder, Scroll Thief.",
+  "Nov 11 swaps: -Zephyr Boots, We Say Thee Nay!, Merrow Wavebreakers, Aether Tradewinds, Negate; +Assassin Gauntlet, Muddle the Mixture, Chrome Host Seedshark, Treasure Cruise, Pongify. Also -Write into Being, Commander's Sphere; +Timeline Inquiry, Thirst for Knowledge. Aetherize back in (you have a copy); Negate out instead. Dream Fracture kept over Psychic Barrier (hard counter for any spell, draws you a card). Coastal Piracy in (owned) for Merfolk Secretkeeper.",
+  "Keep all Marvel Merfolk and Atlantis Attacks for theme; planned-add cuts avoid them.",
+  "Back to Basics kept by choice (legal at B2, not a Game Changer). Hullbreacher is banned in Commander, so it stays out.",
+  "Tideshaper Mystic kept: on your turn it turns a defender's land into an Island, so Lord of Atlantis / Master of the Pearl Trident islandwalk makes the team unblockable against any opponent.",
+  "Peel from Reality kept: Namor makes a Merfolk token when you cast it, so you bounce the token and the trade is free.",
+  "Fetch lands kept by choice (Fabled Passage, Terramorphic Expanse, Vibrant Cityscape).",
+  "Nov 12 sim rerun (5,000 games each, Oracle-checked against whatwhatmeow/mtg-data 2026-11-12). Fixed: Atlantean Skirmisher 1/2, Merfolk Cave-Diver {2}{U} 2/4, Harbinger of the Tides {U}{U}, Kopala {1}{U}{U}; modeled Seedshark incubators, Assassin Gauntlet, Muddle (instants/sorceries only + transmute), Thirst, Timeline Inquiry teamwork, Treasure Cruise delve, Atlantis Attacks teamwork, Back to Basics locking your own nonbasics.",
+  "Nov 12 results: current list wins by T12 61.4% at B2 (avg T12.2), 45.8% at B3 — 0.54 turns faster than the Oct 27 list on the same sim. Budget package (Recon Mission, Seafloor Oracle, Distant Melody, Deepchannel Mentor, Silvergill Adept, ~$2.75): 69.3% B2 / 53.7% B3, +0.48 turns. Plus Kindred Discovery + Hexcatcher: 71.7% / 56.9%, +0.64 turns.",
+  "Nov 12 biggest cards (turns lost if cut): Mist Dancer 0.31, Master of the Pearl Trident 0.27, Lord of Atlantis 0.26, Multiversal Incursion 0.21, Attuma 0.21, Sol Ring 0.20, Bident 0.17, Coastal Piracy 0.16, Crescendo 0.15, Svyelun 0.14. Bottom (about zero or slightly negative): Back to Basics, Atlantis Attacks, Merfolk Cave-Diver, Chrome Host Seedshark, Peel from Reality, Arcade Cabinet, Aetherize, Pongify, Kopala, Frozen in Ice, Namora, Quantum Reduction.",
+  "Nov 12 tested ~0 or worse: Herald's Horn +0.01, Rapid Hybridization 0, Swiftfoot Boots -0.02 (fewer Namor removals, slower), Rogue's Passage -0.05, True-Name Nemesis, Talrand, Herald of Secret Streams ~0. Harbinger of the Seas +0.05, Tempest Caller +0.02, Alandra +0.03.",
+  "Sim limits: opponents don't attack you or combo, so defensive cards (Aetherize, Pongify, Kopala, Swiftfoot, counterspells vs game-winning plays) are undervalued."
+ ],
+ "order": 6,
+ "owner": "Andrew",
+ "source": "Sleeved list + binder swaps (Oct 27) + Nov 11 swaps (all cards owned)",
+ "target": 100,
+ "themeLabel": "Merfolk tide",
+ "updated": "Nov 13, 2026"
+}

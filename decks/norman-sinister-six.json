@@ -1,0 +1,763 @@
+{
+ "adds": [],
+ "bracket": "High Bracket 3",
+ "bracketGoal": "3 Game Changers · Sinister Six + Green Goblin mayhem, no wheels · dominate B3",
+ "cards": [
+  {
+   "name": "Doctor Octopus, Master Planner",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Doc Ock, Sinister Scientist",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mysterio, Master of Illusion",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Electro, Assaulting Battery",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Scorpion, Seething Striker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Chameleon, Master of Disguise",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Carnage, Crimson Chaos",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultimate Green Goblin",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Green Goblin, Revenant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Green Goblin, Nemesis",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hobgoblin, Mantled Marauder",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Swarm, Being of Bees",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Squadron Sinister",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Prowler, Clawed Thief",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultron, Unlimited",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Monger, Sadistic Tycoon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "M.O.D.O.K.",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Leader, Super-Genius",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Red Ghost, Intangible Genius",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Kang, Temporal Tyrant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Loki, God of Mischief",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Baron Strucker, HYDRA Overlord",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Tombstone, Career Criminal",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Doctor Doom, King of Latveria",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Orcish Bowmasters",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "The One Ring",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Opposition Agent",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Shadow of the Goblin",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Mask of the Schemer",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact",
+   "uv": true
+  },
+  {
+   "name": "Faithless Looting",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Frantic Search",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Thrill of Possibility",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Unexpected Windfall",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Instant"
+  },
+  {
+   "name": "Big Score",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Instant"
+  },
+  {
+   "name": "Fable of the Mirror-Breaker",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Change of Plans",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Glorious Purpose",
+   "qty": 1,
+   "role": "draw",
+   "sub": "Plan",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Robot Domination",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Plan",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Cool but Rude",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Class",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Endless Ranks of HYDRA",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Animate Dead",
+   "qty": 1,
+   "role": "recur",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Behold the Sinister Six!",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Counterspell",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Swan Song",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Denial",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "An Offer You Can't Refuse",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Negate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Electro's Bolt",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Pumpkin Bombardment",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Deadly Rollick",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Infernal Grasp",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Terminate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Bedevil",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Chaos Warp",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Lethal Scheme",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Sandman's Quicksand",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Toxic Deluge",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Fellwar Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Dominance",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Indulgence",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Creativity",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plaza of Heroes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Villainous Hideout",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Spymaster's Vault",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Secluded Courtyard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Unclaimed Territory",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Luxury Suite",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Watery Grave",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Blood Crypt",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Steam Vents",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Polluted Delta",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Bloodstained Mire",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Scalding Tarn",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Choked Estuary",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fetid Pools",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sunken Hollow",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Canyon Slough",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Smoldering Marsh",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Drowned Catacomb",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Dragonskull Summit",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfur Falls",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfurous Springs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Underground River",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Shivan Reef",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Darkwater Catacombs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Blightstep Pathway",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Frostboil Snarl",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Foreboding Ruins",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Crumbling Necropolis",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Otawara, Soaring City",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "U",
+  "B",
+  "R"
+ ],
+ "commanders": [
+  "Norman Osborn // Green Goblin"
+ ],
+ "format": "Commander",
+ "name": "Norman Osborn: Sinister Six",
+ "notes": [
+  "v3, Oct 17, 2026: tuned for power for the family Sinister Six deck. Built from the full card pool, no wheels, not checked against your collection. Doctor Doom, King of Latveria is in the 99.",
+  "Game Changers (3): Opposition Agent (already in the current deck, Agent Venom art), Orcish Bowmasters, The One Ring. Rhystic Study was cut for Opposition Agent.",
+  "Plan: Norman on turn 2 (unblockable, connives on hit; Mask of the Schemer makes him connive X). Transform for {1}{U}{B}{R}. Green Goblin lets you recast any nonland card you discarded this turn for its mana cost, 2 less. Discard a Villain or removal spell, then recast it cheaply.",
+  "Discard outlets (no wheels): connive Villains, Faithless Looting, Frantic Search, Thrill of Possibility, Unexpected Windfall and Big Score (discard as a cost, make Treasures), Fable of the Mirror-Breaker, Shadow of the Goblin, Ultimate Green Goblin's upkeep discard, Green Goblin Revenant's attack, Pumpkin Bombardment.",
+  "Cheap interaction: Deadly Rollick is free while Norman/Goblin is on the battlefield; Infernal Grasp, Terminate, Pumpkin Bombardment, Electro's Bolt, Bowmasters, Otawara, five counterspells. Sandman's Quicksand recast from the graveyard counts as paying mayhem, so it only shrinks opponents' creatures.",
+  "Sinister Six core: Doctor Octopus, Master Planner (Villains +2/+2, refill to eight each end step), Doc Ock, Mysterio, Electro, Scorpion, Chameleon. Behold the Sinister Six! costs 5 when recast from the graveyard with Goblin.",
+  "v3 swaps from v2: out Rhystic Study, Patchwork Banner, Madame Masque, Prison Break, Kindred Dominance, Unstable Experiment, 1 Island; in Opposition Agent, Unexpected Windfall, Big Score, Deadly Rollick, Infernal Grasp, Fellwar Stone, Otawara.",
+  "Bracket 3 flags: Ultron + Prowler loop is bounded (each Robot costs {1}); never add Ashnod's Altar, Phyrexian Altar or Krark-Clan Ironworks. No Underworld Breach.",
+  "Not simulated yet. Estimate: Goblin online turn 4-5; wins turn 7-9 at Bracket 3."
+ ],
+ "order": 22,
+ "owner": "Oldest",
+ "source": "Built by Claude from the full card pool, Oct 17, 2026 (not checked against your collection)",
+ "target": 100,
+ "themeLabel": "Discard & recast",
+ "updated": "Oct 17, 2026",
+ "variants": [
+  {
+   "adds": [
+    {
+     "name": "Sign in Blood",
+     "status": "planned",
+     "why": "Option for Night's Whisper. Cheap draw that feeds the discard plan."
+    },
+    {
+     "name": "Phyrexian Arena",
+     "status": "planned",
+     "why": "Option. Steady one-card-a-turn draw; gives the discard-and-recast plan more cards to pitch."
+    },
+    {
+     "name": "Mind Stone",
+     "status": "planned",
+     "why": "Option for Fellwar Stone. Cheap rock that cycles late."
+    },
+    {
+     "name": "Treasure Cruise",
+     "status": "planned",
+     "why": "Option for Night's Whisper. Draws three once the graveyard fills from discarding."
+    },
+    {
+     "name": "Negate",
+     "status": "planned",
+     "why": "Back in if you want a fifth counterspell instead of Gifts Ungiven."
+    }
+   ],
+   "bracket": "Bracket 2 power (officially B3)",
+   "bracketGoal": "1 Game Changer (Opposition Agent) by request · B2 rules otherwise · no fetch/shock land speed · discard & recast, no wheels",
+   "id": "b2",
+   "in": [
+    {
+     "name": "Murderous Rider",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Night's Whisper",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Gifts Ungiven",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Evolving Wilds",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Xander's Lounge",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Island",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Swamp",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mountain",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "B2 power + Agent",
+   "name": "Norman Osborn: Sinister Six (B2 power + Opposition Agent)",
+   "notes": [
+    "Opposition Agent stays in by request. It's a Game Changer, so this list is officially Bracket 3 with one Game Changer; everything else is Bracket 2 level. Cut it for Sign in Blood to make it true Bracket 2 again, or ask the table first (rule 0).",
+    "Gifts Ungiven in for Negate. It's a four-mana instant tutor: name Ultron, Doctor Doom, Animate Dead and Behold the Sinister Six, and whatever lands in the graveyard is reanimation fuel or a mayhem recast. It doesn't trigger the Green Goblin recast, which only counts cards you discarded, so it's a good fit but not a core piece.",
+    "Bowmasters and The One Ring are out. Murderous Rider and Night's Whisper replace them.",
+    "Mana: the six fetch and shock lands are out so the land speed stays at Bracket 2 level. In: Terramorphic Expanse, Evolving Wilds, Xander's Lounge (UBR Triome) and one more basic of each color. Pain lands stay (Sulfurous Springs, Underground River, Shivan Reef).",
+    "Bracket checks: no extra turns, no mass land denial, no two-card infinite combos. Ultron plus Prowler is still bounded (each Robot costs {1}). Don't add Ashnod's Altar, Phyrexian Altar, Krark-Clan Ironworks or Underworld Breach."
+   ],
+   "out": [
+    {
+     "name": "Orcish Bowmasters",
+     "qty": 1
+    },
+    {
+     "name": "The One Ring",
+     "qty": 1
+    },
+    {
+     "name": "Negate",
+     "qty": 1
+    },
+    {
+     "name": "Polluted Delta",
+     "qty": 1
+    },
+    {
+     "name": "Bloodstained Mire",
+     "qty": 1
+    },
+    {
+     "name": "Scalding Tarn",
+     "qty": 1
+    },
+    {
+     "name": "Watery Grave",
+     "qty": 1
+    },
+    {
+     "name": "Blood Crypt",
+     "qty": 1
+    },
+    {
+     "name": "Steam Vents",
+     "qty": 1
+    }
+   ],
+   "source": "Built by Claude from the v3 B3 list, Nov 13, 2026",
+   "updated": "Nov 13, 2026"
+  }
+ ]
+}

@@ -1,0 +1,644 @@
+{
+ "adds": [
+  {
+   "name": "The Fantasticar",
+   "status": "planned",
+   "why": "Nov 13 sim, top swap: for Take Up the Shield, +6.4 win-rate pts (for Colleen Wing +4.3). Colorless MSC rare, 3 mana: flies, becomes a creature when you cast a noncreature spell, and four noncreature spells in a turn make four 4/4 flying haste Constructs. Don't you own it? Check the Fantastic Four precon. Sim noise is about 1.5 pts."
+  },
+  {
+   "name": "Avengers Assemble!",
+   "status": "verify",
+   "why": "Check for a spare (MSH): for Spider-Man, Web-Slinger."
+  },
+  {
+   "name": "The Mind Stone",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Spectacular Spider-Man",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Hawkeye, Master Marksman",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Captain America, Wings of Freedom",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Araña, Heart of the Spider",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Captain Marvel, Earth's Protector",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Cosmic Cube",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Captain America's Shield",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role. Nov 13 sim: +2.5 for Colleen Wing."
+  },
+  {
+   "name": "Sol Ring",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Loose copy needed: for a Plains."
+  },
+  {
+   "name": "Arcane Signet",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Loose copy needed: for a Mountain."
+  },
+  {
+   "name": "Talisman of Conviction",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Red-white Talisman from the Marvel precons: for Wisecrack."
+  },
+  {
+   "name": "Fellwar Stone (S.H.I.E.L.D. Spy Satellite)",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Check for a spare: for a Plains."
+  },
+  {
+   "name": "Patchwork Banner (name Hero)",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Rock plus anthem for 34 Heroes: for Borough Backup."
+  },
+  {
+   "name": "Spectator Seating",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Untapped with two or more opponents, so almost always: for a Plains."
+  },
+  {
+   "name": "Clifftop Retreat",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Untapped with a Mountain or Plains: for a Mountain."
+  },
+  {
+   "name": "Furycalm Snarl",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Untapped if you reveal a Mountain or Plains: for a Plains."
+  },
+  {
+   "name": "Radiant Summit",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Untapped with two or more basics; Mountain Plains type: for a Mountain."
+  },
+  {
+   "name": "Glittering Massif",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Always tapped, cycling {2}; Mountain Plains type: for a Plains."
+  },
+  {
+   "name": "Evolving Wilds",
+   "status": "planned",
+   "why": "Mana round (Nov 9). One fetch; shuffles away a bad top card seen with Radar Sense: for a Plains."
+  },
+  {
+   "name": "Herald's Horn (Avengers Monitoring Station, name Hero)",
+   "status": "verify",
+   "why": "Utility round (Nov 9). 34 Heroes: cost reduction plus free cards off the top: for Fall to Earth."
+  },
+  {
+   "name": "Door of Destinies (name Hero)",
+   "status": "verify",
+   "why": "Utility round (Nov 9). Counts every Hero you cast: for Team Tactics."
+  },
+  {
+   "name": "Lightning Greaves",
+   "status": "verify",
+   "why": "Utility round (Nov 9). Protects Daredevil and gives haste: for Hex Magic."
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "status": "verify",
+   "why": "Utility round (Nov 9). Second protection piece: for Take Up the Shield."
+  }
+ ],
+ "bracket": "Bracket 2",
+ "bracketGoal": "FOLDED Nov 16, 2026 · parts to Captain America, Miles and The Vision and Scarlet Witch · was: 0 Game Changers · Marvel & Spider-Man nonlands · Heroes · aggro · card advantage",
+ "cards": [
+  {
+   "name": "Agent Maria Hill",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Agent Phil Coulson",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Asgardian Citadel",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Avengers Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Borough Backup",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Captain America, Skybound",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain America, Super-Soldier",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain Mar-Vell, Space-Born",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Colleen Wing, Street Samurai",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Daily Bugle Building",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Daredevil's Billy Club",
+   "qty": 1,
+   "role": "ramp",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Daredevil, Fearless Fighter",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Death to Our Enemies",
+   "qty": 1,
+   "role": "ramp",
+   "sub": "Plan",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Dependable Quinjet",
+   "qty": 1,
+   "role": "ramp",
+   "sub": "Vehicle",
+   "type": "Artifact"
+  },
+  {
+   "name": "Elektra, Femme Fatale",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Fall to Earth",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Foggy Nelson, On Retainer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "HULK SMASH!",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Hawkeye's Bow",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hawkeye, Young Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Helicarrier Strike",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Heroes for Hire",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Hex Magic",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Human Torch, Johnny Storm",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Fist, Hero for Hire",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Fist, Living Weapon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Jessica Jones, Private Eye",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Lightning Bolt",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Lightning Strike",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Luke Cage, Hero for Hire",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Luke Cage, Power Man",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Matt Murdock, Justice Seeker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Misty Knight, Hero for Hire",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mockingbird, Ace Agent",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mountain",
+   "qty": 16,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Murdock's Crusade",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Nico Minoru, Runaway",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Night Nurse, Healer of Heroes",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Okoye, Dora Milaje Leader",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Origin of the Avengers",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Patriot, Shield Wielder",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Plains",
+   "qty": 18,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Quake, Agent of S.H.I.E.L.D.",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Quicksilver, Brash Blur",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Red Guardian, Super-Soldier",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Repulsor Blast",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Shock",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Spectacular Tactics",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Speed, Young Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Man, Web-Slinger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-UK",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Stark Industries Executive",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Stick, Fearless Mentor",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Sudden Strike",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Super Villain Lockup",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Take Up the Shield",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Team Tactics",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "The Super Hero Civil War",
+   "qty": 1,
+   "role": "rem",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Thor Odinson",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Thor, Asgard's Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Thor, God of Thunder",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Truck Toss",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Ultimate Alliance",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "War Machine, Legacy of Iron",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Web Up",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Wisecrack",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Wonder Man, Hollywood Hero",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  }
+ ],
+ "colors": [
+  "R",
+  "W"
+ ],
+ "commanders": [
+  "Daredevil, Man Without Fear"
+ ],
+ "folded": "Nov 16, 2026: broken up. Thors: Thor Odinson to Avengers Assemble; Thor, God of Thunder and Thor, Asgard's Avenger to Miles (not in the vault yet). Captain America, Super-Soldier, Hawkeye, Young Avenger, Hawkeye's Bow and Agent Phil Coulson to Avengers Assemble. Red cards to The Vision and Scarlet Witch: Nico Minoru, Iron Fist, Hero for Hire, Jessica Jones, Speed, Hex Magic, Death to Our Enemies, Lightning Bolt, Shock, Lightning Strike, HULK SMASH!, Wisecrack, Team Tactics. Daredevil's Billy Club to Captain America: Shield Throw. Super Villain Lockup and Foggy Nelson to King T'Challa.",
+ "format": "Commander",
+ "name": "Daredevil: Hell's Kitchen Heroes",
+ "notes": [
+  "Daredevil has haste and vigilance, lets you look at the top card any time, and every attack exiles that card for you to play this turn. 34 Hero cards mean he usually also gets +2/+1, and the Hell's Kitchen crew from Jumpstart (Matt Murdock, Foggy Nelson, Elektra, Stick and a second Daredevil) turns the damage he takes into cards and burn.",
+  "Turns 1–3: Quicksilver (which can start the game in play), Matt Murdock, Iron Fist, Hero for Hire and Colleen Wing. Matt Murdock puts a counter on something each combat and gives countered creatures ward.",
+  "Turns 4–6: Daredevil attacks for a free card every turn. Daredevil, Fearless Fighter redirects damage you take to an opponent, and Stick turns that damage into another card. Luke Cage, Hero for Hire and Heroes for Hire make Treasure.",
+  "Closing: Captain America, Super-Soldier gives your Heroes hexproof, Skybound gives every attacker a counter and indestructible, The Super Hero Civil War steals two blockers; Thor, Asgard's Avenger adds 1 damage to everything else you deal. Lightning Bolt, Ultimate Alliance and Fall to Earth clear blockers.",
+  "Bracket 2: No tutors, combos or extra turns. Daredevil, Fearless Fighter deals damage to you when he reveals cards; Foggy Nelson and Matt Murdock help protect your key Heroes. Nico Minoru deals 2 to each opponent every time Daredevil plays a card from exile. Kate Bishop (Hawkeye, Young Avenger) adds her power to all your noncombat damage to opponents, so Hawkeye's Bow, Nico and Lightning Bolt each hit for 2 more. Avengers Assemble! is the top upgrade if you find it (swap out Spider-Man, Web-Slinger).",
+  "Set tags: MSH = Marvel Super Heroes, SPM = Marvel's Spider-Man, MSC = Marvel Super Heroes Commander and Jumpstart cards. Every card listed is one you own. Hot Dog Cart and Dependable Quinjet are in all five Marvel B2 decks; some other commons and uncommons are shared too."
+ ],
+ "order": 63,
+ "owner": "Andrew",
+ "section": "Marvel Bracket 2",
+ "source": "Moved from the Marvel Bracket 2 Decks page (Oct 29, 2026). Built from cards you own.",
+ "target": 100,
+ "themeLabel": "Hero aggro",
+ "updated": "2026-11-13",
+ "variants": [
+  {
+   "bracket": "Bracket 2",
+   "bracketGoal": "0 Game Changers · every card has a Marvel printing · four rocks plus Greaves and Boots",
+   "id": "nov15-sim",
+   "in": [
+    {
+     "name": "Sol Ring",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Arcane Signet",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Talisman of Conviction",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Fellwar Stone",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Lightning Greaves",
+     "qty": 1,
+     "role": "prot",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Swiftfoot Boots",
+     "qty": 1,
+     "role": "prot",
+     "sub": "Equipment",
+     "type": "Artifact"
+    }
+   ],
+   "label": "Nov 15 speed",
+   "name": "Daredevil (Nov 15 speed package)",
+   "notes": [
+    "Nov 15 generic sim (4,000 solo games, 5,000 four-player pods): mana on turn 4 went from 3.84 to 4.31 and pod win rate from 22.0% to 24.9%. The only speed package in the vault that moved win rate. The tested version also swapped five basics for Command Tower, Clifftop Retreat, Furycalm Snarl, Spectator Seating and Radiant Summit; the lands alone added nothing, so they are left out.",
+    "Against: Hex Magic is one of the deck's few refills, and a rock is a poor card to exile off the top with Daredevil's attack trigger.",
+    "All six cards were already on Cards to add as 'verify'. Check for loose copies before sleeving."
+   ],
+   "out": [
+    {
+     "name": "Plains",
+     "qty": 2
+    },
+    {
+     "name": "Mountain",
+     "qty": 1
+    },
+    {
+     "name": "Wisecrack",
+     "qty": 1
+    },
+    {
+     "name": "Hex Magic",
+     "qty": 1
+    },
+    {
+     "name": "Take Up the Shield",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 15, 2026 vault-wide sim",
+   "updated": "Nov 15, 2026"
+  }
+ ]
+}

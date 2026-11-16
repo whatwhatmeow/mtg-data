@@ -1,0 +1,568 @@
+{
+ "adds": [
+  {
+   "name": "Shang-Chi, Master of Kung Fu",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Earth's Mightiest Heroes",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Web of Life and Destiny",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Sandman, Shifting Scoundrel",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Doc Ock's Tentacles",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Strength of Will",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Sol Ring",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Loose copy needed: for Professional Wrestler."
+  },
+  {
+   "name": "Arcane Signet",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Loose copy needed: for Undercover Skrull."
+  },
+  {
+   "name": "Patchwork Banner (name Squirrel)",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Rock plus anthem; her doubling makes every Squirrel token count twice: for Supportive Parents."
+  },
+  {
+   "name": "Fellwar Stone (S.H.I.E.L.D. Spy Satellite)",
+   "status": "verify",
+   "why": "Optional. She already has 11 ramp pieces: for a Forest only if the deck feels slow."
+  },
+  {
+   "name": "Evolving Wilds",
+   "status": "planned",
+   "why": "Second fetch beside Vibrant Cityscape; shuffles away a bad top card for Ka-Zar, or plays off the top with him: for a Forest."
+  },
+  {
+   "name": "Skullclamp",
+   "status": "verify",
+   "why": "Utility round (Nov 9). Each 1/1 Squirrel token draws two; she's the best home for it. Only one copy (Doom precon), so she takes priority over Zemo and Winter Soldier: for Rapid Rescue."
+  },
+  {
+   "name": "Herald's Horn (Avengers Monitoring Station, name Squirrel)",
+   "status": "verify",
+   "why": "Utility round (Nov 9). Cost reduction plus free cards off the top: for Training Regimen."
+  },
+  {
+   "name": "Metallic Mimic (name Squirrel)",
+   "status": "verify",
+   "why": "Utility round (Nov 9). Every Squirrel token enters with a +1/+1 counter: for Super Strength."
+  },
+  {
+   "name": "Door of Destinies (name Squirrel)",
+   "status": "verify",
+   "why": "Utility round (Nov 9). Grows fast in a go-wide token deck: for Heroic Feast."
+  }
+ ],
+ "bracket": "Bracket 2",
+ "bracketGoal": "0 Game Changers · Marvel & Spider-Man nonlands · Squirrel tokens · counters · go-wide",
+ "cards": [
+  {
+   "name": "Ant-Man's Army",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Avengers Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Baxter Building",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Call Damage Control",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Claim the Kingdom",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Plan",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Damage Control Crew",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Dependable Quinjet",
+   "qty": 1,
+   "role": "ramp",
+   "sub": "Vehicle",
+   "type": "Artifact"
+  },
+  {
+   "name": "Doc Samson, Super Psychiatrist",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Epic Fight",
+   "qty": 1,
+   "role": "prot",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Forest",
+   "qty": 36,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Giant-Man, Gargantuan Genius",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Go Nuts!",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Guerrilla Gorilla",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Guy in the Chair",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "H.E.R.B.I.E. Scout Unit",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Hellcat, Undying Vigilante",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Hercules, Prince of Power",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Heroic Feast",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Hit-Monkey",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hot Dog Cart",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hulkling, Burgeoning Bruiser",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ka-Zar of the Savage Land",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Kapow!",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Knight of Wundagore",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Kraven's Last Hunt",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Lizard, Connors's Curse",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Lucky the Pizza Dog",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Mister Hyde, Monster Within",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Mole Man, Moloid Master",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Pet Avengers",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Peter Parker's Camera",
+   "qty": 1,
+   "role": "win",
+   "type": "Artifact"
+  },
+  {
+   "name": "Pictures of Spider-Man",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Powerful Broker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Professional Wrestler",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Punishing Punch",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Radioactive Spider",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Rapid Rescue",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Restorative Technique",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rhino, Terrible Trampler",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Rick Jones, Destined Sidekick",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "S.H.I.E.L.D. Helicarrier",
+   "qty": 1,
+   "role": "win",
+   "sub": "Vehicle",
+   "type": "Artifact"
+  },
+  {
+   "name": "Savage Land Dinosaur",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Scout the City",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery",
+   "uv": true
+  },
+  {
+   "name": "Shang-Chi, Martial Mentor",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "She-Hulk, Jade Defender",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Bot",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Ham, Peter Porker",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Man, Brooklyn Visionary",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Rex, Daring Dino",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Spiders-Man, Heroic Horde",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Subway Train",
+   "qty": 1,
+   "role": "ramp",
+   "sub": "Vehicle",
+   "type": "Artifact"
+  },
+  {
+   "name": "Super Strength",
+   "qty": 1,
+   "role": "win",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Supportive Parents",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Surveillance Room",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terrific Team-Up",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "The Thing, Ben Grimm",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Tippy-Toe, Terrific Partner",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Training Regimen",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Undercover Skrull",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Vibranium Energy Daggers",
+   "qty": 1,
+   "role": "win",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Vibrant Cityscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Wakandan Royal Guard",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "White Tiger, Ava Ayala",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "World War Hulk",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Saga",
+   "type": "Enchantment"
+  }
+ ],
+ "colors": [
+  "G"
+ ],
+ "commanders": [
+  "The Unbeatable Squirrel Girl"
+ ],
+ "format": "Commander",
+ "name": "Squirrel Girl: Nuts About Squirrels",
+ "notes": [
+  "Squirrel Girl makes a Squirrel every time she enters or attacks, and her activated ability makes as many Squirrels as you already control. The deck ramps, doubles the Squirrel pile two or three times, then swarms.",
+  "Turns 1–3: Undercover Skrull or Guy in the Chair, then a land drop. Restorative Technique and Spider-Man, Brooklyn Visionary fetch more lands.",
+  "Turns 4–6: Cast Squirrel Girl, attack for a Squirrel, then activate {1}{G}{G}{G} to double the pile. Spider-Ham gives every Squirrel +1/+1, Tippy-Toe adds a Food to every token batch, and Peter Parker's Camera copies the doubling. Supportive Parents and Dependable Quinjet turn spare Squirrels into mana.",
+  "Closing: Swing with the army. Rhino and Training Regimen hand out counters and trample, World War Hulk doubles a threat, and Lucky and Heroic Feast turn all that Food into more counters.",
+  "Bracket 2: Built from what you own, including Jumpstart cards (tagged MSC). Radioactive Spider can fetch Spider-Ham; that's the only tutor. No combos or extra turns. Web of Life and Destiny and Earth's Mightiest Heroes are maybes: swap them in for S.H.I.E.L.D. Helicarrier and H.E.R.B.I.E. if you find them.",
+  "Set tags: MSH = Marvel Super Heroes, SPM = Marvel's Spider-Man, MSC = Marvel Super Heroes Commander and Jumpstart cards. Every card listed is one you own. Hot Dog Cart and Dependable Quinjet are in all five Marvel B2 decks; some other commons and uncommons are shared too."
+ ],
+ "order": 60,
+ "owner": "Andrew",
+ "section": "Marvel Bracket 2",
+ "source": "Moved from the Marvel Bracket 2 Decks page (Oct 29, 2026). Built from cards you own.",
+ "target": 100,
+ "themeLabel": "Squirrel army",
+ "updated": "2026-11-09",
+ "variants": [
+  {
+   "bracket": "Bracket 2",
+   "bracketGoal": "0 Game Changers · every card has a Marvel printing · 36 lands and five more ramp pieces",
+   "id": "nov15-sim",
+   "in": [
+    {
+     "name": "Sol Ring",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Arcane Signet",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Nature's Lore",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Three Visits",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Cultivate",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Skullclamp",
+     "qty": 1,
+     "role": "draw",
+     "sub": "Equipment",
+     "type": "Artifact"
+    }
+   ],
+   "label": "Nov 15 speed",
+   "name": "Squirrel Girl (Nov 15 ramp package)",
+   "notes": [
+    "Nov 15 generic sim: the five ramp cards moved mana on turn 4 from 4.14 to 4.63 and pod win rate from 12.5% to 13.7% (noise is about 1.2 points, so borderline). The sim cannot pilot the doubling plan or value Skullclamp, so her win rate is a floor.",
+    "Skullclamp is a judgment pick: each 1/1 Squirrel draws two. It may feel above Bracket 2 at some tables.",
+    "Only one Skullclamp is noted as owned (Doom precon). Check for loose copies of everything here."
+   ],
+   "out": [
+    {
+     "name": "Forest",
+     "qty": 4
+    },
+    {
+     "name": "Restorative Technique",
+     "qty": 1
+    },
+    {
+     "name": "Rapid Rescue",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 15, 2026 vault-wide sim",
+   "updated": "Nov 15, 2026"
+  }
+ ]
+}

@@ -1,0 +1,543 @@
+{
+ "adds": [
+  {
+   "name": "Thassa, Deep-Dwelling",
+   "status": "planned",
+   "why": "About $13.64. Blinks a creature at each of your end steps. Swap for Illusionist's Stratagem."
+  },
+  {
+   "name": "Spider-Man 2099, Miguel O'Hara",
+   "status": "planned",
+   "why": "About $10.45. Bounces on entry and draws when your fliers connect. Swap for Murmuring Mystic."
+  },
+  {
+   "name": "Kang Prime",
+   "status": "verify",
+   "why": "Blue-black, so not legal here. If you would rather run every Kang, make Kang Prime the commander and add black; he is a weaker leader."
+  }
+ ],
+ "bracket": "Bracket 3",
+ "bracketGoal": "0 Game Changers · a repeatable extra turn in the command zone, so Bracket 3 · mono-blue blink with the Kang variants",
+ "cards": [
+  {
+   "name": "Reliquary Tower",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rogue's Passage",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mystic Sanctuary",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Villainous Hideout",
+   "own": "likely",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Myriad Landscape",
+   "own": "buy",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "War Room",
+   "own": "buy",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sol Ring",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mind Stone",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sky Diamond",
+   "own": "freed",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Commander's Sphere",
+   "own": "freed",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arc Reactor",
+   "own": "freed",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Solemn Simulacrum",
+   "own": "freed",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Mirage Mirror",
+   "own": "freed",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Worn Powerstone",
+   "own": "buy",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hedron Archive",
+   "own": "buy",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hydro-Man, Fluid Felon",
+   "own": "buy",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Victor Timely, Wily Tycoon",
+   "own": "freed",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Lad, Diverging Destiny",
+   "own": "freed",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Doom's Time Platform",
+   "own": "freed",
+   "qty": 1,
+   "role": "recur",
+   "type": "Artifact"
+  },
+  {
+   "name": "Pharaoh Rama-Tut",
+   "own": "likely",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Timeline Inquiry",
+   "own": "likely",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Immortus, Master of Eternity",
+   "own": "buy",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Kang Dynasty",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Time Warp",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Wiccan, Rising Magician",
+   "own": "freed",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spaceshift",
+   "own": "freed",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Silver Surfer, Cosmic Voyager",
+   "own": "freed",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "S.H.I.E.L.D. Flying Car",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Vehicle",
+   "type": "Artifact"
+  },
+  {
+   "name": "Displace",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Ghostly Flicker",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Essence Flux",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Conjurer's Closet",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Illusionist's Stratagem",
+   "own": "buy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Mulldrifter",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Cloudkin Seer",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Sea Gate Oracle",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Archaeomancer",
+   "own": "buy",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Man-o'-War",
+   "own": "buy",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Exclusion Mage",
+   "own": "buy",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Frost Trickster",
+   "own": "buy",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Scholar of the Ages",
+   "own": "buy",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Tolarian Terror",
+   "own": "have",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Talrand, Sky Summoner",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Murmuring Mystic",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Counterspell",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Negate",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Denial",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Essence Scatter",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "An Offer You Can't Refuse",
+   "own": "likely",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Dismissive Denial",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "We Say Thee Nay!",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Psychic Barrier",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Frozen in Ice",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Whoosh!",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Quantum Reduction",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Depower",
+   "own": "freed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Rapid Hybridization",
+   "own": "buy",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Aetherize",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Pym Particles",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "School Daze",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Deep Analysis",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Recurring Insight",
+   "own": "freed",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Ponder",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Preordain",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Chart a Course",
+   "own": "buy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Slip Out the Back",
+   "own": "buy",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Dive Down",
+   "own": "buy",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Island",
+   "own": "have",
+   "qty": 30,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "U"
+ ],
+ "commanders": [
+  "Kang the Conqueror"
+ ],
+ "format": "Commander",
+ "name": "Kang the Conqueror: Kang Dynasty",
+ "notes": [
+  "Plan: Kang is a 4/5 flier for four. His power-up costs {5}{U}{U}{U}, or {3}{U} on a turn he entered, and gives an extra turn. It can be activated once each time he enters, so blinking him resets it.",
+  "Brake built into the card: power-up abilities can't be activated during the extra turn, so the most he gives is one extra turn per round. No chaining.",
+  "Cheapest line: cast Kang with eight mana available and power up the same turn. After that, each blink (Spaceshift, Essence Flux, Displace, Ghostly Flicker, Illusionist's Stratagem, Wiccan, Silver Surfer, S.H.I.E.L.D. Flying Car, Conjurer's Closet) plus {3}{U} is another turn.",
+  "Check with the table whether power-ups can be activated at instant speed before relying on Conjurer's Closet, which blinks at your end step.",
+  "Kang variants in the 99: Immortus, Pharaoh Rama-Tut, Victor Timely and Iron Lad, Diverging Destiny, plus the Kang Dynasty Saga. Doom's Time Platform recasts Time Warp from the graveyard for free two turns later.",
+  "Archaeomancer with Ghostly Flicker returns the Flicker every time. With Kang as the second target that is an extra turn every round for seven mana. It is bounded by the brake above, but it is the deck's most Bracket 3 moment; say so at the table.",
+  "Lightning Greaves is left out on purpose: shroud would stop you blinking Kang.",
+  "Ownership tags on each card: have = confirmed owned; freed = from a deck folded Nov 16 or a precon cut; likely = Marvel common or uncommon, or your staples pile; check = owned but maybe sleeved elsewhere; buy = not known to be owned.",
+  "Buy list (Nov 12 snapshot): about $24 for the 30 buy cards; Time Warp ($7.37) and Conjurer's Closet ($3.10) are most of it. Estimated, not simulated: wins around turns 9-11 with Kang and fliers in the air over extra turns."
+ ],
+ "order": 6.5,
+ "owner": "Andrew",
+ "source": "Built by Claude Nov 16, 2026 around the owned Kang, from the blue cards freed by the Tony Stark and Ant-Man folds plus cheap pickups. Card text, colour identity and legality checked against mtg-data; ownership is tagged, not confirmed.",
+ "target": 100,
+ "themeLabel": "Blink for another turn",
+ "updated": "Nov 16, 2026",
+ "variants": []
+}

@@ -1,0 +1,2146 @@
+{
+ "adds": [
+  {
+   "name": "Helix Pinnacle",
+   "status": "added",
+   "why": "Win condition and infinite-mana outlet. Replaced Rakdos Guildgate."
+  },
+  {
+   "name": "All Will Be One",
+   "status": "added",
+   "why": "Win condition. Every counter you put on a permanent (lore counters included) deals damage. Replaced The Grey Havens."
+  },
+  {
+   "name": "Urza's Saga",
+   "status": "added",
+   "why": "Land that is also a Saga: its last chapter fetches Amulet of Vigor or Sol Ring and its sacrifice triggers Tom. Replaced Exotic Orchard."
+  },
+  {
+   "name": "Destiny Spinner",
+   "status": "added",
+   "why": "Makes Tom, Sagas, Summons and the combo Auras uncounterable; counts as an enchantment for Eidolon, Sythis and Sanctum Weaver; land animation is a mana sink. Replaced Kefka, Court Mage."
+  }
+ ],
+ "baseLabel": "B3",
+ "bracket": "High Bracket 3",
+ "bracketGoal": "3 Game Changers · must hold up in Bracket 4",
+ "cards": [
+  {
+   "name": "All Will Be One",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Amulet of Vigor",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Archon of Sun's Grace",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Azorius Guildgate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Baldur's Gate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Basilisk Gate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Battle at the Helvault",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment",
+   "uv": true
+  },
+  {
+   "name": "Binding the Old Gods",
+   "qty": 1,
+   "role": "rem",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Black Dragon Gate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Bloom Tender",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Boros Guildgate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Chromatic Lantern",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Citadel Gate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "City of Death",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment",
+   "uv": true
+  },
+  {
+   "name": "Cliffgate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Clockspinning",
+   "qty": 1,
+   "role": "win",
+   "type": "Instant"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Counterspell",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Crop Rotation",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Instant"
+  },
+  {
+   "name": "Delighted Halfling",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Demonic Tutor",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Destiny Spinner",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Dimir Guildgate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Eerie Ultimatum",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Eidolon of Blossoms",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Enchantress's Presence",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Evolution Sage",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Explore the Underdark",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment",
+   "uv": true
+  },
+  {
+   "name": "Faeburrow Elder",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Firja's Retribution",
+   "qty": 1,
+   "role": "rem",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Forest",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Freed from the Real",
+   "qty": 1,
+   "role": "win",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Garnet, Princess of Alexandria",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Gatecreeper Vine",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Gateway Plaza",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Goldberry, River-Daughter",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Golgari Guildgate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Gond Gate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Gruul Guildgate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Heap Gate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Helix Pinnacle",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Hex Parasite",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Historian's Boon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "In the Darkness Bind Them",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Island",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Izzet Guildgate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Jukai Naturalist",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Kiora Bests the Sea God",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Lightning Greaves",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Manor Gate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Maze's End",
+   "qty": 1,
+   "role": "win",
+   "type": "Land"
+  },
+  {
+   "name": "Mirrormade",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Mountain",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mystic Remora",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Narci, Fable Singer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Nesting Grounds",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "O'aka, Traveling Merchant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ondu Spiritdancer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "One Ring to Rule Them All",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Orzhov Guildgate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Pemmin's Aura",
+   "qty": 1,
+   "role": "win",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Plains",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plaza of Harmony",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Power Conduit",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Prismatic Omen",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Sage of the Maze",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Sanctum Weaver",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Satsuki, the Living Lore",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Sea Gate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Selesnya Guildgate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Simic Guildgate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Spelunking",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Sterling Grove",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Summon: Bahamut",
+   "qty": 1,
+   "role": "win",
+   "sub": "Saga",
+   "type": "Creature"
+  },
+  {
+   "name": "Summon: Knights of Round",
+   "qty": 1,
+   "role": "win",
+   "sub": "Saga",
+   "type": "Creature"
+  },
+  {
+   "name": "Summon: Primal Odin",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Creature"
+  },
+  {
+   "name": "Summon: Titan",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Creature"
+  },
+  {
+   "name": "Swamp",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sylvan Scrying",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Sythis, Harvest's Hand",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Terra, Magical Adept",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Aesir Escape Valhalla",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "The Horus Heresy",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "The Kami War",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "The One Ring",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "The World Spell",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "The World Tree",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "There and Back Again",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Thran Portal",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Three Blind Mice",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Underground Sea",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Urza's Saga",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Weaver of Harmony",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Xavier Sal, Infested Captain",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Zur, Eternal Schemer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  }
+ ],
+ "colors": [
+  "W",
+  "U",
+  "B",
+  "R",
+  "G"
+ ],
+ "commanders": [
+  "Tom Bombadil"
+ ],
+ "format": "Commander",
+ "name": "Tom's Bombs",
+ "notes": [
+  "Ways to win: infinite combos, Helix Pinnacle, All Will Be One, Maze's End (20 different Gates), and Saga value.",
+  "Infinite mana: Freed from the Real or Pemmin's Aura on Bloom Tender, Faeburrow Elder, Sage of the Maze, or Sanctum Weaver (with 2+ enchantments). That's 8 combinations.",
+  "Sage of the Maze also doubles your Gate mana without a combo: tap a Gate to untap Sage, and Sage taps for 2.",
+  "Spending infinite mana: Clockspinning with buyback. Next to All Will Be One, each added counter deals damage. Or re-trigger a Saga's final chapter (such as Summon: Bahamut) while it's still on the stack.",
+  "Sagas confirmed: 13 enchantment Sagas plus 4 Final Fantasy Summon Saga creatures = 17. City of Death and Explore the Underdark are unconfirmed. Terra flips into a Saga, but Tom's reveal won't find it.",
+  "Game Changers (3): Demonic Tutor, The One Ring, Crop Rotation. That's the Bracket 3 limit.",
+  "Oct 12 land review: keep Maze's End, Command Tower, Plaza of Harmony, Nesting Grounds, Underground Sea, The World Tree and the 7 basics. Other land upgrades: Reflecting Pool, Mana Confluence or City of Brass.",
+  "Oct 13: Added Destiny Spinner, Helix Pinnacle, All Will Be One and Urza's Saga. Cut Kefka, Court Mage, Rakdos Guildgate, The Grey Havens and Exotic Orchard. Still 3 Game Changers. Considered Calix, Guided by Fate and passed: its token-copy ability needs combat damage.",
+  "Nov 13, 2026: Tom (sleeve-today list with the Saga swaps) vs Lawyers (Kynaios and Tiro): kill-turn race on a B3 table, Tom first 79%, Lawyers first 10%, neither by turn 16 12%. With Lawyer counters, wipes and enchantment removal doubled: Tom 47%, Lawyers 13%, neither 40%. By turn 12: Tom 47% (B3) / 25% (B4) vs Lawyers 9% / 5%. Tom's risk is the stack, wipes and Rule of Law, not the clock. Compare with Doom's Big Wheels: 72% / 51% by turn 12, Doom Unrivaled: 66% by turn 8 (different sims, not calibrated against each other)."
+ ],
+ "order": 4,
+ "owner": "Andrew",
+ "source": "as pasted Oct 11, 2026",
+ "target": 100,
+ "themeLabel": "Sagas & engines",
+ "updated": "Oct 13, 2026",
+ "variants": [
+  {
+   "bracket": "Bracket 3",
+   "bracketGoal": "3 Game Changers: Demonic Tutor, The One Ring, Crop Rotation · max infinite combos",
+   "id": "b3-plus",
+   "in": [
+    {
+     "name": "Argothian Enchantress",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Birds of Paradise",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "City of Brass",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Diabolic Intent",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Dimir Machinations",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Eladamri's Call",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Exotic Orchard",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Finale of Devastation",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Green Sun's Zenith",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Grim Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Idyllic Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Mana Confluence",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Muddle the Mixture",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Plea for Guidance",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Satyr Enchanter",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Setessan Champion",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Shred Memory",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Staff of Domination",
+     "qty": 1,
+     "role": "win",
+     "type": "Artifact"
+    },
+    {
+     "name": "Umbral Mantle",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Utopia Sprawl",
+     "qty": 1,
+     "role": "ramp",
+     "sub": "Aura",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Walking Ballista",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    }
+   ],
+   "label": "B3+ combo",
+   "name": "Tom's Bombs (B3+ combo, Ballista)",
+   "notes": [
+    "Sim build (5,000 games, B3 table): wins by turn 12 in 49.1% vs 19.7% for the vaulted list, by turn 16 80.2% vs 68.1%; combo wins 65% vs 28%. B4 table: by turn 12 25.1% vs 8.6%.",
+    "Changes: -One Ring to Rule Them All, Mirrormade, Destiny Spinner, Sterling Grove, Power Conduit, Weaver of Harmony, Zur, The Kami War, Hex Parasite, Goldberry, Lightning Greaves, Prismatic Omen, O'aka, Kiora Bests the Sea God, Firja's Retribution, Mountain, Plains, Swamp; +Argothian Enchantress, Green Sun's Zenith, Plea for Guidance, Setessan Champion, Diabolic Intent, Finale of Devastation, Satyr Enchanter, Staff of Domination, Shred Memory, Dimir Machinations, Umbral Mantle, Birds of Paradise, Utopia Sprawl, Grim Tutor, Idyllic Tutor, Mana Confluence, City of Brass, Exotic Orchard. Oct 16 additions: Walking Ballista (for Battle at the Helvault), Eladamri's Call (for Archon of Sun's Grace), Muddle the Mixture (for Gatecreeper Vine).",
+    "Infinite mana: Freed from the Real / Pemmin's Aura on Bloom Tender, Faeburrow Elder, Sage of the Maze or Sanctum Weaver; Staff of Domination or Umbral Mantle on a mana creature; There and Back Again + Clockspinning (Smaug Treasures). Outlets: Helix Pinnacle, All Will Be One, Clockspinning loops. Walking Ballista is a third outlet: cast it for X with infinite mana. Fetch it to hand (Eladamri's Call, Demonic, Grim), never with Green Sun's Zenith or Finale (enters with 0 counters and dies).",
+    "Star Trek (TRK, Nov 13 2026) check, Oct 27 (sim, 4,000 games): Year of Hell is the pick - +0.10 to +0.11 turns at B3 and +0.09 at B4 in for Historian's Boon or Evolution Sage; +0.14 in the vaulted list for Power Conduit. Those Old Scientists, The Wrath of Khan, All Good Things..., City on the Edge of Forever +0.02 to +0.05; In the Pale Moonlight about 0. Brad Boimler (W, extra counters while tapped) not simulated."
+   ],
+   "out": [
+    {
+     "name": "Archon of Sun's Grace",
+     "qty": 1
+    },
+    {
+     "name": "Battle at the Helvault",
+     "qty": 1
+    },
+    {
+     "name": "Destiny Spinner",
+     "qty": 1
+    },
+    {
+     "name": "Firja's Retribution",
+     "qty": 1
+    },
+    {
+     "name": "Gatecreeper Vine",
+     "qty": 1
+    },
+    {
+     "name": "Goldberry, River-Daughter",
+     "qty": 1
+    },
+    {
+     "name": "Hex Parasite",
+     "qty": 1
+    },
+    {
+     "name": "Kiora Bests the Sea God",
+     "qty": 1
+    },
+    {
+     "name": "Lightning Greaves",
+     "qty": 1
+    },
+    {
+     "name": "Mirrormade",
+     "qty": 1
+    },
+    {
+     "name": "Mountain",
+     "qty": 1
+    },
+    {
+     "name": "O'aka, Traveling Merchant",
+     "qty": 1
+    },
+    {
+     "name": "One Ring to Rule Them All",
+     "qty": 1
+    },
+    {
+     "name": "Plains",
+     "qty": 1
+    },
+    {
+     "name": "Power Conduit",
+     "qty": 1
+    },
+    {
+     "name": "Prismatic Omen",
+     "qty": 1
+    },
+    {
+     "name": "Sterling Grove",
+     "qty": 1
+    },
+    {
+     "name": "Swamp",
+     "qty": 1
+    },
+    {
+     "name": "The Kami War",
+     "qty": 1
+    },
+    {
+     "name": "Weaver of Harmony",
+     "qty": 1
+    },
+    {
+     "name": "Zur, Eternal Schemer",
+     "qty": 1
+    }
+   ],
+   "source": "Overnight simulator build, Oct 16, 2026",
+   "updated": "Oct 27, 2026"
+  },
+  {
+   "adds": [
+    {
+     "name": "Birds of Paradise",
+     "status": "added",
+     "why": "Turn-2 fixing for five colors; replaced Firja's Retribution."
+    },
+    {
+     "name": "Plea for Guidance",
+     "status": "added",
+     "why": "Fetches two enchantments (combo Aura plus Saga). Not a Game Changer. Replaced The Bath Song."
+    },
+    {
+     "name": "Idyllic Tutor",
+     "status": "added",
+     "why": "Enchantment tutor for Pemmin's Aura, Freed from the Real or a Saga. Not a Game Changer. Replaced Navigation Orb."
+    },
+    {
+     "name": "Eladamri's Call",
+     "status": "added",
+     "why": "Instant creature tutor: Archon of Sun's Grace, a mana creature or Walking Ballista. Replaced Open the Gates."
+    },
+    {
+     "name": "Urza's Saga",
+     "status": "added",
+     "why": "Land Saga that triggers Tom; chapter III can fetch Walking Ballista (MV 0), Sol Ring or Amulet of Vigor. Replaced Plains."
+    },
+    {
+     "name": "Underground Sea",
+     "status": "added",
+     "why": "Untapped U/B fixing; the sleeve had no Swamps. Replaced Island."
+    },
+    {
+     "name": "Mana Confluence",
+     "status": "added",
+     "why": "Untapped five-color source. Replaced one Mountain."
+    }
+   ],
+   "bracket": "Bracket 3 (plays as Bracket 4)",
+   "bracketGoal": "3 Game Changers: Demonic Tutor, The One Ring, Crop Rotation · Rule 0 as B4-capable",
+   "id": "merged-100",
+   "in": [
+    {
+     "name": "Sigurd, Jarl of Ravensthorpe",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Flux Channeler",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Setessan Champion",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "District Guide",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Walking Ballista",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Birds of Paradise",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Enchantment"
+    },
+    {
+     "name": "The Eldest Reborn",
+     "qty": 1,
+     "role": "recur",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Fable of the Mirror-Breaker",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Azusa's Many Journeys",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Summon: Yojimbo",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Perplex",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Eladamri's Call",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Idyllic Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Plea for Guidance",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Muddle the Mixture",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Hour of Promise",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Circuitous Route",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Dance of the Manse",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Fellwar Stone",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Timeless Lotus",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Rakdos Guildgate",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "The Black Gate",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "City of Brass",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "The Grey Havens",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mana Confluence",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Merged 100",
+   "name": "Tom's Bombs (Merged 100)",
+   "notes": [
+    "Nov 12, 2026 merge of the Oct 13 main list, the B3+ combo variant and the Nov 12 rebuild. Main list and the B3+ combo variant are untouched; this is a separate version.",
+    "Starts from the Nov 12 rebuild: adds Cruelty of Gix, The Eldest Reborn, Sigurd, Flux Channeler, Fable of the Mirror-Breaker, Azusa's Many Journeys, Summon: Yojimbo, The Black Gate, Fellwar Stone, Timeless Lotus, Circuitous Route, Dance of the Manse, Hour of Promise, Perplex, Walking Ballista. Then takes 7 swaps from the vault versions (see adds).",
+    "Game Changers (3): Demonic Tutor, The One Ring, Crop Rotation. The added tutors are not Game Changers.",
+    "Bracket honesty: Pemmin's Aura or Freed from the Real on Bloom Tender, Faeburrow Elder, Sage of the Maze or Sanctum Weaver is a cheap, early two-card infinite. Plays as Bracket 4 in practice; tell the table, or agree no infinite before turn 6. Not simulated; the B3+ combo variant has the only sim numbers (49.1% win by turn 12 on a B3 table).",
+    "One Ring to Rule Them All chapter II destroys your own nonlegendary creatures, mana creatures included. Legendary survivors: Tom, Satsuki, Sigurd, Goldberry, Terra, Xavier Sal, Narci, O'aka.",
+    "Unverified texts: Walking Ballista, Sterling Grove, Plea for Guidance, Idyllic Tutor, Eladamri's Call (from memory); several Gates not yet read."
+   ],
+   "out": [
+    {
+     "name": "Counterspell",
+     "qty": 1
+    },
+    {
+     "name": "Delighted Halfling",
+     "qty": 1
+    },
+    {
+     "name": "Destiny Spinner",
+     "qty": 1
+    },
+    {
+     "name": "Eidolon of Blossoms",
+     "qty": 1
+    },
+    {
+     "name": "Enchantress's Presence",
+     "qty": 1
+    },
+    {
+     "name": "Evolution Sage",
+     "qty": 1
+    },
+    {
+     "name": "Explore the Underdark",
+     "qty": 1
+    },
+    {
+     "name": "Firja's Retribution",
+     "qty": 1
+    },
+    {
+     "name": "Garnet, Princess of Alexandria",
+     "qty": 1
+    },
+    {
+     "name": "In the Darkness Bind Them",
+     "qty": 1
+    },
+    {
+     "name": "Island",
+     "qty": 2
+    },
+    {
+     "name": "Jukai Naturalist",
+     "qty": 1
+    },
+    {
+     "name": "Mystic Remora",
+     "qty": 1
+    },
+    {
+     "name": "Plains",
+     "qty": 1
+    },
+    {
+     "name": "Power Conduit",
+     "qty": 1
+    },
+    {
+     "name": "Prismatic Omen",
+     "qty": 1
+    },
+    {
+     "name": "Summon: Knights of Round",
+     "qty": 1
+    },
+    {
+     "name": "Summon: Titan",
+     "qty": 1
+    },
+    {
+     "name": "Swamp",
+     "qty": 1
+    },
+    {
+     "name": "Sylvan Scrying",
+     "qty": 1
+    },
+    {
+     "name": "The Aesir Escape Valhalla",
+     "qty": 1
+    },
+    {
+     "name": "The Horus Heresy",
+     "qty": 1
+    },
+    {
+     "name": "The World Spell",
+     "qty": 1
+    },
+    {
+     "name": "The World Tree",
+     "qty": 1
+    },
+    {
+     "name": "Zur, Eternal Schemer",
+     "qty": 1
+    }
+   ],
+   "source": "Merge of main, B3+ combo variant and Nov 12 rebuild",
+   "updated": "Nov 12, 2026"
+  },
+  {
+   "adds": [
+    {
+     "name": "Rakdos Guildgate",
+     "status": "added",
+     "why": "Replaced Summon: Knights of Round."
+    },
+    {
+     "name": "The Black Gate",
+     "status": "added",
+     "why": "Untapped Gate for 3 life. Replaced Historian's Boon."
+    },
+    {
+     "name": "Perplex",
+     "status": "added",
+     "why": "MV 3 transmute tutor (Pemmin's Aura, Freed from the Real, Faeburrow Elder, Sage of the Maze) plus a counter. Replaced Shred Memory."
+    }
+   ],
+   "bracket": "Bracket 3 (plays as Bracket 4)",
+   "bracketGoal": "3 Game Changers: Demonic Tutor, The One Ring, Crop Rotation · Rule 0 as B4-capable",
+   "id": "b3-combo-gates",
+   "in": [
+    {
+     "name": "Argothian Enchantress",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Birds of Paradise",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "City of Brass",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Diabolic Intent",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Dimir Machinations",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Eladamri's Call",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Exotic Orchard",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Finale of Devastation",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Green Sun's Zenith",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Grim Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Idyllic Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Mana Confluence",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Muddle the Mixture",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Plea for Guidance",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Satyr Enchanter",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Setessan Champion",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Staff of Domination",
+     "qty": 1,
+     "role": "win",
+     "type": "Artifact"
+    },
+    {
+     "name": "Umbral Mantle",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Utopia Sprawl",
+     "qty": 1,
+     "role": "ramp",
+     "sub": "Aura",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Walking Ballista",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Rakdos Guildgate",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "The Black Gate",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Perplex",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    }
+   ],
+   "label": "B3+ combo + Gates",
+   "name": "Tom's Bombs (B3+ combo, Rakdos Gate, Black Gate, Perplex)",
+   "notes": [
+    "Nov 12, 2026: copy of B3+ combo with 3 swaps; B3+ combo itself is unchanged.",
+    "Sim (4,000 games, B3 table): Knights/Boon to the two Gates won by turn 12 in 50.6% vs 47.0% before, about +0.27 turns; B4 table 28.0% vs 25.2%. Perplex for Shred Memory is within noise (about -0.04 turns). Black Gate is modeled as an untapped black-only Gate (approximation).",
+    "Perplex needs {1}{U}{B} for its transmute; Shred Memory needed {1}{B}{B}. Perplex finds MV 3, Shred Memory MV 2."
+   ],
+   "out": [
+    {
+     "name": "Archon of Sun's Grace",
+     "qty": 1
+    },
+    {
+     "name": "Battle at the Helvault",
+     "qty": 1
+    },
+    {
+     "name": "Destiny Spinner",
+     "qty": 1
+    },
+    {
+     "name": "Firja's Retribution",
+     "qty": 1
+    },
+    {
+     "name": "Gatecreeper Vine",
+     "qty": 1
+    },
+    {
+     "name": "Goldberry, River-Daughter",
+     "qty": 1
+    },
+    {
+     "name": "Hex Parasite",
+     "qty": 1
+    },
+    {
+     "name": "Historian's Boon",
+     "qty": 1
+    },
+    {
+     "name": "Kiora Bests the Sea God",
+     "qty": 1
+    },
+    {
+     "name": "Lightning Greaves",
+     "qty": 1
+    },
+    {
+     "name": "Mirrormade",
+     "qty": 1
+    },
+    {
+     "name": "Mountain",
+     "qty": 1
+    },
+    {
+     "name": "O'aka, Traveling Merchant",
+     "qty": 1
+    },
+    {
+     "name": "One Ring to Rule Them All",
+     "qty": 1
+    },
+    {
+     "name": "Plains",
+     "qty": 1
+    },
+    {
+     "name": "Power Conduit",
+     "qty": 1
+    },
+    {
+     "name": "Prismatic Omen",
+     "qty": 1
+    },
+    {
+     "name": "Sterling Grove",
+     "qty": 1
+    },
+    {
+     "name": "Summon: Knights of Round",
+     "qty": 1
+    },
+    {
+     "name": "Swamp",
+     "qty": 1
+    },
+    {
+     "name": "The Kami War",
+     "qty": 1
+    },
+    {
+     "name": "Weaver of Harmony",
+     "qty": 1
+    },
+    {
+     "name": "Zur, Eternal Schemer",
+     "qty": 1
+    }
+   ],
+   "source": "B3+ combo with three swaps, Nov 12, 2026",
+   "updated": "Nov 12, 2026"
+  },
+  {
+   "adds": [
+    {
+     "name": "Rakdos Guildgate",
+     "status": "added",
+     "why": "Replaced Summon: Knights of Round."
+    },
+    {
+     "name": "The Black Gate",
+     "status": "added",
+     "why": "Untapped Gate for 3 life. Replaced Historian's Boon."
+    },
+    {
+     "name": "Perplex",
+     "status": "added",
+     "why": "MV 3 transmute tutor plus a counter. Replaced Shred Memory."
+    },
+    {
+     "name": "Lightning Greaves",
+     "status": "added",
+     "why": "Haste lets a mana creature tap the turn it is cast; shroud protects the key creature. Replaced Garnet."
+    },
+    {
+     "name": "Sterling Grove",
+     "status": "added",
+     "why": "Shroud on your other enchantments (blocks enchantment removal) plus a tutor to the top of the library. Its shroud also blocks your own targeting of Sagas (Clockspinning, Hex Parasite), so sacrifice it first for those lines. Replaced Explore the Underdark."
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "status": "added",
+     "why": "Read ahead: chapter II tutors any card to hand (lose 3 life). Replaced Evolution Sage."
+    },
+    {
+     "name": "Hex Parasite",
+     "status": "added",
+     "why": "{X}{B/P}: remove up to X counters from target permanent; keeps Sagas on the board so final chapters re-trigger. Replaced The Aesir Escape Valhalla."
+    }
+   ],
+   "bracket": "Bracket 3 (plays as Bracket 4)",
+   "bracketGoal": "3 Game Changers: Demonic Tutor, The One Ring, Crop Rotation · Rule 0 as B4-capable",
+   "id": "b3-combo-v2",
+   "in": [
+    {
+     "name": "Argothian Enchantress",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Birds of Paradise",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "City of Brass",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Diabolic Intent",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Dimir Machinations",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Eladamri's Call",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Exotic Orchard",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Finale of Devastation",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Green Sun's Zenith",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Grim Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Idyllic Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Mana Confluence",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Muddle the Mixture",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Perplex",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Plea for Guidance",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Rakdos Guildgate",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Satyr Enchanter",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Setessan Champion",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Staff of Domination",
+     "qty": 1,
+     "role": "win",
+     "type": "Artifact"
+    },
+    {
+     "name": "The Black Gate",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Umbral Mantle",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Utopia Sprawl",
+     "qty": 1,
+     "role": "ramp",
+     "sub": "Aura",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Walking Ballista",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Enchantment"
+    }
+   ],
+   "label": "B3+ combo v2",
+   "name": "Tom's Bombs (B3+ combo v2)",
+   "notes": [
+    "Nov 12, 2026: copy of B3+ combo with 7 swaps; B3+ combo and the earlier \"B3+ combo + Gates\" version are unchanged.",
+    "Sim (4,000 games): win by turn 12 on a B3 table 53.3% vs 47.9% for B3+ combo (reference run); B4 table 30.1% vs 25.9%. Hex Parasite, Greaves and Grove are modeled approximately; Goldberry tested neutral and is not in this list.",
+    "Goldberry loop: Goldberry plus a second untap piece on her (Freed from the Real, Staff of Domination or Umbral Mantle) with infinite mana draws the library. Not included: no sim gain.",
+    "Owned status: the sim cannot tell what you own. Cards from the B3+ combo list may need to be found."
+   ],
+   "out": [
+    {
+     "name": "Archon of Sun's Grace",
+     "qty": 1
+    },
+    {
+     "name": "Battle at the Helvault",
+     "qty": 1
+    },
+    {
+     "name": "Destiny Spinner",
+     "qty": 1
+    },
+    {
+     "name": "Evolution Sage",
+     "qty": 1
+    },
+    {
+     "name": "Explore the Underdark",
+     "qty": 1
+    },
+    {
+     "name": "Firja's Retribution",
+     "qty": 1
+    },
+    {
+     "name": "Garnet, Princess of Alexandria",
+     "qty": 1
+    },
+    {
+     "name": "Gatecreeper Vine",
+     "qty": 1
+    },
+    {
+     "name": "Goldberry, River-Daughter",
+     "qty": 1
+    },
+    {
+     "name": "Historian's Boon",
+     "qty": 1
+    },
+    {
+     "name": "Kiora Bests the Sea God",
+     "qty": 1
+    },
+    {
+     "name": "Mirrormade",
+     "qty": 1
+    },
+    {
+     "name": "Mountain",
+     "qty": 1
+    },
+    {
+     "name": "O'aka, Traveling Merchant",
+     "qty": 1
+    },
+    {
+     "name": "One Ring to Rule Them All",
+     "qty": 1
+    },
+    {
+     "name": "Plains",
+     "qty": 1
+    },
+    {
+     "name": "Power Conduit",
+     "qty": 1
+    },
+    {
+     "name": "Prismatic Omen",
+     "qty": 1
+    },
+    {
+     "name": "Summon: Knights of Round",
+     "qty": 1
+    },
+    {
+     "name": "Swamp",
+     "qty": 1
+    },
+    {
+     "name": "The Aesir Escape Valhalla",
+     "qty": 1
+    },
+    {
+     "name": "The Kami War",
+     "qty": 1
+    },
+    {
+     "name": "Weaver of Harmony",
+     "qty": 1
+    },
+    {
+     "name": "Zur, Eternal Schemer",
+     "qty": 1
+    }
+   ],
+   "source": "B3+ combo with seven swaps, Nov 12, 2026",
+   "updated": "Nov 12, 2026"
+  },
+  {
+   "adds": [
+    {
+     "name": "Diabolic Tutor",
+     "status": "stand-in",
+     "why": "Owned. Replaces the tutors not in hand."
+    },
+    {
+     "name": "Brushland",
+     "status": "stand-in",
+     "why": "Spare pain land, untapped fixing. Replaces Mana Confluence."
+    },
+    {
+     "name": "Llanowar Wastes",
+     "status": "stand-in",
+     "why": "Spare pain land, untapped fixing."
+    },
+    {
+     "name": "Adarkar Wastes",
+     "status": "stand-in",
+     "why": "Spare pain land, untapped fixing."
+    },
+    {
+     "name": "Shivan Reef",
+     "status": "stand-in",
+     "why": "Spare pain land, untapped fixing."
+    },
+    {
+     "name": "Swamp",
+     "status": "stand-in",
+     "why": "Basic; black source for Cruelty of Gix."
+    },
+    {
+     "name": "Fellwar Stone",
+     "status": "stand-in",
+     "why": "Rock."
+    },
+    {
+     "name": "Hour of Promise",
+     "status": "stand-in",
+     "why": "Ramp: two lands."
+    },
+    {
+     "name": "Circuitous Route",
+     "status": "stand-in",
+     "why": "Ramp: two basics/Gates tapped."
+    },
+    {
+     "name": "Azusa's Many Journeys",
+     "status": "stand-in",
+     "why": "Cheap Saga; extra land drop; triggers Tom early."
+    },
+    {
+     "name": "Fable of the Mirror-Breaker",
+     "status": "stand-in",
+     "why": "Saga; loots and flips into Reflection of Kiki-Jiki."
+    },
+    {
+     "name": "Explore the Underdark",
+     "status": "stand-in",
+     "why": "Fetches two Gates; adds initiative."
+    },
+    {
+     "name": "Summon: Brynhildr",
+     "status": "owned",
+     "why": "Cheap 3-chapter Saga for Tom; replaces Satyr Enchanter (sim +0.13 turns with Ifrit)."
+    },
+    {
+     "name": "Summon: G.F. Ifrit",
+     "status": "owned",
+     "why": "Loots then adds mana; replaces Talisman of Dominance."
+    },
+    {
+     "name": "The Creation of Avacyn",
+     "status": "buy",
+     "why": "buy (~$0.25). Tutors on chapter III; replaces Three Blind Mice."
+    },
+    {
+     "name": "Esper Origins",
+     "status": "buy",
+     "why": "buy (~$1.46). Cast for 2, flash back for 4 as a Saga creature for Tom; replaces Terra."
+    },
+    {
+     "name": "The Bath Song",
+     "status": "owned",
+     "why": "owned. Replaces Selesnya Signet."
+    },
+    {
+     "name": "Showdown of the Skalds",
+     "status": "owned",
+     "why": "owned. Draws 3 on chapter I; replaces Simic Signet."
+    }
+   ],
+   "bracket": "Bracket 3 (plays as Bracket 4)",
+   "bracketGoal": "3 Game Changers: Demonic Tutor, The One Ring, Crop Rotation · Rule 0 as B4-capable",
+   "id": "b3-combo-today",
+   "in": [
+    {
+     "name": "Diabolic Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Brushland",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "City of Brass",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Fellwar Stone",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Exotic Orchard",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Hour of Promise",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Fable of the Mirror-Breaker",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Azusa's Many Journeys",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Circuitous Route",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Muddle the Mixture",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Perplex",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Llanowar Wastes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Rakdos Guildgate",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Setessan Champion",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Adarkar Wastes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "The Black Gate",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Shivan Reef",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Walking Ballista",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Summon: Brynhildr",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Summon: G.F. Ifrit",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "The Creation of Avacyn",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Esper Origins",
+     "qty": 1,
+     "role": "eng",
+     "type": "Sorcery"
+    },
+    {
+     "name": "The Bath Song",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Showdown of the Skalds",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    }
+   ],
+   "label": "B3+ combo v2 (sleeve today)",
+   "name": "Tom's Bombs (B3+ combo v2, sleeve today)",
+   "notes": [
+    "Nov 12, 2026: built from B3+ combo v2 with the 16 unchecked cards (Ballista excluded, incoming) replaced by cards you have.",
+    "Sim (3,000 games): win by turn 12 on a B3 table 45.1% vs 53.4% for V2 with every card and 47.0% for B3+ combo as vaulted; B4 table 24.7% vs 30.3% and 25.1%.",
+    "Buy order (gain in turns by sim, approx. LP/NM price): Plea for Guidance +0.29 ($0.75), Dimir Machinations +0.15 ($1), Staff of Domination +0.13 ($4), Idyllic Tutor +0.18 ($8), Diabolic Intent +0.21 ($12). Optional: Eladamri's Call, Umbral Mantle, Finale of Devastation, Green Sun's Zenith, The Horus Heresy.",
+    "Skip for now: Grim Tutor (~$56), Argothian Enchantress (~$49), Mana Confluence (~$45), Urza's Saga (~$42), Birds of Paradise, Utopia Sprawl. Gains are small and several overlap the same Mind Stone slot, so they will not stack fully.",
+    "Your 3-cost any-color rocks are fine as stand-ins for Signets, Talismans or Mind Stone (no measurable difference). Keep Fellwar Stone, Hour of Promise and the basic Swamp slots.",
+    "Nov 12, 2026: Goldberry, River-Daughter swapped in for Mind Stone (sim: neutral here, small plus in full V2; she costs {1}{U}). Mind Stone was the weakest stand-in.",
+    "Nov 12, 2026: Summon: Brynhildr in for Satyr Enchanter and Summon: G.F. Ifrit in for Talisman of Dominance (sim: about +0.13 turns on a B3 table, +0.11 on B4). Summon: Anima (~$0.23) was the best other Summon (+0.14 alone) if you want to buy it.",
+    "Nov 13, 2026: Saga swaps from the all-Sagas sim (Sagas, Summon Sagas and Saga creatures; 3,000 paired games): Creation of Avacyn for Three Blind Mice, Esper Origins for Terra, The Bath Song for Selesnya Signet, Showdown of the Skalds for Simic Signet. About +0.37 turns faster on a B3 table and +0.21 on B4 vs the previous sleeve-today list. Until Creation and Origins arrive, Bath Song and Showdown alone are about +0.3 (B3).",
+    "Tested and skipped: Song of Eärendil (nothing added on top of this package; Fellwar Stone is better kept), Summon Sagas beyond Brynhildr and Ifrit, and the other Saga creatures (Huatli, Joshua, Jill, Dion, Clive, Vorinclex and the Praetors: flip costs too high, about zero). The sim could not model Jecht's flip."
+   ],
+   "out": [
+    {
+     "name": "Archon of Sun's Grace",
+     "qty": 1
+    },
+    {
+     "name": "Battle at the Helvault",
+     "qty": 1
+    },
+    {
+     "name": "Destiny Spinner",
+     "qty": 1
+    },
+    {
+     "name": "Evolution Sage",
+     "qty": 1
+    },
+    {
+     "name": "Firja's Retribution",
+     "qty": 1
+    },
+    {
+     "name": "Garnet, Princess of Alexandria",
+     "qty": 1
+    },
+    {
+     "name": "Gatecreeper Vine",
+     "qty": 1
+    },
+    {
+     "name": "Historian's Boon",
+     "qty": 1
+    },
+    {
+     "name": "Kiora Bests the Sea God",
+     "qty": 1
+    },
+    {
+     "name": "Mirrormade",
+     "qty": 1
+    },
+    {
+     "name": "Mountain",
+     "qty": 1
+    },
+    {
+     "name": "O'aka, Traveling Merchant",
+     "qty": 1
+    },
+    {
+     "name": "One Ring to Rule Them All",
+     "qty": 1
+    },
+    {
+     "name": "Plains",
+     "qty": 1
+    },
+    {
+     "name": "Power Conduit",
+     "qty": 1
+    },
+    {
+     "name": "Prismatic Omen",
+     "qty": 1
+    },
+    {
+     "name": "Summon: Knights of Round",
+     "qty": 1
+    },
+    {
+     "name": "The Aesir Escape Valhalla",
+     "qty": 1
+    },
+    {
+     "name": "The Horus Heresy",
+     "qty": 1
+    },
+    {
+     "name": "The Kami War",
+     "qty": 1
+    },
+    {
+     "name": "Urza's Saga",
+     "qty": 1
+    },
+    {
+     "name": "Weaver of Harmony",
+     "qty": 1
+    },
+    {
+     "name": "Zur, Eternal Schemer",
+     "qty": 1
+    },
+    {
+     "name": "Three Blind Mice",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Terra, Magical Adept",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    }
+   ],
+   "source": "B3+ combo v2 with the 16 cards not in hand replaced by owned stand-ins (Walking Ballista kept, incoming), Nov 12, 2026",
+   "updated": "Nov 12, 2026"
+  }
+ ]
+}

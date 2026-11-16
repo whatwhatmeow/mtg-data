@@ -1,0 +1,1275 @@
+{
+ "adds": [
+  {
+   "name": "Swords to Plowshares",
+   "status": "planned",
+   "why": "Replaces Sword of the Animist (2nd copy). Commander is singleton, so the second copy isn't legal. Swap in 1-mana removal."
+  },
+  {
+   "name": "Talisman of Conviction",
+   "status": "planned",
+   "why": "Replaces Bonders' Enclave. Colorless land in a 3-color deck. A 2-mana rock gets Cloud out a turn sooner."
+  },
+  {
+   "name": "Austere Command",
+   "status": "planned",
+   "why": "Replaces Cultivate. He cut it from the precon, but with Vanquish the Horde and Decimate gone it's the deck's only board wipe, and it can spare Cloud (wipe creatures MV 3 or less)."
+  },
+  {
+   "name": "Stoneforge Mystic",
+   "status": "planned",
+   "why": "Replaces Bronze Guardian. Bronze Guardian is a slow wall. Stoneforge tutors Colossus Hammer or a Sword and drops it in for 2 mana."
+  },
+  {
+   "name": "Cloud, Midgar Mercenary",
+   "status": "planned",
+   "why": "Replaces Avalanche of Sector 7. Avalanche is a narrow artifact punisher. The other Cloud is a 2-mana Equipment tutor that doubles Equipment triggers."
+  },
+  {
+   "name": "Mother of Runes",
+   "status": "planned",
+   "why": "Replaces Barret Wallace. Filler body. Mother makes Cloud dodge removal or blockers every turn."
+  },
+  {
+   "name": "Brass Squire",
+   "status": "planned",
+   "why": "Replaces Helitrooper. Helitrooper is a 2/2 flier. Squire attaches any Equipment for free every turn, including Colossus Hammer (equip 8)."
+  },
+  {
+   "name": "Sigarda's Aid",
+   "status": "planned",
+   "why": "Replaces Elena, Turk Recruit. Elena is low impact. Aid gives Equipment flash and attaches it free on entry."
+  },
+  {
+   "name": "Steelshaper's Gift",
+   "status": "planned",
+   "why": "Replaces Professor Hojo. Hojo does little here. Gift is 1 mana for any Equipment."
+  },
+  {
+   "name": "Hammer of Nazahn",
+   "status": "planned",
+   "why": "Replaces Cait Sith, Fortune Teller. Cait Sith is mostly flavor. Hammer auto-equips every Equipment that enters."
+  },
+  {
+   "name": "Embercleave",
+   "status": "planned",
+   "why": "Replaces Summon: Kujata. Kujata is a 7-drop. Embercleave gives double strike and trample, usually for 2-3 mana in combat. With Colossus Hammer that's 30+ to the face."
+  },
+  {
+   "name": "Fireshrieker",
+   "status": "planned",
+   "why": "Replaces Hellkite Tyrant. 6-mana dragon that doesn't help Cloud. Fireshrieker is double strike for 2 to equip."
+  },
+  {
+   "name": "Akroma's Will",
+   "status": "planned",
+   "why": "Replaces Inspiring Statuary. Statuary is a weak mana rock. Akroma's Will is double strike plus protection: win or survive a wipe."
+  },
+  {
+   "name": "Blackblade Reforged",
+   "status": "planned",
+   "why": "Replaces Conformer Shuriken. Shuriken is defensive. Blackblade is +1/+1 per land for equip 3 on Cloud."
+  },
+  {
+   "name": "Buster Sword",
+   "status": "planned",
+   "why": "Replaces Hero's Heirloom. Heirloom is slow. Buster Sword is Cloud's own sword: big power plus free spells when he connects."
+  },
+  {
+   "name": "Quietus Spike",
+   "status": "planned",
+   "why": "Replaces Wrecking Ball Arm. Arm sets power to 7 but costs a lot. Spike halves a player's life on every hit, and twice with double strike."
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "status": "planned",
+   "why": "Replaces Trailblazer's Boots. Nonbasic-landwalk only. Swiftfoot is a second haste + hexproof piece."
+  },
+  {
+   "name": "Heroic Intervention",
+   "status": "planned",
+   "why": "Replaces Unfinished Business. 5-mana sorcery reanimation. Intervention stops a board wipe for 2."
+  },
+  {
+   "name": "Boros Charm",
+   "status": "planned",
+   "why": "Replaces Vanquish the Horde. Wipes his own team. Boros Charm is instant double strike or indestructible, for 2."
+  },
+  {
+   "name": "Path to Exile",
+   "status": "planned",
+   "why": "Replaces Decimate. Needs all four target types, often fizzles. Path is 1-mana exile."
+  },
+  {
+   "name": "Shadowspear",
+   "status": "planned",
+   "why": "Replaces Dispatch. Dispatch only exiles with metalcraft. Shadowspear gives trample + lifelink for 1 so chump blocks stop working."
+  },
+  {
+   "name": "Smothering Tithe",
+   "status": "planned",
+   "why": "Replaces Lifestream's Blessing. Expensive draw. Tithe is a Treasure engine (Game Changer #2; Gamble is #1)."
+  },
+  {
+   "name": "Enlightened Tutor",
+   "status": "planned",
+   "why": "Replaces Ultimate Magic: Holy. Expensive protection. Enlightened Tutor finds Embercleave or Colossus Hammer for 1 (Game Changer #3)."
+  },
+  {
+   "name": "Plaza of Heroes",
+   "status": "planned",
+   "why": "Land upgrade, replaces Scavenger Grounds. Any color for legendary spells, and can give Cloud hexproof + indestructible."
+  },
+  {
+   "name": "Jetmir's Garden",
+   "status": "planned",
+   "why": "Land upgrade, replaces Ash Barrens. Naya triome; Forest type, so Nature's Lore can fetch it."
+  },
+  {
+   "name": "Needleverge Pathway",
+   "status": "planned",
+   "why": "Land upgrade, replaces Path of Ancestry. Untapped R/W."
+  },
+  {
+   "name": "Branchloft Pathway",
+   "status": "planned",
+   "why": "Land upgrade, replaces Radiant Grove. Untapped G/W."
+  },
+  {
+   "name": "Cragcrown Pathway",
+   "status": "planned",
+   "why": "Land upgrade, replaces Sacred Peaks. Untapped R/G."
+  },
+  {
+   "name": "Karplusan Forest",
+   "status": "planned",
+   "why": "Land upgrade, replaces Wooded Ridgeline. Untapped R/G painland, matches his Battlefield Forge and Brushland."
+  }
+ ],
+ "baseLabel": "His list",
+ "bracket": "Bracket 3",
+ "bracketGoal": "1 Game Changer (Gamble) · his current list",
+ "cards": [
+  {
+   "name": "Aerith, Last Ancient",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Armored Skyhunter",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Creature"
+  },
+  {
+   "name": "Armory Automaton",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ash Barrens",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Avalanche of Sector 7",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Barret Wallace",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Barret, Avalanche Leader",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Bastion Protector",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Battlefield Forge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Behemoth Sledge",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Bonders' Enclave",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Bronze Guardian",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Brushland",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Bugenhagen, Wise Elder",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Cait Sith, Fortune Teller",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Canopy Vista",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Champion's Helm",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Chaos Warp",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Cid, Freeflier Pilot",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Cinder Glade",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Clifftop Retreat",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Cloud's Limit Break",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Colossus Hammer",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Conformer Shuriken",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Conqueror's Flail",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Darksteel Plate",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Decimate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Dispatch",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Elena, Turk Recruit",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Evolving Wilds",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fire-Lit Thicket",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Forest",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fortified Village",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Furycalm Snarl",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Gamble",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Game Trail",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Harmonize",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Helitrooper",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hellkite Tyrant",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Hero's Blade",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hero's Heirloom",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Inspiring Statuary",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Jungle Shrine",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Lifestream's Blessing",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Lightning Greaves",
+   "qty": 1,
+   "role": "prot",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mask of Memory",
+   "qty": 1,
+   "role": "draw",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mossfire Valley",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Nature's Lore",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "O-Naginata",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plains",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Professional Face-Breaker",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Professor Hojo",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Puresteel Paladin",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Radiant Grove",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rampant Growth",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Red XIII, Proud Warrior",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Relentless Assault",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rogue's Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rootbound Crag",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rugged Prairie",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sacred Peaks",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Scavenger Grounds",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sephiroth, Fallen Hero",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Skullclamp",
+   "qty": 1,
+   "role": "draw",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Slayers' Stronghold",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Spire of Industry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sram, Senior Edificer",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Summon: Kujata",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Creature"
+  },
+  {
+   "name": "Summoning Materia",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sungrass Prairie",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sunpetal Grove",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sunscorched Divide",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sword of Fire and Ice",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sword of Sinew and Steel",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sword of the Animist",
+   "qty": 2,
+   "role": "ramp",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Tifa, Martial Artist",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Trailblazer's Boots",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Ultimate Magic: Holy",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Ultimate Magic: Meteor",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Unfinished Business",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Vandalblast",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Vanquish the Horde",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Vincent, Vengeful Atoner",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Wooded Ridgeline",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Wrecking Ball Arm",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Zack Fair",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  }
+ ],
+ "colors": [
+  "R",
+  "G",
+  "W"
+ ],
+ "commanders": [
+  "Cloud, Ex-SOLDIER"
+ ],
+ "format": "Commander",
+ "name": "Cloud's Limit Break",
+ "notes": [
+  "Not legal yet: 2 copies of Sword of the Animist. Commander is singleton, so cut one.",
+  "His changes from the stock precon: + Armored Skyhunter, Sram, Gamble, Relentless Assault, O-Naginata, Sword of Fire and Ice, Sword of Sinew and Steel, 2nd Sword of the Animist, Rogue's Passage; − Yuffie, Heidegger, Explorer's Scope, Secret Rendezvous, Austere Command, Clever Concealment, Furious Rise, SOLDIER Military Program, 1 Mountain.",
+  "Game Changers: Gamble (1 of 3).",
+  "Oct 22 land plan (texted to him): + Plaza of Heroes, Jetmir's Garden, Needleverge/Branchloft/Cragcrown Pathway, Karplusan Forest; − Scavenger Grounds, Ash Barrens, Path of Ancestry, Radiant Grove, Sacred Peaks, Wooded Ridgeline. Extras if wanted: Commercial District, Elegant Parlor, Lush Portico."
+ ],
+ "order": 20,
+ "owner": "Oldest",
+ "source": "His list as pasted Oct 22, 2026",
+ "target": 100,
+ "themeLabel": "Suit up",
+ "updated": "Oct 22, 2026",
+ "variants": [
+  {
+   "bracket": "High Bracket 3",
+   "bracketGoal": "3 Game Changers: Gamble, Smothering Tithe, Enlightened Tutor · fast commander-damage voltron",
+   "id": "b3",
+   "in": [
+    {
+     "name": "Akroma's Will",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Austere Command",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Blackblade Reforged",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Boros Charm",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Brass Squire",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Buster Sword",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Cloud, Midgar Mercenary",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Embercleave",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Enlightened Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Fireshrieker",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Hammer of Nazahn",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Heroic Intervention",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Mother of Runes",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Path to Exile",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Quietus Spike",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Shadowspear",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Sigarda's Aid",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Smothering Tithe",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Steelshaper's Gift",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Stoneforge Mystic",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Swiftfoot Boots",
+     "qty": 1,
+     "role": "prot",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Swords to Plowshares",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Talisman of Conviction",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    }
+   ],
+   "label": "B3",
+   "name": "Cloud (B3)",
+   "notes": [
+    "Plan: Cloud is a hasty 4/4. Get him out on turn 3-4, suit him up, and kill one player per swing with commander damage (21). Key lines: Colossus Hammer (+10) + any double strike (Embercleave, Fireshrieker, Boros Charm, Akroma's Will) = 30+ trample; Quietus Spike + double strike halves life twice; Relentless Assault / Tifa for extra combats.",
+    "Built from his Oct 22 list: 23 swaps (listed on the Cloud tab). Kept all his own adds: Swords of Fire and Ice / Sinew and Steel, O-Naginata, Sram, Armored Skyhunter, Gamble, Relentless Assault, Rogue's Passage.",
+    "Oct 22: Austere Command back in for Three Visits. It's the deck's only board wipe: pick creatures MV 3 or less to keep Cloud, or artifacts + enchantments. Three Visits moved to the bench.",
+    "Game Changers (3): Gamble, Smothering Tithe, Enlightened Tutor. If he lacks one: Teferi's Protection, Jeska's Will, Ancient Tomb. Don't add Farewell (Game Changer).",
+    "Bracket 3 check: 3 Game Changers, no 2-card infinite combos, no extra turns (extra combats are fine), no mass land denial.",
+    "Lands: 35 + Sol Ring, Arcane Signet, Talisman, Nature's Lore, Rampant Growth, Smothering Tithe.",
+    "Bench: Three Visits, Giver of Runes, Fighter Class, Kellan the Fae-Blooded, Sword of Feast and Famine, Kaldra Compleat, Teferi's Protection, Ancient Tomb, Cloud Planet's Champion, Ultima Weapon, surveil lands.",
+    "Not checked against your collection."
+   ],
+   "out": [
+    {
+     "name": "Avalanche of Sector 7",
+     "qty": 1
+    },
+    {
+     "name": "Barret Wallace",
+     "qty": 1
+    },
+    {
+     "name": "Bonders' Enclave",
+     "qty": 1
+    },
+    {
+     "name": "Bronze Guardian",
+     "qty": 1
+    },
+    {
+     "name": "Cait Sith, Fortune Teller",
+     "qty": 1
+    },
+    {
+     "name": "Conformer Shuriken",
+     "qty": 1
+    },
+    {
+     "name": "Cultivate",
+     "qty": 1
+    },
+    {
+     "name": "Decimate",
+     "qty": 1
+    },
+    {
+     "name": "Dispatch",
+     "qty": 1
+    },
+    {
+     "name": "Elena, Turk Recruit",
+     "qty": 1
+    },
+    {
+     "name": "Helitrooper",
+     "qty": 1
+    },
+    {
+     "name": "Hellkite Tyrant",
+     "qty": 1
+    },
+    {
+     "name": "Hero's Heirloom",
+     "qty": 1
+    },
+    {
+     "name": "Inspiring Statuary",
+     "qty": 1
+    },
+    {
+     "name": "Lifestream's Blessing",
+     "qty": 1
+    },
+    {
+     "name": "Professor Hojo",
+     "qty": 1
+    },
+    {
+     "name": "Summon: Kujata",
+     "qty": 1
+    },
+    {
+     "name": "Sword of the Animist",
+     "qty": 1
+    },
+    {
+     "name": "Trailblazer's Boots",
+     "qty": 1
+    },
+    {
+     "name": "Ultimate Magic: Holy",
+     "qty": 1
+    },
+    {
+     "name": "Unfinished Business",
+     "qty": 1
+    },
+    {
+     "name": "Vanquish the Horde",
+     "qty": 1
+    },
+    {
+     "name": "Wrecking Ball Arm",
+     "qty": 1
+    }
+   ],
+   "source": "Built by Claude from his Oct 22 list (not checked against your collection)",
+   "updated": "Oct 22, 2026"
+  },
+  {
+   "bracket": "Bracket 2 power (officially B3)",
+   "bracketGoal": "1 Game Changer (Gamble) by request · B2 rules otherwise",
+   "id": "b2-gamble",
+   "in": [
+    {
+     "name": "Akroma's Will",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Austere Command",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Blackblade Reforged",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Boros Charm",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Brass Squire",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Buster Sword",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Cloud, Midgar Mercenary",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Embercleave",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Fighter Class",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Fireshrieker",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Hammer of Nazahn",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Heroic Intervention",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Mother of Runes",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Path to Exile",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Quietus Spike",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Shadowspear",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Sigarda's Aid",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Steelshaper's Gift",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Stoneforge Mystic",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Swiftfoot Boots",
+     "qty": 1,
+     "role": "prot",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Swords to Plowshares",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Talisman of Conviction",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Three Visits",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    }
+   ],
+   "label": "B2 + Gamble",
+   "name": "Cloud (B2 + Gamble)",
+   "notes": [
+    "Gamble is a Game Changer, so this list is officially Bracket 3. Everything else is Bracket 2 level. Ask the table first (rule 0), or swap Gamble for Open the Armory (finds an Equipment, not a Game Changer) to make it true Bracket 2.",
+    "Changes from Cloud (B3): Smothering Tithe → Three Visits, Enlightened Tutor → Fighter Class. Gamble stays.",
+    "Plan: Cloud is a hasty 4/4. Get him out on turn 3-4, suit him up, and kill one player per swing with commander damage (21). Colossus Hammer + double strike (Embercleave, Fireshrieker, Boros Charm, Akroma's Will) = 30+ trample.",
+    "Bracket checks: no mass land denial, no 2-card infinite combos, no extra turns (extra combats are fine).",
+    "Austere Command is the only board wipe: pick creatures MV 3 or less to keep Cloud, or artifacts + enchantments.",
+    "Not checked against your collection."
+   ],
+   "out": [
+    {
+     "name": "Avalanche of Sector 7",
+     "qty": 1
+    },
+    {
+     "name": "Barret Wallace",
+     "qty": 1
+    },
+    {
+     "name": "Bonders' Enclave",
+     "qty": 1
+    },
+    {
+     "name": "Bronze Guardian",
+     "qty": 1
+    },
+    {
+     "name": "Cait Sith, Fortune Teller",
+     "qty": 1
+    },
+    {
+     "name": "Conformer Shuriken",
+     "qty": 1
+    },
+    {
+     "name": "Cultivate",
+     "qty": 1
+    },
+    {
+     "name": "Decimate",
+     "qty": 1
+    },
+    {
+     "name": "Dispatch",
+     "qty": 1
+    },
+    {
+     "name": "Elena, Turk Recruit",
+     "qty": 1
+    },
+    {
+     "name": "Helitrooper",
+     "qty": 1
+    },
+    {
+     "name": "Hellkite Tyrant",
+     "qty": 1
+    },
+    {
+     "name": "Hero's Heirloom",
+     "qty": 1
+    },
+    {
+     "name": "Inspiring Statuary",
+     "qty": 1
+    },
+    {
+     "name": "Lifestream's Blessing",
+     "qty": 1
+    },
+    {
+     "name": "Professor Hojo",
+     "qty": 1
+    },
+    {
+     "name": "Summon: Kujata",
+     "qty": 1
+    },
+    {
+     "name": "Sword of the Animist",
+     "qty": 1
+    },
+    {
+     "name": "Trailblazer's Boots",
+     "qty": 1
+    },
+    {
+     "name": "Ultimate Magic: Holy",
+     "qty": 1
+    },
+    {
+     "name": "Unfinished Business",
+     "qty": 1
+    },
+    {
+     "name": "Vanquish the Horde",
+     "qty": 1
+    },
+    {
+     "name": "Wrecking Ball Arm",
+     "qty": 1
+    }
+   ],
+   "source": "Cloud (B3) toned down, Oct 22, 2026 (not checked against your collection)",
+   "updated": "Oct 22, 2026"
+  }
+ ]
+}

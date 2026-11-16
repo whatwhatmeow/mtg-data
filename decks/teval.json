@@ -1,0 +1,662 @@
+{
+ "adds": [
+  {
+   "name": "Dig Through Time",
+   "status": "planned",
+   "why": "Delve exiles from the graveyard, so it triggers Teval once and refills. Swap for Treasure Cruise if you want a sharper draw spell."
+  },
+  {
+   "name": "Cemetery Reaper",
+   "status": "planned",
+   "why": "Zombie lord; also exiles creature cards for more Zombies. Swap for Satyr Wayfinder."
+  },
+  {
+   "name": "Timeless Witness",
+   "status": "planned",
+   "why": "Second Eternal Witness body. Swap for Grapple with the Past."
+  },
+  {
+   "name": "Victimize",
+   "status": "planned",
+   "why": "Sacrifice a Zombie, return two creatures. Swap for Dread Return."
+  }
+ ],
+ "bracket": "High Bracket 2",
+ "bracketGoal": "0 Game Changers · no 2-card infinites, extra turns or land destruction · mill lands, bring them back, a Zombie every time",
+ "cards": [
+  {
+   "name": "Aftermath Analyst",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "An Offer You Can't Refuse",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Animate Dead",
+   "own": "have",
+   "qty": 1,
+   "role": "recur",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Arcane Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Ash Barrens",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Assassin's Trophy",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Avenger of Zendikar",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Beast Within",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Bojuka Bog",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Command Tower",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Conduit of Worlds",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Counterspell",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Cultivate",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Deathrite Shaman",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Dimir Aqueduct",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Diregraf Captain",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Dread Return",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Escape Tunnel",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Eternal Witness",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Evolving Wilds",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fabled Passage",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Farseek",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Forest",
+   "own": "have",
+   "qty": 7,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Go for the Throat",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Golgari Rot Farm",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Golgari Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Grapple with the Past",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "recur",
+   "type": "Instant"
+  },
+  {
+   "name": "Grisly Salvage",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Hedge Shredder",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hedron Crab",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hobbit Hole",
+   "own": "likely",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Insidious Roots",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Island",
+   "own": "have",
+   "qty": 4,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Kishla Skimmer",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Kodama's Reach",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Languish",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Life from the Loam",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Lightning Greaves",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Living Death",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Llanowar Wastes",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Lotus Cobra",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Meren of Clan Nel Toth",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Mole Man, Moloid Master",
+   "own": "have",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Muldrotha, the Gravetide",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Myriad Landscape",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Nature's Lore",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Night's Whisper",
+   "own": "have",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Ob Nixilis, the Fallen",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Opulent Palace",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Overwhelming Stampede",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Pongify",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Putrefy",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Rampant Growth",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Ramunap Excavator",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Read the Bones",
+   "own": "have",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Reanimate",
+   "own": "have",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Reliquary Tower",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Ripples of Undeath",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "River Kelpie",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Sakura-Tribe Elder",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Satyr Wayfinder",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Scavenging Ooze",
+   "own": "precon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Scute Swarm",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Sidisi, Brood Tyrant",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Simic Growth Chamber",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Simic Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Skull Prophet",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Sol Ring",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Stitcher's Supplier",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Swamp",
+   "own": "have",
+   "qty": 4,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Syr Konrad, the Grim",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Talisman of Resilience",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Tatyova, Benthic Druid",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Temple of Deceit",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of Malady",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of Mystery",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Teval's Judgment",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Tortured Existence",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Tranquil Thicket",
+   "own": "precon",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Treasure Cruise",
+   "own": "buy-cu",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Underground River",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Wight of the Reliquary",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Will of the Sultai",
+   "own": "buy-r",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Yavimaya Coast",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "B",
+  "G",
+  "U"
+ ],
+ "commanders": [
+  "Teval, the Balanced Scale"
+ ],
+ "format": "Commander",
+ "name": "Teval: Balanced Books",
+ "notes": [
+  "Plan: mill yourself, replay lands from the graveyard, and make a 2/2 Zombie Druid every time cards leave the graveyard. Teval does both halves alone once she can attack.",
+  "Best engines: Scavenging Ooze turns spare mana into Zombies at instant speed, and Deathrite Shaman adds one more each turn cycle. Conduit of Worlds, Ramunap Excavator and Mole Man let you replay lands, so every land drop can trigger Teval.",
+  "Estimated, not simulated: wins around turns 9–11 with a Zombie swarm plus Syr Konrad, Overwhelming Stampede or Avenger of Zendikar. Early stabilization is decent: cheap blockers, 7 spot answers, Languish and Living Death.",
+  "Left out on purpose: Crop Rotation and Field of the Dead (Game Changers), and Gravecrawler (it invites sacrifice loops).",
+  "Rares and mythics to pick up or check your binder for: Assassin's Trophy; Avenger of Zendikar; Conduit of Worlds; Deathrite Shaman; Exotic Orchard; Fabled Passage; Hedge Shredder; Languish; Life from the Loam; Living Death; Lotus Cobra; Meren of Clan Nel Toth; Muldrotha, the Gravetide; Ob Nixilis, the Fallen; Overwhelming Stampede; Ramunap Excavator; Ripples of Undeath; River Kelpie; Scute Swarm; Sidisi, Brood Tyrant; Temple of Deceit; Temple of Malady; Temple of Mystery; Teval's Judgment; Wight of the Reliquary; Will of the Sultai",
+  "Commons and uncommons to pick up or check your binder for: Aftermath Analyst; An Offer You Can't Refuse; Ash Barrens; Beast Within; Bojuka Bog; Command Tower; Cultivate; Dimir Aqueduct; Diregraf Captain; Dread Return; Eternal Witness; Evolving Wilds; Farseek; Go for the Throat; Golgari Rot Farm; Grapple with the Past; Grisly Salvage; Hedron Crab; Insidious Roots; Kishla Skimmer; Kodama's Reach; Lightning Greaves; Myriad Landscape; Nature's Lore; Opulent Palace; Pongify; Putrefy; Rampant Growth; Reliquary Tower; Sakura-Tribe Elder; Satyr Wayfinder; Simic Growth Chamber; Skull Prophet; Stitcher's Supplier; Swiftfoot Boots; Syr Konrad, the Grim; Tatyova, Benthic Druid; Terramorphic Expanse; Tortured Existence; Treasure Cruise",
+  "Hobbit or Lord of the Rings commons and uncommons you likely have from half displays: Hobbit Hole"
+ ],
+ "order": 41,
+ "owner": "Middle",
+ "source": "Built by Claude Nov 3, 2026; card text and color identity checked, ownership assumed from your notes",
+ "target": 100,
+ "themeLabel": "Lands & graveyard churn",
+ "updated": "Nov 3, 2026"
+}

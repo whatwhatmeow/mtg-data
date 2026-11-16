@@ -1,0 +1,529 @@
+{
+ "adds": [
+  {
+   "name": "Multiversal Passage",
+   "status": "verify",
+   "why": "Nov 13: replaced Rogue's Passage, which has no Marvel printing. Spider-Man set land: choose Forest or Island as it enters, untapped if you pay 2 life, so it fixes either color. Path of Ancestry (Marvel printing, always tapped, scry for Heroes) is the backup pick. Check you own it."
+  },
+  {
+   "name": "The Unbeatable Squirrel Girl",
+   "status": "planned",
+   "why": "Leaning yes. Her activated ability doubles your token count, Insects included, and she is a second threat if Ant-Man is answered. Her Squirrels do not count for the Insect payoffs. Cut Unstable Experiment or Dismissive Denial. You own multiple copies."
+  },
+  {
+   "name": "Patchwork Banner (name Insect)",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Rock plus Insect anthem: for Undercover Skrull."
+  },
+  {
+   "name": "Fellwar Stone (S.H.I.E.L.D. Spy Satellite)",
+   "status": "verify",
+   "why": "Optional. Already 13 ramp pieces: for Restorative Technique only if it feels slow."
+  },
+  {
+   "name": "Evolving Wilds",
+   "status": "planned",
+   "why": "Mana round (Nov 9). Yavimaya Coast is not in any Marvel product; a fetch also helps Hinterland Harbor: for Yavimaya Coast."
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "status": "planned",
+   "why": "Mana round (Nov 9). Second fetch: for a Forest."
+  },
+  {
+   "name": "Herald's Horn (Avengers Monitoring Station, name Insect)",
+   "status": "verify",
+   "why": "Utility round (Nov 9). Stacks with Metallic Mimic and Kindred Discovery: for Training Regimen."
+  },
+  {
+   "name": "Loyal Guardian / Spider-Rex (sim, marginal)",
+   "status": "planned",
+   "why": "Nov 13 sim: Heroic Intervention out for Loyal Guardian was +0.9 pts, Spider-Rex +0.6. Inside the noise (about 1.5 pts), so no change recommended. Ant-Man's weak game (about 7% vs the other five) is mostly slow starts, not card quality."
+  }
+ ],
+ "bracket": "High Bracket 2",
+ "bracketGoal": "FOLDED Nov 16, 2026 · parts to Bruce Banner, King T'Challa and Kang · was: 0 Game Changers · every card from a Marvel or Spider-Man product",
+ "cards": [
+  {
+   "name": "Amazing Acrobatics",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Ant-Man's Air Force",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ant-Man's Army",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ant-Man, Colony Commander",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ant-Man, Reformed Rogue",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Beast, Erudite Aerialist",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Birds of Paradise",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Bold Biochemist",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Brawn, Amadeus Cho",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Bushmaster, Coiled Henchman",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Damage Control Crew",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Depower",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Dismissive Denial",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Fabled Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Farseek",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Forest",
+   "qty": 13,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Frozen in Ice",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Giant-Sized Flying Ant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Guy in the Chair",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Heroic Intervention",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Hinterland Harbor",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Iron Man, Armored Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Island",
+   "qty": 13,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "It's Clobberin' Time!",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Kapow!",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Kid Loki",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Kindred Discovery",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Lizard, Connors's Curse",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Metallic Mimic",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Artifact",
+   "type": "Creature"
+  },
+  {
+   "name": "Mister Fantastic, Reed Richards",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Moon Girl and Devil Dinosaur",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Nakia, Wakandan Operative",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Overwhelming Stampede",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Path of Discovery",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Plaza of Heroes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Powerful Broker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Pym Particles",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Pym Technologies",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Quantum Reduction",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Raise the Palisade",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Reed Richards, Smartest Man",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Rejuvenating Springs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rhino, Terrible Trampler",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Multiversal Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Shang-Chi, Martial Mentor",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "She-Hulk, Jade Defender",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Skullclamp",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sodden Verdure",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Solemn Simulacrum",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Man, Brooklyn Visionary",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Stark's Ingenuity",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Strength of Will",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Super Intelligence",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Sword of the Animist",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "The Thing, Ben Grimm",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Think Twice",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Thirst for Knowledge",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Thriving Grove",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Training Regimen",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Undercover Skrull",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Unstable Experiment",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Voracious Brood",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "World War Hulk",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Thriving Isle",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Nature's Lore",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Three Visits",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Lightning Greaves",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Denial",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Beast Within",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Jackal, Genius Geneticist",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  }
+ ],
+ "colors": [
+  "G",
+  "U"
+ ],
+ "commanders": [
+  "The Astonishing Ant-Man"
+ ],
+ "folded": "Nov 16, 2026: broken up. To Bruce Banner: Strength of Will, World War Hulk, Brawn, Moon Girl and Devil Dinosaur, plus second copies of Kid Loki, Beast, Bold Biochemist and Ant-Man, Colony Commander. To King T'Challa: Reed Richards, Smartest Man, Stark's Ingenuity, Super Intelligence, Think Twice, Thirst for Knowledge, Unstable Experiment, Solemn Simulacrum, Frozen in Ice. To Kang: Dismissive Denial, Quantum Reduction, Depower, Pym Particles.",
+ "format": "Commander",
+ "name": "Honey, I Shrunk the Table",
+ "notes": [
+  "Plan: draw to grow Ant-Man, then cash in counters for Insects or attack.",
+  "Fixes the protection gap: Lightning Greaves and Swiftfoot Boots (both Marvel Commander printings) replace Futurist Forge and Mister Hyde, Monster Within.",
+  "Better ramp: Cultivate, Nature's Lore and Three Visits (Marvel Commander) replace Black Tom Cassidy, Doc Samson and Restorative Technique.",
+  "More answers: Arcane Denial and Beast Within (Marvel Commander) replace Fight for the Throne and Knight of Wundagore.",
+  "REVIEW, no Marvel printing found when I searched: Simic Signet, Yavimaya Coast, Hardened Scales, Doubling Season, Brainstorm, Champion of Lambholt, Mystic Snake, Inspiring Call, Llanowar Elves, Growth Spiral.",
+  "REVIEW, possible Marvel print: Counterspell. A store lists a borderless \"Source Material: Marvel Universe\" #9 printing. Check what that product is before counting it.",
+  "REVIEW, open-pool cards I did not search: Adrix and Nev, Twincasters; Beast Whisperer; Branching Evolution; Bred for the Hunt; Breeding Pool; Chasm Skulker; Craterhoof Behemoth; Cryptolith Rite; Curiosity Crafter; Dreamroot Cascade; Enduring Vitality; Exotic Orchard; Ezuri, Claw of Progress; Flooded Grove; Forgotten Ancient; Hornet Queen; Iridescent Hornbeetle; Ivy Lane Denizen; Kami of Whispered Hopes; Master Biomancer; Ohran Frostfang; Opt; Oran-Rief, the Vastwood; Ponder; Pongify; Preordain; Prime Speaker Zegana; Proft's Eidetic Memory; Reliquary Tower; Simic Ascendancy; Simic Growth Chamber; Snakeskin Veil; Sylvan Library; Tatyova, Benthic Druid; Temple of Mystery; The Ozolith; Vineglimmer Snarl; Vorel of the Hull Clade; Zimone, Paradox Sculptor.",
+  "Jackal, Genius Geneticist replaces Giant-Man, Gargantuan Genius. When Ant-Man, Colony Commander attacks, pay {1} to set Jackal's power to the mana value of your next creature. Jackal's own counter can also be your first counter of the turn, so Colony Commander makes an Insect. Ramp drops to 12 cards, which is still plenty with Cultivate, Nature's Lore and Three Visits.",
+  "Marvel bench, if you want to tune: Giant-Man, Gargantuan Genius; Spaceshift; Beast Mode; Claim the Kingdom; Go Nuts!; Savage Land Dinosaur; Futurist Forge; Fight for the Throne; Patchwork Banner (name Insect); Avengers Monitoring Station (Herald's Horn, name Insect).",
+  "Bracket check: 0 of the 53 Game Changers (Feb 9, 2026 list), no intended two-card infinite, no mass land denial, no extra turns."
+ ],
+ "order": 65,
+ "owner": "Andrew",
+ "section": "Marvel Bracket 2",
+ "source": "Consolidated from four Ant-Man builds into one Pure Marvel list, Nov 9, 2026. Every card has a Marvel or Spider-Man printing. Not playtested.",
+ "target": 100,
+ "themeLabel": "Counters & Insects",
+ "updated": "2026-11-13",
+ "variants": []
+}

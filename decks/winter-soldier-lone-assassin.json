@@ -1,0 +1,655 @@
+{
+ "adds": [
+  {
+   "name": "Captain Marvel, Earth's Protector",
+   "status": "planned",
+   "why": "Nov 13 sim, top swap: for U.S.Agent, John Walker, +3.1 win-rate pts (Bastion Protector +1.8; noise about 1.5). MSH mythic, {3}{W}{W}: flash, flying, lifelink. A flash flier that blocks and gains life while Winter Soldier swings alone."
+  },
+  {
+   "name": "Thought Vessel",
+   "status": "verify",
+   "why": "Check for a spare (Avengers precon): for a Swamp."
+  },
+  {
+   "name": "Skullclamp",
+   "status": "verify",
+   "why": "Check for a spare (Doom precon): for Visions of Villainy."
+  },
+  {
+   "name": "Black Market Connections",
+   "status": "verify",
+   "why": "Check for a spare (Doom precon): for Agent 13, Sharon Carter."
+  },
+  {
+   "name": "Black Panther's Claws (Hammer of Nazahn)",
+   "status": "verify",
+   "why": "Check for a spare (Wakanda precon): for HYDRA Disintegrator."
+  },
+  {
+   "name": "Vibranium Strike Gauntlets",
+   "status": "verify",
+   "why": "Check for a spare (Wakanda precon): for Spider-Suit."
+  },
+  {
+   "name": "Panther Habit",
+   "status": "verify",
+   "why": "Check for a spare (Wakanda precon): for Alien Symbiosis."
+  },
+  {
+   "name": "Midnight Angel Armor",
+   "status": "verify",
+   "why": "Check for a spare (Wakanda precon): for Infinity Formula."
+  },
+  {
+   "name": "Dispatch",
+   "status": "verify",
+   "why": "Check for a spare (Wakanda precon): for Dark Deed."
+  },
+  {
+   "name": "Valorous Stance",
+   "status": "verify",
+   "why": "Check for a spare (Wakanda precon): for Web Up."
+  },
+  {
+   "name": "Unstable Molecule Suit",
+   "status": "verify",
+   "why": "Check for a spare (Fantastic Four precon): for Vibranium Energy Daggers."
+  },
+  {
+   "name": "Hero's Blade",
+   "status": "verify",
+   "why": "Check for a spare (Avengers precon): for Web-Shooters."
+  },
+  {
+   "name": "Hulkbuster Armor",
+   "status": "verify",
+   "why": "Check for a spare (Avengers precon): for Origin of Captain America."
+  },
+  {
+   "name": "Winter Soldier, Reborn Avenger",
+   "status": "verify",
+   "why": "Check for a spare (Avengers precon): for Viper, Cruel Conspirator."
+  },
+  {
+   "name": "Captain America, Wings of Freedom",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "Black Widow, Super Spy",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "The Mind Stone",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (MSH). Cut the weakest card in its role."
+  },
+  {
+   "name": "The Soul Stone",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Agent Venom",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Villainous Wrath",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Spectacular Spider-Man",
+   "status": "planned",
+   "why": "Rare upgrade you don't own yet (SPM). Cut the weakest card in its role."
+  },
+  {
+   "name": "Patchwork Banner (name Villain or Human)",
+   "status": "verify",
+   "why": "Mana round (Nov 9). Mostly a 3-mana rock here; count Villains vs Humans when sleeving: for a Plains."
+  },
+  {
+   "name": "Evolving Wilds",
+   "status": "planned",
+   "why": "Mana round (Nov 9). Full fetch package (3) plus both Thrivings and Fisk Tower = six tapped lands, the cap: for a Plains."
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "status": "planned",
+   "why": "Mana round (Nov 9). Crack early so basics arrive before Sword of the Animist pulls them: for a Swamp."
+  },
+  {
+   "name": "Thriving Heath",
+   "status": "planned",
+   "why": "Mana round (Nov 9). Effectively a white-black dual: for a Plains."
+  },
+  {
+   "name": "Thriving Moor",
+   "status": "planned",
+   "why": "Mana round (Nov 9). Effectively a white-black dual: for a Swamp."
+  },
+  {
+   "name": "Command Tower",
+   "status": "planned",
+   "why": "From Owned Marvel B2 (Nov 9). An untapped dual in a two-color deck: for a Swamp."
+  },
+  {
+   "name": "Night's Whisper",
+   "status": "planned",
+   "why": "From Owned Marvel B2 (Nov 9). The list is light on card draw: for The Spot's Portal."
+  },
+  {
+   "name": "With Great Power . . .",
+   "status": "planned",
+   "why": "From Owned Marvel B2 (Nov 9). Grows with every Equipment on Winter Soldier: for Strategic Intervention."
+  },
+  {
+   "name": "Austere Command",
+   "status": "planned",
+   "why": "From Owned Marvel B2 (Nov 9). The list has no board wipe; pick modes that spare your gear: for Fall to Earth."
+  },
+  {
+   "name": "Steelshaper's Gift",
+   "status": "planned",
+   "why": "From Owned Marvel B2 (Nov 9). Need a second copy (yours is in the main Winter Soldier deck). Once you have it: for Rocket-Powered Goblin Glider."
+  },
+  {
+   "name": "Cloak and Dagger, Entwined",
+   "status": "planned",
+   "why": "From Owned Marvel B2 (Nov 9). Optional, no cut assigned: the list already runs twelve removal pieces."
+  },
+  {
+   "name": "Costume Closet",
+   "status": "planned",
+   "why": "From Owned Marvel B2 (Nov 9). Optional, no cut assigned: not Equipment, so it doesn't boost Winter Soldier."
+  }
+ ],
+ "baseLabel": "Lone Assassin",
+ "bracket": "Bracket 2",
+ "bracketGoal": "FOLDED Nov 16, 2026 into the main Winter Soldier deck · kept as the Marvel-only reference list · was: 0 Game Changers · Marvel & Spider-Man nonlands · Equipment · attacks alone · removal",
+ "cards": [
+  {
+   "name": "Agent 13, Sharon Carter",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Alien Symbiosis",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Baron Helmut Zemo",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Baron Strucker, HYDRA Overlord",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Bastion Protector",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Black Widow, Double Agent",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Bucky Barnes, Eager Ally",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain America's Shield",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Captain America, Liberator",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Citizen V, Helmut Zemo",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Crimson Cowl, Master of Evil",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Dark Deed",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Elektra, Daughter of the Hand",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Fall to Earth",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Fellwar Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Fisk Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Foggy Nelson, On Retainer",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "HYDRA Disintegrator",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hawkeye, Bowslinger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Infinity Formula",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Iron Man Armor",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Lethal Scheme",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Lightning Greaves",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "M.O.D.O.K., Evil Intellect",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Matt Murdock, Justice Seeker",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Nick Fury, Spymaster",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Origin of Captain America",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Path to Exile",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Peggy Carter, Secret Agent",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Plains",
+   "qty": 16,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Red Guardian, Super-Soldier",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Rocket-Powered Goblin Glider",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Ronin, Shadow Stalker",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "S.H.I.E.L.D. Spy Kit",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Spider-Man Noir",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Suit",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Stolen Stark Tech",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Strategic Intervention",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Super Villain Lockup",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Super-Soldier Serum",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Aura",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Surveillance Room",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 17,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sword of the Animist",
+   "qty": 1,
+   "role": "ramp",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Swordsman's Steel",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swordsman, Sharp Scoundrel",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Take Up the Shield",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "The Falcon, Sam Wilson",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Masters of Evil",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Spot's Portal",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Thunderbolts Conspiracy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Tombstone, Career Criminal",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "U.S.Agent, John Walker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Vibranium Energy Daggers",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Vibrant Cityscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Villainous Hideout",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Viper, Cruel Conspirator",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Visions of Villainy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Voltaic Whip",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Web Up",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Web-Shooters",
+   "qty": 1,
+   "role": "eng",
+   "sub": "Equipment",
+   "type": "Artifact"
+  },
+  {
+   "name": "Whiplash, Vengeful Engineer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Whispersilk Cloak",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "White Widow, Free Agent",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Withering Torment",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  }
+ ],
+ "colors": [
+  "W",
+  "B"
+ ],
+ "commanders": [
+  "Winter Soldier, Icy Assassin"
+ ],
+ "folded": "Nov 16, 2026: unsleeve; the main Winter Soldier deck is the one Bucky deck. Freed cards: Captain America's Shield, Swordsman's Steel, Captain America, Liberator, Bucky Barnes, Eager Ally, Origin of Captain America and Take Up the Shield go to Captain America: Shield Throw. Iron Man Armor goes to King T'Challa. Red Guardian and Foggy Nelson go to King T'Challa. From the History of Heroes kit, Damn, With Great Power... and a second Rogue's Gloves were aimed here; Damn and With Great Power... are now spare.",
+ "format": "Commander",
+ "name": "Winter Soldier: Lone Assassin",
+ "notes": [
+  "Winter Soldier has vigilance and menace and gets +2/+0 for each Equipment attached. He attacks alone into a hand full of cheap removal, picks up value from every attack-alone card, and comes back from the graveyard with an Equipment already on.",
+  "Turns 1–3: Winter Soldier on turn two. He's a Villain, so Baron Strucker and Tombstone make him cheaper; Sol Ring, Arcane Signet and Fellwar Stone speed you up. Add cheap gear: S.H.I.E.L.D. Spy Kit, Stolen Stark Tech, Vibranium Energy Daggers or Infinity Formula. Bucky gets +2/+0 for each Equipment on him.",
+  "Turns 4–6: Attack alone each turn. Agent 13 investigates, Crimson Cowl makes a 2/1 menace Villain, Black Widow, Double Agent gives first strike on top of menace, and Nick Fury, Spymaster draws a card and drops a creature into the attack. Swordsman reattaches gear whenever a Villain enters; Whiplash drains per Equipment.",
+  "Closing: With two or three Equipment, Winter Soldier swings for 8+ menace damage each turn. If he dies, leave him in the graveyard: {3}{W}{B} brings him back with an Equipment attached and dodges commander tax.",
+  "Bracket 2: Bucky's people: Sharon Carter (Agent 13), Natasha (Black Widow, Double Agent), Yelena (White Widow), Red Guardian, U.S.Agent, Sam Wilson (The Falcon), Steve Rogers (Captain America, Liberator), young Bucky, Peggy Carter, Nick Fury, Zemo twice (Baron Zemo and Citizen V) and the Thunderbolts Conspiracy. Gear: 15 Equipment (Whispersilk Cloak makes him unblockable; Boots and Greaves protect him) plus Sword of the Animist, Super-Soldier Serum, Alien Symbiosis and two Sturdy Shield tokens. Protection: Bastion Protector, Peggy Carter, Foggy Nelson, Matt Murdock and Take Up the Shield. Twelve removal spells including Swords to Plowshares and Path to Exile. Captain America, Liberator is the only tutor; no combos or extra turns.",
+  "Set tags: MSH = Marvel Super Heroes, SPM = Marvel's Spider-Man, MSC = Marvel Super Heroes Commander and Jumpstart cards. Every card listed is one you own. Hot Dog Cart and Dependable Quinjet are in all five Marvel B2 decks; some other commons and uncommons are shared too."
+ ],
+ "order": 64,
+ "owner": "Andrew",
+ "section": "Marvel Bracket 2",
+ "source": "Moved from the Marvel Bracket 2 Decks page (Oct 29, 2026). Built from cards you own.",
+ "target": 100,
+ "themeLabel": "Lone assassin",
+ "updated": "2026-11-13",
+ "variants": [
+  {
+   "bracket": "Bracket 2",
+   "bracketGoal": "0 Game Changers · every card has a Marvel printing · one swap",
+   "id": "nov15-sim",
+   "in": [
+    {
+     "name": "Skullclamp",
+     "qty": 1,
+     "role": "draw",
+     "sub": "Equipment",
+     "type": "Artifact"
+    }
+   ],
+   "label": "Nov 15 tune",
+   "name": "Lone Assassin (Nov 15 tune)",
+   "notes": [
+    "Nov 15 generic sim: this is the best Marvel Bracket 2 deck (37% in four-player pods, where 25% is average). Leave the mana alone: Command Tower, two Thriving lands, Night's Whisper and Thought Vessel together changed nothing (37.9% to 37.0%).",
+    "Whiplash was the one clearly weak card: he enters tapped and his drain needs Equipment that belongs on Winter Soldier. Skullclamp is still an Equipment for the +2/+0. Night's Whisper is the alternative if the Skullclamp is busy elsewhere."
+   ],
+   "out": [
+    {
+     "name": "Whiplash, Vengeful Engineer",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 15, 2026 vault-wide sim",
+   "updated": "Nov 15, 2026"
+  }
+ ]
+}
