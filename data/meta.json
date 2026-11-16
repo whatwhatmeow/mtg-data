@@ -1,5 +1,8 @@
 {
   "updated_utc": "2026-11-12",
   "printings": 113951,
-  "source": "Scryfall default_cards bulk data"
+  "source": "Scryfall default_cards bulk data",
+  "game_changers": 53,
+  "marvel_printings": 1943,
+  "note": "game_changer column filled 2026-11-16 from Scryfall data in whatwhatmeow/mtg-prices; next monthly run reads it straight from the bulk file"
 }
