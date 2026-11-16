@@ -6,7 +6,8 @@
 Expects {"decks": {id: deck}, "tools": {id: tool}} (lists of {"id":..., "data":...} also work).
 Writes decks/<id>.json (one deck per file, exactly as stored in the vault) and
 sim/vault/<tool id>/<file> for every simulator file, plus sim/vault/<tool id>/ABOUT.json
-with its howto / modeled / not_modeled notes.
+with its howto / modeled / not_modeled notes. The vault's "sleeved" checkmarks, if present,
+go to decks/_sleeved.json.
 """
 import json, os, sys
 
@@ -39,6 +40,9 @@ def main(path):
         with open(os.path.join(out, "ABOUT.json"), "w", encoding="utf-8") as f:
             json.dump({k: v for k, v in t.items() if k != "files"}, f, indent=1, ensure_ascii=False)
         nt += 1
+    if ex.get("sleeved"):
+        with open(os.path.join(ROOT, "decks", "_sleeved.json"), "w", encoding="utf-8") as f:
+            json.dump(ex["sleeved"], f, indent=1, ensure_ascii=False)
     print(f"{nd} decks -> decks/, {nt} simulators -> sim/vault/")
 
 
