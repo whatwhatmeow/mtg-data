@@ -27,6 +27,8 @@ Andrew's one home for the things Claude kept rebuilding. Don't list files or rea
 ## Simulators
 - New sim: write only the `Game` class and a top-level `play(deck, profile, rng)`; import everything else from `sim/common.py`. Save it under `sim/<deck id>/` and commit, so it is never rewritten.
 - Use `PYTHONHASHSEED=0` and the paired-seed `compare()` so runs are repeatable.
+- The engines in `sim/vault/<id>/` are edited here; the vault's `tools` collection may hold older files (too big to write back cheaply). Each folder's `ABOUT.json` says how to run it and what it models; update it with every change. The importer keeps the repo copy when its `updated` date is newer.
+- `python sim/vault/check.py` runs every engine on today's lists and names cards a sim doesn't model. Run it after deck changes.
 
 ## Board games
 - Each page lists rules Claude has gotten wrong and Andrew's lessons. Append to the page at the end of every coaching session and commit.

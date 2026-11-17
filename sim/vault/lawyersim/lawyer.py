@@ -12,7 +12,7 @@ for r in csv.DictReader(gzip.open(__import__('os').environ.get('CARDS_CSV','card
 LAND = {}
 for n, r in R.items():
     if 'Land' in r['type_line']:
-        ci = set(r['color_identity']) & set('WUBRG')   # works for 'GW' (repo CSV) and "['G', 'W']" 
+        ci = set(r['color_identity']) & set('WUBRG')   # color_identity is letters ('GW') in the repo CSV
         o = r['oracle_text']
         tapped = ('enters tapped' in o or 'enters the battlefield tapped' in o) and 'unless' not in o
         if 'Basic' in r['type_line']:
@@ -128,7 +128,7 @@ class Game:
 
     def cast(self, c):
         if c in ROCK and c not in DORK:
-            self.rocks.append(dict(n=c, sick=c != 'Sol Ring' and True)); 
+            self.rocks.append(dict(n=c, sick=c != 'Sol Ring' and True))
             if c == 'Sol Ring': self.rocks[-1]['sick'] = False
             return
         if c in DORK:
