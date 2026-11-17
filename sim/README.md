@@ -22,7 +22,9 @@ The engines written so far live in `sim/vault/<id>/`, unpacked from the vault's 
 | `wssim` | Winter Soldier | `ws_loo.py deck.json bracket2 3000` |
 | `lawyersim` | Lawyers | `lawyer.py 3000` (set `CARDS_CSV=data/cards.csv.gz`) |
 
-`python sim/vault/check.py` runs all six on today's lists in `decks/` and lists the cards each one has no model for. As of Nov 16, 2026: `dusim` is missing 31 cards of the merged Doom + Ultron list, `namorsim` 6, `wssim` 1; they only finish because the check swaps those for blanks. Not runnable: `doomsim`'s older scripts (`run.py`, `combo.py`, `b4.py`, `creatures.py`, written for sim v5) and `lawyersim/h2h.py` (needs a Saga-creature version of tomsim that was never saved to the vault).
+`python sim/vault/check.py` runs all six on today's lists in `decks/` and lists any card a sim has no model for (none as of Nov 16, 2026; cards it doesn't know are swapped for blanks so the run can finish). It checks each deck's main list only: saved versions such as Doom Unrivaled's Owned build have stand-in cards the sims don't know yet.
+
+Not runnable: `doomsim`'s older scripts (`run.py`, `combo.py`, `b4.py`, `creatures.py`, written for sim v5) and `lawyersim/h2h.py` (needs a Saga-creature version of tomsim that was never saved to the vault).
 
 ## What these sims can't tell you
 

@@ -119,6 +119,8 @@ OTHER = {
     "Bastion Protector": dict(cost=C(2, 2), type="creature", tags={"bastion"}),
     "Armored Skyhunter": dict(cost=C(3, 1), type="creature", tags={"skyhunter"}),
     "Cloak and Dagger, Entwined": dict(cost=C(1, 1, 1), type="creature", tags={"cloak"}),
+    # {3}{B}{B} 5/5: attacks every opponent at once (token copies), a hit costs that player half their life
+    "Shredder, Shadow Master": dict(cost=C(3, 0, 2), type="creature", tags={"shredder"}),
     # spells
     "Steelshaper's Gift": dict(cost=C(0, 1), type="sorcery", tags={"tutor_equip"}),
     "Open the Armory": dict(cost=C(1, 1), type="sorcery", tags={"tutor_equip"}),

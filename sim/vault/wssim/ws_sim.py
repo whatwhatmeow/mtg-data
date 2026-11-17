@@ -420,7 +420,7 @@ class Game:
             return 75
         if tags & {"enforcer", "bastion", "sram", "swordsman", "squall", "peggy", "mother", "stonehewer"}:
             return 70
-        if tags & {"skyhunter", "cloak", "bodyguard"}:
+        if tags & {"skyhunter", "cloak", "bodyguard", "shredder"}:
             return 55
         if tags & {"draw2"}:
             return 40
@@ -839,6 +839,32 @@ class Game:
             if back:
                 self.gy.remove(back[0]); self.enter_permanent(back[0])
 
+    def shredder_attack(self):
+        """Shredder, Shadow Master: he attacks the healthiest opponent and a tapped, attacking token copy
+        goes at each other one. Each is a plain 5/5, so anyone with a creature blocks: a wall (toughness 6+)
+        stops it for free, a 5+ power creature trades (that kills the real Shredder, not a token), otherwise
+        their smallest creature chump-blocks and dies. Unblocked: 5 damage, then that player loses half
+        their remaining life, rounded up."""
+        if not self.ready("shredder") or not self.alive():
+            return
+        real = max(self.alive(), key=lambda k: self.opp[k])
+        for i in self.alive():
+            b = self.board[i]
+            if not b:
+                self.opp[i] -= 5
+                if self.opp[i] > 0:
+                    self.opp[i] -= (self.opp[i] + 1) // 2
+                self.log(f"  Shredder connects with opponent {i} (life {self.opp[i]})")
+                continue
+            if max(x[1] for x in b) > 5:
+                continue
+            big = [x for x in b if x[0] >= 5]
+            blk = max(big, key=lambda x: x[0]) if big else min(b, key=lambda x: x[0])
+            b.remove(blk)
+            if big and i == real and "Shredder, Shadow Master" in self.perms:
+                self.perms.remove("Shredder, Shadow Master"); self.gy.append("Shredder, Shadow Master")
+        self.check()
+
     # ---------- commander leaving ----------
     def ws_leaves(self, how):
         for e in self.equips:
@@ -972,6 +998,7 @@ class Game:
         self.main_phase()
         self.my_wipe()
         self.attack_once()
+        self.shredder_attack()
         self.ws_sick = False
         self.main_phase()
         if self.has("necro") and self.life > 20:

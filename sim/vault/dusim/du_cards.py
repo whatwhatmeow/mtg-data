@@ -42,6 +42,10 @@ LANDS = {
     "Polluted Delta": dict(prod="B"),
     "Agadeem's Awakening // Agadeem, the Undercrypt": dict(prod="B"),
     "Fell the Profane // Fell Mire": dict(prod="B"),
+    # Nov 16, 2026 (merged Doom + Ultron list)
+    "Castle Doom": dict(prod="C"),                                  # artifact-only colored mana and the Doombot ability not modeled
+    "Memorial to Folly": dict(prod="B", tapped=True, memorial=True),  # {2}{B}, T, sacrifice: creature card from graveyard to hand
+    "Spymaster's Vault": dict(prod="B"),                            # connive ability not modeled
 }
 
 CARDS = {
@@ -70,7 +74,7 @@ CARDS = {
     # win pieces
     "Demonic Consultation": dict(cost=C(0, 1), type="instant", tags={"consult", "win"}),
     "Tainted Pact": dict(cost=C(1, 1), type="instant", tags={"pact"}),
-    "Leveler": dict(cost=C(5), type="creature", tags={"leveler", "win"}),
+    "Leveler": dict(cost=C(5), type="creature", tags={"leveler", "win"}, artifact=True),
     "Inverter of Truth": dict(cost=C(2, 2), type="creature", tags={"inverter", "win"}),
     "Doomsday": dict(cost=C(0, 3), type="instant", tags={"doomsday", "win"}),
     "Nihil Spellbomb": dict(cost=C(1), type="artifact", tags={"gyexile"}),
@@ -113,8 +117,8 @@ CARDS = {
     "The One Ring": dict(cost=C(4), type="artifact", tags={"ring"}),
     "Rat King, Pale Piper": dict(cost=C(2, 1), type="creature", tags={"ratking"}),
     "Sensei's Divining Top": dict(cost=C(1), type="artifact", tags={"top"}),
-    "Deadly Dispute": dict(cost=C(1, 1), type="instant", tags={"dispute"}),
-    "Village Rites": dict(cost=C(0, 1), type="instant", tags={"rites"}),
+    "Deadly Dispute": dict(cost=C(1, 1), type="instant", tags={"sacdraw", "dispute"}),
+    "Village Rites": dict(cost=C(0, 1), type="instant", tags={"sacdraw"}),
     "Feed the Swarm": dict(cost=C(1, 1), type="sorcery", tags={"removal"}),
     # tutors
     "Demonic Tutor": dict(cost=C(1, 1), type="sorcery", tags={"tutor"}),
@@ -165,9 +169,40 @@ CARDS = {
     "Undying Malice": dict(cost=C(0, 1), type="instant", tags={"save"}),
     "Malakir Rebirth": dict(cost=C(0, 1), type="instant", tags={"save"}),
     "Liliana, Death's Majesty": dict(cost=C(3, 2), type="planeswalker", tags=set()),
-    "Ultron the Annihilator": dict(cost=C(3, 2), type="creature", tags={"ultron_a"}),
-    "Ultron, Artificial Malevolence": dict(cost=C(3, 1), type="creature", tags={"ultron_m"}),
-    "The Soul Stone": dict(cost=C(1), type="artifact", tags={"rock"}, prod="C"),
+    # ---- Nov 16, 2026: the merged Doom + Ultron list (card text from data/cards.csv.gz) ----
+    # Ultron the Annihilator: a Robot token when he enters and each turn he attacks; every artifact that
+    # reaches the graveyard drains each opponent for 1.
+    "Ultron the Annihilator": dict(cost=C(3, 2), type="creature", tags={"ultron_a"}, artifact=True),
+    "Ultron, Artificial Malevolence": dict(cost=C(3), type="creature", tags={"ultron_m"}, artifact=True),   # copies not modeled
+    "The Soul Stone": dict(cost=C(1, 1), type="artifact", tags={"rock"}, prod="B"),                         # harness not modeled
+    "Liquimetal Torque": dict(cost=C(2), type="artifact", tags={"rock"}, prod="C"),
+    "Howling Mine": dict(cost=C(2), type="artifact", tags={"mine"}),
+    "Idol of Oblivion": dict(cost=C(2), type="artifact", tags={"idol"}),
+    "Peter Parker's Camera": dict(cost=C(1), type="artifact", tags={"camera"}),
+    "Adaptive Omnitool": dict(cost=C(2), type="artifact", tags={"omnitool"}),
+    "Grim Reaper's Scythe": dict(cost=C(2, 1), type="artifact", tags={"scythe"}),
+    "Cranial Plating": dict(cost=C(2), type="artifact", tags={"equip_dmg"}),     # combat damage is not modeled
+    "Lashwrithe": dict(cost=C(4), type="artifact", tags={"lash"}),               # only its Germ token matters here
+    "Psychosis Crawler": dict(cost=C(5), type="creature", tags={"crawler"}, artifact=True),
+    "Big Mother Mouser": dict(cost=C(4), type="creature", tags={"mouser"}, artifact=True),
+    "Doom's Servo-Guards": dict(cost=C(1, 1), type="creature", tags={"servo"}, artifact=True),
+    "Doombot Harbinger": dict(cost=C(2, 1), type="creature", tags={"harbinger"}, artifact=True),
+    "Reclamation Specialist": dict(cost=C(2, 1), type="creature", tags={"reclaim"}, artifact=True),
+    "Kingpin, Wilson Fisk": dict(cost=C(3, 1), type="creature", tags={"kingpin"}),
+    "Doctor Doom": dict(cost=C(4, 2), type="creature", tags={"doom6"}),
+    "Zombie Infestation": dict(cost=C(1, 1), type="enchantment", tags={"infest"}),
+    "Age of Ultron": dict(cost=C(4, 1), type="enchantment", tags={"saga"}, last=3),
+    "Genesis of the Daleks": dict(cost=C(4, 2), type="enchantment", tags={"saga"}, last=4),
+    "The War in Heaven": dict(cost=C(3, 3), type="enchantment", tags={"saga"}, last=3),
+    "Phyrexian Scriptures": dict(cost=C(2, 2), type="enchantment", tags={"saga"}, last=3),   # no effect in a solitaire model
+    "Buried Alive": dict(cost=C(2, 1), type="sorcery", tags={"entomb", "buried"}),
+    "Persist": dict(cost=C(1, 1), type="sorcery", tags={"reanimate"}),
+    "Splinter's Technique": dict(cost=C(3, 1), type="sorcery", tags={"tutor"}),               # sneak cost not modeled
+    "Shred Memory": dict(cost=C(1, 2), type="sorcery", tags={"transmute2"}),                  # always transmuted
+    "Stargaze": dict(cost=C(0, 2), type="sorcery", tags={"stargaze"}),                        # plus X
+    "Nasty End": dict(cost=C(1, 1), type="instant", tags={"sacdraw"}),
+    "Doom Blade": dict(cost=C(1, 1), type="instant", tags={"interact"}),
+    "Doomfall": dict(cost=C(2, 1), type="sorcery", tags={"discard"}),
     "Stitcher": None,
     "BLANK": dict(cost=C(99), type="sorcery", tags=set()),
 }

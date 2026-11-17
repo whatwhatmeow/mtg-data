@@ -63,6 +63,7 @@ class Game:
         self.tide_on = None
         self.boots_on = None
         self.swift_on = None
+        self.incub = []            # Incubator tokens waiting for {2} (Chrome Host Seedshark): counters on each
         self.st = dict(win=None, namor_cast=0, namor_removed=0, countered=0, wiped=0,
                        tokens=0, drawn=0, max_namor=0, first_hit=None)
         self.mulligan()
@@ -322,7 +323,8 @@ class Game:
                      leviathan=6, newhero=6, stockup=5, dig=5, fof=5, brainstorm=4, crescendo=7,
                      hightide=3, whoosh=4, peel=4, bounce=3, bounce_draw=4, crashing=5, freeze=4,
                      shrink=2, pym=4, unstable=4, draw1=3, manifest=3, extract=5, cabinet=4, idol=4,
-                     boots=3, swiftfoot=5, kill=5, melody=6, b2b=4, aetherize=1, blank=-9)
+                     boots=3, swiftfoot=5, kill=5, melody=6, b2b=4, aetherize=1, blank=-9,
+                     cruise=5, inquiry=5, thirst=4, gauntlet=6)
         return table.get(k, 3)
 
     # ---------------- land ----------------
@@ -373,6 +375,10 @@ class Game:
         if d["type"] == "creature":
             return
         pips = d.get("pips", 0)
+        mv = d["cost"] + d["u"]
+        if mv > 0:
+            for _ in self.tag_on("seedshark"):
+                self.incub.append(mv)
         for _ in self.namors():
             for _ in range(pips):
                 self.token("Merfolk", 1, 1)
@@ -416,7 +422,7 @@ class Game:
     def cast(self, name, reserve=(0, 0), free=False, phase="main"):
         d = C[name]
         g, u = self.cost_of(name)
-        if d["type"] != "creature" and d["kind"] == "dig" and not free:
+        if d["type"] != "creature" and d["kind"] in ("dig", "cruise") and not free:
             dl = min(g, max(0, len(self.gy) - 2))
             g -= dl
             del self.gy[:dl]
@@ -459,7 +465,7 @@ class Game:
         k = d["kind"]
         to_gy = d["type"] in ("instant", "sorcery")
         i = self.target_opp()
-        if k == "rock" or k in ("cabinet", "idol", "boots", "horn", "swiftfoot"):
+        if k == "rock" or k in ("cabinet", "idol", "boots", "horn", "swiftfoot", "gauntlet"):
             self.arts.append(dict(name=name, tapped="tapped" in d["tags"] or k in ("rock",) and False))
             if k == "cabinet":
                 tg = sorted(self.merfolk(), key=lambda c: -self.power(c))[:4]
@@ -478,6 +484,13 @@ class Game:
                 self.arts[-1]["tapped"] = True
             if k == "idol":
                 self.idol_ready = True
+            if k == "gauntlet":
+                for b in self.board[i]:
+                    b["tapped_turn"] = self.turn
+                tg = max(self.cr, key=lambda c: (c.get("namor", False), self.power(c)), default=None)
+                if tg:                       # stays on that creature; re-equipping ({2}) is not modeled
+                    tg["ctr"] += 1
+                    tg["tags"].add("hitloot")
         elif d["type"] == "enchantment":
             self.ench.append(name)
             if k == "superint":
@@ -514,6 +527,20 @@ class Game:
             self.gy += rest[extra:]
         elif k == "dig":
             self.look_take(7, 2)
+        elif k == "cruise":
+            self.draw(3)
+        elif k == "inquiry":
+            self.draw(3)
+            if sum(self.power(c) for c in self.cr if not c["tapped"]) < 2:
+                self.discard_worst(1)
+        elif k == "thirst":
+            self.draw(3)
+            art = [c for c in self.hand if C.get(c, {}).get("type") == "artifact" and (self.prio(c) <= 5 or self.turn > 5)]
+            if art:
+                pick = min(art, key=self.prio)
+                self.hand.remove(pick); self.gy.append(pick)
+            else:
+                self.discard_worst(1); self.discard_worst(1)
         elif k == "stockup":
             self.look_take(5, 2)
         elif k == "draw1":
@@ -643,6 +670,8 @@ class Game:
                         continue
                 if k in ("freeze", "shrink", "pym", "kill", "whoosh", "bounce_draw", "crashing") and phase != "main1":
                     continue
+                if k == "gauntlet" and (phase != "main1" or not self.attackers_ready()):
+                    continue
                 if k in ("freeze", "kill", "bounce_draw", "crashing") and not self.best_blocker(self.target_opp()):
                     continue
                 if k == "pym" and not self.attackers_ready():
@@ -691,8 +720,18 @@ class Game:
             if not c["tapped"] and c["entered"] < self.turn:
                 c["tapped"] = True
                 self.draw(1); self.discard_worst(1)
+        self.hatch(self.reserve())
         # Idol
         self.use_idol()
+
+    def hatch(self, reserve=(0, 0)):
+        """Pay {2} to turn Incubator tokens into X/X Phyrexians, biggest first."""
+        for x in sorted(self.incub, reverse=True):
+            if not self.can_pay(2, 0, reserve):
+                break
+            self.pay(2, 0)
+            self.incub.remove(x)
+            self.token("Phyrexian", x, x, merfolk=False)
 
     def use_idol(self):
         if self.token_made and self.idol_ready and any(a["name"] == "Idol of Oblivion" for a in self.arts):
@@ -836,6 +875,8 @@ class Game:
             self.draw(piracy)
             if "hitdraw" in c["tags"]:
                 self.draw(1)
+            if "hitloot" in c["tags"]:
+                self.draw(1); self.discard_worst(1)
             if self.boots_on == c["id"]:
                 self.draw(1); self.discard_worst(1)
         if self.opp[i] <= 0 or self.cmd[i] >= 21:
@@ -971,6 +1012,7 @@ class Game:
                 if self.cast(name, phase="endstep"):
                     progress = True
                     break
+        self.hatch()
         self.use_idol()
 
     # ---------------- turn ----------------

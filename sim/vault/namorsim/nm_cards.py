@@ -118,5 +118,12 @@ sp("Into the Roil", 1, 1, "whoosh", typ="instant")
 sp("Distant Melody", 3, 1, "melody")
 sp("Thought Vessel", 2, 0, "rock", "cless", typ="artifact")
 sp("Fellwar Stone", 2, 0, "rock", typ="artifact")
+# Nov 16, 2026: cards added to the vault list after v1
+cr("Chrome Host Seedshark", 2, 1, 2, 4, False, "flying", "seedshark")   # incubate X on each noncreature spell
+sp("Muddle the Mixture", 0, 2, "counter", typ="instant")               # instants/sorceries only; transmute not modeled
+sp("Treasure Cruise", 7, 1, "cruise")                                  # delve, draw 3
+sp("Timeline Inquiry", 3, 1, "inquiry", typ="instant")                 # draw 3; teamwork 2 skips the discard
+sp("Thirst for Knowledge", 2, 1, "thirst", typ="instant")              # draw 3, discard an artifact or two cards
+sp("Assassin Gauntlet", 2, 1, "gauntlet", typ="artifact")              # taps one opponent's team; +1/+1 and loot on hit
 sp("BLANK", 99, 0, "blank")
 cr(COMMANDER, 1, 2, 0, 4, True, "flying")

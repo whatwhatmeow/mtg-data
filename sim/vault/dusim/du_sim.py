@@ -12,6 +12,14 @@ Win lines:
 Doom "able to tap" = under my control since my turn began, or haste (Greaves, Boots, Thousand-Year
 Elixir, cast with Hall of the Bandit Lord mana).
 Opponents: removal on Doom, wipes, disruption of combo attempts, and (cEDH) racing combos of their own.
+
+Nov 16, 2026 (v2): the merged Doom + Ultron list. Added creature tokens (Doombots, Robots, Daleks, Zombies,
+the Lashwrithe Germ) as sacrifice fodder, Sagas, a shared "drained" total for each-opponent life loss
+(Ultron the Annihilator, Psychosis Crawler, Genesis of the Daleks, Exsanguinate; 40 = win), more ways to get
+Leveler out of the graveyard (Buried Alive, Persist, Grim Reaper's Scythe, The War in Heaven, Memorial to
+Folly, Doombot Harbinger, Zombie Infestation as a discard outlet), Stargaze, Howling Mine, Peter Parker's
+Camera, Idol of Oblivion, Reclamation Specialist, Adaptive Omnitool, and Shred Memory's transmute.
+Combat damage is still not modeled.
 """
 import random
 from du_cards import LANDS, CARDS
@@ -43,6 +51,19 @@ def tags(c):
     return d["tags"] if d else set()
 
 
+def is_art(c):
+    d = CARDS.get(c)
+    return bool(d) and (d["type"] == "artifact" or bool(d.get("artifact")))
+
+
+def mv(c):
+    d = CARDS.get(c)
+    return sum(d["cost"].values()) if d else 0
+
+
+SAC_FIRST = ("mouser", "servo", "harbinger")      # nontoken creatures the pilot is happy to sacrifice
+
+
 class Game:
     def __init__(self, deck, prof, rng, log=False, combo_from=1):
         self.rng, self.p, self.logging, self.lines = rng, prof, log, []
@@ -64,6 +85,16 @@ class Game:
         self.discard_round = -1
         self.pool = []
         self.held = []
+        self.tok = 0               # artifact creature tokens (Doombots, Robots, Daleks)
+        self.ztok = 0              # other creature tokens (Zombies, the Lashwrithe Germ)
+        self.daleks = 0
+        self.token_turn = -1       # last turn a token was created (Idol of Oblivion)
+        self.kingpin_turn = -1
+        self.scythe_turn = -1
+        self.drained = 0           # life each opponent has lost to drain effects
+        self.sagas = {}            # name -> lore counters
+        self.camera = 0            # film counters on Peter Parker's Camera
+        self.omni_on = False
         self.st = dict(win=None, how=None, attempts=0, disrupted=0, doom_removed=0, doom_casts=0, raced=False)
         self.mulligan()
 
@@ -109,11 +140,117 @@ class Game:
             if not self.lib:
                 return
             self.hand.append(self.lib.pop())
+            if self.has("crawler"):
+                self.drain(1)
 
     def mill(self, n):
         for _ in range(n):
             if self.lib:
-                self.gy.append(self.lib.pop())
+                c = self.lib.pop()
+                self.gy.append(c)
+                if is_art(c):
+                    self.art_to_gy(1)
+
+    # ---------------- drain, tokens, sacrifice ----------------
+    def drain(self, n):
+        if n > 0:
+            self.drained += n
+            if self.drained >= 40:
+                raise Won("drain")
+
+    def art_to_gy(self, n=1):
+        """n artifacts just hit my graveyard: Ultron the Annihilator drains for each."""
+        if n > 0 and self.has("ultron_a"):
+            self.drain(n)
+
+    def make_tokens(self, n, art=True):
+        if art:
+            self.tok += n
+        else:
+            self.ztok += n
+        self.token_turn = self.turn
+
+    def fodder(self):
+        return self.tok + self.ztok + sum(1 for c in self.perms if tags(c) & set(SAC_FIRST))
+
+    def sac(self):
+        """Sacrifice the least useful creature. Returns False if there is nothing to sacrifice."""
+        pick = None
+        if "Leveler" in self.gy and "Doombot Harbinger" in self.perms:
+            pick = "Doombot Harbinger"
+        elif "Big Mother Mouser" in self.perms:
+            pick = "Big Mother Mouser"
+        elif self.tok:
+            self.tok -= 1
+            self.daleks = min(self.daleks, self.tok)
+            self.art_to_gy(1)
+        elif self.ztok:
+            self.ztok -= 1
+        else:
+            pick = next((c for c in self.perms if tags(c) & set(SAC_FIRST)), None)
+            if pick is None:
+                return False
+        if pick:
+            self.perms.remove(pick)
+            self.gy.append(pick)
+            self.art_to_gy(1)
+            if pick == "Big Mother Mouser":
+                self.make_tokens(2)
+            if pick == "Doombot Harbinger" and "Leveler" in self.gy:
+                self.gy.remove(pick); self.exile.append(pick)
+                self.gy.remove("Leveler"); self.hand.append("Leveler")
+                if self.has("scythe"):
+                    self.make_tokens(1, art=False)
+                self.log("  Harbinger returns Leveler to hand")
+        if self.has("kingpin") and self.kingpin_turn != self.turn:
+            self.kingpin_turn = self.turn          # two Treasures, spent right away
+            self.pool += ["B", "B"]
+            self.art_to_gy(2)
+        return True
+
+    def wipe_board(self):
+        dead = [c for c in self.perms if CARDS[c]["type"] == "creature"]
+        n = self.tok + sum(1 for c in dead if is_art(c) and "ultron_a" not in tags(c))
+        ultron = self.has("ultron_a")
+        self.tok = self.ztok = self.daleks = 0
+        for c in dead:
+            self.perms.remove(c); self.gy.append(c)
+        if ultron:
+            self.drain(n)
+
+    def saga_step(self, c):
+        self.sagas[c] += 1
+        ch = self.sagas[c]
+        if c == "Age of Ultron" and ch == 2:
+            self.make_tokens(3)
+        elif c == "Genesis of the Daleks":
+            if ch <= 3:
+                self.make_tokens(ch); self.daleks += ch
+            else:
+                n = min(self.daleks, self.tok)
+                if 3 * n >= 40 - self.drained:
+                    # the opponent would rather lose every non-Dalek creature than take lethal
+                    keep = n
+                    self.wipe_board()
+                    self.tok = self.daleks = keep
+                    if self.doom == "bf" and not self.has("indestr"):
+                        self.remove_doom()
+                else:
+                    self.tok -= n; self.daleks = 0
+                    self.art_to_gy(n)
+                    self.drain(3 * n)
+        elif c == "The War in Heaven":
+            if ch == 1:
+                self.draw(3); self.life -= 3
+            elif ch == 2:
+                self.mill(3)
+            elif "Leveler" in self.gy and self.doom_ready():
+                self.gy.remove("Leveler")
+                if not self.attempt("reanimate Leveler (War in Heaven)"):
+                    self.gy.append("Leveler")
+        if ch >= CARDS[c]["last"]:
+            del self.sagas[c]
+            self.perms.remove(c); self.gy.append(c)
 
     # ---------------- mana ----------------
     def swamps(self):
@@ -246,6 +383,10 @@ class Game:
         return self.has("gyexile") or ("Bojuka Bog" in self.hand and not self.land_played)
 
     def try_wins(self):
+        if "Exsanguinate" in self.hand and self.pool.count("B") >= 2 and len(self.pool) - 2 >= 40 - self.drained:
+            self.pay({"g": len(self.pool) - 2, "B": 2}); self.hand.remove("Exsanguinate"); self.gy.append("Exsanguinate")
+            self.attempt("exsanguinate")
+            return
         ready = self.doom_ready()
         if not ready:
             return
@@ -270,10 +411,25 @@ class Game:
         if rean:
             r = rean[0]
             tgt = next((c for c in ("Leveler", "Inverter of Truth") if c in self.gy and (c == "Leveler" or len(self.gy) <= 4)), None)
-            if not tgt and "Entomb" in self.hand and "Leveler" in self.lib and self.can_pay(self.cost(r), extra=1):
-                self.pay(self.cost("Entomb")); self.hand.remove("Entomb"); self.gy.append("Entomb")
-                self.lib.remove("Leveler"); self.gy.append("Leveler"); tgt = "Leveler"
-                self.log("  Entomb -> Leveler")
+            ent = sorted([c for c in self.hand if "entomb" in tags(c)], key=mv)
+            if not tgt and ent and "Leveler" in self.lib:
+                e, ce, cr_ = ent[0], self.cost(ent[0]), self.cost(r)
+                if self.can_pay({"g": ce["g"] + cr_["g"], "B": ce["B"] + cr_["B"]}):
+                    self.pay(ce); self.hand.remove(e); self.gy.append(e)
+                    self.lib.remove("Leveler"); self.gy.append("Leveler"); tgt = "Leveler"
+                    self.art_to_gy(1)
+                    self.log(f"  {e} -> Leveler")
+            # Zombie Infestation: discard Leveler and one more card, then reanimate it for less than its 5 mana
+            if not tgt and "Leveler" in self.hand and self.has("infest") and self.can_pay(self.cost(r)) \
+                    and not self.can_pay(self.cost("Leveler")):
+                spare = [c for c in self.hand if c not in ("Leveler", r)]
+                if spare:
+                    junk = min(spare, key=lambda c: (c not in LANDS, self.prio(c)))
+                    for c in ("Leveler", junk):
+                        self.hand.remove(c); self.gy.append(c)
+                    self.art_to_gy(1)
+                    self.make_tokens(1, art=False)
+                    tgt = "Leveler"
             if tgt and self.can_pay(self.cost(r)):
                 self.pay(self.cost(r)); self.hand.remove(r); self.gy.append(r); self.gy.remove(tgt)
                 if r == "Reanimate":
@@ -281,6 +437,24 @@ class Game:
                 if not self.attempt("reanimate " + tgt):
                     self.gy.append(tgt)
                 return
+        # Grim Reaper's Scythe: {3}{B}, tap, sacrifice two creatures: Leveler from the graveyard to the battlefield
+        if "Leveler" in self.gy and self.has("scythe") and self.scythe_turn != self.turn and self.fodder() >= 2 \
+                and self.can_pay({"g": 3, "B": 1}):
+            self.pay({"g": 3, "B": 1}); self.scythe_turn = self.turn
+            self.sac(); self.sac()
+            if "Leveler" in self.gy:               # a sacrificed Harbinger may have returned it to hand instead
+                self.gy.remove("Leveler")
+                if not self.attempt("reanimate Leveler (Scythe)"):
+                    self.gy.append("Leveler")
+                return
+        # Memorial to Folly: {2}{B}, tap, sacrifice: Leveler back to hand, when there is mana to cast it too
+        if "Leveler" in self.gy and len(self.pool) - 1 >= 3 + self.cost("Leveler")["g"]:
+            m = next((l for l in self.lands if l["name"] == "Memorial to Folly" and not l["tapped"]), None)
+            if m and "B" in self.pool and self.pool.count("B") >= 2:
+                self.pool.remove("B")
+                self.pay({"g": 2, "B": 1})
+                self.lands.remove(m); self.gy.append(m["name"])
+                self.gy.remove("Leveler"); self.hand.append("Leveler")
         # Leveler
         led = 3 if "Lion's Eye Diamond" in self.hand else 0
         if "Leveler" in self.hand and self.can_pay(self.cost("Leveler"), extra=-led):
@@ -300,11 +474,17 @@ class Game:
         # Doomsday + two draw spells
         if "Doomsday" in self.hand and self.can_pay(self.cost("Doomsday"), extra=3):
             # pile: Dark Ritual / Lotus Petal + Night's Whisper / Sign in Blood style draw spells, Doom tap last
-            piled = [c for c in self.lib if tags(c) & {"draw2", "ritual", "petal"}]
-            if len(piled) >= 3:
+            piled = [c for c in self.lib if tags(c) & {"draw2", "ritual", "petal", "stargaze"}
+                     or ("sacdraw" in tags(c) and self.fodder())]
+            if len(piled) >= 3 or self.draw_capacity() >= 5:
                 self.pay(self.cost("Doomsday"))
                 self.pay({"g": 3})
                 self.hand.remove("Doomsday")
+                # with no second Doom activation this turn, the last tap waits for my next upkeep:
+                # an unprotected Doom has to survive a trip around the table first
+                if not (self.untaps_affordable(self.mana()) or self.camera or self.has("shroud") or self.has("hexproof")):
+                    if self.rng.random() > (1 - self.p["removal"] - self.p["wipe"]) ** 3:
+                        raise Lost("doomsday pile stranded")
                 if not self.attempt("doomsday"):
                     self.gy.append("Doomsday")
                 return
@@ -362,7 +542,11 @@ class Game:
             cap += acts                       # every untap mills one
         cap += 2 * self.count("millstone") + self.count("mill1") + 2 * self.count("mill2")
         if self.has("altar"):
-            cap += 4 * (sum(1 for c in self.perms if CARDS[c]["type"] == "creature") + 1)
+            cap += 4 * (sum(1 for c in self.perms if CARDS[c]["type"] == "creature") + 1) + 2 * (self.tok + self.ztok)
+        if self.camera and self.doom_ready() and self.mana() >= 3:
+            cap += 1
+        if full and "Stargaze" in self.hand and self.pool.count("B") >= 2:
+            cap += 2 * max(0, min(self.mana() - 2, self.life - 3))
         if self.has("necro") and full:
             cap += max(0, self.life - 3)
         if full and "Peer into the Abyss" in self.hand and self.mana() >= 7:
@@ -374,12 +558,17 @@ class Game:
         return cap
 
     # ---------------- tutors ----------------
-    def want(self):
+    def want(self, ok=None):
         have = set(self.hand) | set(self.perms)
         wins = [c for c in ("Demonic Consultation", "Leveler", "Inverter of Truth", "Doomsday", "Tainted Pact") if c in have]
-        if any("reanimate" in tags(c) for c in have) and ("Entomb" in have or "Leveler" in self.gy):
+        rean = any("reanimate" in tags(c) for c in have)
+        if rean and (any("entomb" in tags(c) for c in have) or "Leveler" in self.gy):
             wins.append("reanimation")
         order = []
+        if "Leveler" in self.gy and not rean:
+            order += ["Reanimate", "Animate Dead", "Persist", "Necromancy"]
+        if rean and "Leveler" not in self.gy and "Leveler" in self.lib and not any("entomb" in tags(c) for c in have):
+            order.insert(0, "Buried Alive") if not wins else order.append("Buried Alive")
         if not wins:
             order += ["Demonic Consultation", "Tainted Pact" if len(set(self.lib)) == len(self.lib) else "Leveler", "Leveler", "Doomsday", "Inverter of Truth"]
         if self.doom == "bf" and not self.doom_ready():
@@ -393,12 +582,14 @@ class Game:
         order += ["Necropotence", "Demonic Consultation", "Leveler", "Doomsday", "Bolas's Citadel", "Mesmeric Orb",
                   "Peer into the Abyss", "Sol Ring", "Mana Vault"]
         for c in order:
-            if c in self.lib and c not in have:
+            if c in self.lib and c not in have and (ok is None or ok(c)):
                 return c
         return None
 
-    def tutor(self, to_top=False):
+    def tutor(self, to_top=False, mv2=False):
         c = self.want()
+        if mv2:                                   # Shred Memory's transmute: a mana value 2 card
+            c = self.want(ok=lambda x: mv(x) == 2) or ("Demonic Tutor" if c and "Demonic Tutor" in self.lib else None)
         if not c:
             return
         self.lib.remove(c)
@@ -418,6 +609,14 @@ class Game:
             return 95
         if "amber" in t and self.doom == "bf":
             return 95
+        if "buried" in t:
+            return 60 if "Leveler" in self.lib else -1
+        if "sacdraw" in t:
+            return 40 if self.fodder() else -1
+        if "transmute2" in t:
+            return 85 if self.want() else -1
+        if t & {"stargaze", "exsang"}:
+            return -1
         if t & {"tutor", "tutor_top", "wishclaw"}:
             if "sac" in t and not any(CARDS[x]["type"] == "creature" for x in self.perms):
                 return -1
@@ -426,9 +625,11 @@ class Game:
             return 82
         if t & {"necro", "citadel", "bob", "arena", "ring", "orb", "copy", "rings", "untap1", "staff", "mantle",
                 "grid", "stax", "medallion", "horn", "clamp", "altar", "millstone", "mill1", "mill2", "bmc",
-                "ghast", "indestr", "haste", "supplier", "gyexile", "top", "ratking"}:
+                "ghast", "indestr", "haste", "supplier", "gyexile", "top", "ratking",
+                "mine", "idol", "camera", "servo", "harbinger", "doom6", "kingpin", "reclaim", "scythe", "crawler",
+                "ultron_a", "saga"}:
             return 70
-        if t & {"draw2", "dispute"}:
+        if t & {"draw2"}:
             return 40
         if t & {"discard"}:
             return 60 if self.doom_ready() else 20
@@ -458,9 +659,36 @@ class Game:
             elif "discard" in t:
                 self.discarded_this_turn = True
                 self.discard_round = self.turn
+            elif "buried" in t:
+                if "Leveler" in self.lib:
+                    self.lib.remove("Leveler"); self.gy.append("Leveler")
+                    self.rng.shuffle(self.lib)
+                    self.art_to_gy(1)
+            elif "transmute2" in t:
+                self.tutor(mv2=True)
+            elif "sacdraw" in t:
+                if self.sac():
+                    self.draw(2)
+                    if "dispute" in t:
+                        self.pool.append("B")      # the Treasure
             return
         self.perms.append(c)
         self.entered[c] = self.turn
+        if "servo" in t:
+            self.life += 2; self.mill(2)
+        if "harbinger" in t:
+            self.mill(4)
+        if "doom6" in t:
+            self.make_tokens(2)
+        if "ultron_a" in t:
+            self.make_tokens(1)
+        if "lash" in t:
+            self.make_tokens(1, art=False)
+        if "camera" in t:
+            self.camera = 3
+        if "saga" in t:
+            self.sagas[c] = 0
+            self.saga_step(c)
         if "amber" in t and self.doom == "bf":
             self.pool.append("B")
         if d.get("prod") and not d.get("tapped"):
@@ -552,6 +780,50 @@ class Game:
         if self.has("bmc") and self.life > 15:
             self.draw(1); self.life -= 2
 
+    def engine_actions(self):
+        """Fair-turn value that doesn't need Doom (runs between the two main phases)."""
+        if self.camera and self.doom_ready() and len(self.pool) >= 2:
+            self.pay({"g": 2}); self.camera -= 1          # copy Doom's draw
+            self.draw(1); self.life -= 1
+        if self.has("ultron_a") and self.entered.get("Ultron the Annihilator", 99) < self.turn:
+            self.make_tokens(1)                           # he attacks
+        if self.has("omnitool"):
+            if not self.omni_on and self.fodder() and len(self.pool) >= 3:
+                self.pay({"g": 3}); self.omni_on = True
+            if self.omni_on and self.fodder():            # a token carries it into combat: top six, take an artifact
+                top = [self.lib.pop() for _ in range(min(6, len(self.lib)))]
+                arts = [c for c in top if is_art(c)]
+                if arts:
+                    take = "Leveler" if "Leveler" in arts else max(arts, key=self.prio)
+                    top.remove(take); self.hand.append(take)
+                self.rng.shuffle(top)
+                self.lib[:0] = top
+        if "Stargaze" in self.hand and self.pool.count("B") >= 2:
+            x = min(len(self.pool) - 2, self.life - 5, len(self.lib) // 2)
+            if x >= 2:
+                self.pay({"g": x, "B": 2}); self.hand.remove("Stargaze"); self.gy.append("Stargaze")
+                top = [self.lib.pop() for _ in range(2 * x)]
+                top.sort(key=lambda c: (c in LANDS and len(self.lands) >= 6, -self.prio(c) if c not in LANDS else -50))
+                want_gy = "Leveler" in top and any("reanimate" in tags(c) for c in self.hand)
+                if want_gy:
+                    top.remove("Leveler"); top.append("Leveler")
+                keep, rest = top[:x], top[x:]
+                self.hand += keep
+                for c in rest:
+                    self.gy.append(c)
+                    if is_art(c):
+                        self.art_to_gy(1)
+                self.life -= x
+        if self.has("reclaim"):
+            while self.tok and self.pool and self.lib:
+                self.pay({"g": 1}); self.tok -= 1
+                self.daleks = min(self.daleks, self.tok)
+                self.art_to_gy(1); self.draw(1)
+        if self.has("doom6"):
+            self.draw(1); self.life -= 1                  # his end step trigger
+        if self.has("idol") and self.token_turn == self.turn:
+            self.draw(1)
+
     # ---------------- opponents ----------------
     def opponents(self):
         for i in range(3):
@@ -574,6 +846,8 @@ class Game:
             if self.turn < 2:
                 continue
             r = self.rng.random()
+            if r < self.p["wipe"]:
+                self.wipe_board()
             if self.doom == "bf":
                 if r < self.p["wipe"]:
                     if self.has("indestr"):
@@ -629,12 +903,15 @@ class Game:
             self.ring += 1
             self.draw(self.ring)
         if not (self.turn == 1 and self.on_play):
-            self.draw(1)
+            self.draw(1 + self.count("mine"))
+        for c in list(self.sagas):
+            self.saga_step(c)
         self.play_land()
         self.pool = self.build_pool()
         self.main_phase()
         if self.doom == "bf":
             self.value_actions()
+        self.engine_actions()
         self.main_phase()
         self.held = list(self.pool)
         while len(self.hand) > 7 and not any(l["name"] == "Reliquary Tower" for l in self.lands):
