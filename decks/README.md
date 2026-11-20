@@ -10,4 +10,4 @@ Filled from a vault export (the vault page's "Export for GitHub" button), unpack
 python tools/import_vault_export.py vault-export.json
 ```
 
-Last import: Nov 16, 2026 (35 decks). `_sleeved.json` holds the vault's sleeved checkmarks.
+Last import: Nov 20, 2026 (sleeved checkmarks; decks already current). `_sleeved.json` holds the vault's sleeved checkmarks.
