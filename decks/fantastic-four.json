@@ -204,6 +204,11 @@
    "name": "Fellwar Stone",
    "status": "planned",
    "why": "2-mana rock that fixes. About $0.86. Cut Bant Charm."
+  },
+  {
+   "name": "Storm, Windrider",
+   "status": "owned",
+   "why": "Creatures with flying can't attack her or block her creatures, so her ~10 fliers (Crystal, Thors, Johnny Storm, Black Bolt, Namor, H.E.R.B.I.E., Birds) can only be blocked by reach. Targeted protection spells also give flying. Cut Ultimate Nullification."
   }
  ],
  "bracket": "Bracket 2",
@@ -385,12 +390,6 @@
   },
   {
    "name": "Cleansing Nova",
-   "qty": 1,
-   "role": "wipe",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Ultimate Nullification",
    "qty": 1,
    "role": "wipe",
    "type": "Sorcery"
@@ -741,6 +740,12 @@
    "qty": 1,
    "role": "ramp",
    "type": "Artifact"
+  },
+  {
+   "name": "Storm, Windrider",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
   }
  ],
  "colors": [
@@ -762,14 +767,15 @@
   "Bracket 2 check: no Game Changers, no extra turns, no mass land destruction. Jeskai Ascendancy with Crystal makes 1-mana spells nearly free, but it is not an infinite combo.",
   "Adds marked planned: confirm she has a free copy (Charms, Electrolyze, the Commands and the token creatures may need buying; all are cheap). Swan Song stays out (no spare).",
   "Nov 10, 2026: 10 swaps. Thor package (Guardian of Midgard, Asgard's Avenger, God of Thunder), Human Torch Johnny Storm and Hawkeye (Kate Bishop) for burn; protection package for Crystal (Swiftfoot Boots, Flawless Maneuver, Snakeskin Veil, Tyvar's Stand, Tamiyo's Safekeeping). Deflecting Swat skipped on price. The Mighty Thor (Jane) and Thor Odinson considered and left out. B3 variant now cuts Negate, Electrolyze and Expressive Iteration, since Opt and Bovine Intervention are gone.",
-  "Nov 13, 2026: speed package from a 3,000-game sim using exact card text from the mtg-data repo. Crystal on turn 3 went from 47% to 64% (avg turn 4.1 to 3.75). Six tapped/fetch lands swapped for spare pain lands; Council of Reeds, Third Path Iconoclast, Monastery Mentor, Chromatic Lantern and Bant Charm swapped for 1-2 mana ramp (Birds, Utopia Sprawl, Rampant Growth, Nature's Lore, Fellwar Stone; about $9.40). Invisible Woman kept by choice. Rule for this deck: ramp costs 1-2 mana (Cultivate the one 3-mana exception); don't add more ramp than this."
+  "Nov 13, 2026: speed package from a 3,000-game sim using exact card text from the mtg-data repo. Crystal on turn 3 went from 47% to 64% (avg turn 4.1 to 3.75). Six tapped/fetch lands swapped for spare pain lands; Council of Reeds, Third Path Iconoclast, Monastery Mentor, Chromatic Lantern and Bant Charm swapped for 1-2 mana ramp (Birds, Utopia Sprawl, Rampant Growth, Nature's Lore, Fellwar Stone; about $9.40). Invisible Woman kept by choice. Rule for this deck: ramp costs 1-2 mana (Cultivate the one 3-mana exception); don't add more ramp than this.",
+  "Nov 20, 2026: Storm, Windrider ({1}{G}{W}{W}, Marvel Super Heroes uncommon, owned) in for Ultimate Nullification (5 mana, sacrifices her own legend and exiles her own board). Cleansing Nova stays as the one wipe; Flame On! is the next cut if she wants a second. The '+ Storm' variant is dropped: it used Storm, Force of Nature by mistake."
  ],
  "order": 11,
  "owner": "Wife",
  "source": "Stock precon + F4 Jumpstart packet + 25 swaps, Nov 9, 2026",
  "target": 100,
  "themeLabel": "Crystal spellslinger",
- "updated": "Nov 13, 2026",
+ "updated": "Nov 20, 2026",
  "variants": [
   {
    "adds": [
@@ -834,35 +840,6 @@
    ],
    "source": "B2 list + 3 Game Changers, Nov 9, 2026",
    "updated": "Nov 9, 2026"
-  },
-  {
-   "bracket": "Bracket 2",
-   "bracketGoal": "0 Game Changers · Storm in the 99",
-   "id": "nov16-storm",
-   "in": [
-    {
-     "name": "Storm, Force of Nature",
-     "qty": 1,
-     "role": "win",
-     "type": "Creature"
-    }
-   ],
-   "label": "+ Storm",
-   "name": "Fantastic Four (+ Storm)",
-   "notes": [
-    "Nov 16, 2026: Storm, Force of Nature (owned) in. She is a 3/4 flier with vigilance; when she hits a player, the next instant or sorcery you cast that turn has storm.",
-    "Storm copies are not cast, so they do not trigger Crystal. The value is in the copies themselves: a stormed Jeskai Charm deals 4 to an opponent per copy, and a stormed Boros Charm deals 4 per copy.",
-    "Suggested cut: Black Bolt, Inhuman King. He fills the same slot (a flier that rewards spells) with a lower ceiling. The cut is your wife's call; The Thing and Namor, Atlantean King are the other candidates.",
-    "Not simulated."
-   ],
-   "out": [
-    {
-     "name": "Black Bolt, Inhuman King",
-     "qty": 1
-    }
-   ],
-   "source": "Nov 16, 2026 Marvel commander review",
-   "updated": "Nov 16, 2026"
   }
  ]
 }
