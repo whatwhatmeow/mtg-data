@@ -2454,12 +2454,6 @@
      "type": "Sorcery"
     },
     {
-     "name": "Burnt Offering",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
      "name": "Cabal Ritual",
      "qty": 1,
      "role": "ramp",
@@ -2782,6 +2776,12 @@
      "qty": 1,
      "role": "land",
      "type": "Land"
+    },
+    {
+     "name": "Priest of Gix",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
     },
     {
      "name": "Prismatic Vista",
@@ -3149,7 +3149,7 @@
    "notes": [
     "Pasted Nov 21, 2026. Turbo list: fast mana and rituals into Doom plus Demonic Consultation, Tainted Pact or Doomsday, with Leveler and Mirror of Fate as backups. Every card name appears once, so Tainted Pact works.",
     "Bracket 4 (cEDH speed) whatever the Game Changer count: it aims to win on turns 2-3.",
-    "Not legal as pasted: Burnt Offering has {R} in its text, so its color identity is black-red. Swap it for a mono-black or colorless card; Grim Monolith is the closest fast-mana fit.",
+    "Nov 21: Priest of Gix in for Burnt Offering, which isn't legal here (its {R} makes it black-red). Priest is the only one of the four mono-black options that makes mana the turn it lands: 3 mana in, {B}{B}{B} back, plus a 3-mana-value body for Culling the Weak, Sacrifice, Diabolic Intent or Village Rites.",
     "Most of this list isn't in your collection yet; check ownership before buying.",
     "Win lines and the budget swaps are in the Turbo Pact (budget lands) version's notes."
    ]
@@ -3198,12 +3198,6 @@
      "qty": 1,
      "role": "ramp",
      "type": "Sorcery"
-    },
-    {
-     "name": "Burnt Offering",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
     },
     {
      "name": "Cabal Ritual",
@@ -3522,6 +3516,12 @@
      "qty": 1,
      "role": "land",
      "type": "Land"
+    },
+    {
+     "name": "Priest of Gix",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
     },
     {
      "name": "Prismatic Vista",
@@ -3886,7 +3886,7 @@
     "Pasted Nov 21, 2026. Turbo list: fast mana and rituals into Doom plus Demonic Consultation, Tainted Pact or Doomsday, with Leveler and Mirror of Fate as backups. Every card name appears once, so Tainted Pact works.",
     "Differs from Turbo Pact: Chrome Mox, Demonic Tutor and Vampiric Tutor in for Charcoal Diamond, Grim Tutor and Scheming Symmetry.",
     "Bracket 4 (cEDH speed) whatever the Game Changer count: it aims to win on turns 2-3.",
-    "Not legal as pasted: Burnt Offering has {R} in its text, so its color identity is black-red. Swap it for a mono-black or colorless card; Grim Monolith is the closest fast-mana fit.",
+    "Nov 21: Priest of Gix in for Burnt Offering, which isn't legal here (its {R} makes it black-red). Priest is the only one of the four mono-black options that makes mana the turn it lands: 3 mana in, {B}{B}{B} back, plus a 3-mana-value body for Culling the Weak, Sacrifice, Diabolic Intent or Village Rites.",
     "Most of this list isn't in your collection yet; check ownership before buying.",
     "Win lines and the budget swaps are in the Turbo Pact (budget lands) version's notes."
    ]
@@ -3941,12 +3941,6 @@
      "qty": 1,
      "role": "ramp",
      "type": "Sorcery"
-    },
-    {
-     "name": "Burnt Offering",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
     },
     {
      "name": "Cabal Ritual",
@@ -4277,6 +4271,12 @@
      "qty": 1,
      "role": "tutor",
      "type": "Instant"
+    },
+    {
+     "name": "Priest of Gix",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
     },
     {
      "name": "Rain of Filth",
@@ -4653,7 +4653,7 @@
     "Pasted Nov 21, 2026. Turbo list: fast mana and rituals into Doom plus Demonic Consultation, Tainted Pact or Doomsday, with Leveler and Mirror of Fate as backups. Every card name appears once, so Tainted Pact works.",
     "Differs from Turbo Pact in the lands: Ash Barrens, Bojuka Bog, Castle Locthwain, Crypt of Agadeem, Darkwater Catacombs, Exotic Orchard, Geier Reach Sanitarium, Ifnir Deadlands, Mortuary Mire, Myriad Landscape and Witch's Cottage in for Boseiju, Cabal Coffers, Cavern of Souls, City of Traitors, Gemstone Caverns, Lake of the Dead, Nykthos, Phyrexian Tower, Polluted Delta, Prismatic Vista and Urborg.",
     "Bracket 4 (cEDH speed) whatever the Game Changer count: it aims to win on turns 2-3.",
-    "Not legal as pasted: Burnt Offering has {R} in its text, so its color identity is black-red. Swap it for a mono-black or colorless card; Grim Monolith is the closest fast-mana fit.",
+    "Nov 21: Priest of Gix in for Burnt Offering, which isn't legal here (its {R} makes it black-red). Priest is the only one of the four mono-black options that makes mana the turn it lands: 3 mana in, {B}{B}{B} back, plus a 3-mana-value body for Culling the Weak, Sacrifice, Diabolic Intent or Village Rites.",
     "Also not legal as pasted: Darkwater Catacombs makes {U}{B}, so its color identity is blue-black. Thriving Moor (owned) fits its slot.",
     "Most of this list isn't in your collection yet; check ownership before buying.",
     "Budget swaps (from the Nov 21 primer): Mox Opal -> Pentad Prism (or Everflowing Chalice); Beseech the Mirror -> Diabolic Tutor (or Mastermind's Acquisition); Mithril Coat -> Kaya's Ghostform (or Darksteel Plate); Conqueror's Flail -> Hope of Ghirapur; Deadly Rollick -> Go for the Throat (or Heartless Act); Insidious Dreams -> Necrologia.",
