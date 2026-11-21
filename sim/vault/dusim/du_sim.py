@@ -940,7 +940,12 @@ class Game:
         for l in list(self.lands):
             if LANDS[l["name"]].get("traitors"):
                 self.lands.remove(l); self.gy.append(l["name"])
-        self.lands.append({"name": pick, "tapped": bool(d.get("tapped"))})
+        tapped = bool(d.get("tapped"))
+        cond = d.get("cond")
+        if cond:
+            sw = sum(1 for x in self.lands if LANDS[x["name"]].get("swamp"))
+            tapped = {"swamp": sw == 0, "hive": len(self.lands) >= 2, "legend": self.doom != "bf", "cottage": sw < 3}[cond]
+        self.lands.append({"name": pick, "tapped": tapped})
         self.land_played = True
         if d.get("bog"):
             self.gy = []

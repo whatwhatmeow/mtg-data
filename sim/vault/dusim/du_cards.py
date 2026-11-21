@@ -13,7 +13,7 @@ LANDS = {
     "Snow-Covered Swamp": dict(prod="B", swamp=True),
     "Urborg, Tomb of Yawgmoth": dict(prod="B", swamp=True),
     "Cabal Coffers": dict(prod="C", coffers=True),
-    "Castle Locthwain": dict(prod="B", castle=True),
+    "Castle Locthwain": dict(prod="B", castle=True, cond="swamp"),
     "Takenuma, Abandoned Mire": dict(prod="B"),
     "Phyrexian Tower": dict(prod="C", tower=True),
     "Bojuka Bog": dict(prod="B", tapped=True, bog=True),
@@ -45,7 +45,31 @@ LANDS = {
     # Nov 16, 2026 (merged Doom + Ultron list)
     "Castle Doom": dict(prod="C"),                                  # artifact-only colored mana and the Doombot ability not modeled
     "Memorial to Folly": dict(prod="B", tapped=True, memorial=True),  # {2}{B}, T, sacrifice: creature card from graveyard to hand
-    "Spymaster's Vault": dict(prod="B"),                            # connive ability not modeled
+    "Spymaster's Vault": dict(prod="B", cond="swamp"),              # connive ability not modeled; tapped without a Swamp
+    # Nov 20, 2026: the Unique Pact land base (every name once) and the Owned build's lands
+    "Eumidian Hatchery": dict(prod="B", ping=1),
+    "Rogue's Passage": dict(prod="C"),
+    "Thriving Moor": dict(prod="B", tapped=True),
+    "Evolving Wilds": dict(prod="B", tapped=True, swamp=True),     # approximated as a tapped Swamp
+    "Rocky Tar Pit": dict(prod="B", tapped=True, swamp=True),      # approximated as a tapped Swamp
+    "Unclaimed Territory": dict(prod="C"),                         # Villain-only colored mana not modeled
+    "Hive of the Eye Tyrant": dict(prod="B", cond="hive"),         # tapped if you control two or more other lands
+    "Barad-d\u00fbr": dict(prod="B", cond="legend"),              # untapped only with Doom on the battlefield
+    "Leechridden Swamp": dict(prod="B", tapped=True, swamp=True),
+    "Witch's Cottage": dict(prod="B", swamp=True, cond="cottage"), # untapped with three other Swamps
+    "Mortuary Mire": dict(prod="B", tapped=True),
+    "The Dross Pits": dict(prod="B", tapped=True),
+    "Barren Moor": dict(prod="B", tapped=True),                    # cycling not modeled
+    "Polluted Mire": dict(prod="B", tapped=True),                  # cycling not modeled
+    "Hagra Mauling // Hagra Broodpit": dict(prod="B", tapped=True),# played as the land only
+    "Ifnir Deadlands": dict(prod="B", ping=1),
+    "Darksteel Citadel": dict(prod="C", artifact=True),
+    "Mirrex": dict(prod="C"),
+    "Treasure Vault": dict(prod="C", artifact=True),
+    "Buried Ruin": dict(prod="C"),
+    "Path of Ancestry": dict(prod="B", tapped=True),
+    "Exotic Orchard": dict(prod="C"),                              # conservative: opponents' colors ignored
+    "Tomb of Urami": dict(prod="B", ping=1),
 }
 
 CARDS = {
@@ -204,6 +228,27 @@ CARDS = {
     "Doom Blade": dict(cost=C(1, 1), type="instant", tags={"interact"}),
     "Doomfall": dict(cost=C(2, 1), type="sorcery", tags={"discard"}),
     "Stitcher": None,
+    # ---- Nov 20, 2026: the Owned build's stand-ins (light models) ----
+    "Arc Reactor": dict(cost=C(5), type="artifact", tags={"rock"}, prod="CCC", tapped=True),   # improvise not modeled
+    "Fellwar Stone": dict(cost=C(2), type="artifact", tags={"rock"}, prod="B"),
+    "Isolinear Processor": dict(cost=C(2), type="artifact", tags={"rock"}, prod="C"),
+    "Murmuring Volume": dict(cost=C(3), type="artifact", tags={"rock"}, prod="B"),
+    "Leaden Myr": dict(cost=C(2), type="artifact", tags={"rock"}, prod="B", tapped=True),     # summoning sickness as tapped
+    "Millikin": dict(cost=C(2), type="artifact", tags={"rock"}, prod="C", tapped=True),
+    "Champion's Helm": dict(cost=C(3), type="artifact", tags={"hexproof"}),
+    "Risky Research": dict(cost=C(2, 1), type="sorcery", tags={"draw2"}),
+    "Resentful Revelation": dict(cost=C(1, 1), type="sorcery", tags={"draw2"}),
+    "The Cruelty of Gix": dict(cost=C(3, 2), type="sorcery", tags={"tutor"}),
+    "Lash of the Balrog": dict(cost=C(4, 1), type="sorcery", tags={"interact"}),
+    "Withering Torment": dict(cost=C(2, 1), type="instant", tags={"interact"}),
+    "Zombify": dict(cost=C(3, 1), type="sorcery", tags={"reanimate"}),
+    "Victimize": dict(cost=C(2, 1), type="sorcery", tags={"reanimate"}),
+    "Rescue from the Underworld": dict(cost=C(4, 1), type="instant", tags={"reanimate"}),
+    "Breach the Multiverse": dict(cost=C(5, 2), type="sorcery", tags={"reanimate"}),
+    "Chromatic Sphere": dict(cost=C(99), type="sorcery", tags=set()),      # blanks that keep their own names (Tainted Pact)
+    "Chromatic Star": dict(cost=C(99), type="sorcery", tags=set()),
+    "Mask of Memory": dict(cost=C(99), type="sorcery", tags=set()),
+    "Rat King, Verminister": dict(cost=C(99), type="sorcery", tags=set()),
     "BLANK": dict(cost=C(99), type="sorcery", tags=set()),
 }
 CARDS.pop("Stitcher")

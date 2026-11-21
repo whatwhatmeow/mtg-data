@@ -1602,7 +1602,7 @@
  "variants": [
   {
    "bracket": "Bracket 3",
-   "bracketGoal": "1 Game Changer (Demonic Tutor) for now; 3 once Vampiric Tutor and Ancient Tomb arrive.",
+   "bracketGoal": "0 Game Changers for now (Demonic Tutor set aside Nov 18). Back up to 3 with Demonic Tutor, Vampiric Tutor and Ancient Tomb.",
    "id": "owned-build",
    "in": [
     {
@@ -1630,6 +1630,12 @@
      "type": "Artifact"
     },
     {
+     "name": "Chromatic Sphere",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
      "name": "Chromatic Star",
      "qty": 1,
      "role": "ramp",
@@ -1640,6 +1646,12 @@
      "qty": 1,
      "role": "prot",
      "type": "Sorcery"
+    },
+    {
+     "name": "Eumidian Hatchery",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
     },
     {
      "name": "Fellwar Stone",
@@ -1726,12 +1738,6 @@
      "type": "Land"
     },
     {
-     "name": "Shredder's Revenge",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
      "name": "Sign in Blood",
      "qty": 1,
      "role": "draw",
@@ -1739,7 +1745,7 @@
     },
     {
      "name": "Swamp",
-     "qty": 6,
+     "qty": 5,
      "role": "land",
      "type": "Land"
     },
@@ -1778,13 +1784,16 @@
     "Sim at your kind of table: playing Doom on curve and comboing whenever possible won 57% (36% by turn 10), and opponents blew up the combo in 17% of games. Holding Doom and only comboing protected won 79% (58% by turn 10), with the combo blown up in 1%. At a light table holding costs about 5% of turn-8 wins but still wins more overall. Greaves, Boots and Champion's Helm together are worth over 50% of wins under this plan.",
     "Nov 12 swaps, round 1: Swamp for Zombie Infestation, The Cruelty of Gix for Big Mother Mouser, Sign in Blood for Codex Shredder, Arc Reactor for Peter Parker's Camera, Isolinear Processor for Cranial Plating, Rescue from the Underworld for Kingpin. Round 2: Hedron Crawler for Psychosis Crawler, Read the Bones for Genesis of the Daleks, Zombify for Ultron, Artificial Malevolence, Shredder's Revenge for Millstone, Cabal Ritual for Gwenom.",
     "Nov 13: Fellwar Stone in for Lashwrithe. Murmuring Volume in for Project Deathlok Soldier as the placeholder for Vampiric Tutor. Duress in for Idol of Oblivion; Champion's Helm (owned) in for Reclamation Specialist (Borg, unopened). Chromatic Star in for Hedron Crawler (not owned). Duress + Helm tested about +3-5% at your kind of table.",
+    "Nov 18: Psychosis Crawler back in (it's in the physical deck), so it's now in both builds. Chromatic Star stays; Shredder's Revenge (placeholder-grade draw) is out instead. Not re-simmed.",
+    "Nov 18: Demonic Tutor out for now, Chromatic Sphere in as the stand-in. Demonic Tutor was the sim's second most valuable card; put it back when you can. Eumidian Hatchery in for a Swamp. Tainted Pact (newly owned) stays on Cards to add until the land swap cuts duplicate basics: with ~28 Swamps it usually stops after about 6 cards, exiling everything it passes.",
     "To pick up: Hedron Crawler (about $0.20), maybe. It's a 2-mana artifact creature that taps for {C}. In the latest sim it's worth about the same as Chromatic Star, so it's optional.",
     "Game Changers to add (not owned yet): Vampiric Tutor replaces Murmuring Volume; Ancient Tomb replaces a Swamp. With Demonic Tutor that makes 3, the Bracket 3 maximum. Necropotence and Bolas's Citadel tested negative here, so they aren't the picks for this build.",
-    "34 lands (29 Swamps). A 35th land adds nothing more.",
+    "34 lands (28 Swamps + Eumidian Hatchery). A 35th land adds nothing more.",
     "Lash of the Balrog is in for Bitter Triumph until you open the Borg precon. Rogue's Passage: loose copy from another set (Nov 12).",
     "Isolinear Processor's mana only pays for artifact spells and artifact abilities; Leveler, Arc Reactor and equip costs all count. Champion's Helm gives hexproof only to a legendary creature, which Doom is.",
     "Bracket 3 either way: Bracket 2 expects no Game Changers, few tutors, no two-card game-enders and games of 8+ turns. Mention Doom + Leveler and Doomsday before the game.",
-    "Earlier: Nov 10 Millikin, Victimize, Resentful Revelation, Breach the Multiverse and Leaden Myr in; Nov 11 Risky Research in for Read the Bones (Read the Bones back Nov 12)."
+    "Earlier: Nov 10 Millikin, Victimize, Resentful Revelation, Breach the Multiverse and Leaden Myr in; Nov 11 Risky Research in for Read the Bones (Read the Bones back Nov 12).",
+    "Nov 20: the Unique Pact version is the same 65 nonland cards with Tainted Pact for Chromatic Sphere and a 34-land base where every name appears once. It simmed about 0.4 turns faster than this build."
    ],
    "out": [
     {
@@ -1817,6 +1826,10 @@
     },
     {
      "name": "Cranial Plating",
+     "qty": 1
+    },
+    {
+     "name": "Demonic Tutor",
      "qty": 1
     },
     {
@@ -1872,10 +1885,6 @@
      "qty": 1
     },
     {
-     "name": "Psychosis Crawler",
-     "qty": 1
-    },
-    {
      "name": "Reclamation Specialist",
      "qty": 1
     },
@@ -1917,7 +1926,487 @@
     }
    ],
    "source": "Best build with owned stand-ins, then the Nov 12-13 sim swaps",
-   "updated": "Nov 13, 2026"
+   "updated": "Nov 18, 2026"
+  },
+  {
+   "id": "unique-pact",
+   "label": "Unique Pact",
+   "name": "Doom Unrivaled (Unique Pact)",
+   "bracket": "Bracket 3",
+   "bracketGoal": "0 Game Changers. Same Game Changer plan as the Owned build: Demonic Tutor, Vampiric Tutor, Ancient Tomb.",
+   "source": "Owned build, Tainted Pact for Chromatic Sphere, and a 34-land base with every card name once",
+   "updated": "Nov 20, 2026",
+   "in": [
+    {
+     "name": "Arc Reactor",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Barad-dûr",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Barren Moor",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Bojuka Bog",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Breach the Multiverse",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Buried Ruin",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Cabal Pit",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Cabal Ritual",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Instant"
+    },
+    {
+     "name": "Champion's Helm",
+     "qty": 1,
+     "role": "prot",
+     "type": "Artifact"
+    },
+    {
+     "name": "Chromatic Star",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Command Tower",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Darksteel Citadel",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Duress",
+     "qty": 1,
+     "role": "prot",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Ebon Stronghold",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Eumidian Hatchery",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Evolving Wilds",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Exotic Orchard",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Fellwar Stone",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Hagra Mauling // Hagra Broodpit",
+     "qty": 1,
+     "role": "land",
+     "type": "Instant // Land"
+    },
+    {
+     "name": "Hive of the Eye Tyrant",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Ifnir Deadlands",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Isolinear Processor",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Lash of the Balrog",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Leaden Myr",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Leechridden Swamp",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mask of Memory",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Millikin",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Mirrex",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mortuary Mire",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Murmuring Volume",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Path of Ancestry",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Polluted Mire",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Rat King, Pale Piper",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Rat King, Verminister",
+     "qty": 1,
+     "role": "recur",
+     "type": "Creature"
+    },
+    {
+     "name": "Read the Bones",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Rescue from the Underworld",
+     "qty": 1,
+     "role": "recur",
+     "type": "Instant"
+    },
+    {
+     "name": "Resentful Revelation",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Risky Research",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Rogue's Passage",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Sign in Blood",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Snow-Covered Swamp",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Spire of Industry",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Tainted Pact",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Enchantment"
+    },
+    {
+     "name": "The Dross Pits",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Thriving Moor",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Treasure Vault",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Unclaimed Territory",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Victimize",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "War Room",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Withering Torment",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Zombify",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    }
+   ],
+   "out": [
+    {
+     "name": "Altar of Dementia",
+     "qty": 1
+    },
+    {
+     "name": "Big Mother Mouser",
+     "qty": 1
+    },
+    {
+     "name": "Bitter Triumph",
+     "qty": 1
+    },
+    {
+     "name": "Bolas's Citadel",
+     "qty": 1
+    },
+    {
+     "name": "Cabal Coffers",
+     "qty": 1
+    },
+    {
+     "name": "Codex Shredder",
+     "qty": 1
+    },
+    {
+     "name": "Cranial Plating",
+     "qty": 1
+    },
+    {
+     "name": "Demonic Tutor",
+     "qty": 1
+    },
+    {
+     "name": "Genesis of the Daleks",
+     "qty": 1
+    },
+    {
+     "name": "Idol of Oblivion",
+     "qty": 1
+    },
+    {
+     "name": "Illusionist's Bracers",
+     "qty": 1
+    },
+    {
+     "name": "Infernal Grasp",
+     "qty": 1
+    },
+    {
+     "name": "Kingpin, Wilson Fisk",
+     "qty": 1
+    },
+    {
+     "name": "Lashwrithe",
+     "qty": 1
+    },
+    {
+     "name": "Magewright's Stone",
+     "qty": 1
+    },
+    {
+     "name": "Mesmeric Orb",
+     "qty": 1
+    },
+    {
+     "name": "Millstone",
+     "qty": 1
+    },
+    {
+     "name": "Necropotence",
+     "qty": 1
+    },
+    {
+     "name": "Peer into the Abyss",
+     "qty": 1
+    },
+    {
+     "name": "Peter Parker's Camera",
+     "qty": 1
+    },
+    {
+     "name": "Phyrexian Tower",
+     "qty": 1
+    },
+    {
+     "name": "Reclamation Specialist",
+     "qty": 1
+    },
+    {
+     "name": "Rings of Brighthearth",
+     "qty": 1
+    },
+    {
+     "name": "Swamp",
+     "qty": 22
+    },
+    {
+     "name": "Takenuma, Abandoned Mire",
+     "qty": 1
+    },
+    {
+     "name": "Thousand-Year Elixir",
+     "qty": 1
+    },
+    {
+     "name": "Ultron, Artificial Malevolence",
+     "qty": 1
+    },
+    {
+     "name": "Umbral Mantle",
+     "qty": 1
+    },
+    {
+     "name": "Urborg, Tomb of Yawgmoth",
+     "qty": 1
+    },
+    {
+     "name": "Village Rites",
+     "qty": 1
+    },
+    {
+     "name": "Zombie Infestation",
+     "qty": 1
+    }
+   ],
+   "adds": [
+    {
+     "name": "Peat Bog",
+     "status": "wishlist",
+     "why": "Best-value upgrade (about $1.20). Enters tapped, then {B}{B} twice. Replaces Unclaimed Territory. Sim: about 0.08 turns faster."
+    },
+    {
+     "name": "Tomb of Urami",
+     "status": "wishlist",
+     "why": "Second upgrade (about $4). Untapped {B}, 1 damage per tap. Replaces Rogue's Passage. With Peat Bog: about 0.11 turns faster, the same as Ancient Tomb."
+    },
+    {
+     "name": "Takenuma, Abandoned Mire",
+     "status": "wishlist",
+     "why": "About $13. Untapped {B}; channel returns Leveler. Next after Peat Bog and Tomb of Urami."
+    },
+    {
+     "name": "Shizo, Death's Storehouse",
+     "status": "wishlist",
+     "why": "About $13. Untapped {B}; Doom gets fear."
+    }
+   ],
+   "notes": [
+    "Every card name appears once, so Tainted Pact never stops on a duplicate. Win: with Doom untapped and not summoning sick, cast Pact, take nothing until the library is empty, then tap Doom. Never add a second copy of anything (a second Swamp breaks it). Snow-Covered Swamp is a different name from Swamp.",
+    "Pact as a tutor: it finds anything (Leveler, Doomsday, Greaves), but every card it passes is exiled. Skipping Leveler to find Greaves loses Leveler.",
+    "Lands (34). Already owned (9): Swamp, Vault of Whispers, Eumidian Hatchery, Spymaster's Vault, Memorial to Folly, Thriving Moor, Evolving Wilds, Castle Doom, Rogue's Passage; plus Unclaimed Territory (name Villain). From the unopened Borg precon (4): Command Tower, Spire of Industry, Path of Ancestry, Exotic Orchard.",
+    "To buy (20, about $15 at the cheapest printings, Nov 12 prices): Snow-Covered Swamp, Castle Locthwain, Cabal Pit, Hive of the Eye Tyrant, Barad-dûr, Ifnir Deadlands, Leechridden Swamp, Bojuka Bog, Mortuary Mire, The Dross Pits, Ebon Stronghold, Barren Moor, Polluted Mire, Hagra Mauling, Reliquary Tower, War Room, Buried Ruin, Darksteel Citadel, Mirrex, Treasure Vault.",
+    "Nov 20 sim (10,000 games, Bracket 3 table): today's Owned build wins by turn 8 57.7%, by turn 10 73.7%; this version 62.8% and 78.1%, about 0.37 turns faster. At a Bracket 4 table about 5 points better by turns 8 and 10. Pact won about 37% of games. Pact with the 28 Swamps did nothing; the singleton lands without Pact were 0.5 turns slower. Stand-ins and the new lands are lightly modeled.",
+    "Nov 20 sim, lands: every land in this base is worth about the same (0.08-0.16 turns each), so buy the cheapest first. Upgrades: an untapped black land is the whole gain. Cabal Coffers and Phyrexian Tower add nothing here, and Hall of the Bandit Lord barely helps.",
+    "Bracket 3 with 0 Game Changers. Tell the table about Doom + Leveler, Doom + Tainted Pact and Doomsday before the game."
+   ]
   }
  ]
 }
