@@ -1,0 +1,664 @@
+{
+ "name": "Terra, Herald of Hope",
+ "owner": "Andrew",
+ "commanders": [
+  "Terra, Herald of Hope"
+ ],
+ "colors": [
+  "W",
+  "B",
+  "R"
+ ],
+ "format": "Commander",
+ "order": 9.8,
+ "bracket": "Bracket 2",
+ "bracketGoal": "Stock precon: 0 Game Changers",
+ "target": 100,
+ "themeLabel": "Mill and reanimate",
+ "baseLabel": "Stock precon",
+ "source": "Revival Trance (FINAL FANTASY VI) Commander precon, stock list",
+ "updated": "Nov 21, 2026",
+ "cards": [
+  {
+   "name": "Angel of the Ruins",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Anger",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Archfiend of Depravity",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Ash Barrens",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Banon, the Returners' Leader",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Battlefield Forge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Bedevil",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Big Score",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Celes, Rune Knight",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Clifftop Retreat",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Coin of Fate",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Combustible Gearhulk",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Commander's Sphere",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Crackling Doom",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Cyan, Vengeful Samurai",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Demolition Field",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Desolate Mire",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Dragonskull Summit",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Edgar, Master Machinist",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Espers to Magicite",
+   "qty": 1,
+   "role": "recur",
+   "type": "Instant"
+  },
+  {
+   "name": "Evolving Wilds",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fetid Heath",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Flayer of the Hatebound",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Foreboding Ruins",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Furycalm Snarl",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Gau, Feral Youth",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "General Leo Cristophe",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Geothermal Bog",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Gogo, Mysterious Mime",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Graven Cairns",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "High Market",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Interceptor, Shadow's Hound",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Isolated Chapel",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Kefka, Dancing Mad",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Key to the City",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Laughing Mad",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Legions to Ashes",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Locke, Treasure Hunter",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Meteor Golem",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Millikin",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Mind Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mog, Moogle Warrior",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Morbid Opportunist",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Mortify",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Mountain",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Night's Whisper",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Nomad Outpost",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Palace Jailer",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Phoenix Down",
+   "qty": 1,
+   "role": "recur",
+   "type": "Artifact"
+  },
+  {
+   "name": "Pitiless Plunderer",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Plains",
+   "qty": 4,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Priest of Fell Rites",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Reanimate",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rejoin the Fight",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rise of the Dark Realms",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rogue's Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rugged Prairie",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Ruin Grinder",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Ruinous Ultimatum",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Sabin, Master Monk",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Sacred Peaks",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sepulchral Primordial",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Setzer, Wandering Gambler",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Shadow, Mysterious Assassin",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Shadowblood Ridge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Shineshadow Snarl",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Siegfried, Famed Swordsman",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Smoldering Marsh",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Snort",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Solemn Simulacrum",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Stitch Together",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Stitcher's Supplier",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Strago and Relm",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Sulfurous Springs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Summon: Esper Valigarmanda",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Sun Titan",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Sunlit Marsh",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sunscorched Divide",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Conviction",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Indulgence",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "The Falcon, Airship Restored",
+   "qty": 1,
+   "role": "recur",
+   "type": "Artifact"
+  },
+  {
+   "name": "The Warring Triad",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Tragic Arrogance",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Umaro, Raging Yeti",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Wayfarer's Bauble",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  }
+ ],
+ "adds": [
+  {
+   "name": "Swords to Plowshares",
+   "status": "owned (Jace precon)",
+   "why": "High. One-mana instant exile. Suggested cut: Coin of Fate."
+  },
+  {
+   "name": "Path to Exile",
+   "status": "owned (Jace precon)",
+   "why": "High. One-mana instant exile. Suggested cut: Key to the City."
+  },
+  {
+   "name": "Archon of Cruelty",
+   "status": "owned (Jace precon)",
+   "why": "High. The best reanimation target here: on enter and attack an opponent sacrifices a creature or planeswalker, discards, loses 3; you draw and gain 3. Suggested cut: Umaro, Raging Yeti."
+  },
+  {
+   "name": "Avacyn, Angel of Horror",
+   "status": "owned (Jace precon)",
+   "why": "Mid. 8-mana flier that returns your nontoken creatures when they die. Too costly to cast; a reanimation and Rise of the Dark Realms target. Suggested cut: Gogo, Mysterious Mime."
+  },
+  {
+   "name": "Lingering Souls",
+   "status": "owned (Jace precon)",
+   "why": "Mid. Four 1/1 fliers from one card; if Terra mills it, you can still flash it back. Suggested cut: Mog, Moogle Warrior."
+  },
+  {
+   "name": "Despark",
+   "status": "owned (Jace precon)",
+   "why": "Mid. Two-mana exile for anything with mana value 4 or more. Suggested cut: Espers to Magicite."
+  },
+  {
+   "name": "Serra's Emissary",
+   "status": "owned (Jace precon)",
+   "why": "Mid. Reanimate it naming Creature and opponents' creatures can't touch you or your board. Suggested cut: Interceptor, Shadow's Hound."
+  },
+  {
+   "name": "Reflecting Pool",
+   "status": "owned (Jace precon)",
+   "why": "Taps for any color your other lands make. In for a Plains."
+  },
+  {
+   "name": "Fabled Passage",
+   "status": "owned (Jace precon)",
+   "why": "Fetches a basic; fills the graveyard count by one. In for a Plains."
+  },
+  {
+   "name": "Caves of Koilos",
+   "status": "owned (Jace precon)",
+   "why": "W/B pain land. In for a Swamp."
+  },
+  {
+   "name": "Turbulent Crater",
+   "status": "owned (Jace precon)",
+   "why": "B/R land. In for a Mountain if you want more fixing."
+  },
+  {
+   "name": "Rakdos Signet",
+   "status": "owned (Jace precon)",
+   "why": "Low. Another rock if the deck feels slow."
+  },
+  {
+   "name": "Archfiend of Despair",
+   "status": "owned (Jace precon)",
+   "why": "Low-mid. Reanimation target that stops lifegain and drains each end step."
+  },
+  {
+   "name": "Overlord of the Mistmoors",
+   "status": "owned (Jace precon)",
+   "why": "Low-mid. Reanimated, it arrives as a full 6/6 and makes two 2/1 fliers."
+  },
+  {
+   "name": "Elspeth, Sun's Champion",
+   "status": "owned (Jace precon)",
+   "why": "Low-mid. Strong on its own; doesn't use the graveyard plan."
+  },
+  {
+   "name": "Flawless Maneuver",
+   "status": "owned (Jace precon)",
+   "why": "Low. Free indestructible for your creatures with Terra out; answers a wipe."
+  }
+ ],
+ "notes": [
+  "Nov 21, 2026: the stock Revival Trance precon (Final Fantasy VI), commander Terra, Herald of Hope; Celes, Rune Knight (the deck's second legend) is in the 99.",
+  "Plan: Terra mills two each combat and brings back small creatures; the deck reanimates bigger threats (Sepulchral Primordial, Sun Titan, Archfiend of Depravity) and wins in combat. Reviews flag tension between Terra's small-creature recursion and the big reanimation targets.",
+  "Cards to add are the Mardu-legal cards from Jace's Reality Fracture precon, which you opened for parts. Best of them: Swords to Plowshares, Path to Exile, Archon of Cruelty. Not simmed; there's no Terra simulator yet.",
+  "Stock list includes 3 Mountain, 4 Plains and 3 Swamp. No Game Changers."
+ ],
+ "variants": []
+}
