@@ -1101,27 +1101,15 @@
    "why": "Infinity Stone with off-color mana in its cost or text: outside Doom's mono-black color identity. Not the same card as Mind Stone, which is in both builds."
   }
  ],
- "baseLabel": "Best build",
+ "baseLabel": "Ideal (3 Game Changers)",
  "bracket": "Bracket 3",
- "bracketGoal": "3 Game Changers: Necropotence, Bolas's Citadel, Demonic Tutor",
+ "bracketGoal": "3 Game Changers: Demonic Tutor, Vampiric Tutor, Chrome Mox",
  "cards": [
   {
-   "name": "Adaptive Omnitool",
+   "name": "Agadeem's Awakening // Agadeem, the Undercrypt",
    "qty": 1,
-   "role": "tutor",
-   "type": "Artifact"
-  },
-  {
-   "name": "Age of Ultron",
-   "qty": 1,
-   "role": "rem",
-   "type": "Enchantment"
-  },
-  {
-   "name": "Altar of Dementia",
-   "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
+   "role": "land",
+   "type": "Sorcery"
   },
   {
    "name": "Animate Dead",
@@ -1136,43 +1124,31 @@
    "type": "Artifact"
   },
   {
-   "name": "Big Mother Mouser",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Bitter Triumph",
-   "qty": 1,
-   "role": "rem",
-   "type": "Instant"
-  },
-  {
-   "name": "Black Market Connections",
-   "qty": 1,
-   "role": "draw",
-   "type": "Enchantment"
-  },
-  {
-   "name": "Bolas's Citadel",
-   "qty": 1,
-   "role": "draw",
-   "type": "Artifact"
-  },
-  {
-   "name": "Buried Alive",
-   "qty": 1,
-   "role": "recur",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Cabal Coffers",
+   "name": "Barren Moor",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Castle Doom",
+   "name": "Basal Thrull",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Beseech the Mirror",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Beseech the Queen",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Cabal Pit",
    "qty": 1,
    "role": "land",
    "type": "Land"
@@ -1184,16 +1160,58 @@
    "type": "Land"
   },
   {
-   "name": "Codex Shredder",
+   "name": "Cavern of Souls",
    "qty": 1,
-   "role": "eng",
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Champion's Helm",
+   "qty": 1,
+   "role": "prot",
    "type": "Artifact"
   },
   {
-   "name": "Cranial Plating",
+   "name": "Charcoal Diamond",
    "qty": 1,
-   "role": "eng",
+   "role": "ramp",
    "type": "Artifact"
+  },
+  {
+   "name": "Chrome Mox",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "City of Brass",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Crashing Drawbridge",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Cruel Tutor",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Dark Petition",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
   },
   {
    "name": "Dark Ritual",
@@ -1202,9 +1220,15 @@
    "type": "Instant"
   },
   {
-   "name": "Deadly Dispute",
+   "name": "Defense Grid",
    "qty": 1,
-   "role": "eng",
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Demonic Consultation",
+   "qty": 1,
+   "role": "tutor",
    "type": "Instant"
   },
   {
@@ -1232,28 +1256,34 @@
    "type": "Instant"
   },
   {
-   "name": "Doom's Servo-Guards",
+   "name": "Ebon Stronghold",
    "qty": 1,
-   "role": "eng",
-   "type": "Creature"
+   "role": "land",
+   "type": "Land"
   },
   {
-   "name": "Doombot Harbinger",
+   "name": "Entomb",
    "qty": 1,
-   "role": "eng",
-   "type": "Creature"
+   "role": "recur",
+   "type": "Instant"
   },
   {
-   "name": "Doomfall",
+   "name": "Eumidian Hatchery",
    "qty": 1,
-   "role": "rem",
-   "type": "Sorcery"
+   "role": "land",
+   "type": "Land"
   },
   {
-   "name": "Doomsday",
+   "name": "Evolving Wilds",
    "qty": 1,
-   "role": "win",
-   "type": "Sorcery"
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Exsanguinate",
@@ -1262,10 +1292,28 @@
    "type": "Sorcery"
   },
   {
-   "name": "Genesis of the Daleks",
+   "name": "Feign Death",
    "qty": 1,
-   "role": "eng",
-   "type": "Enchantment"
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Fell the Profane // Fell Mire",
+   "qty": 1,
+   "role": "land",
+   "type": "Instant"
+  },
+  {
+   "name": "Fellwar Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Gemstone Mine",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Go for the Throat",
@@ -1274,16 +1322,16 @@
    "type": "Instant"
   },
   {
-   "name": "Grim Reaper's Scythe",
+   "name": "Grim Tutor",
    "qty": 1,
-   "role": "recur",
-   "type": "Artifact"
+   "role": "tutor",
+   "type": "Sorcery"
   },
   {
-   "name": "Horn of Greed",
+   "name": "Hive of the Eye Tyrant",
    "qty": 1,
-   "role": "draw",
-   "type": "Artifact"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Howling Mine",
@@ -1292,34 +1340,64 @@
    "type": "Artifact"
   },
   {
-   "name": "Idol of Oblivion",
+   "name": "Ifnir Deadlands",
    "qty": 1,
-   "role": "draw",
-   "type": "Artifact"
+   "role": "land",
+   "type": "Land"
   },
   {
-   "name": "Illusionist's Bracers",
+   "name": "Imp's Mischief",
    "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
-  },
-  {
-   "name": "Infernal Grasp",
-   "qty": 1,
-   "role": "rem",
+   "role": "tutor",
    "type": "Instant"
   },
   {
-   "name": "Kingpin, Wilson Fisk",
+   "name": "Insidious Dreams",
    "qty": 1,
-   "role": "eng",
+   "role": "tutor",
+   "type": "Instant"
+  },
+  {
+   "name": "Inverter of Truth",
+   "qty": 1,
+   "role": "win",
    "type": "Creature"
   },
   {
-   "name": "Lashwrithe",
+   "name": "Isolinear Processor",
    "qty": 1,
-   "role": "eng",
+   "role": "ramp",
    "type": "Artifact"
+  },
+  {
+   "name": "Jeweled Amulet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Lake of the Dead",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Lavaspur Boots",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Leaden Myr",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Leechridden Swamp",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Leveler",
@@ -1340,9 +1418,15 @@
    "type": "Artifact"
   },
   {
-   "name": "Magewright's Stone",
+   "name": "Malakir Rebirth",
    "qty": 1,
-   "role": "eng",
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Mask of Memory",
+   "qty": 1,
+   "role": "draw",
    "type": "Artifact"
   },
   {
@@ -1352,16 +1436,10 @@
    "type": "Land"
   },
   {
-   "name": "Mesmeric Orb",
+   "name": "Millikin",
    "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
-  },
-  {
-   "name": "Millstone",
-   "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
+   "role": "ramp",
+   "type": "Creature"
   },
   {
    "name": "Mind Stone",
@@ -1370,16 +1448,28 @@
    "type": "Artifact"
   },
   {
-   "name": "Nasty End",
+   "name": "Mirrex",
    "qty": 1,
-   "role": "draw",
-   "type": "Instant"
+   "role": "land",
+   "type": "Land"
   },
   {
-   "name": "Necropotence",
+   "name": "Mortuary Mire",
    "qty": 1,
-   "role": "draw",
-   "type": "Enchantment"
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mox Amber",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mox Opal",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Night's Whisper",
@@ -1388,10 +1478,22 @@
    "type": "Sorcery"
   },
   {
-   "name": "Peer into the Abyss",
+   "name": "Not Dead After All",
    "qty": 1,
-   "role": "draw",
-   "type": "Sorcery"
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Peat Bog",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Persist",
@@ -1400,25 +1502,13 @@
    "type": "Sorcery"
   },
   {
-   "name": "Peter Parker's Camera",
+   "name": "Plunge into Darkness",
    "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
+   "role": "tutor",
+   "type": "Instant"
   },
   {
-   "name": "Phyrexian Arena",
-   "qty": 1,
-   "role": "draw",
-   "type": "Enchantment"
-  },
-  {
-   "name": "Phyrexian Scriptures",
-   "qty": 1,
-   "role": "wipe",
-   "type": "Enchantment"
-  },
-  {
-   "name": "Phyrexian Tower",
+   "name": "Polluted Mire",
    "qty": 1,
    "role": "land",
    "type": "Land"
@@ -1430,28 +1520,46 @@
    "type": "Creature"
   },
   {
+   "name": "Read the Bones",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
    "name": "Reanimate",
    "qty": 1,
    "role": "recur",
    "type": "Sorcery"
   },
   {
-   "name": "Reclamation Specialist",
+   "name": "Resentful Revelation",
    "qty": 1,
    "role": "draw",
-   "type": "Creature"
+   "type": "Sorcery"
   },
   {
-   "name": "Reliquary Tower",
+   "name": "Risky Research",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rogue's Passage",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Rings of Brighthearth",
+   "name": "Scheming Symmetry",
    "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Shambling Ghast",
+   "qty": 1,
+   "role": "other",
+   "type": "Creature"
   },
   {
    "name": "Shred Memory",
@@ -1460,10 +1568,16 @@
    "type": "Instant"
   },
   {
-   "name": "Skullclamp",
+   "name": "Sign in Blood",
    "qty": 1,
    "role": "draw",
-   "type": "Artifact"
+   "type": "Sorcery"
+  },
+  {
+   "name": "Snow-Covered Swamp",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Sol Ring",
@@ -1472,10 +1586,22 @@
    "type": "Artifact"
   },
   {
+   "name": "Spire of Industry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
    "name": "Splinter's Technique",
    "qty": 1,
    "role": "tutor",
    "type": "Sorcery"
+  },
+  {
+   "name": "Springleaf Drum",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Spymaster's Vault",
@@ -1484,14 +1610,8 @@
    "type": "Land"
   },
   {
-   "name": "Stargaze",
-   "qty": 1,
-   "role": "draw",
-   "type": "Sorcery"
-  },
-  {
    "name": "Swamp",
-   "qty": 23,
+   "qty": 1,
    "role": "land",
    "type": "Land"
   },
@@ -1502,7 +1622,19 @@
    "type": "Artifact"
   },
   {
-   "name": "Takenuma, Abandoned Mire",
+   "name": "Tainted Pact",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Instant"
+  },
+  {
+   "name": "The Cruelty of Gix",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Enchantment"
+  },
+  {
+   "name": "The Dross Pits",
    "qty": 1,
    "role": "land",
    "type": "Land"
@@ -1514,34 +1646,22 @@
    "type": "Artifact"
   },
   {
-   "name": "The War in Heaven",
+   "name": "Thriving Moor",
    "qty": 1,
-   "role": "recur",
-   "type": "Enchantment"
+   "role": "land",
+   "type": "Land"
   },
   {
-   "name": "Thousand-Year Elixir",
+   "name": "Treasure Vault",
    "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
+   "role": "land",
+   "type": "Land"
   },
   {
-   "name": "Ultron the Annihilator",
+   "name": "Undying Malice",
    "qty": 1,
-   "role": "win",
-   "type": "Creature"
-  },
-  {
-   "name": "Ultron, Artificial Malevolence",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Umbral Mantle",
-   "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
+   "role": "prot",
+   "type": "Instant"
   },
   {
    "name": "Urborg, Tomb of Yawgmoth",
@@ -1550,22 +1670,34 @@
    "type": "Land"
   },
   {
+   "name": "Urza's Saga",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Vampiric Tutor",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Instant"
+  },
+  {
    "name": "Vault of Whispers",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Village Rites",
+   "name": "Wishclaw Talisman",
    "qty": 1,
-   "role": "eng",
-   "type": "Instant"
+   "role": "tutor",
+   "type": "Artifact"
   },
   {
-   "name": "Zombie Infestation",
+   "name": "Withering Torment",
    "qty": 1,
-   "role": "eng",
-   "type": "Enchantment"
+   "role": "rem",
+   "type": "Instant"
   }
  ],
  "colors": [
@@ -1577,383 +1709,40 @@
  "format": "Commander",
  "name": "Doom Unrivaled",
  "notes": [
-  "One list, merged Nov 8, 2026 from: B3 main, Owned now, Doom+Ultron owned and optimal, last night's physical build, and every card discussed. Everything that isn't in the 100 is on Cards to add.",
-  "Plan: Doom taps several times a turn (Thousand-Year Elixir, Magewright's Stone, Umbral Mantle, Illusionist's Bracers, Rings of Brighthearth, Peter Parker's Camera) while Mesmeric Orb, Millstone, Altar of Dementia, Stargaze, Necropotence and Peer into the Abyss empty the library.",
-  "Shortcuts: Leveler (Buried Alive it into the graveyard, tutor it, or reanimate it with Reanimate, Animate Dead, Persist, The War in Heaven, Grim Reaper's Scythe; Zombie Infestation discards it on purpose) and Doomsday.",
-  "Backup: Ultron the Annihilator drains each opponent for every artifact that hits your graveyard. Fuel: Kingpin's Treasures, Genesis of the Daleks, Doombot Harbinger, Servo-Guards, Big Mother Mouser, Castle Doom; outlets: Deadly Dispute, Village Rites, Nasty End, Reclamation Specialist, Skullclamp, Altar. Psychosis Crawler and Exsanguinate close.",
-  "Bracket 3: exactly 3 Game Changers (Necropotence, Bolas's Citadel, Demonic Tutor). Rule 0: Doom + Leveler and Doomsday are near-two-card wins.",
-  "18 cards in this list aren't in your collection yet. The Owned build version swaps each for an owned stand-in so you can sleeve it now.",
-  "Equipment: Cranial Plating, Lashwrithe, Adaptive Omnitool. Mask of Memory is the 4th if you want one. Never copy Equipment with Ultron, Artificial Malevolence.",
-  "Timing: if Leveler enters during your upkeep (Rescue, Scythe tricks), tap Doom before your draw step.",
-  "Cards to add tags: owned, Borg (unopened), check (ownership unconfirmed), Big Wheels (moved there), wishlist (not owned), not legal (off-color).",
-  "Retired versions: B3+ sim, B4 sim, cEDH sim, Owned now, Doom+Ultron owned and optimal. All of their cards are in the 100 or on Cards to add.",
-  "Nov 10: Shred Memory in for Feed the Swarm, Splinter's Technique in for Read the Bones (both builds). Still 3 Game Changers.",
-  "Nov 12 sim (Owned build, exact card text from mtg-data; 4,000 games against a normal table and 3,000 against a hostile one, with removal modeled as random events; removal spells count as blanks). Win split: Doom + Leveler about 90% of wins, Doomsday about 7%, damage/drain 1-2%, natural empty library under 1%. That replaces the Nov 10 estimate (damage 25-35%). Win by turn 10: 69% normal table, 55% hostile.",
-  "Nov 12 sim, card values: the biggest are Leveler, Demonic Tutor, Splinter's Technique, Sol Ring, Diabolic Tutor, Doomsday, Howling Mine, Lightning Greaves, and every land (a 34th land is worth about +2%). At or below zero: Zombie Infestation, Psychosis Crawler, Big Mother Mouser, Codex Shredder, Kingpin, Peter Parker's Camera, Cranial Plating, Lashwrithe, Ultron, Artificial Malevolence. Ultron the Annihilator is about zero: the backup plan rarely wins before Leveler does.",
-  "Nov 12: the Owned build is now the speed build: 11 sim swaps applied (see its notes). Win by turn 8 went from 49% to 66%. The Best build is unchanged.",
-  "Nov 12 card-text checks: Kingpin makes Treasures once per turn, only when you sacrifice a creature. Rat King, Verminister reanimates (tap, sacrifice three Rats). Buried Alive finds creature cards only. Urn of Godfire costs 1. Death in the Family hits mana value 3 or less. Doombots, Servo-Guards, Harbinger, Age of Ultron tokens and Millikin get Ultron, Machine Overlord's bonus; Leaden Myr doesn't."
+  "Nov 21, 2026 rebuild. Main list = Ideal (3 Game Changers: Demonic Tutor, Vampiric Tutor, Chrome Mox). Versions: Ideal without Game Changers, Budget (under $150) with and without, Build today with and without, Bracket 4 and Bracket 5. Every list was built by the sim one swap at a time, fastest first.",
+  "Ideal, Nov 21 sim, 10,000 games, Bracket 3 table: by turn 6 78%, turn 8 92%, turn 10 95%, average win turn 5.8. About $1130 at the cheapest printings.",
+  "Plan: Doom + Tainted Pact or Demonic Consultation (exile the library, tap Doom), Doom + Leveler or Inverter of Truth, with a pile of tutors to find them. Every card name appears once, so Tainted Pact works. Tell the table about the two-card wins before the game.",
+  "Line A: cast Doom off fast mana, give him haste (Lightning Greaves {2}, equip {0}; Lavaspur Boots {1}, equip {1}), then Demonic Consultation naming a card not in the deck, or Tainted Pact taking nothing, and tap Doom.",
+  "Line B: cast Doom and pass. At the end step of the player before you, cast Pact or Consultation (opponents may still have mana up). Doom is summoning sick until your turn starts, so tap him in your upkeep, before your draw.",
+  "Line C (when Doomsday is in the list): pile Street Wraith, Dark Ritual, Night's Whisper, Demonic Consultation, Spoils of the Vault; Doom must already be able to tap.",
+  "Line D: Mirror of Fate (tap, sacrifice, choose zero cards) empties the library. Inverter of Truth only empties it when your graveyard is empty.",
+  "Never cast Spoils of the Vault from a full library: you lose a life per exiled card and die before Doom can tap. Doom's 'win even at 0 life' only covers his own 1 life.",
+  "Sim caveats: Mox Opal is modeled like Mox Amber; 0-drop creatures only as sacrifice fodder; Spoils of the Vault left out because the sim ignores its life loss. Prices are the Nov 12 card-data refresh.",
+  "Land notes kept for later: Gemstone Mine, Cabal Pit and Hive of the Eye Tyrant are the cheap untapped black lands.",
+  "Retired Nov 21: Owned build (became Build today), Unique Pact (became Budget), Turbo Pact, Turbo Pact + Game Changers and Turbo Pact (budget lands) (their tutors and fast mana are in Ideal, B4 and B5). The old lists are in the mtg-data repo's history (decks/doom-unrivaled.json).",
+  "Earlier: Nov 8 merged build (Doom + Leveler, Ultron backup); Nov 10-18 Owned-build sim swaps; Nov 20 Unique Pact (singleton land base, 0.37 turns faster than the Owned build)."
  ],
  "order": 2,
  "owner": "Andrew",
- "source": "Merged Doom + Ultron build, Nov 8, 2026",
+ "source": "Nov 21, 2026 sim-driven rebuild (Ideal, 3 Game Changers)",
  "target": 100,
  "themeLabel": "Empty the library",
- "updated": "Nov 8, 2026",
+ "updated": "Nov 21, 2026",
  "variants": [
   {
+   "id": "ideal-0gc",
+   "label": "Ideal, no Game Changers",
+   "name": "Doom Unrivaled (Ideal, no Game Changers)",
    "bracket": "Bracket 3",
-   "bracketGoal": "0 Game Changers for now (Demonic Tutor set aside Nov 18). Back up to 3 with Demonic Tutor, Vampiric Tutor and Ancient Tomb.",
-   "id": "owned-build",
+   "bracketGoal": "0 Game Changers",
+   "source": "Nov 21 sim-driven build, no price limit",
+   "updated": "Nov 21, 2026",
    "in": [
     {
-     "name": "Arc Reactor",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Breach the Multiverse",
-     "qty": 1,
-     "role": "recur",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Cabal Ritual",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Champion's Helm",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Chromatic Sphere",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Chromatic Star",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Duress",
-     "qty": 1,
-     "role": "prot",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Eumidian Hatchery",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Fellwar Stone",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Isolinear Processor",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Lash of the Balrog",
-     "qty": 1,
-     "role": "rem",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Leaden Myr",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Mask of Memory",
-     "qty": 1,
-     "role": "draw",
-     "type": "Artifact"
-    },
-    {
-     "name": "Millikin",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Murmuring Volume",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Rat King, Pale Piper",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Rat King, Verminister",
-     "qty": 1,
-     "role": "recur",
-     "type": "Creature"
-    },
-    {
-     "name": "Read the Bones",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Rescue from the Underworld",
-     "qty": 1,
-     "role": "recur",
-     "type": "Instant"
-    },
-    {
-     "name": "Resentful Revelation",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Risky Research",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Rogue's Passage",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Sign in Blood",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Swamp",
-     "qty": 5,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "The Cruelty of Gix",
+     "name": "Adaptive Omnitool",
      "qty": 1,
      "role": "tutor",
-     "type": "Enchantment"
-    },
-    {
-     "name": "Victimize",
-     "qty": 1,
-     "role": "recur",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Withering Torment",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Zombify",
-     "qty": 1,
-     "role": "recur",
-     "type": "Sorcery"
-    }
-   ],
-   "label": "Owned build",
-   "name": "Doom Unrivaled (Owned build)",
-   "notes": [
-    "Plan: Doom + Leveler. Put Leveler onto the battlefield (cast it, tutor it, or bin and reanimate it) while Doom is untapped and protected, then tap Doom. Doomsday is the second route. Ultron the Annihilator is the long-game backup.",
-    "How to pilot (Nov 13 sim with opponents holding counterspells and removal): hold Doom until he can arrive protected. Cast him when Lightning Greaves, Swiftfoot Boots or Champion's Helm is on the battlefield and you can pay to equip it that turn, or when you can cast him, give him haste and get Leveler in the same turn. By turn 9 with neither, cast him anyway.",
-    "Only fire Leveler when Doom has shroud or hexproof. If no protection piece is on the battlefield, the first tutor finds one (Shred Memory can transmute for Greaves or Boots); the next finds Leveler. Cast Duress the turn before you go off. A countered Leveler isn't a loss: reanimate it.",
-    "Then let Leveler's trigger resolve and tap Doom immediately. Emergency only: if Doom is already tapped, untap next turn and tap him in your upkeep, before the draw step.",
-    "Sim at your kind of table: playing Doom on curve and comboing whenever possible won 57% (36% by turn 10), and opponents blew up the combo in 17% of games. Holding Doom and only comboing protected won 79% (58% by turn 10), with the combo blown up in 1%. At a light table holding costs about 5% of turn-8 wins but still wins more overall. Greaves, Boots and Champion's Helm together are worth over 50% of wins under this plan.",
-    "Nov 12 swaps, round 1: Swamp for Zombie Infestation, The Cruelty of Gix for Big Mother Mouser, Sign in Blood for Codex Shredder, Arc Reactor for Peter Parker's Camera, Isolinear Processor for Cranial Plating, Rescue from the Underworld for Kingpin. Round 2: Hedron Crawler for Psychosis Crawler, Read the Bones for Genesis of the Daleks, Zombify for Ultron, Artificial Malevolence, Shredder's Revenge for Millstone, Cabal Ritual for Gwenom.",
-    "Nov 13: Fellwar Stone in for Lashwrithe. Murmuring Volume in for Project Deathlok Soldier as the placeholder for Vampiric Tutor. Duress in for Idol of Oblivion; Champion's Helm (owned) in for Reclamation Specialist (Borg, unopened). Chromatic Star in for Hedron Crawler (not owned). Duress + Helm tested about +3-5% at your kind of table.",
-    "Nov 18: Psychosis Crawler back in (it's in the physical deck), so it's now in both builds. Chromatic Star stays; Shredder's Revenge (placeholder-grade draw) is out instead. Not re-simmed.",
-    "Nov 18: Demonic Tutor out for now, Chromatic Sphere in as the stand-in. Demonic Tutor was the sim's second most valuable card; put it back when you can. Eumidian Hatchery in for a Swamp. Tainted Pact (newly owned) stays on Cards to add until the land swap cuts duplicate basics: with ~28 Swamps it usually stops after about 6 cards, exiling everything it passes.",
-    "To pick up: Hedron Crawler (about $0.20), maybe. It's a 2-mana artifact creature that taps for {C}. In the latest sim it's worth about the same as Chromatic Star, so it's optional.",
-    "Game Changers to add (not owned yet): Vampiric Tutor replaces Murmuring Volume; Ancient Tomb replaces a Swamp. With Demonic Tutor that makes 3, the Bracket 3 maximum. Necropotence and Bolas's Citadel tested negative here, so they aren't the picks for this build.",
-    "34 lands (28 Swamps + Eumidian Hatchery). A 35th land adds nothing more.",
-    "Lash of the Balrog is in for Bitter Triumph until you open the Borg precon. Rogue's Passage: loose copy from another set (Nov 12).",
-    "Isolinear Processor's mana only pays for artifact spells and artifact abilities; Leveler, Arc Reactor and equip costs all count. Champion's Helm gives hexproof only to a legendary creature, which Doom is.",
-    "Bracket 3 either way: Bracket 2 expects no Game Changers, few tutors, no two-card game-enders and games of 8+ turns. Mention Doom + Leveler and Doomsday before the game.",
-    "Earlier: Nov 10 Millikin, Victimize, Resentful Revelation, Breach the Multiverse and Leaden Myr in; Nov 11 Risky Research in for Read the Bones (Read the Bones back Nov 12).",
-    "Nov 20: the Unique Pact version is the same 65 nonland cards with Tainted Pact for Chromatic Sphere and a 34-land base where every name appears once. It simmed about 0.4 turns faster than this build."
-   ],
-   "out": [
-    {
-     "name": "Altar of Dementia",
-     "qty": 1
-    },
-    {
-     "name": "Big Mother Mouser",
-     "qty": 1
-    },
-    {
-     "name": "Bitter Triumph",
-     "qty": 1
-    },
-    {
-     "name": "Bolas's Citadel",
-     "qty": 1
-    },
-    {
-     "name": "Cabal Coffers",
-     "qty": 1
-    },
-    {
-     "name": "Castle Locthwain",
-     "qty": 1
-    },
-    {
-     "name": "Codex Shredder",
-     "qty": 1
-    },
-    {
-     "name": "Cranial Plating",
-     "qty": 1
-    },
-    {
-     "name": "Demonic Tutor",
-     "qty": 1
-    },
-    {
-     "name": "Genesis of the Daleks",
-     "qty": 1
-    },
-    {
-     "name": "Idol of Oblivion",
-     "qty": 1
-    },
-    {
-     "name": "Illusionist's Bracers",
-     "qty": 1
-    },
-    {
-     "name": "Infernal Grasp",
-     "qty": 1
-    },
-    {
-     "name": "Kingpin, Wilson Fisk",
-     "qty": 1
-    },
-    {
-     "name": "Lashwrithe",
-     "qty": 1
-    },
-    {
-     "name": "Magewright's Stone",
-     "qty": 1
-    },
-    {
-     "name": "Mesmeric Orb",
-     "qty": 1
-    },
-    {
-     "name": "Millstone",
-     "qty": 1
-    },
-    {
-     "name": "Necropotence",
-     "qty": 1
-    },
-    {
-     "name": "Peer into the Abyss",
-     "qty": 1
-    },
-    {
-     "name": "Peter Parker's Camera",
-     "qty": 1
-    },
-    {
-     "name": "Phyrexian Tower",
-     "qty": 1
-    },
-    {
-     "name": "Reclamation Specialist",
-     "qty": 1
-    },
-    {
-     "name": "Reliquary Tower",
-     "qty": 1
-    },
-    {
-     "name": "Rings of Brighthearth",
-     "qty": 1
-    },
-    {
-     "name": "Takenuma, Abandoned Mire",
-     "qty": 1
-    },
-    {
-     "name": "Thousand-Year Elixir",
-     "qty": 1
-    },
-    {
-     "name": "Ultron, Artificial Malevolence",
-     "qty": 1
-    },
-    {
-     "name": "Umbral Mantle",
-     "qty": 1
-    },
-    {
-     "name": "Urborg, Tomb of Yawgmoth",
-     "qty": 1
-    },
-    {
-     "name": "Village Rites",
-     "qty": 1
-    },
-    {
-     "name": "Zombie Infestation",
-     "qty": 1
-    }
-   ],
-   "source": "Best build with owned stand-ins, then the Nov 12-13 sim swaps",
-   "updated": "Nov 18, 2026"
-  },
-  {
-   "id": "unique-pact",
-   "label": "Unique Pact",
-   "name": "Doom Unrivaled (Unique Pact)",
-   "bracket": "Bracket 3",
-   "bracketGoal": "0 Game Changers. Same Game Changer plan as the Owned build: Demonic Tutor, Vampiric Tutor, Ancient Tomb.",
-   "source": "Owned build, Tainted Pact for Chromatic Sphere, and a 34-land base with every card name once",
-   "updated": "Nov 20, 2026",
-   "in": [
-    {
-     "name": "Arc Reactor",
-     "qty": 1,
-     "role": "ramp",
      "type": "Artifact"
-    },
-    {
-     "name": "Barad-dûr",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Barren Moor",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
     },
     {
      "name": "Bojuka Bog",
@@ -1962,52 +1751,16 @@
      "type": "Land"
     },
     {
-     "name": "Breach the Multiverse",
-     "qty": 1,
-     "role": "recur",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Buried Ruin",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Cabal Pit",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
      "name": "Cabal Ritual",
      "qty": 1,
      "role": "ramp",
      "type": "Instant"
     },
     {
-     "name": "Champion's Helm",
+     "name": "Deadly Dispute",
      "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Chromatic Star",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Command Tower",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Darksteel Citadel",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
+     "role": "eng",
+     "type": "Instant"
     },
     {
      "name": "Duress",
@@ -2016,100 +1769,10 @@
      "type": "Sorcery"
     },
     {
-     "name": "Ebon Stronghold",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Eumidian Hatchery",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Evolving Wilds",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Exotic Orchard",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Fellwar Stone",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Hagra Mauling // Hagra Broodpit",
-     "qty": 1,
-     "role": "land",
-     "type": "Instant // Land"
-    },
-    {
-     "name": "Hive of the Eye Tyrant",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Ifnir Deadlands",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Isolinear Processor",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
      "name": "Lash of the Balrog",
      "qty": 1,
      "role": "rem",
      "type": "Sorcery"
-    },
-    {
-     "name": "Leaden Myr",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Leechridden Swamp",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Mask of Memory",
-     "qty": 1,
-     "role": "draw",
-     "type": "Artifact"
-    },
-    {
-     "name": "Millikin",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Mirrex",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Mortuary Mire",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
     },
     {
      "name": "Murmuring Volume",
@@ -2118,34 +1781,278 @@
      "type": "Artifact"
     },
     {
-     "name": "Path of Ancestry",
+     "name": "Nasty End",
+     "qty": 1,
+     "role": "draw",
+     "type": "Instant"
+    },
+    {
+     "name": "Skullclamp",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Stargaze",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "The War in Heaven",
+     "qty": 1,
+     "role": "recur",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Ultron the Annihilator",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Zombify",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    }
+   ],
+   "out": [
+    {
+     "name": "Basal Thrull",
+     "qty": 1
+    },
+    {
+     "name": "Chrome Mox",
+     "qty": 1
+    },
+    {
+     "name": "Defense Grid",
+     "qty": 1
+    },
+    {
+     "name": "Demonic Tutor",
+     "qty": 1
+    },
+    {
+     "name": "Entomb",
+     "qty": 1
+    },
+    {
+     "name": "Feign Death",
+     "qty": 1
+    },
+    {
+     "name": "Imp's Mischief",
+     "qty": 1
+    },
+    {
+     "name": "Malakir Rebirth",
+     "qty": 1
+    },
+    {
+     "name": "Mox Opal",
+     "qty": 1
+    },
+    {
+     "name": "Not Dead After All",
+     "qty": 1
+    },
+    {
+     "name": "Undying Malice",
+     "qty": 1
+    },
+    {
+     "name": "Urza's Saga",
+     "qty": 1
+    },
+    {
+     "name": "Vampiric Tutor",
+     "qty": 1
+    }
+   ],
+   "notes": [
+    "Fastest list the sim found with no Game Changers and no budget. About $728 at the cheapest printings.",
+    "Nov 21 sim, 10,000 games, Bracket 3 table: by turn 6 73%, turn 8 90%, turn 10 94%, average win turn 6.2. The 3-Game-Changer Ideal is about 0.35 turns faster.",
+    "Every card name appears once, so Tainted Pact works."
+   ]
+  },
+  {
+   "id": "budget-0gc",
+   "label": "Budget, no Game Changers",
+   "name": "Doom Unrivaled (Budget, no Game Changers)",
+   "bracket": "Bracket 3",
+   "bracketGoal": "0 Game Changers",
+   "source": "Nov 21 sim-driven build, capped at $150",
+   "updated": "Nov 21, 2026",
+   "in": [
+    {
+     "name": "Ash Barrens",
      "qty": 1,
      "role": "land",
      "type": "Land"
     },
     {
-     "name": "Polluted Mire",
+     "name": "Barad-dûr",
      "qty": 1,
      "role": "land",
      "type": "Land"
     },
     {
-     "name": "Rat King, Pale Piper",
+     "name": "Bitter Triumph",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Bog Wreckage",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Buried Ruin",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Castle Doom",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Chromatic Sphere",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Codex Shredder",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Darksteel Citadel",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Darksteel Plate",
+     "qty": 1,
+     "role": "prot",
+     "type": "Artifact"
+    },
+    {
+     "name": "Deadly Dispute",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Desert of the Glorified",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Doom's Servo-Guards",
      "qty": 1,
      "role": "eng",
      "type": "Creature"
     },
     {
-     "name": "Rat King, Verminister",
+     "name": "Doombot Harbinger",
      "qty": 1,
-     "role": "recur",
+     "role": "eng",
      "type": "Creature"
     },
     {
-     "name": "Read the Bones",
+     "name": "Doomfall",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Fatal Push",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Feed the Swarm",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Hagra Mauling // Hagra Broodpit",
+     "qty": 1,
+     "role": "land",
+     "type": "Instant"
+    },
+    {
+     "name": "High Market",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Infernal Grasp",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Lash of the Balrog",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Murmuring Volume",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Myriad Landscape",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Nasty End",
      "qty": 1,
      "role": "draw",
-     "type": "Sorcery"
+     "type": "Instant"
+    },
+    {
+     "name": "Ornithopter",
+     "qty": 1,
+     "role": "other",
+     "type": "Creature"
+    },
+    {
+     "name": "Overeager Apprentice",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Perpetual Timepiece",
+     "qty": 1,
+     "role": "other",
+     "type": "Artifact"
+    },
+    {
+     "name": "Priest of Gix",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
     },
     {
      "name": "Rescue from the Underworld",
@@ -2154,70 +2061,34 @@
      "type": "Instant"
     },
     {
-     "name": "Resentful Revelation",
+     "name": "Stargaze",
      "qty": 1,
      "role": "draw",
      "type": "Sorcery"
     },
     {
-     "name": "Risky Research",
+     "name": "Street Wraith",
      "qty": 1,
      "role": "draw",
-     "type": "Sorcery"
+     "type": "Creature"
     },
     {
-     "name": "Rogue's Passage",
+     "name": "The War in Heaven",
      "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Sign in Blood",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Snow-Covered Swamp",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Spire of Industry",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Tainted Pact",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "The Cruelty of Gix",
-     "qty": 1,
-     "role": "tutor",
+     "role": "recur",
      "type": "Enchantment"
     },
     {
-     "name": "The Dross Pits",
+     "name": "Thought Vessel",
      "qty": 1,
-     "role": "land",
-     "type": "Land"
+     "role": "ramp",
+     "type": "Artifact"
     },
     {
-     "name": "Thriving Moor",
+     "name": "Tormod's Crypt",
      "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Treasure Vault",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
+     "role": "other",
+     "type": "Artifact"
     },
     {
      "name": "Unclaimed Territory",
@@ -2232,51 +2103,63 @@
      "type": "Sorcery"
     },
     {
-     "name": "War Room",
+     "name": "Village Rites",
      "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Withering Torment",
-     "qty": 1,
-     "role": "rem",
+     "role": "eng",
      "type": "Instant"
     },
     {
-     "name": "Zombify",
+     "name": "Wayfarer's Bauble",
      "qty": 1,
-     "role": "recur",
-     "type": "Sorcery"
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Worn Powerstone",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
     }
    ],
    "out": [
     {
-     "name": "Altar of Dementia",
+     "name": "Agadeem's Awakening // Agadeem, the Undercrypt",
      "qty": 1
     },
     {
-     "name": "Big Mother Mouser",
+     "name": "Animate Dead",
      "qty": 1
     },
     {
-     "name": "Bitter Triumph",
+     "name": "Beseech the Mirror",
      "qty": 1
     },
     {
-     "name": "Bolas's Citadel",
+     "name": "Cavern of Souls",
      "qty": 1
     },
     {
-     "name": "Cabal Coffers",
+     "name": "Champion's Helm",
      "qty": 1
     },
     {
-     "name": "Codex Shredder",
+     "name": "Chrome Mox",
      "qty": 1
     },
     {
-     "name": "Cranial Plating",
+     "name": "City of Brass",
+     "qty": 1
+    },
+    {
+     "name": "Crashing Drawbridge",
+     "qty": 1
+    },
+    {
+     "name": "Cruel Tutor",
+     "qty": 1
+    },
+    {
+     "name": "Defense Grid",
      "qty": 1
     },
     {
@@ -2284,83 +2167,99 @@
      "qty": 1
     },
     {
-     "name": "Genesis of the Daleks",
+     "name": "Doctor Doom",
      "qty": 1
     },
     {
-     "name": "Idol of Oblivion",
+     "name": "Entomb",
      "qty": 1
     },
     {
-     "name": "Illusionist's Bracers",
+     "name": "Feign Death",
      "qty": 1
     },
     {
-     "name": "Infernal Grasp",
+     "name": "Fell the Profane // Fell Mire",
      "qty": 1
     },
     {
-     "name": "Kingpin, Wilson Fisk",
+     "name": "Gemstone Mine",
      "qty": 1
     },
     {
-     "name": "Lashwrithe",
+     "name": "Grim Tutor",
      "qty": 1
     },
     {
-     "name": "Magewright's Stone",
+     "name": "Howling Mine",
      "qty": 1
     },
     {
-     "name": "Mesmeric Orb",
+     "name": "Imp's Mischief",
      "qty": 1
     },
     {
-     "name": "Millstone",
+     "name": "Insidious Dreams",
      "qty": 1
     },
     {
-     "name": "Necropotence",
+     "name": "Jeweled Amulet",
      "qty": 1
     },
     {
-     "name": "Peer into the Abyss",
+     "name": "Lake of the Dead",
      "qty": 1
     },
     {
-     "name": "Peter Parker's Camera",
+     "name": "Malakir Rebirth",
      "qty": 1
     },
     {
-     "name": "Phyrexian Tower",
+     "name": "Mirrex",
      "qty": 1
     },
     {
-     "name": "Reclamation Specialist",
+     "name": "Mox Amber",
      "qty": 1
     },
     {
-     "name": "Rings of Brighthearth",
+     "name": "Mox Opal",
      "qty": 1
     },
     {
-     "name": "Swamp",
-     "qty": 22
-    },
-    {
-     "name": "Takenuma, Abandoned Mire",
+     "name": "Not Dead After All",
      "qty": 1
     },
     {
-     "name": "Thousand-Year Elixir",
+     "name": "Persist",
      "qty": 1
     },
     {
-     "name": "Ultron, Artificial Malevolence",
+     "name": "Plunge into Darkness",
      "qty": 1
     },
     {
-     "name": "Umbral Mantle",
+     "name": "Psychosis Crawler",
+     "qty": 1
+    },
+    {
+     "name": "Reanimate",
+     "qty": 1
+    },
+    {
+     "name": "Spymaster's Vault",
+     "qty": 1
+    },
+    {
+     "name": "The Soul Stone",
+     "qty": 1
+    },
+    {
+     "name": "Treasure Vault",
+     "qty": 1
+    },
+    {
+     "name": "Undying Malice",
      "qty": 1
     },
     {
@@ -2368,1538 +2267,53 @@
      "qty": 1
     },
     {
-     "name": "Village Rites",
+     "name": "Urza's Saga",
      "qty": 1
-    },
-    {
-     "name": "Zombie Infestation",
-     "qty": 1
-    }
-   ],
-   "adds": [
-    {
-     "name": "Peat Bog",
-     "status": "wishlist",
-     "why": "Best-value upgrade (about $1.20). Enters tapped, then {B}{B} twice. Replaces Unclaimed Territory. Sim: about 0.08 turns faster."
-    },
-    {
-     "name": "Tomb of Urami",
-     "status": "wishlist",
-     "why": "Second upgrade (about $4). Untapped {B}, 1 damage per tap. Replaces Rogue's Passage. With Peat Bog: about 0.11 turns faster, the same as Ancient Tomb."
-    },
-    {
-     "name": "Takenuma, Abandoned Mire",
-     "status": "wishlist",
-     "why": "About $13. Untapped {B}; channel returns Leveler. Next after Peat Bog and Tomb of Urami."
-    },
-    {
-     "name": "Shizo, Death's Storehouse",
-     "status": "wishlist",
-     "why": "About $13. Untapped {B}; Doom gets fear."
-    }
-   ],
-   "notes": [
-    "Every card name appears once, so Tainted Pact never stops on a duplicate. Win: with Doom untapped and not summoning sick, cast Pact, take nothing until the library is empty, then tap Doom. Never add a second copy of anything (a second Swamp breaks it). Snow-Covered Swamp is a different name from Swamp.",
-    "Pact as a tutor: it finds anything (Leveler, Doomsday, Greaves), but every card it passes is exiled. Skipping Leveler to find Greaves loses Leveler.",
-    "Lands (34). Already owned (9): Swamp, Vault of Whispers, Eumidian Hatchery, Spymaster's Vault, Memorial to Folly, Thriving Moor, Evolving Wilds, Castle Doom, Rogue's Passage; plus Unclaimed Territory (name Villain). From the unopened Borg precon (4): Command Tower, Spire of Industry, Path of Ancestry, Exotic Orchard.",
-    "To buy (20, about $15 at the cheapest printings, Nov 12 prices): Snow-Covered Swamp, Castle Locthwain, Cabal Pit, Hive of the Eye Tyrant, Barad-dûr, Ifnir Deadlands, Leechridden Swamp, Bojuka Bog, Mortuary Mire, The Dross Pits, Ebon Stronghold, Barren Moor, Polluted Mire, Hagra Mauling, Reliquary Tower, War Room, Buried Ruin, Darksteel Citadel, Mirrex, Treasure Vault.",
-    "Nov 20 sim (10,000 games, Bracket 3 table): today's Owned build wins by turn 8 57.7%, by turn 10 73.7%; this version 62.8% and 78.1%, about 0.37 turns faster. At a Bracket 4 table about 5 points better by turns 8 and 10. Pact won about 37% of games. Pact with the 28 Swamps did nothing; the singleton lands without Pact were 0.5 turns slower. Stand-ins and the new lands are lightly modeled.",
-    "Nov 20 sim, lands: every land in this base is worth about the same (0.08-0.16 turns each), so buy the cheapest first. Upgrades: an untapped black land is the whole gain. Cabal Coffers and Phyrexian Tower add nothing here, and Hall of the Bandit Lord barely helps.",
-    "Bracket 3 with 0 Game Changers. Tell the table about Doom + Leveler, Doom + Tainted Pact and Doomsday before the game."
-   ]
-  },
-  {
-   "id": "turbo-pact",
-   "label": "Turbo Pact",
-   "name": "Doom Unrivaled (Turbo Pact)",
-   "bracket": "Bracket 4",
-   "bracketGoal": "0 Game Changers, but turn 2-3 kills: Bracket 4 / cEDH.",
-   "source": "Pasted list 1, Nov 21, 2026",
-   "updated": "Nov 21, 2026",
-   "in": [
-    {
-     "name": "Basal Thrull",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Beseech the Mirror",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Beseech the Queen",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Blood Pet",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Boseiju, Who Shelters All",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Bubbling Muck",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Cabal Ritual",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Cabal Stronghold",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Cabal Therapy",
-     "qty": 1,
-     "role": "prot",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Cavern of Souls",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Champion's Helm",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Charcoal Diamond",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "City of Traitors",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Command Tower",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Conqueror's Flail",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Corrupted Conviction",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Crashing Drawbridge",
-     "qty": 1,
-     "role": "prot",
-     "type": "Creature"
-    },
-    {
-     "name": "Crystal Vein",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Culling the Weak",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Dark Petition",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Deadly Rollick",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Defense Grid",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Demonic Consultation",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Diabolic Intent",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Dismember",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Divining Witch",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Creature"
-    },
-    {
-     "name": "Duress",
-     "qty": 1,
-     "role": "prot",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Ebon Stronghold",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Emergence Zone",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Fatal Push",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Feed the Swarm",
-     "qty": 1,
-     "role": "rem",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Feign Death",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Fellwar Stone",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Gemstone Caverns",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Grim Tutor",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "High Market",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Imp's Mischief",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Insidious Dreams",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Inverter of Truth",
-     "qty": 1,
-     "role": "win",
-     "type": "Creature"
-    },
-    {
-     "name": "Jet Medallion",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Jeweled Amulet",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "K'rrik, Son of Yawgmoth",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Lake of the Dead",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Lavaspur Boots",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Lotus Petal",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Malakir Rebirth",
-     "qty": 1,
-     "role": "other",
-     "type": "Instant"
-    },
-    {
-     "name": "Memnite",
-     "qty": 1,
-     "role": "other",
-     "type": "Creature"
-    },
-    {
-     "name": "Mirror of Fate",
-     "qty": 1,
-     "role": "win",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mishra's Bauble",
-     "qty": 1,
-     "role": "draw",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mithril Coat",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mox Amber",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mox Opal",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Not Dead After All",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Nykthos, Shrine to Nyx",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Ornithopter",
-     "qty": 1,
-     "role": "other",
-     "type": "Creature"
-    },
-    {
-     "name": "Overeager Apprentice",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Creature"
-    },
-    {
-     "name": "Peat Bog",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Phyrexian Walker",
-     "qty": 1,
-     "role": "other",
-     "type": "Creature"
-    },
-    {
-     "name": "Plunge into Darkness",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Polluted Delta",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Priest of Gix",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Prismatic Vista",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Rain of Filth",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Sacrifice",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Scheming Symmetry",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Shambling Ghast",
-     "qty": 1,
-     "role": "other",
-     "type": "Creature"
-    },
-    {
-     "name": "Shield Sphere",
-     "qty": 1,
-     "role": "prot",
-     "type": "Creature"
-    },
-    {
-     "name": "Sign in Blood",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Slaughter Pact",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Snow-Covered Swamp",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Snuff Out",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Songs of the Damned",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Spoils of the Vault",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Springleaf Drum",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Street Wraith",
-     "qty": 1,
-     "role": "draw",
-     "type": "Creature"
-    },
-    {
-     "name": "Tainted Pact",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Thoughtseize",
-     "qty": 1,
-     "role": "prot",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Undying Malice",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Urza's Bauble",
-     "qty": 1,
-     "role": "draw",
-     "type": "Artifact"
-    },
-    {
-     "name": "Wishclaw Talisman",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Artifact"
-    },
-    {
-     "name": "Withering Torment",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    }
-   ],
-   "out": [
-    {
-     "name": "Adaptive Omnitool",
-     "qty": 1
-    },
-    {
-     "name": "Age of Ultron",
-     "qty": 1
-    },
-    {
-     "name": "Altar of Dementia",
-     "qty": 1
-    },
-    {
-     "name": "Animate Dead",
-     "qty": 1
-    },
-    {
-     "name": "Big Mother Mouser",
-     "qty": 1
-    },
-    {
-     "name": "Bitter Triumph",
-     "qty": 1
-    },
-    {
-     "name": "Black Market Connections",
-     "qty": 1
-    },
-    {
-     "name": "Bolas's Citadel",
-     "qty": 1
-    },
-    {
-     "name": "Buried Alive",
-     "qty": 1
-    },
-    {
-     "name": "Castle Doom",
-     "qty": 1
-    },
-    {
-     "name": "Castle Locthwain",
-     "qty": 1
-    },
-    {
-     "name": "Codex Shredder",
-     "qty": 1
-    },
-    {
-     "name": "Cranial Plating",
-     "qty": 1
-    },
-    {
-     "name": "Demonic Tutor",
-     "qty": 1
-    },
-    {
-     "name": "Diabolic Tutor",
-     "qty": 1
-    },
-    {
-     "name": "Doctor Doom",
-     "qty": 1
-    },
-    {
-     "name": "Doom Blade",
-     "qty": 1
-    },
-    {
-     "name": "Doom's Servo-Guards",
-     "qty": 1
-    },
-    {
-     "name": "Doombot Harbinger",
-     "qty": 1
-    },
-    {
-     "name": "Doomfall",
-     "qty": 1
-    },
-    {
-     "name": "Exsanguinate",
-     "qty": 1
-    },
-    {
-     "name": "Genesis of the Daleks",
-     "qty": 1
-    },
-    {
-     "name": "Go for the Throat",
-     "qty": 1
-    },
-    {
-     "name": "Grim Reaper's Scythe",
-     "qty": 1
-    },
-    {
-     "name": "Horn of Greed",
-     "qty": 1
-    },
-    {
-     "name": "Howling Mine",
-     "qty": 1
-    },
-    {
-     "name": "Idol of Oblivion",
-     "qty": 1
-    },
-    {
-     "name": "Illusionist's Bracers",
-     "qty": 1
-    },
-    {
-     "name": "Infernal Grasp",
-     "qty": 1
-    },
-    {
-     "name": "Kingpin, Wilson Fisk",
-     "qty": 1
-    },
-    {
-     "name": "Lashwrithe",
-     "qty": 1
-    },
-    {
-     "name": "Liquimetal Torque",
-     "qty": 1
-    },
-    {
-     "name": "Magewright's Stone",
-     "qty": 1
-    },
-    {
-     "name": "Memorial to Folly",
-     "qty": 1
-    },
-    {
-     "name": "Mesmeric Orb",
-     "qty": 1
-    },
-    {
-     "name": "Millstone",
-     "qty": 1
-    },
-    {
-     "name": "Nasty End",
-     "qty": 1
-    },
-    {
-     "name": "Necropotence",
-     "qty": 1
-    },
-    {
-     "name": "Persist",
-     "qty": 1
-    },
-    {
-     "name": "Peter Parker's Camera",
-     "qty": 1
-    },
-    {
-     "name": "Phyrexian Arena",
-     "qty": 1
-    },
-    {
-     "name": "Phyrexian Scriptures",
-     "qty": 1
-    },
-    {
-     "name": "Psychosis Crawler",
-     "qty": 1
-    },
-    {
-     "name": "Reanimate",
-     "qty": 1
-    },
-    {
-     "name": "Reclamation Specialist",
-     "qty": 1
-    },
-    {
-     "name": "Reliquary Tower",
-     "qty": 1
-    },
-    {
-     "name": "Rings of Brighthearth",
-     "qty": 1
-    },
-    {
-     "name": "Skullclamp",
-     "qty": 1
-    },
-    {
-     "name": "Splinter's Technique",
-     "qty": 1
-    },
-    {
-     "name": "Spymaster's Vault",
-     "qty": 1
-    },
-    {
-     "name": "Stargaze",
-     "qty": 1
-    },
-    {
-     "name": "Swamp",
-     "qty": 22
-    },
-    {
-     "name": "Takenuma, Abandoned Mire",
-     "qty": 1
-    },
-    {
-     "name": "The Soul Stone",
-     "qty": 1
-    },
-    {
-     "name": "The War in Heaven",
-     "qty": 1
-    },
-    {
-     "name": "Ultron the Annihilator",
-     "qty": 1
-    },
-    {
-     "name": "Ultron, Artificial Malevolence",
-     "qty": 1
-    },
-    {
-     "name": "Umbral Mantle",
-     "qty": 1
-    },
-    {
-     "name": "Vault of Whispers",
-     "qty": 1
-    },
-    {
-     "name": "Zombie Infestation",
-     "qty": 1
-    }
-   ],
-   "notes": [
-    "Pasted Nov 21, 2026. Turbo list: fast mana and rituals into Doom plus Demonic Consultation, Tainted Pact or Doomsday, with Leveler and Mirror of Fate as backups. Every card name appears once, so Tainted Pact works.",
-    "Bracket 4 (cEDH speed) whatever the Game Changer count: it aims to win on turns 2-3.",
-    "Nov 21: Priest of Gix in for Burnt Offering, which isn't legal here (its {R} makes it black-red). Priest is the only one of the four mono-black options that makes mana the turn it lands: 3 mana in, {B}{B}{B} back, plus a 3-mana-value body for Culling the Weak, Sacrifice, Diabolic Intent or Village Rites.",
-    "Most of this list isn't in your collection yet; check ownership before buying.",
-    "Win lines and the budget swaps are in the Turbo Pact (budget lands) version's notes."
-   ]
-  },
-  {
-   "id": "turbo-pact-gc",
-   "label": "Turbo Pact + Game Changers",
-   "name": "Doom Unrivaled (Turbo Pact + Game Changers)",
-   "bracket": "Bracket 4",
-   "bracketGoal": "3 Game Changers: Chrome Mox, Demonic Tutor, Vampiric Tutor. Bracket 4 / cEDH by speed.",
-   "source": "Pasted list 2, Nov 21, 2026",
-   "updated": "Nov 21, 2026",
-   "in": [
-    {
-     "name": "Basal Thrull",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Beseech the Mirror",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Beseech the Queen",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Blood Pet",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Boseiju, Who Shelters All",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Bubbling Muck",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Cabal Ritual",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Cabal Stronghold",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Cabal Therapy",
-     "qty": 1,
-     "role": "prot",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Cavern of Souls",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Champion's Helm",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Chrome Mox",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "City of Traitors",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Command Tower",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Conqueror's Flail",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Corrupted Conviction",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Crashing Drawbridge",
-     "qty": 1,
-     "role": "prot",
-     "type": "Creature"
-    },
-    {
-     "name": "Crystal Vein",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Culling the Weak",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Dark Petition",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Deadly Rollick",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Defense Grid",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Demonic Consultation",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Diabolic Intent",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Dismember",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Divining Witch",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Creature"
-    },
-    {
-     "name": "Duress",
-     "qty": 1,
-     "role": "prot",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Ebon Stronghold",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Emergence Zone",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Fatal Push",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Feed the Swarm",
-     "qty": 1,
-     "role": "rem",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Feign Death",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Fellwar Stone",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Gemstone Caverns",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "High Market",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Imp's Mischief",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Insidious Dreams",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Inverter of Truth",
-     "qty": 1,
-     "role": "win",
-     "type": "Creature"
-    },
-    {
-     "name": "Jet Medallion",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Jeweled Amulet",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "K'rrik, Son of Yawgmoth",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Lake of the Dead",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Lavaspur Boots",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Lotus Petal",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Malakir Rebirth",
-     "qty": 1,
-     "role": "other",
-     "type": "Instant"
-    },
-    {
-     "name": "Memnite",
-     "qty": 1,
-     "role": "other",
-     "type": "Creature"
-    },
-    {
-     "name": "Mirror of Fate",
-     "qty": 1,
-     "role": "win",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mishra's Bauble",
-     "qty": 1,
-     "role": "draw",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mithril Coat",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mox Amber",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mox Opal",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Not Dead After All",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Nykthos, Shrine to Nyx",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Ornithopter",
-     "qty": 1,
-     "role": "other",
-     "type": "Creature"
-    },
-    {
-     "name": "Overeager Apprentice",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Creature"
-    },
-    {
-     "name": "Peat Bog",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Phyrexian Walker",
-     "qty": 1,
-     "role": "other",
-     "type": "Creature"
-    },
-    {
-     "name": "Plunge into Darkness",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Polluted Delta",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Priest of Gix",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Prismatic Vista",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Rain of Filth",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Sacrifice",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Shambling Ghast",
-     "qty": 1,
-     "role": "other",
-     "type": "Creature"
-    },
-    {
-     "name": "Shield Sphere",
-     "qty": 1,
-     "role": "prot",
-     "type": "Creature"
-    },
-    {
-     "name": "Sign in Blood",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Slaughter Pact",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Snow-Covered Swamp",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Snuff Out",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Songs of the Damned",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Spoils of the Vault",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Springleaf Drum",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Street Wraith",
-     "qty": 1,
-     "role": "draw",
-     "type": "Creature"
-    },
-    {
-     "name": "Tainted Pact",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Thoughtseize",
-     "qty": 1,
-     "role": "prot",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Undying Malice",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Urza's Bauble",
-     "qty": 1,
-     "role": "draw",
-     "type": "Artifact"
     },
     {
      "name": "Vampiric Tutor",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Wishclaw Talisman",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Artifact"
+     "qty": 1
     },
     {
      "name": "Withering Torment",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    }
-   ],
-   "out": [
-    {
-     "name": "Adaptive Omnitool",
-     "qty": 1
-    },
-    {
-     "name": "Age of Ultron",
-     "qty": 1
-    },
-    {
-     "name": "Altar of Dementia",
-     "qty": 1
-    },
-    {
-     "name": "Animate Dead",
-     "qty": 1
-    },
-    {
-     "name": "Big Mother Mouser",
-     "qty": 1
-    },
-    {
-     "name": "Bitter Triumph",
-     "qty": 1
-    },
-    {
-     "name": "Black Market Connections",
-     "qty": 1
-    },
-    {
-     "name": "Bolas's Citadel",
-     "qty": 1
-    },
-    {
-     "name": "Buried Alive",
-     "qty": 1
-    },
-    {
-     "name": "Castle Doom",
-     "qty": 1
-    },
-    {
-     "name": "Castle Locthwain",
-     "qty": 1
-    },
-    {
-     "name": "Codex Shredder",
-     "qty": 1
-    },
-    {
-     "name": "Cranial Plating",
-     "qty": 1
-    },
-    {
-     "name": "Diabolic Tutor",
-     "qty": 1
-    },
-    {
-     "name": "Doctor Doom",
-     "qty": 1
-    },
-    {
-     "name": "Doom Blade",
-     "qty": 1
-    },
-    {
-     "name": "Doom's Servo-Guards",
-     "qty": 1
-    },
-    {
-     "name": "Doombot Harbinger",
-     "qty": 1
-    },
-    {
-     "name": "Doomfall",
-     "qty": 1
-    },
-    {
-     "name": "Exsanguinate",
-     "qty": 1
-    },
-    {
-     "name": "Genesis of the Daleks",
-     "qty": 1
-    },
-    {
-     "name": "Go for the Throat",
-     "qty": 1
-    },
-    {
-     "name": "Grim Reaper's Scythe",
-     "qty": 1
-    },
-    {
-     "name": "Horn of Greed",
-     "qty": 1
-    },
-    {
-     "name": "Howling Mine",
-     "qty": 1
-    },
-    {
-     "name": "Idol of Oblivion",
-     "qty": 1
-    },
-    {
-     "name": "Illusionist's Bracers",
-     "qty": 1
-    },
-    {
-     "name": "Infernal Grasp",
-     "qty": 1
-    },
-    {
-     "name": "Kingpin, Wilson Fisk",
-     "qty": 1
-    },
-    {
-     "name": "Lashwrithe",
-     "qty": 1
-    },
-    {
-     "name": "Liquimetal Torque",
-     "qty": 1
-    },
-    {
-     "name": "Magewright's Stone",
-     "qty": 1
-    },
-    {
-     "name": "Memorial to Folly",
-     "qty": 1
-    },
-    {
-     "name": "Mesmeric Orb",
-     "qty": 1
-    },
-    {
-     "name": "Millstone",
-     "qty": 1
-    },
-    {
-     "name": "Nasty End",
-     "qty": 1
-    },
-    {
-     "name": "Necropotence",
-     "qty": 1
-    },
-    {
-     "name": "Persist",
-     "qty": 1
-    },
-    {
-     "name": "Peter Parker's Camera",
-     "qty": 1
-    },
-    {
-     "name": "Phyrexian Arena",
-     "qty": 1
-    },
-    {
-     "name": "Phyrexian Scriptures",
-     "qty": 1
-    },
-    {
-     "name": "Psychosis Crawler",
-     "qty": 1
-    },
-    {
-     "name": "Reanimate",
-     "qty": 1
-    },
-    {
-     "name": "Reclamation Specialist",
-     "qty": 1
-    },
-    {
-     "name": "Reliquary Tower",
-     "qty": 1
-    },
-    {
-     "name": "Rings of Brighthearth",
-     "qty": 1
-    },
-    {
-     "name": "Skullclamp",
-     "qty": 1
-    },
-    {
-     "name": "Splinter's Technique",
-     "qty": 1
-    },
-    {
-     "name": "Spymaster's Vault",
-     "qty": 1
-    },
-    {
-     "name": "Stargaze",
-     "qty": 1
-    },
-    {
-     "name": "Swamp",
-     "qty": 22
-    },
-    {
-     "name": "Takenuma, Abandoned Mire",
-     "qty": 1
-    },
-    {
-     "name": "The Soul Stone",
-     "qty": 1
-    },
-    {
-     "name": "The War in Heaven",
-     "qty": 1
-    },
-    {
-     "name": "Ultron the Annihilator",
-     "qty": 1
-    },
-    {
-     "name": "Ultron, Artificial Malevolence",
-     "qty": 1
-    },
-    {
-     "name": "Umbral Mantle",
-     "qty": 1
-    },
-    {
-     "name": "Vault of Whispers",
-     "qty": 1
-    },
-    {
-     "name": "Zombie Infestation",
      "qty": 1
     }
    ],
    "notes": [
-    "Pasted Nov 21, 2026. Turbo list: fast mana and rituals into Doom plus Demonic Consultation, Tainted Pact or Doomsday, with Leveler and Mirror of Fate as backups. Every card name appears once, so Tainted Pact works.",
-    "Differs from Turbo Pact: Chrome Mox, Demonic Tutor and Vampiric Tutor in for Charcoal Diamond, Grim Tutor and Scheming Symmetry.",
-    "Bracket 4 (cEDH speed) whatever the Game Changer count: it aims to win on turns 2-3.",
-    "Nov 21: Priest of Gix in for Burnt Offering, which isn't legal here (its {R} makes it black-red). Priest is the only one of the four mono-black options that makes mana the turn it lands: 3 mana in, {B}{B}{B} back, plus a 3-mana-value body for Culling the Weak, Sacrifice, Diabolic Intent or Village Rites.",
-    "Most of this list isn't in your collection yet; check ownership before buying.",
-    "Win lines and the budget swaps are in the Turbo Pact (budget lands) version's notes."
+    "Fastest list the sim found at or under $150 (cheapest printings, Doom included): $149.66. Prices move, so check before buying.",
+    "Nov 21 sim, 10,000 games, Bracket 3 table: by turn 6 60%, turn 8 82%, turn 10 90%, average win turn 7.0. That's the recommended budget build: about 1.7 turns faster than the Nov 20 Unique Pact list.",
+    "Upgrade path toward Ideal, best gain first (each measured alone, in for Doom's Servo-Guards; it breaks the $150 cap): 1. Plunge into Darkness ($15.40, 0.15 turns); 2. Grim Tutor ($23.81, 0.14 turns); 3. Beseech the Mirror ($19.25, 0.12 turns); 4. Cruel Tutor ($11.75, 0.11 turns); 5. Insidious Dreams ($16.81, 0.11 turns); 6. Jeweled Amulet ($4.70, 0.10 turns); 7. Howling Mine ($2.85, 0.09 turns); 8. Mox Amber ($84.06, 0.08 turns); 9. Doctor Doom ($2.07, 0.07 turns); 10. Champion's Helm ($1.28, 0.06 turns); 11. The Soul Stone ($81.26, 0.06 turns); 12. Reanimate ($8.67, 0.05 turns).",
+    "Big-ticket Ideal cards (Mox Amber, The Soul Stone, Lake of the Dead, Cavern of Souls, Urborg) each add under 0.1 turns on their own.",
+    "Every card name appears once, so Tainted Pact works."
    ]
   },
   {
-   "id": "turbo-pact-budget",
-   "label": "Turbo Pact (budget lands)",
-   "name": "Doom Unrivaled (Turbo Pact, budget lands)",
-   "bracket": "Bracket 4",
-   "bracketGoal": "0 Game Changers, but turn 2-3 kills: Bracket 4 / cEDH.",
-   "source": "Pasted list 3 and the win-line primer, Nov 21, 2026",
+   "id": "budget-3gc",
+   "label": "Budget, 3 Game Changers",
+   "name": "Doom Unrivaled (Budget, 3 Game Changers)",
+   "bracket": "Bracket 3",
+   "bracketGoal": "3 Game Changers: Ad Nauseam, Bolas's Citadel, Opposition Agent",
+   "source": "Nov 21 sim-driven build, capped at $150, forced to keep 3 Game Changers",
    "updated": "Nov 21, 2026",
    "in": [
+    {
+     "name": "Ad Nauseam",
+     "qty": 1,
+     "role": "other",
+     "type": "Instant"
+    },
+    {
+     "name": "Age of Ultron",
+     "qty": 1,
+     "role": "rem",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Arc Reactor",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
     {
      "name": "Ash Barrens",
      "qty": 1,
@@ -3907,178 +2321,82 @@
      "type": "Land"
     },
     {
-     "name": "Basal Thrull",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Beseech the Mirror",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Beseech the Queen",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Blood Pet",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Bojuka Bog",
+     "name": "Barad-dûr",
      "qty": 1,
      "role": "land",
      "type": "Land"
     },
     {
-     "name": "Bubbling Muck",
+     "name": "Bitter Triumph",
      "qty": 1,
-     "role": "ramp",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Cabal Ritual",
-     "qty": 1,
-     "role": "ramp",
+     "role": "rem",
      "type": "Instant"
     },
     {
-     "name": "Cabal Stronghold",
+     "name": "Bog Wreckage",
      "qty": 1,
      "role": "land",
      "type": "Land"
     },
     {
-     "name": "Cabal Therapy",
-     "qty": 1,
-     "role": "prot",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Champion's Helm",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Charcoal Diamond",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Command Tower",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Conqueror's Flail",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Corrupted Conviction",
+     "name": "Bolas's Citadel",
      "qty": 1,
      "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Crashing Drawbridge",
-     "qty": 1,
-     "role": "prot",
-     "type": "Creature"
-    },
-    {
-     "name": "Crypt of Agadeem",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Crystal Vein",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Culling the Weak",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Dark Petition",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Deadly Rollick",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Defense Grid",
-     "qty": 1,
-     "role": "prot",
      "type": "Artifact"
     },
     {
-     "name": "Demonic Consultation",
+     "name": "Buried Ruin",
      "qty": 1,
-     "role": "tutor",
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Chromatic Sphere",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Chromatic Star",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Codex Shredder",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Darksteel Citadel",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Deadly Dispute",
+     "qty": 1,
+     "role": "eng",
      "type": "Instant"
     },
     {
-     "name": "Diabolic Intent",
+     "name": "Doombot Harbinger",
      "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
+     "role": "eng",
+     "type": "Creature"
     },
     {
-     "name": "Dismember",
+     "name": "Doomfall",
      "qty": 1,
      "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Divining Witch",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Creature"
+     "type": "Sorcery"
     },
     {
      "name": "Duress",
      "qty": 1,
      "role": "prot",
      "type": "Sorcery"
-    },
-    {
-     "name": "Ebon Stronghold",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Emergence Zone",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Exotic Orchard",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
     },
     {
      "name": "Fatal Push",
@@ -4091,18 +2409,6 @@
      "qty": 1,
      "role": "rem",
      "type": "Sorcery"
-    },
-    {
-     "name": "Feign Death",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Fellwar Stone",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
     },
     {
      "name": "Geier Reach Sanitarium",
@@ -4111,121 +2417,25 @@
      "type": "Land"
     },
     {
-     "name": "Gemstone Mine",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Grim Tutor",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
      "name": "High Market",
      "qty": 1,
      "role": "land",
      "type": "Land"
     },
     {
-     "name": "Ifnir Deadlands",
+     "name": "Infernal Grasp",
      "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Imp's Mischief",
-     "qty": 1,
-     "role": "tutor",
+     "role": "rem",
      "type": "Instant"
     },
     {
-     "name": "Insidious Dreams",
+     "name": "Lash of the Balrog",
      "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
+     "role": "rem",
+     "type": "Sorcery"
     },
     {
-     "name": "Inverter of Truth",
-     "qty": 1,
-     "role": "win",
-     "type": "Creature"
-    },
-    {
-     "name": "Jet Medallion",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Jeweled Amulet",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "K'rrik, Son of Yawgmoth",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Lavaspur Boots",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Lotus Petal",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Malakir Rebirth",
-     "qty": 1,
-     "role": "other",
-     "type": "Instant"
-    },
-    {
-     "name": "Memnite",
-     "qty": 1,
-     "role": "other",
-     "type": "Creature"
-    },
-    {
-     "name": "Mirror of Fate",
-     "qty": 1,
-     "role": "win",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mishra's Bauble",
-     "qty": 1,
-     "role": "draw",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mithril Coat",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mortuary Mire",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Mox Amber",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mox Opal",
+     "name": "Murmuring Volume",
      "qty": 1,
      "role": "ramp",
      "type": "Artifact"
@@ -4237,10 +2447,16 @@
      "type": "Land"
     },
     {
-     "name": "Not Dead After All",
+     "name": "Nasty End",
      "qty": 1,
-     "role": "prot",
+     "role": "draw",
      "type": "Instant"
+    },
+    {
+     "name": "Opposition Agent",
+     "qty": 1,
+     "role": "other",
+     "type": "Creature"
     },
     {
      "name": "Ornithopter",
@@ -4255,22 +2471,16 @@
      "type": "Creature"
     },
     {
-     "name": "Peat Bog",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Phyrexian Walker",
+     "name": "Perpetual Timepiece",
      "qty": 1,
      "role": "other",
-     "type": "Creature"
+     "type": "Artifact"
     },
     {
-     "name": "Plunge into Darkness",
+     "name": "Peter Parker's Camera",
      "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
+     "role": "eng",
+     "type": "Artifact"
     },
     {
      "name": "Priest of Gix",
@@ -4279,76 +2489,28 @@
      "type": "Creature"
     },
     {
-     "name": "Rain of Filth",
+     "name": "Rat King, Pale Piper",
      "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Sacrifice",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Scheming Symmetry",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Shambling Ghast",
-     "qty": 1,
-     "role": "other",
+     "role": "eng",
      "type": "Creature"
     },
     {
-     "name": "Shield Sphere",
+     "name": "Rescue from the Underworld",
      "qty": 1,
-     "role": "prot",
-     "type": "Creature"
-    },
-    {
-     "name": "Sign in Blood",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Slaughter Pact",
-     "qty": 1,
-     "role": "rem",
+     "role": "recur",
      "type": "Instant"
     },
     {
-     "name": "Snow-Covered Swamp",
+     "name": "Rocky Tar Pit",
      "qty": 1,
      "role": "land",
      "type": "Land"
     },
     {
-     "name": "Snuff Out",
+     "name": "Stargaze",
      "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Songs of the Damned",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Spoils of the Vault",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Springleaf Drum",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
+     "role": "draw",
+     "type": "Sorcery"
     },
     {
      "name": "Street Wraith",
@@ -4357,33 +2519,45 @@
      "type": "Creature"
     },
     {
-     "name": "Tainted Pact",
+     "name": "Terramorphic Expanse",
      "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
+     "role": "land",
+     "type": "Land"
     },
     {
-     "name": "Thoughtseize",
+     "name": "The War in Heaven",
      "qty": 1,
-     "role": "prot",
-     "type": "Sorcery"
+     "role": "recur",
+     "type": "Enchantment"
     },
     {
-     "name": "Undying Malice",
+     "name": "Tormod's Crypt",
      "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Urza's Bauble",
-     "qty": 1,
-     "role": "draw",
+     "role": "other",
      "type": "Artifact"
     },
     {
-     "name": "Wishclaw Talisman",
+     "name": "Unclaimed Territory",
      "qty": 1,
-     "role": "tutor",
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Victimize",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Village Rites",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Wayfarer's Bauble",
+     "qty": 1,
+     "role": "draw",
      "type": "Artifact"
     },
     {
@@ -4393,23 +2567,27 @@
      "type": "Land"
     },
     {
-     "name": "Withering Torment",
+     "name": "Worn Powerstone",
      "qty": 1,
-     "role": "rem",
-     "type": "Instant"
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Zombie Infestation",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Zombify",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
     }
    ],
    "out": [
     {
-     "name": "Adaptive Omnitool",
-     "qty": 1
-    },
-    {
-     "name": "Age of Ultron",
-     "qty": 1
-    },
-    {
-     "name": "Altar of Dementia",
+     "name": "Agadeem's Awakening // Agadeem, the Undercrypt",
      "qty": 1
     },
     {
@@ -4417,39 +2595,47 @@
      "qty": 1
     },
     {
-     "name": "Big Mother Mouser",
+     "name": "Beseech the Mirror",
      "qty": 1
     },
     {
-     "name": "Bitter Triumph",
+     "name": "Beseech the Queen",
      "qty": 1
     },
     {
-     "name": "Black Market Connections",
+     "name": "Cavern of Souls",
      "qty": 1
     },
     {
-     "name": "Bolas's Citadel",
+     "name": "Champion's Helm",
      "qty": 1
     },
     {
-     "name": "Buried Alive",
+     "name": "Chrome Mox",
      "qty": 1
     },
     {
-     "name": "Cabal Coffers",
+     "name": "City of Brass",
      "qty": 1
     },
     {
-     "name": "Castle Doom",
+     "name": "Crashing Drawbridge",
      "qty": 1
     },
     {
-     "name": "Codex Shredder",
+     "name": "Cruel Tutor",
      "qty": 1
     },
     {
-     "name": "Cranial Plating",
+     "name": "Dark Petition",
+     "qty": 1
+    },
+    {
+     "name": "Defense Grid",
+     "qty": 1
+    },
+    {
+     "name": "Demonic Consultation",
      "qty": 1
     },
     {
@@ -4457,47 +2643,23 @@
      "qty": 1
     },
     {
-     "name": "Diabolic Tutor",
-     "qty": 1
-    },
-    {
      "name": "Doctor Doom",
      "qty": 1
     },
     {
-     "name": "Doom Blade",
+     "name": "Entomb",
      "qty": 1
     },
     {
-     "name": "Doom's Servo-Guards",
+     "name": "Fell the Profane // Fell Mire",
      "qty": 1
     },
     {
-     "name": "Doombot Harbinger",
+     "name": "Gemstone Mine",
      "qty": 1
     },
     {
-     "name": "Doomfall",
-     "qty": 1
-    },
-    {
-     "name": "Exsanguinate",
-     "qty": 1
-    },
-    {
-     "name": "Genesis of the Daleks",
-     "qty": 1
-    },
-    {
-     "name": "Go for the Throat",
-     "qty": 1
-    },
-    {
-     "name": "Grim Reaper's Scythe",
-     "qty": 1
-    },
-    {
-     "name": "Horn of Greed",
+     "name": "Grim Tutor",
      "qty": 1
     },
     {
@@ -4505,23 +2667,31 @@
      "qty": 1
     },
     {
-     "name": "Idol of Oblivion",
+     "name": "Imp's Mischief",
      "qty": 1
     },
     {
-     "name": "Illusionist's Bracers",
+     "name": "Insidious Dreams",
      "qty": 1
     },
     {
-     "name": "Infernal Grasp",
+     "name": "Jeweled Amulet",
      "qty": 1
     },
     {
-     "name": "Kingpin, Wilson Fisk",
+     "name": "Lake of the Dead",
      "qty": 1
     },
     {
-     "name": "Lashwrithe",
+     "name": "Lavaspur Boots",
+     "qty": 1
+    },
+    {
+     "name": "Leveler",
+     "qty": 1
+    },
+    {
+     "name": "Lightning Greaves",
      "qty": 1
     },
     {
@@ -4529,27 +2699,19 @@
      "qty": 1
     },
     {
-     "name": "Magewright's Stone",
+     "name": "Malakir Rebirth",
      "qty": 1
     },
     {
-     "name": "Memorial to Folly",
+     "name": "Mox Amber",
      "qty": 1
     },
     {
-     "name": "Mesmeric Orb",
+     "name": "Mox Opal",
      "qty": 1
     },
     {
-     "name": "Millstone",
-     "qty": 1
-    },
-    {
-     "name": "Nasty End",
-     "qty": 1
-    },
-    {
-     "name": "Necropotence",
+     "name": "Not Dead After All",
      "qty": 1
     },
     {
@@ -4557,19 +2719,7 @@
      "qty": 1
     },
     {
-     "name": "Peter Parker's Camera",
-     "qty": 1
-    },
-    {
-     "name": "Phyrexian Arena",
-     "qty": 1
-    },
-    {
-     "name": "Phyrexian Scriptures",
-     "qty": 1
-    },
-    {
-     "name": "Phyrexian Tower",
+     "name": "Plunge into Darkness",
      "qty": 1
     },
     {
@@ -4581,19 +2731,11 @@
      "qty": 1
     },
     {
-     "name": "Reclamation Specialist",
+     "name": "Scheming Symmetry",
      "qty": 1
     },
     {
-     "name": "Reliquary Tower",
-     "qty": 1
-    },
-    {
-     "name": "Rings of Brighthearth",
-     "qty": 1
-    },
-    {
-     "name": "Skullclamp",
+     "name": "Spire of Industry",
      "qty": 1
     },
     {
@@ -4605,35 +2747,11 @@
      "qty": 1
     },
     {
-     "name": "Stargaze",
-     "qty": 1
-    },
-    {
-     "name": "Swamp",
-     "qty": 22
-    },
-    {
-     "name": "Takenuma, Abandoned Mire",
-     "qty": 1
-    },
-    {
      "name": "The Soul Stone",
      "qty": 1
     },
     {
-     "name": "The War in Heaven",
-     "qty": 1
-    },
-    {
-     "name": "Ultron the Annihilator",
-     "qty": 1
-    },
-    {
-     "name": "Ultron, Artificial Malevolence",
-     "qty": 1
-    },
-    {
-     "name": "Umbral Mantle",
+     "name": "Treasure Vault",
      "qty": 1
     },
     {
@@ -4641,27 +2759,1104 @@
      "qty": 1
     },
     {
+     "name": "Urza's Saga",
+     "qty": 1
+    },
+    {
+     "name": "Vampiric Tutor",
+     "qty": 1
+    },
+    {
      "name": "Vault of Whispers",
      "qty": 1
     },
     {
-     "name": "Zombie Infestation",
+     "name": "Wishclaw Talisman",
+     "qty": 1
+    },
+    {
+     "name": "Withering Torment",
      "qty": 1
     }
    ],
    "notes": [
-    "Pasted Nov 21, 2026. Turbo list: fast mana and rituals into Doom plus Demonic Consultation, Tainted Pact or Doomsday, with Leveler and Mirror of Fate as backups. Every card name appears once, so Tainted Pact works.",
-    "Differs from Turbo Pact in the lands: Ash Barrens, Bojuka Bog, Castle Locthwain, Crypt of Agadeem, Gemstone Mine, Exotic Orchard, Geier Reach Sanitarium, Ifnir Deadlands, Mortuary Mire, Myriad Landscape and Witch's Cottage in for Boseiju, Cabal Coffers, Cavern of Souls, City of Traitors, Gemstone Caverns, Lake of the Dead, Nykthos, Phyrexian Tower, Polluted Delta, Prismatic Vista and Urborg.",
-    "Bracket 4 (cEDH speed) whatever the Game Changer count: it aims to win on turns 2-3.",
-    "Nov 21: Priest of Gix in for Burnt Offering, which isn't legal here (its {R} makes it black-red). Priest is the only one of the four mono-black options that makes mana the turn it lands: 3 mana in, {B}{B}{B} back, plus a 3-mana-value body for Culling the Weak, Sacrifice, Diabolic Intent or Village Rites.",
-    "Nov 21: Gemstone Mine in for Darkwater Catacombs, which isn't legal here (it makes {U}{B}). This list is short on lands that make {B} untapped (Swamp, Snow-Covered Swamp, Command Tower, Ifnir Deadlands), so the slot wants an untapped black source. Gemstone Mine (about $1.73) enters untapped and makes any color three times, plenty for a turn 2-3 game. Alternatives: Cabal Pit (about $0.28, {B} for 1 damage) or Hive of the Eye Tyrant (about $0.49, untapped as your first or second land).",
-    "Most of this list isn't in your collection yet; check ownership before buying.",
-    "Budget swaps (from the Nov 21 primer): Mox Opal -> Pentad Prism (or Everflowing Chalice); Beseech the Mirror -> Diabolic Tutor (or Mastermind's Acquisition); Mithril Coat -> Kaya's Ghostform (or Darksteel Plate); Conqueror's Flail -> Hope of Ghirapur; Deadly Rollick -> Go for the Throat (or Heartless Act); Insidious Dreams -> Necrologia.",
-    "Line A, Turbo Consult: cast Doom ({2}{B}{B}) off fast mana, give him haste (Lightning Greaves {2}, equip {0}; or Lavaspur Boots {1}, equip {1}), cast Demonic Consultation naming a card not in the deck (or Tainted Pact, taking nothing) to exile the library, then tap Doom: draw from an empty library, win.",
-    "Correction to the primer: Spoils of the Vault does NOT win from a full library. You lose 1 life per exiled card, and state-based actions kill you at 0 life before you can tap Doom. Doom's 'win even at 0 life' only covers life lost by his own ability. Use Spoils as a tutor or with a tiny library (a Doomsday pile).",
-    "Line B, end-step setup: cast Doom without haste and pass. At the end step of the player before you, cast Tainted Pact or Demonic Consultation. Doom is still summoning sick until your turn starts, so tap him in your upkeep, before the draw step.",
-    "Line C, Doomsday pile (top to bottom): Street Wraith, Dark Ritual, Night's Whisper (or Sign in Blood), Demonic Consultation, Spoils of the Vault. Doom must already be untapped and able to tap. Cycle Wraith (2 life) for Dark Ritual, cast Ritual, cast Night's Whisper to draw the last two cards, tap Doom. Doomsday costs half your life first, so keep enough for Wraith's 2. No haste: put Lavaspur Boots in Spoils' spot; needs 2 mana beyond Doomsday.",
-    "Line D, Mirror of Fate: cast it ({5}); artifacts can tap right away. Tap and sacrifice it, choose zero exiled cards: your library is exiled and stays empty. Tap Doom. Inverter of Truth is NOT the same: it shuffles your graveyard back into your library, so it only empties the library when the graveyard is empty."
+    "The three cheapest Game Changers (Ad Nauseam, Bolas's Citadel, Opposition Agent, about $38 together) forced into a $150 list: $150.00.",
+    "Nov 21 sim, 10,000 games, Bracket 3 table: by turn 6 29%, turn 8 52%, turn 10 64%, average win turn 9.9. That's about 2.9 turns slower than the no-Game-Changer budget list: paying for them costs the tutors. Not recommended; it exists for comparison.",
+    "Every card name appears once, so Tainted Pact works."
+   ]
+  },
+  {
+   "id": "today-3gc",
+   "label": "Build today, 3 Game Changers",
+   "name": "Doom Unrivaled (Build today, 3 Game Changers)",
+   "bracket": "Bracket 3",
+   "bracketGoal": "3 Game Changers: Demonic Tutor, Orcish Bowmasters, The One Ring",
+   "source": "Nov 21 sim-driven build from owned cards only",
+   "updated": "Nov 21, 2026",
+   "in": [
+    {
+     "name": "Adaptive Omnitool",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Artifact"
+    },
+    {
+     "name": "Arc Reactor",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Big Mother Mouser",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Breach the Multiverse",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Buried Alive",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Cabal Ritual",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Instant"
+    },
+    {
+     "name": "Castle Doom",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Chromatic Sphere",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Chromatic Star",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Codex Shredder",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Cranial Plating",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Darksteel Plate",
+     "qty": 1,
+     "role": "prot",
+     "type": "Artifact"
+    },
+    {
+     "name": "Deadly Dispute",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Doom's Servo-Guards",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Doomsday",
+     "qty": 1,
+     "role": "win",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Horn of Greed",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Lash of the Balrog",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Nasty End",
+     "qty": 1,
+     "role": "draw",
+     "type": "Instant"
+    },
+    {
+     "name": "Orcish Bowmasters",
+     "qty": 1,
+     "role": "other",
+     "type": "Creature"
+    },
+    {
+     "name": "Peter Parker's Camera",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Phyrexian Arena",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Phyrexian Scriptures",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Rat King, Verminister",
+     "qty": 1,
+     "role": "recur",
+     "type": "Creature"
+    },
+    {
+     "name": "Rescue from the Underworld",
+     "qty": 1,
+     "role": "recur",
+     "type": "Instant"
+    },
+    {
+     "name": "Skullclamp",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Stargaze",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Swamp",
+     "qty": 27,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "The One Ring",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "The War in Heaven",
+     "qty": 1,
+     "role": "recur",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Toxic Deluge",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Ultron, Artificial Malevolence",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Victimize",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Zombie Infestation",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Zombify",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    }
+   ],
+   "out": [
+    {
+     "name": "Agadeem's Awakening // Agadeem, the Undercrypt",
+     "qty": 1
+    },
+    {
+     "name": "Barren Moor",
+     "qty": 1
+    },
+    {
+     "name": "Basal Thrull",
+     "qty": 1
+    },
+    {
+     "name": "Beseech the Mirror",
+     "qty": 1
+    },
+    {
+     "name": "Beseech the Queen",
+     "qty": 1
+    },
+    {
+     "name": "Cabal Pit",
+     "qty": 1
+    },
+    {
+     "name": "Castle Locthwain",
+     "qty": 1
+    },
+    {
+     "name": "Cavern of Souls",
+     "qty": 1
+    },
+    {
+     "name": "Charcoal Diamond",
+     "qty": 1
+    },
+    {
+     "name": "Chrome Mox",
+     "qty": 1
+    },
+    {
+     "name": "City of Brass",
+     "qty": 1
+    },
+    {
+     "name": "Command Tower",
+     "qty": 1
+    },
+    {
+     "name": "Crashing Drawbridge",
+     "qty": 1
+    },
+    {
+     "name": "Cruel Tutor",
+     "qty": 1
+    },
+    {
+     "name": "Dark Petition",
+     "qty": 1
+    },
+    {
+     "name": "Defense Grid",
+     "qty": 1
+    },
+    {
+     "name": "Demonic Consultation",
+     "qty": 1
+    },
+    {
+     "name": "Ebon Stronghold",
+     "qty": 1
+    },
+    {
+     "name": "Entomb",
+     "qty": 1
+    },
+    {
+     "name": "Evolving Wilds",
+     "qty": 1
+    },
+    {
+     "name": "Exotic Orchard",
+     "qty": 1
+    },
+    {
+     "name": "Feign Death",
+     "qty": 1
+    },
+    {
+     "name": "Fell the Profane // Fell Mire",
+     "qty": 1
+    },
+    {
+     "name": "Gemstone Mine",
+     "qty": 1
+    },
+    {
+     "name": "Grim Tutor",
+     "qty": 1
+    },
+    {
+     "name": "Hive of the Eye Tyrant",
+     "qty": 1
+    },
+    {
+     "name": "Ifnir Deadlands",
+     "qty": 1
+    },
+    {
+     "name": "Imp's Mischief",
+     "qty": 1
+    },
+    {
+     "name": "Insidious Dreams",
+     "qty": 1
+    },
+    {
+     "name": "Inverter of Truth",
+     "qty": 1
+    },
+    {
+     "name": "Jeweled Amulet",
+     "qty": 1
+    },
+    {
+     "name": "Lake of the Dead",
+     "qty": 1
+    },
+    {
+     "name": "Lavaspur Boots",
+     "qty": 1
+    },
+    {
+     "name": "Leechridden Swamp",
+     "qty": 1
+    },
+    {
+     "name": "Malakir Rebirth",
+     "qty": 1
+    },
+    {
+     "name": "Mirrex",
+     "qty": 1
+    },
+    {
+     "name": "Mortuary Mire",
+     "qty": 1
+    },
+    {
+     "name": "Mox Amber",
+     "qty": 1
+    },
+    {
+     "name": "Mox Opal",
+     "qty": 1
+    },
+    {
+     "name": "Not Dead After All",
+     "qty": 1
+    },
+    {
+     "name": "Path of Ancestry",
+     "qty": 1
+    },
+    {
+     "name": "Peat Bog",
+     "qty": 1
+    },
+    {
+     "name": "Plunge into Darkness",
+     "qty": 1
+    },
+    {
+     "name": "Polluted Mire",
+     "qty": 1
+    },
+    {
+     "name": "Psychosis Crawler",
+     "qty": 1
+    },
+    {
+     "name": "Read the Bones",
+     "qty": 1
+    },
+    {
+     "name": "Scheming Symmetry",
+     "qty": 1
+    },
+    {
+     "name": "Shambling Ghast",
+     "qty": 1
+    },
+    {
+     "name": "Snow-Covered Swamp",
+     "qty": 1
+    },
+    {
+     "name": "Spire of Industry",
+     "qty": 1
+    },
+    {
+     "name": "Springleaf Drum",
+     "qty": 1
+    },
+    {
+     "name": "Tainted Pact",
+     "qty": 1
+    },
+    {
+     "name": "The Dross Pits",
+     "qty": 1
+    },
+    {
+     "name": "Thriving Moor",
+     "qty": 1
+    },
+    {
+     "name": "Treasure Vault",
+     "qty": 1
+    },
+    {
+     "name": "Undying Malice",
+     "qty": 1
+    },
+    {
+     "name": "Urborg, Tomb of Yawgmoth",
+     "qty": 1
+    },
+    {
+     "name": "Urza's Saga",
+     "qty": 1
+    },
+    {
+     "name": "Vampiric Tutor",
+     "qty": 1
+    },
+    {
+     "name": "Wishclaw Talisman",
+     "qty": 1
+    }
+   ],
+   "notes": [
+    "Fastest list from cards you own (your sleeved deck, the Owned build, the vault's owned cards and your stated collection). Game Changers: Demonic Tutor, The One Ring, Orcish Bowmasters.",
+    "Nov 21 sim, 10,000 games, Bracket 3 table: by turn 6 39%, turn 8 68%, turn 10 84%, average win turn 8.1. Orcish Bowmasters was added only to reach three; it tested about 0.05 turns slower than Murmuring Volume.",
+    "28 Swamps: you don't own enough different lands yet, so Tainted Pact is out (it stops at the second Swamp). The land package in the Budget list turns it on.",
+    "Buy order (measured from the no-Game-Changer Build-today list): 1. Demonic Consultation ($5.73, 0.67 turns); 2. Wishclaw Talisman ($2.04, 0.51 turns); 3. Beseech the Queen ($3.64, 0.41 turns); 4. Scheming Symmetry ($8.01, 0.41 turns); 5. Inverter of Truth ($0.95, 0.37 turns); 6. Dark Petition ($2.95, 0.31 turns); 7. Shambling Ghast ($0.33, 0.17 turns); 8. Springleaf Drum ($0.25, 0.16 turns); then the Budget list's lands (about $15), which make Tainted Pact work."
+   ]
+  },
+  {
+   "id": "today-0gc",
+   "label": "Build today, no Game Changers",
+   "name": "Doom Unrivaled (Build today, no Game Changers)",
+   "bracket": "Bracket 3",
+   "bracketGoal": "0 Game Changers",
+   "source": "Nov 21 sim-driven build from owned cards only",
+   "updated": "Nov 21, 2026",
+   "in": [
+    {
+     "name": "Adaptive Omnitool",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Artifact"
+    },
+    {
+     "name": "Age of Ultron",
+     "qty": 1,
+     "role": "rem",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Arc Reactor",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Black Market Connections",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Breach the Multiverse",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Buried Alive",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Cabal Ritual",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Instant"
+    },
+    {
+     "name": "Castle Doom",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Chromatic Sphere",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Chromatic Star",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Codex Shredder",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Darksteel Plate",
+     "qty": 1,
+     "role": "prot",
+     "type": "Artifact"
+    },
+    {
+     "name": "Deadly Dispute",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Doom's Servo-Guards",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Doomfall",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Doomsday",
+     "qty": 1,
+     "role": "win",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Duress",
+     "qty": 1,
+     "role": "prot",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Genesis of the Daleks",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Grim Reaper's Scythe",
+     "qty": 1,
+     "role": "recur",
+     "type": "Artifact"
+    },
+    {
+     "name": "Horn of Greed",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Lash of the Balrog",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Millstone",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Murmuring Volume",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Nasty End",
+     "qty": 1,
+     "role": "draw",
+     "type": "Instant"
+    },
+    {
+     "name": "Peter Parker's Camera",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Phyrexian Arena",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Rat King, Verminister",
+     "qty": 1,
+     "role": "recur",
+     "type": "Creature"
+    },
+    {
+     "name": "Rescue from the Underworld",
+     "qty": 1,
+     "role": "recur",
+     "type": "Instant"
+    },
+    {
+     "name": "Skullclamp",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Stargaze",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Swamp",
+     "qty": 27,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "The War in Heaven",
+     "qty": 1,
+     "role": "recur",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Ultron the Annihilator",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Victimize",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    }
+   ],
+   "out": [
+    {
+     "name": "Agadeem's Awakening // Agadeem, the Undercrypt",
+     "qty": 1
+    },
+    {
+     "name": "Barren Moor",
+     "qty": 1
+    },
+    {
+     "name": "Basal Thrull",
+     "qty": 1
+    },
+    {
+     "name": "Beseech the Mirror",
+     "qty": 1
+    },
+    {
+     "name": "Beseech the Queen",
+     "qty": 1
+    },
+    {
+     "name": "Cabal Pit",
+     "qty": 1
+    },
+    {
+     "name": "Castle Locthwain",
+     "qty": 1
+    },
+    {
+     "name": "Cavern of Souls",
+     "qty": 1
+    },
+    {
+     "name": "Charcoal Diamond",
+     "qty": 1
+    },
+    {
+     "name": "Chrome Mox",
+     "qty": 1
+    },
+    {
+     "name": "City of Brass",
+     "qty": 1
+    },
+    {
+     "name": "Command Tower",
+     "qty": 1
+    },
+    {
+     "name": "Crashing Drawbridge",
+     "qty": 1
+    },
+    {
+     "name": "Cruel Tutor",
+     "qty": 1
+    },
+    {
+     "name": "Dark Petition",
+     "qty": 1
+    },
+    {
+     "name": "Defense Grid",
+     "qty": 1
+    },
+    {
+     "name": "Demonic Consultation",
+     "qty": 1
+    },
+    {
+     "name": "Demonic Tutor",
+     "qty": 1
+    },
+    {
+     "name": "Ebon Stronghold",
+     "qty": 1
+    },
+    {
+     "name": "Entomb",
+     "qty": 1
+    },
+    {
+     "name": "Evolving Wilds",
+     "qty": 1
+    },
+    {
+     "name": "Exotic Orchard",
+     "qty": 1
+    },
+    {
+     "name": "Feign Death",
+     "qty": 1
+    },
+    {
+     "name": "Fell the Profane // Fell Mire",
+     "qty": 1
+    },
+    {
+     "name": "Gemstone Mine",
+     "qty": 1
+    },
+    {
+     "name": "Grim Tutor",
+     "qty": 1
+    },
+    {
+     "name": "Hive of the Eye Tyrant",
+     "qty": 1
+    },
+    {
+     "name": "Ifnir Deadlands",
+     "qty": 1
+    },
+    {
+     "name": "Imp's Mischief",
+     "qty": 1
+    },
+    {
+     "name": "Insidious Dreams",
+     "qty": 1
+    },
+    {
+     "name": "Inverter of Truth",
+     "qty": 1
+    },
+    {
+     "name": "Jeweled Amulet",
+     "qty": 1
+    },
+    {
+     "name": "Lake of the Dead",
+     "qty": 1
+    },
+    {
+     "name": "Lavaspur Boots",
+     "qty": 1
+    },
+    {
+     "name": "Leechridden Swamp",
+     "qty": 1
+    },
+    {
+     "name": "Malakir Rebirth",
+     "qty": 1
+    },
+    {
+     "name": "Mirrex",
+     "qty": 1
+    },
+    {
+     "name": "Mortuary Mire",
+     "qty": 1
+    },
+    {
+     "name": "Mox Amber",
+     "qty": 1
+    },
+    {
+     "name": "Mox Opal",
+     "qty": 1
+    },
+    {
+     "name": "Not Dead After All",
+     "qty": 1
+    },
+    {
+     "name": "Path of Ancestry",
+     "qty": 1
+    },
+    {
+     "name": "Peat Bog",
+     "qty": 1
+    },
+    {
+     "name": "Plunge into Darkness",
+     "qty": 1
+    },
+    {
+     "name": "Polluted Mire",
+     "qty": 1
+    },
+    {
+     "name": "Scheming Symmetry",
+     "qty": 1
+    },
+    {
+     "name": "Shambling Ghast",
+     "qty": 1
+    },
+    {
+     "name": "Shred Memory",
+     "qty": 1
+    },
+    {
+     "name": "Snow-Covered Swamp",
+     "qty": 1
+    },
+    {
+     "name": "Spire of Industry",
+     "qty": 1
+    },
+    {
+     "name": "Springleaf Drum",
+     "qty": 1
+    },
+    {
+     "name": "Tainted Pact",
+     "qty": 1
+    },
+    {
+     "name": "The Dross Pits",
+     "qty": 1
+    },
+    {
+     "name": "Thriving Moor",
+     "qty": 1
+    },
+    {
+     "name": "Treasure Vault",
+     "qty": 1
+    },
+    {
+     "name": "Undying Malice",
+     "qty": 1
+    },
+    {
+     "name": "Urborg, Tomb of Yawgmoth",
+     "qty": 1
+    },
+    {
+     "name": "Urza's Saga",
+     "qty": 1
+    },
+    {
+     "name": "Vampiric Tutor",
+     "qty": 1
+    },
+    {
+     "name": "Wishclaw Talisman",
+     "qty": 1
+    }
+   ],
+   "notes": [
+    "Fastest list from cards you own, with no Game Changers. Replaces the Owned build.",
+    "Nov 21 sim, 10,000 games, Bracket 3 table: by turn 6 32%, turn 8 59%, turn 10 76%, average win turn 8.8 (the old Owned build: by turn 6 31%, turn 8 58%, turn 10 74%, average win turn 8.9).",
+    "28 Swamps, so Tainted Pact is out until you buy the Budget list's lands.",
+    "Buy order, best gain first (each measured alone, in for Grim Reaper's Scythe): 1. Demonic Consultation ($5.73, 0.67 turns); 2. Wishclaw Talisman ($2.04, 0.51 turns); 3. Beseech the Queen ($3.64, 0.41 turns); 4. Scheming Symmetry ($8.01, 0.41 turns); 5. Inverter of Truth ($0.95, 0.37 turns); 6. Dark Petition ($2.95, 0.31 turns); 7. Shambling Ghast ($0.33, 0.17 turns); 8. Springleaf Drum ($0.25, 0.16 turns); 9. Thought Vessel ($1.36, 0.12 turns); 10. Overeager Apprentice ($0.19, 0.09 turns); 11. Worn Powerstone ($0.34, 0.09 turns); 12. Charcoal Diamond ($0.25, 0.09 turns); then the Budget list's lands (about $15), which make Tainted Pact work."
+   ]
+  },
+  {
+   "id": "b4",
+   "label": "Bracket 4",
+   "name": "Doom Unrivaled (Bracket 4)",
+   "bracket": "Bracket 4",
+   "bracketGoal": "Any Game Changers: Ancient Tomb, Chrome Mox, Demonic Tutor, Grim Monolith, Vampiric Tutor",
+   "source": "Nov 21 sim-driven build, tuned against the Bracket 4 table profile, no limits",
+   "updated": "Nov 21, 2026",
+   "in": [
+    {
+     "name": "Ancient Tomb",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Grim Monolith",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    }
+   ],
+   "out": [
+    {
+     "name": "Castle Locthwain",
+     "qty": 1
+    },
+    {
+     "name": "Mind Stone",
+     "qty": 1
+    }
+   ],
+   "notes": [
+    "No price or Game Changer limit, tuned against a Bracket 4 table. About $1229.",
+    "Nov 21 sim, 10,000 games, Bracket 4 table: by turn 6 58%, turn 8 75%, turn 10 82%, average win turn 7.7. Bracket 3 table: by turn 6 78%, turn 8 92%, turn 10 95%, average win turn 5.8.",
+    "It's barely faster than the 3-Game-Changer Ideal: past three, more Game Changers (Ancient Tomb, Grim Monolith) add little because the deck already finds its win on time.",
+    "Every card name appears once, so Tainted Pact works."
+   ]
+  },
+  {
+   "id": "b5",
+   "label": "Bracket 5 / cEDH",
+   "name": "Doom Unrivaled (Bracket 5 / cEDH)",
+   "bracket": "Bracket 5",
+   "bracketGoal": "Any Game Changers: Ancient Tomb, Chrome Mox, Demonic Tutor, Mox Diamond, Vampiric Tutor",
+   "source": "Nov 21 sim-driven build, tuned against the cEDH table profile, no limits",
+   "updated": "Nov 21, 2026",
+   "in": [
+    {
+     "name": "Ancient Tomb",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Deadly Rollick",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Dismember",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Fatal Push",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Horn of Greed",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Mox Diamond",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Sheoldred's Edict",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Snuff Out",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Thought Vessel",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    }
+   ],
+   "out": [
+    {
+     "name": "Beseech the Mirror",
+     "qty": 1
+    },
+    {
+     "name": "Castle Locthwain",
+     "qty": 1
+    },
+    {
+     "name": "Charcoal Diamond",
+     "qty": 1
+    },
+    {
+     "name": "Inverter of Truth",
+     "qty": 1
+    },
+    {
+     "name": "Liquimetal Torque",
+     "qty": 1
+    },
+    {
+     "name": "Millikin",
+     "qty": 1
+    },
+    {
+     "name": "Mind Stone",
+     "qty": 1
+    },
+    {
+     "name": "Psychosis Crawler",
+     "qty": 1
+    },
+    {
+     "name": "The Cruelty of Gix",
+     "qty": 1
+    }
+   ],
+   "notes": [
+    "No limits, tuned against a cEDH table (opponents interact a lot and can win from turn 3). About $2335.",
+    "Nov 21 sim, 10,000 games, cEDH table: by turn 6 27%, turn 8 35%, turn 10 37%, average win turn 12.7. The 3-Game-Changer Ideal at the same table: by turn 6 24%, turn 8 30%, turn 10 32%, average win turn 13.3.",
+    "It trades Inverter of Truth and Psychosis Crawler for cheap interaction (Deadly Rollick, Dismember, Snuff Out, Fatal Push, Sheoldred's Edict) and Mox Diamond.",
+    "Every card name appears once, so Tainted Pact works."
    ]
   }
  ]

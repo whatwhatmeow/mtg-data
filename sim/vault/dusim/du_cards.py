@@ -70,6 +70,21 @@ LANDS = {
     "Path of Ancestry": dict(prod="B", tapped=True),
     "Exotic Orchard": dict(prod="C"),                              # conservative: opponents' colors ignored
     "Tomb of Urami": dict(prod="B", ping=1),
+    # Nov 21, 2026: Turbo-list lands
+    "Boseiju, Who Shelters All": dict(prod="C", ping=2),
+    "Prismatic Vista": dict(prod="B", ping=1),                    # fetches a basic Swamp
+    "Nykthos, Shrine to Nyx": dict(prod="C"),                     # devotion not modeled
+    "Emergence Zone": dict(prod="C"),
+    "High Market": dict(prod="C"),
+    "Cabal Stronghold": dict(prod="C"),
+    "Geier Reach Sanitarium": dict(prod="C"),
+    "Ash Barrens": dict(prod="B", tapped=True),
+    "Terramorphic Expanse": dict(prod="B", tapped=True, swamp=True),
+    "Vibrant Cityscape": dict(prod="B", tapped=True, swamp=True),
+    "Myriad Landscape": dict(prod="B", tapped=True),
+    "Crypt of Agadeem": dict(prod="B", tapped=True),
+    "Bog Wreckage": dict(prod="B", tapped=True),
+    "Desert of the Glorified": dict(prod="B", tapped=True),
 }
 
 CARDS = {
@@ -228,6 +243,40 @@ CARDS = {
     "Doom Blade": dict(cost=C(1, 1), type="instant", tags={"interact"}),
     "Doomfall": dict(cost=C(2, 1), type="sorcery", tags={"discard"}),
     "Stitcher": None,
+    # ---- Nov 21, 2026: Turbo-list cards (light models) ----
+    "Mirror of Fate": dict(cost=C(5), type="artifact", tags={"win", "leveler"}, artifact=True),   # empties the library like Leveler
+    "Spoils of the Vault": dict(cost=C(0, 1), type="instant", tags={"tutor"}),                     # life loss not modeled: overrated
+    "Beseech the Queen": dict(cost=C(0, 3), type="sorcery", tags={"tutor"}),
+    "Dark Petition": dict(cost=C(3, 2), type="sorcery", tags={"tutor"}),                            # spell mastery refund not modeled
+    "Plunge into Darkness": dict(cost=C(1, 1), type="instant", tags={"tutor"}),
+    "Insidious Dreams": dict(cost=C(2, 1), type="instant", tags={"tutor_top"}),
+    "Imp's Mischief": dict(cost=C(1, 1), type="instant", tags={"save"}),
+    "Not Dead After All": dict(cost=C(0, 1), type="instant", tags={"save"}),
+    "Street Wraith": dict(cost=C(0), type="artifact", tags={"bauble"}),                            # cycling as a free cantrip
+    "Mishra's Bauble": dict(cost=C(0), type="artifact", tags={"bauble"}),
+    "Urza's Bauble": dict(cost=C(0), type="artifact", tags={"bauble"}),
+    "Sacrifice": dict(cost=C(0, 1), type="instant", tags={"ritual"}, gain=2),
+    "Bubbling Muck": dict(cost=C(0, 1), type="sorcery", tags={"ritual"}, gain=2),
+    "Songs of the Damned": dict(cost=C(0, 1), type="instant", tags={"ritual"}, gain=2),
+    "Rain of Filth": dict(cost=C(0, 1), type="instant", tags={"ritual"}, gain=2),
+    "Priest of Gix": dict(cost=C(2, 1), type="instant", tags={"ritual"}, gain=3),                   # body not modeled
+    "Overeager Apprentice": dict(cost=C(0, 1), type="instant", tags={"ritual"}, gain=3),          # 1-drop: discard, sac: BBB
+    "Divining Witch": dict(cost=C(3, 1), type="instant", tags={"win", "consult"}),
+    "Mox Opal": dict(cost=C(0), type="artifact", tags={"amber"}),                                   # metalcraft approximated as Mox Amber
+    "Springleaf Drum": dict(cost=C(1), type="artifact", tags={"rock"}, prod="B"),
+    "Jeweled Amulet": dict(cost=C(1), type="artifact", tags={"rock"}, prod="B", tapped=True),
+    "Memnite": dict(cost=C(0), type="creature", tags={"fodder"}, artifact=True),
+    "Ornithopter": dict(cost=C(0), type="creature", tags={"fodder"}, artifact=True),
+    "Phyrexian Walker": dict(cost=C(0), type="creature", tags={"fodder"}, artifact=True),
+    "Blood Pet": dict(cost=C(0, 1), type="creature", tags={"fodder"}),
+    "Basal Thrull": dict(cost=C(0, 2), type="creature", tags={"fodder"}),
+    "K'rrik, Son of Yawgmoth": dict(cost=C(4, 1), type="creature", tags={"fodder"}),               # Phyrexian-mana discount not modeled
+    "Corrupted Conviction": dict(cost=C(0, 1), type="instant", tags={"sacdraw"}),
+    "Slaughter Pact": dict(cost=C(0), type="instant", tags={"interact"}),
+    "Conqueror's Flail": dict(cost=C(4), type="artifact", tags={"grid"}),                           # cast + equip
+    "Mithril Coat": dict(cost=C(3), type="artifact", tags={"indestr"}),
+    "Shield Sphere": dict(cost=C(0), type="creature", tags={"fodder"}, artifact=True),
+    "Shambling Ghast": dict(cost=C(0, 1), type="creature", tags={"ghast", "fodder"}),
     # ---- Nov 20, 2026: the Owned build's stand-ins (light models) ----
     "Arc Reactor": dict(cost=C(5), type="artifact", tags={"rock"}, prod="CCC", tapped=True),   # improvise not modeled
     "Fellwar Stone": dict(cost=C(2), type="artifact", tags={"rock"}, prod="B"),

@@ -61,7 +61,7 @@ def mv(c):
     return sum(d["cost"].values()) if d else 0
 
 
-SAC_FIRST = ("mouser", "servo", "harbinger")      # nontoken creatures the pilot is happy to sacrifice
+SAC_FIRST = ("mouser", "servo", "harbinger", "fodder")      # nontoken creatures the pilot is happy to sacrifice
 
 
 class Game:
