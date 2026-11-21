@@ -79,6 +79,13 @@ LANDS = {
     "Cabal Stronghold": dict(prod="C"),
     "Geier Reach Sanitarium": dict(prod="C"),
     "Ash Barrens": dict(prod="B", tapped=True),
+    "Fabled Passage": dict(prod="B", tapped=True, swamp=True),
+    "Reflecting Pool": dict(prod="B"),
+    "Plaza of Heroes": dict(prod="C"),
+    "Scavenger Grounds": dict(prod="C"),
+    "Secluded Courtyard": dict(prod="B"),
+    "Throne of the High City": dict(prod="C"),
+    "The Great Mound": dict(prod="C"),
     "Terramorphic Expanse": dict(prod="B", tapped=True, swamp=True),
     "Vibrant Cityscape": dict(prod="B", tapped=True, swamp=True),
     "Myriad Landscape": dict(prod="B", tapped=True),
@@ -243,6 +250,14 @@ CARDS = {
     "Doom Blade": dict(cost=C(1, 1), type="instant", tags={"interact"}),
     "Doomfall": dict(cost=C(2, 1), type="sorcery", tags={"discard"}),
     "Stitcher": None,
+    # ---- Nov 21, 2026: cards from the opened Marvel Commander, Reality Fracture and Borg precons ----
+    "Thran Dynamo": dict(cost=C(4), type="artifact", tags={"rock"}, prod="CCC"),
+    "Gilded Lotus": dict(cost=C(5), type="artifact", tags={"rock"}, prod="BBB"),
+    "Coveted Jewel": dict(cost=C(6), type="artifact", tags={"rock"}, prod="BBB"),
+    "Chromatic Lantern": dict(cost=C(3), type="artifact", tags={"rock"}, prod="B"),
+    "Solemn Simulacrum": dict(cost=C(4), type="artifact", tags={"rock"}, prod="B", tapped=True),   # the land it fetches
+    "Whispersilk Cloak": dict(cost=C(5), type="artifact", tags={"hexproof"}),                     # cast + equip; shroud
+    "Syphon Mind": dict(cost=C(3, 1), type="sorcery", tags={"draw2"}),
     # ---- Nov 21, 2026: Turbo-list cards (light models) ----
     "Mirror of Fate": dict(cost=C(5), type="artifact", tags={"win", "leveler"}, artifact=True),   # empties the library like Leveler
     "Spoils of the Vault": dict(cost=C(0, 1), type="instant", tags={"tutor"}),                     # life loss not modeled: overrated

@@ -2791,7 +2791,7 @@
    "name": "Doom Unrivaled (Build today, 3 Game Changers)",
    "bracket": "Bracket 3",
    "bracketGoal": "3 Game Changers: Demonic Tutor, Orcish Bowmasters, The One Ring",
-   "source": "Nov 21 sim-driven build from owned cards only",
+   "source": "Nov 21 sim-driven build from owned cards only (redone after opening the Borg, Reality Fracture and second set of Marvel Commander precons)",
    "updated": "Nov 21, 2026",
    "in": [
     {
@@ -2801,22 +2801,10 @@
      "type": "Artifact"
     },
     {
-     "name": "Arc Reactor",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
      "name": "Big Mother Mouser",
      "qty": 1,
      "role": "eng",
      "type": "Creature"
-    },
-    {
-     "name": "Breach the Multiverse",
-     "qty": 1,
-     "role": "recur",
-     "type": "Sorcery"
     },
     {
      "name": "Buried Alive",
@@ -2835,6 +2823,12 @@
      "qty": 1,
      "role": "land",
      "type": "Land"
+    },
+    {
+     "name": "Chromatic Lantern",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
     },
     {
      "name": "Chromatic Sphere",
@@ -2867,12 +2861,6 @@
      "type": "Artifact"
     },
     {
-     "name": "Deadly Dispute",
-     "qty": 1,
-     "role": "eng",
-     "type": "Instant"
-    },
-    {
      "name": "Doom's Servo-Guards",
      "qty": 1,
      "role": "eng",
@@ -2885,9 +2873,9 @@
      "type": "Sorcery"
     },
     {
-     "name": "Horn of Greed",
+     "name": "Gilded Lotus",
      "qty": 1,
-     "role": "draw",
+     "role": "ramp",
      "type": "Artifact"
     },
     {
@@ -2927,6 +2915,12 @@
      "type": "Enchantment"
     },
     {
+     "name": "Plaza of Heroes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
      "name": "Rat King, Verminister",
      "qty": 1,
      "role": "recur",
@@ -2937,6 +2931,12 @@
      "qty": 1,
      "role": "recur",
      "type": "Instant"
+    },
+    {
+     "name": "Scavenger Grounds",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
     },
     {
      "name": "Skullclamp",
@@ -2952,9 +2952,15 @@
     },
     {
      "name": "Swamp",
-     "qty": 27,
+     "qty": 24,
      "role": "land",
      "type": "Land"
+    },
+    {
+     "name": "Syphon Mind",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
     },
     {
      "name": "The One Ring",
@@ -2967,6 +2973,18 @@
      "qty": 1,
      "role": "recur",
      "type": "Enchantment"
+    },
+    {
+     "name": "Thought Vessel",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Thran Dynamo",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
     },
     {
      "name": "Toxic Deluge",
@@ -2985,6 +3003,12 @@
      "qty": 1,
      "role": "recur",
      "type": "Sorcery"
+    },
+    {
+     "name": "Whispersilk Cloak",
+     "qty": 1,
+     "role": "prot",
+     "type": "Artifact"
     },
     {
      "name": "Zombie Infestation",
@@ -3069,6 +3093,10 @@
      "qty": 1
     },
     {
+     "name": "Doctor Doom",
+     "qty": 1
+    },
+    {
      "name": "Ebon Stronghold",
      "qty": 1
     },
@@ -3078,10 +3106,6 @@
     },
     {
      "name": "Evolving Wilds",
-     "qty": 1
-    },
-    {
-     "name": "Exotic Orchard",
      "qty": 1
     },
     {
@@ -3239,13 +3263,18 @@
     {
      "name": "Wishclaw Talisman",
      "qty": 1
+    },
+    {
+     "name": "Withering Torment",
+     "qty": 1
     }
    ],
    "notes": [
-    "Fastest list from cards you own (your sleeved deck, the Owned build, the vault's owned cards and your stated collection). Game Changers: Demonic Tutor, The One Ring, Orcish Bowmasters.",
-    "Nov 21 sim, 10,000 games, Bracket 3 table: by turn 6 39%, turn 8 68%, turn 10 84%, average win turn 8.1. Orcish Bowmasters was added only to reach three; it tested about 0.05 turns slower than Murmuring Volume.",
-    "28 Swamps: you don't own enough different lands yet, so Tainted Pact is out (it stops at the second Swamp). The land package in the Budget list turns it on.",
-    "Buy order (measured from the no-Game-Changer Build-today list): 1. Demonic Consultation ($5.73, 0.67 turns); 2. Wishclaw Talisman ($2.04, 0.51 turns); 3. Beseech the Queen ($3.64, 0.41 turns); 4. Scheming Symmetry ($8.01, 0.41 turns); 5. Inverter of Truth ($0.95, 0.37 turns); 6. Dark Petition ($2.95, 0.31 turns); 7. Shambling Ghast ($0.33, 0.17 turns); 8. Springleaf Drum ($0.25, 0.16 turns); then the Budget list's lands (about $15), which make Tainted Pact work."
+    "Fastest list from cards you own (your sleeved deck, the Owned build, the vault's owned cards, your stated collection and the opened precons). Game Changers: Demonic Tutor, The One Ring, Orcish Bowmasters. New from the opened precons: Thran Dynamo, Gilded Lotus, Chromatic Lantern, Thought Vessel, Syphon Mind, Whispersilk Cloak, Exotic Orchard, Plaza of Heroes, Scavenger Grounds.",
+    "Nov 21 sim, 10,000 games, Bracket 3 table: by turn 6 41%, turn 8 71%, turn 10 84%, average win turn 8.0. Orcish Bowmasters is in only to reach three Game Changers; it tested about 0.05 turns slower than a basic rock.",
+    "Mostly Swamps: you don't own enough different lands yet, so Tainted Pact is out (it stops at the second Swamp).",
+    "Pact-ready lands: with the opened precons you own 23 different lands. Eleven cheap ones (about $4.69) finish a 34-land base with no repeats: Snow-Covered Swamp, Cabal Pit, Hive of the Eye Tyrant, Ifnir Deadlands, Castle Locthwain, Leechridden Swamp, Mortuary Mire, The Dross Pits, Ebon Stronghold, Barren Moor, Polluted Mire. Nov 21 sim: in this list the swap is about even (the extra tapped lands cost what Tainted Pact gains back), so buy the tutors in the buy order first; the lands pay off once they are in.",
+    "Buy order (measured from the no-Game-Changer Build-today list): 1. Demonic Consultation ($5.73, 0.67 turns); 2. Wishclaw Talisman ($2.04, 0.51 turns); 3. Beseech the Queen ($3.64, 0.41 turns); 4. Scheming Symmetry ($8.01, 0.41 turns); 5. Inverter of Truth ($0.95, 0.37 turns); 6. Dark Petition ($2.95, 0.31 turns); 7. Shambling Ghast ($0.33, 0.17 turns); 8. Springleaf Drum ($0.25, 0.16 turns); then the eleven lands in the note above, which make Tainted Pact work."
    ]
   },
   {
@@ -3254,7 +3283,7 @@
    "name": "Doom Unrivaled (Build today, no Game Changers)",
    "bracket": "Bracket 3",
    "bracketGoal": "0 Game Changers",
-   "source": "Nov 21 sim-driven build from owned cards only",
+   "source": "Nov 21 sim-driven build from owned cards only (redone after opening the Borg, Reality Fracture and second set of Marvel Commander precons)",
    "updated": "Nov 21, 2026",
    "in": [
     {
@@ -3270,22 +3299,10 @@
      "type": "Enchantment"
     },
     {
-     "name": "Arc Reactor",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
      "name": "Black Market Connections",
      "qty": 1,
      "role": "draw",
      "type": "Enchantment"
-    },
-    {
-     "name": "Breach the Multiverse",
-     "qty": 1,
-     "role": "recur",
-     "type": "Sorcery"
     },
     {
      "name": "Buried Alive",
@@ -3300,10 +3317,10 @@
      "type": "Instant"
     },
     {
-     "name": "Castle Doom",
+     "name": "Chromatic Lantern",
      "qty": 1,
-     "role": "land",
-     "type": "Land"
+     "role": "ramp",
+     "type": "Artifact"
     },
     {
      "name": "Chromatic Sphere",
@@ -3342,12 +3359,6 @@
      "type": "Creature"
     },
     {
-     "name": "Doomfall",
-     "qty": 1,
-     "role": "rem",
-     "type": "Sorcery"
-    },
-    {
      "name": "Doomsday",
      "qty": 1,
      "role": "win",
@@ -3360,15 +3371,9 @@
      "type": "Sorcery"
     },
     {
-     "name": "Genesis of the Daleks",
+     "name": "Gilded Lotus",
      "qty": 1,
-     "role": "eng",
-     "type": "Enchantment"
-    },
-    {
-     "name": "Grim Reaper's Scythe",
-     "qty": 1,
-     "role": "recur",
+     "role": "ramp",
      "type": "Artifact"
     },
     {
@@ -3382,12 +3387,6 @@
      "qty": 1,
      "role": "rem",
      "type": "Sorcery"
-    },
-    {
-     "name": "Millstone",
-     "qty": 1,
-     "role": "eng",
-     "type": "Artifact"
     },
     {
      "name": "Murmuring Volume",
@@ -3414,6 +3413,12 @@
      "type": "Enchantment"
     },
     {
+     "name": "Plaza of Heroes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
      "name": "Rat King, Verminister",
      "qty": 1,
      "role": "recur",
@@ -3424,6 +3429,12 @@
      "qty": 1,
      "role": "recur",
      "type": "Instant"
+    },
+    {
+     "name": "Scavenger Grounds",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
     },
     {
      "name": "Skullclamp",
@@ -3444,19 +3455,49 @@
      "type": "Land"
     },
     {
+     "name": "Syphon Mind",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
      "name": "The War in Heaven",
      "qty": 1,
      "role": "recur",
      "type": "Enchantment"
     },
     {
-     "name": "Ultron the Annihilator",
+     "name": "Thought Vessel",
      "qty": 1,
-     "role": "win",
-     "type": "Creature"
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Thran Dynamo",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Toxic Deluge",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
     },
     {
      "name": "Victimize",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Whispersilk Cloak",
+     "qty": 1,
+     "role": "prot",
+     "type": "Artifact"
+    },
+    {
+     "name": "Zombify",
      "qty": 1,
      "role": "recur",
      "type": "Sorcery"
@@ -3548,10 +3589,6 @@
      "qty": 1
     },
     {
-     "name": "Exotic Orchard",
-     "qty": 1
-    },
-    {
      "name": "Feign Death",
      "qty": 1
     },
@@ -3608,6 +3645,10 @@
      "qty": 1
     },
     {
+     "name": "Memorial to Folly",
+     "qty": 1
+    },
+    {
      "name": "Mirrex",
      "qty": 1
     },
@@ -3644,6 +3685,10 @@
      "qty": 1
     },
     {
+     "name": "Psychosis Crawler",
+     "qty": 1
+    },
+    {
      "name": "Scheming Symmetry",
      "qty": 1
     },
@@ -3665,6 +3710,10 @@
     },
     {
      "name": "Springleaf Drum",
+     "qty": 1
+    },
+    {
+     "name": "Spymaster's Vault",
      "qty": 1
     },
     {
@@ -3705,10 +3754,11 @@
     }
    ],
    "notes": [
-    "Fastest list from cards you own, with no Game Changers. Replaces the Owned build.",
-    "Nov 21 sim, 10,000 games, Bracket 3 table: by turn 6 32%, turn 8 59%, turn 10 76%, average win turn 8.8 (the old Owned build: by turn 6 31%, turn 8 58%, turn 10 74%, average win turn 8.9).",
-    "28 Swamps, so Tainted Pact is out until you buy the Budget list's lands.",
-    "Buy order, best gain first (each measured alone, in for Grim Reaper's Scythe): 1. Demonic Consultation ($5.73, 0.67 turns); 2. Wishclaw Talisman ($2.04, 0.51 turns); 3. Beseech the Queen ($3.64, 0.41 turns); 4. Scheming Symmetry ($8.01, 0.41 turns); 5. Inverter of Truth ($0.95, 0.37 turns); 6. Dark Petition ($2.95, 0.31 turns); 7. Shambling Ghast ($0.33, 0.17 turns); 8. Springleaf Drum ($0.25, 0.16 turns); 9. Thought Vessel ($1.36, 0.12 turns); 10. Overeager Apprentice ($0.19, 0.09 turns); 11. Worn Powerstone ($0.34, 0.09 turns); 12. Charcoal Diamond ($0.25, 0.09 turns); then the Budget list's lands (about $15), which make Tainted Pact work."
+    "Fastest list from cards you own, with no Game Changers. Replaces the Owned build. New from the opened precons: Thran Dynamo, Gilded Lotus, Chromatic Lantern, Thought Vessel, Syphon Mind, Whispersilk Cloak, Plaza of Heroes, Scavenger Grounds (plus Toxic Deluge and Zombify, which you already owned).",
+    "Nov 21 sim, 10,000 games, Bracket 3 table: by turn 6 35%, turn 8 65%, turn 10 80%, average win turn 8.4 (the old Owned build: by turn 6 31%, turn 8 58%, turn 10 73%, average win turn 9.0).",
+    "Mostly Swamps, so Tainted Pact is out for now.",
+    "Pact-ready lands: with the opened precons you own 23 different lands. Eleven cheap ones (about $4.69) finish a 34-land base with no repeats: Snow-Covered Swamp, Cabal Pit, Hive of the Eye Tyrant, Ifnir Deadlands, Castle Locthwain, Leechridden Swamp, Mortuary Mire, The Dross Pits, Ebon Stronghold, Barren Moor, Polluted Mire. Nov 21 sim: in this list the swap is about even (the extra tapped lands cost what Tainted Pact gains back), so buy the tutors in the buy order first; the lands pay off once they are in.",
+    "Buy order, best gain first (each measured alone, in for Grim Reaper's Scythe): 1. Demonic Consultation ($5.73, 0.67 turns); 2. Wishclaw Talisman ($2.04, 0.51 turns); 3. Beseech the Queen ($3.64, 0.41 turns); 4. Scheming Symmetry ($8.01, 0.41 turns); 5. Inverter of Truth ($0.95, 0.37 turns); 6. Dark Petition ($2.95, 0.31 turns); 7. Shambling Ghast ($0.33, 0.17 turns); 8. Springleaf Drum ($0.25, 0.16 turns); 9. Overeager Apprentice ($0.19, 0.09 turns); 10. Worn Powerstone ($0.34, 0.09 turns); 11. Charcoal Diamond ($0.25, 0.09 turns); then the eleven lands in the note above, which make Tainted Pact work."
    ]
   },
   {
