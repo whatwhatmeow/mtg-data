@@ -1,0 +1,422 @@
+{
+ "name": "Keen Engineering",
+ "owner": "Family",
+ "commanders": [
+  "Sai, Master Thopterist"
+ ],
+ "colors": [
+  "U"
+ ],
+ "format": "Commander",
+ "bracket": "Bracket 2",
+ "bracketGoal": "Stock precon · won't change",
+ "target": 100,
+ "baseLabel": "Stock precon",
+ "themeLabel": "Theme",
+ "order": 91,
+ "source": "Foundations Commander precon (Oct 2, 2026), stock list from Wizards' published decklist; checked for colour identity and legality in mtg-data.",
+ "updated": "Nov 23, 2026",
+ "cards": [
+  {
+   "name": "All Is Dust",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Broodstar",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Kappa Cannoneer",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Master of Etherium",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Master Transmuter",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Misleading Signpost",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Pull from Tomorrow",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Research Thief",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Shimmer Dragon",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Thopter Fabricator",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Thopter Spy Network",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Thought Monitor",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Vedalken Archmage",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Adaptive Omnitool",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Cultivator's Caravan",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Darksteel Juggernaut",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Duplicant",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Forsaken Monument",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Graaz, Unstoppable Juggernaut",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Mazemind Tome",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Mind's Eye",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Myr Battlesphere",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Nettlecyst",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Nevinyrral's Disk",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Psychosis Crawler",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Scrawling Crawler",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Skysovereign, Consul Flagship",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Steel Hellkite",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Steel Overseer",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "War Room",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Aetherize",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Counterspell",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Etherium Sculptor",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Fall from Favor",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Launch Mishap",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Memory Guardian",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Negate",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Padeem, Consul of Innovation",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Propaganda",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Tamiyo's Logbook",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Thirst for Knowledge",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Thoughtcast",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Whirler Rogue",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Aether Spellbomb",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Chief of the Foundry",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Foundry Inspector",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Hedron Archive",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Ichor Wellspring",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Meteor Golem",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Mind Stone",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Myr Retriever",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Ornithopter of Paradise",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Palladium Myr",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Shimmer Myr",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Silver Myr",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Soul-Guide Lantern",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Spire Golem",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Thought Vessel",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Buried Ruin",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Darksteel Citadel",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Foundry of the Consuls",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Lonely Sandbar",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Remote Isle",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Island",
+   "qty": 34,
+   "type": "Land",
+   "role": "land"
+  }
+ ],
+ "adds": [],
+ "notes": [
+  "Nov 23, 2026: Added as the family's stock Foundations Commander precon. Stays stock; D tier.",
+  "Roles are rough (lands, ramp, everything else as theme) since the list won't change."
+ ]
+}

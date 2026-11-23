@@ -1,0 +1,434 @@
+{
+ "name": "Tramplesaurus Rex",
+ "owner": "Family",
+ "commanders": [
+  "Ghalta, Primal Hunger"
+ ],
+ "colors": [
+  "G"
+ ],
+ "format": "Commander",
+ "bracket": "Bracket 2",
+ "bracketGoal": "Stock precon · won't change",
+ "target": 100,
+ "baseLabel": "Stock precon",
+ "themeLabel": "Theme",
+ "order": 94,
+ "source": "Foundations Commander precon (Oct 2, 2026), stock list from Wizards' published decklist; checked for colour identity and legality in mtg-data.",
+ "updated": "Nov 23, 2026",
+ "cards": [
+  {
+   "name": "Arachnogenesis",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Arasta of the Endless Web",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Beast Whisperer",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Birds of Paradise",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Carnage Tyrant",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Curious Altisaur",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Dungrove Elder",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Elder Gargaroth",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Ezuri's Predation",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Gigantosaurus",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Hulking Raptor",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Loot, Exuberant Explorer",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Managorger Hydra",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Overwhelming Stampede",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Pugnacious Hammerskull",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Regal Imperiosaur",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Rhonas the Indomitable",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Ripjaw Raptor",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Rishkar's Expertise",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "ramp"
+  },
+  {
+   "name": "Scavenging Ooze",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Scrapshooter",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Shamanic Revelation",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Steel Leaf Champion",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Surrak and Goreclaw",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Surrak, the Hunt Caller",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Tangleweave Armor",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Thickest in the Thicket",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Unnatural Growth",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Verdant Sun's Avatar",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Whiptongue Hydra",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Yeva, Nature's Herald",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Bonders' Enclave",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Mosswort Bridge",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Scavenger Grounds",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "War Room",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Witch's Clinic",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Beast Within",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Bite Down",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Challenger Troll",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Clifftop Lookout",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Collective Resistance",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Colossal Majesty",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Elemental Bond",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Elvish Mystic",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Fyndhorn Elves",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Garruk's Packleader",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Garruk's Uprising",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Goreclaw, Terror of Qal Sisma",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Harmonize",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Ilysian Caryatid",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Kenrith's Transformation",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Llanowar Elves",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Llanowar Tribe",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Monstrous Onslaught",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Paradise Druid",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Ram Through",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Rishkar, Peema Renegade",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Tamiyo's Safekeeping",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Terrian, World Tyrant",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Thrashing Brontodon",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Whisperer of the Wilds",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Commander's Sphere",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Rhonas's Monument",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Rogue's Passage",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Tranquil Thicket",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Forest",
+   "qty": 32,
+   "type": "Land",
+   "role": "land"
+  }
+ ],
+ "adds": [],
+ "notes": [
+  "Nov 23, 2026: Added as the family's stock Foundations Commander precon. Stays stock; D tier.",
+  "Roles are rough (lands, ramp, everything else as theme) since the list won't change."
+ ]
+}

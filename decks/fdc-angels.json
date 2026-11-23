@@ -1,0 +1,434 @@
+{
+ "name": "Calling All Angels",
+ "owner": "Family",
+ "commanders": [
+  "Giada, Font of Hope"
+ ],
+ "colors": [
+  "W"
+ ],
+ "format": "Commander",
+ "bracket": "Bracket 2",
+ "bracketGoal": "Stock precon · won't change",
+ "target": 100,
+ "baseLabel": "Stock precon",
+ "themeLabel": "Theme",
+ "order": 90,
+ "source": "Foundations Commander precon (Oct 2, 2026), stock list from Wizards' published decklist; checked for colour identity and legality in mtg-data.",
+ "updated": "Nov 23, 2026",
+ "cards": [
+  {
+   "name": "Always Watching",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Angel of the Ruins",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Angelic Destiny",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Angelic Field Marshal",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Angelic Sleuth",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Archangel of Tithes",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Austere Command",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Bishop of Wings",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Cleansing Nova",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Court of Grace",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Day of Judgment",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Emeria Shepherd",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Exemplar of Light",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Fateful Absence",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Firemane Commando",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Grasp of Fate",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Herald of Eternal Dawn",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Herald of War",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Linvala, the Preserver",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Lyra Dawnbringer",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Merchant of Truth",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Metropolis Reformer",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Norn's Choirmaster",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Reya Dawnbringer",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Righteous Valkyrie",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Search the Premises",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Sephara, Sky's Blade",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Seraph of the Sword",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Serra Avenger",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Speaker of the Heavens",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Sunblast Angel",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Wojek Investigator",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Endless Atlas",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Metallic Mimic",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Tome of Legends",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Vanquisher's Banner",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Bonders' Enclave",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "War Room",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Angel of Finality",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Angel of Vitality",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Cut a Deal",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Dazzling Angel",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Defy Death",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Destroy Evil",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Exorcise",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Inspiring Overseer",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Invoke the Divine",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Secret Rendezvous",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Segovian Angel",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Starnheim Aspirant",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Thraben Watcher",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Valorous Stance",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Vanguard Seraph",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Youthful Valkyrie",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Commander's Sphere",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Heraldic Banner",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Marble Diamond",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Mind Stone",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Patchwork Banner",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Radiant Fountain",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Secluded Steppe",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Seraph Sanctuary",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Temple of the False God",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Plains",
+   "qty": 32,
+   "type": "Land",
+   "role": "land"
+  }
+ ],
+ "adds": [],
+ "notes": [
+  "Nov 23, 2026: Added as the family's stock Foundations Commander precon. Stays stock; D tier.",
+  "Roles are rough (lands, ramp, everything else as theme) since the list won't change."
+ ]
+}

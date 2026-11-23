@@ -1,0 +1,434 @@
+{
+ "name": "Reign of Dragons",
+ "owner": "Family",
+ "commanders": [
+  "Lathliss, Dragon Queen"
+ ],
+ "colors": [
+  "R"
+ ],
+ "format": "Commander",
+ "bracket": "Bracket 2",
+ "bracketGoal": "Stock precon · won't change",
+ "target": 100,
+ "baseLabel": "Stock precon",
+ "themeLabel": "Theme",
+ "order": 93,
+ "source": "Foundations Commander precon (Oct 2, 2026), stock list from Wizards' published decklist; checked for colour identity and legality in mtg-data.",
+ "updated": "Nov 23, 2026",
+ "cards": [
+  {
+   "name": "Atsushi, the Blazing Sky",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Blasphemous Act",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Chain Reaction",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Chandra's Ignition",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Chaos Warp",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Count on Luck",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Crucible of Fire",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Cursed Mirror",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Dragon Tempest",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Dragonhawk, Fate's Tempest",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Dragonmaster Outcast",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Drakuseth, Maw of Flames",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "The Elder Dragon War",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Goddric, Cloaked Reveler",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Goldlust Triad",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Hellkite Charger",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Hit the Mother Lode",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Leyline Tyrant",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Magmaquake",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Minion of the Mighty",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Nogi, Draco-Zealot",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Orb of Dragonkind",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Outpost Siege",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Parapet Thrasher",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Sarkhan, Dragon Ascendant",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Scourge of the Throne",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Scourge of Valkas",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Shivan Devastator",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Spit Flame",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Taurean Mauler",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Terror of Mount Velus",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Thunderbreak Regent",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Thundermane Dragon",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Tyrant's Familiar",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Utvara Hellkite",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Warstorm Surge",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Basilisk Collar",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Dragon's Hoard",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Bonders' Enclave",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Haven of the Spirit Dragon",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Spinerock Knoll",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "War Room",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Abrade",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Anger",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Bitter Reunion",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Breaching Dragonstorm",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Breath Weapon",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Carnelian Orb of Dragonkind",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Dragonlord's Servant",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Dragonspeaker Shaman",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Firespitter Whelp",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Lightning Bolt",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Mana Geyser",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Rapacious Dragon",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Skyline Despot",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Thrill of Possibility",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Unexpected Windfall",
+   "qty": 1,
+   "type": "Instant",
+   "role": "eng"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Commander's Sphere",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Dragonstorm Globe",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Fire Diamond",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Hazoret's Monument",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Herald's Horn",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Forgotten Cave",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Temple of the False God",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 32,
+   "type": "Land",
+   "role": "land"
+  }
+ ],
+ "adds": [],
+ "notes": [
+  "Nov 23, 2026: Added as the family's stock Foundations Commander precon. Stays stock; D tier.",
+  "Roles are rough (lands, ramp, everything else as theme) since the list won't change."
+ ]
+}
