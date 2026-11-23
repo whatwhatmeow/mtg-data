@@ -11,3 +11,6 @@ python tools/import_vault_export.py vault-export.json
 ```
 
 Last import: Nov 20, 2026 (sleeved checkmarks; decks already current). `_sleeved.json` holds the vault's sleeved checkmarks.
+
+
+Nov 23, 2026: vault consolidated to 28 decks in S/A/B/C/D tiers (tier map in the vault's meta/tiers doc). Retired decks are kept in `_retired/` for reference; Quintorius (Lorehold Spirit precon) added.
