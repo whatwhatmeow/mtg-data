@@ -1,0 +1,529 @@
+{
+ "name": "Beorn: Bears",
+ "owner": "Family",
+ "commanders": [
+  "Beorn the Fierce"
+ ],
+ "colors": [
+  "G"
+ ],
+ "format": "Commander",
+ "bracket": "Bracket 2",
+ "bracketGoal": "0 Game Changers · mono-green Bears · budget",
+ "target": 100,
+ "baseLabel": "Draft",
+ "themeLabel": "Bears",
+ "order": 95,
+ "source": "Drafted by Claude Nov 23, 2026 from EDHREC's Beorn the Fierce data; checked for colour, legality and Game Changers in mtg-data. Ownership not checked.",
+ "updated": "Nov 23, 2026",
+ "cards": [
+  {
+   "name": "Goreclaw, Terror of Qal Sisma",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Ayula, Queen Among Bears",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Dancing from Dark to Dawn",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Gigantic Big Bear",
+   "qty": 1,
+   "type": "Creature",
+   "role": "win"
+  },
+  {
+   "name": "Studious First-Year",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Wilson, Refined Grizzly",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Little Bear",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Werebear",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "The Earth King",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Beast Within",
+   "qty": 1,
+   "type": "Instant",
+   "role": "rem"
+  },
+  {
+   "name": "Garruk's Uprising",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "draw"
+  },
+  {
+   "name": "Surrak and Goreclaw",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Owlbear Cub",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Evercoat Ursine",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Radagast of Rhosgobel",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "ramp"
+  },
+  {
+   "name": "Heroic Intervention",
+   "qty": 1,
+   "type": "Instant",
+   "role": "prot"
+  },
+  {
+   "name": "Emerald Medallion",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Unnatural Growth",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Vastlands Scavenger",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Beorn's Hospitality",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Rampaging Yao Guai",
+   "qty": 1,
+   "type": "Creature",
+   "role": "rem"
+  },
+  {
+   "name": "Llanowar Elves",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Return of the Wildspeaker",
+   "qty": 1,
+   "type": "Instant",
+   "role": "ramp"
+  },
+  {
+   "name": "Mother Bear",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Nature's Lore",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "ramp"
+  },
+  {
+   "name": "Beorn, Reluctant Host",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Realmwalker",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Beast Whisperer",
+   "qty": 1,
+   "type": "Creature",
+   "role": "draw"
+  },
+  {
+   "name": "Ordinary Bear",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Chomping Changeling",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Rampant Growth",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "ramp"
+  },
+  {
+   "name": "Ashcoat Bear",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Elvish Mystic",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Three Visits",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "ramp"
+  },
+  {
+   "name": "Kodama's Reach",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "ramp"
+  },
+  {
+   "name": "Overwhelming Stampede",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "win"
+  },
+  {
+   "name": "Ohran Frostfang",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Grizzly Bears",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Owlbear",
+   "qty": 1,
+   "type": "Creature",
+   "role": "draw"
+  },
+  {
+   "name": "Ram Through",
+   "qty": 1,
+   "type": "Instant",
+   "role": "rem"
+  },
+  {
+   "name": "Shamanic Revelation",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "draw"
+  },
+  {
+   "name": "Fog",
+   "qty": 1,
+   "type": "Instant",
+   "role": "prot"
+  },
+  {
+   "name": "Bear Cub",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Ayula's Influence",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Rishkar's Expertise",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "ramp"
+  },
+  {
+   "name": "Beastmaster Ascension",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "win"
+  },
+  {
+   "name": "Toski, Bearer of Secrets",
+   "qty": 1,
+   "type": "Creature",
+   "role": "draw"
+  },
+  {
+   "name": "Runeclaw Bear",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Metallic Mimic",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Rhonas's Monument",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "prot"
+  },
+  {
+   "name": "Copper Host Crusher",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Ursine Monstrosity",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Tamiyo's Safekeeping",
+   "qty": 1,
+   "type": "Instant",
+   "role": "prot"
+  },
+  {
+   "name": "Grizzly Fate",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Lightning Greaves",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "prot"
+  },
+  {
+   "name": "Fade from History",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "rem"
+  },
+  {
+   "name": "Nature's Claim",
+   "qty": 1,
+   "type": "Instant",
+   "role": "rem"
+  },
+  {
+   "name": "Titania's Command",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "eng"
+  },
+  {
+   "name": "Mosswort Bridge",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Reliquary Tower",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Rogue's Passage",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Argoth, Sanctum of Nature",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Tranquil Thicket",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Myriad Landscape",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Temple of the False God",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Oran-Rief, the Vastwood",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Forest",
+   "qty": 29,
+   "type": "Land",
+   "role": "land"
+  }
+ ],
+ "adds": [
+  {
+   "name": "Necklace of Girion",
+   "status": "planned",
+   "why": "In 45% of EDHREC decks for this commander (synergy +33%). Swap for your call (no clear filler left). Impact #1, value #6."
+  },
+  {
+   "name": "Caller of the Claw",
+   "status": "planned",
+   "why": "In 26% of EDHREC decks for this commander (synergy +25%). Swap for Ursine Monstrosity. Impact #2, value #11."
+  },
+  {
+   "name": "Tribute to the World Tree",
+   "status": "planned",
+   "why": "In 36% of EDHREC decks for this commander (synergy +17%). Swap for your call (no clear filler left). Impact #3, value #12."
+  },
+  {
+   "name": "Mutable Explorer",
+   "status": "planned",
+   "why": "In 22% of EDHREC decks for this commander (synergy +20%). Swap for Copper Host Crusher. Impact #4, value #2."
+  },
+  {
+   "name": "Archdruid's Charm",
+   "status": "planned",
+   "why": "In 33% of EDHREC decks for this commander (synergy +9%). Swap for your call (no clear filler left). Impact #5, value #10."
+  },
+  {
+   "name": "Chronicle of Victory",
+   "status": "planned",
+   "why": "In 21% of EDHREC decks for this commander (synergy +17%). Swap for your call (no clear filler left). Impact #6, value #15."
+  },
+  {
+   "name": "Herd Heirloom",
+   "status": "planned",
+   "why": "In 23% of EDHREC decks for this commander (synergy +15%). Swap for your call (no clear filler left). Impact #7, value #5."
+  },
+  {
+   "name": "Fanatic of Rhonas",
+   "status": "planned",
+   "why": "In 29% of EDHREC decks for this commander (synergy +10%). Swap for Metallic Mimic. Impact #8, value #13."
+  },
+  {
+   "name": "Springleaf Parade",
+   "status": "planned",
+   "why": "In 20% of EDHREC decks for this commander (synergy +14%). Swap for your call (no clear filler left). Impact #9, value #8."
+  },
+  {
+   "name": "Germination Practicum",
+   "status": "planned",
+   "why": "In 18% of EDHREC decks for this commander (synergy +12%). Swap for your call (no clear filler left). Impact #10, value #9."
+  },
+  {
+   "name": "Words of Wilding",
+   "status": "planned",
+   "why": "In 13% of EDHREC decks for this commander (synergy +12%). Swap for your call (no clear filler left). Impact #11, value #14."
+  },
+  {
+   "name": "Pale Bears",
+   "status": "planned",
+   "why": "In 12% of EDHREC decks for this commander (synergy +11%). Swap for your call (no clear filler left). Impact #12, value #7."
+  },
+  {
+   "name": "Vivien's Grizzly",
+   "status": "planned",
+   "why": "In 11% of EDHREC decks for this commander (synergy +10%). Swap for your call (no clear filler left). Impact #13, value #1."
+  },
+  {
+   "name": "Maskwood Nexus",
+   "status": "planned",
+   "why": "In 10% of EDHREC decks for this commander (synergy +8%). Swap for your call (no clear filler left). Impact #14, value #4."
+  },
+  {
+   "name": "Kindred Summons",
+   "status": "planned",
+   "why": "In 10% of EDHREC decks for this commander (synergy +7%). Swap for your call (no clear filler left). Impact #15, value #3."
+  }
+ ],
+ "notes": [
+  "Nov 23, 2026: Drafted as a mono-green Bears deck (C tier). Beorn the Fierce gives other Bears +2/+2, turns one creature into a Bear each combat and draws 2 once you have three Bears.",
+  "About $110 at cheapest printings for the 98 non-basic cards; check the binder before buying.",
+  "Owner not set yet: tell Claude whose deck it is."
+ ]
+}

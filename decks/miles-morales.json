@@ -1,0 +1,484 @@
+{
+ "name": "Miles Morales",
+ "owner": "Middle",
+ "commanders": [
+  "Miles Morales"
+ ],
+ "colors": [
+  "W",
+  "R",
+  "G"
+ ],
+ "bracket": "Bracket 2",
+ "bracketGoal": "No Game Changers",
+ "cards": [
+  {
+   "name": "Araña, Heart of the Spider",
+   "qty": 1,
+   "type": "Creature",
+   "role": "draw"
+  },
+  {
+   "name": "Black Panther, Wakandan King",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Captain America, Liberator",
+   "qty": 1,
+   "type": "Creature",
+   "role": "tutor"
+  },
+  {
+   "name": "Captain America, Skybound",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Captain America, Wings of Freedom",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Casey Jones, Back Alley Brute",
+   "qty": 1,
+   "type": "Creature",
+   "role": "win"
+  },
+  {
+   "name": "Doctor Jane Foster",
+   "qty": 1,
+   "type": "Creature",
+   "role": "recur"
+  },
+  {
+   "name": "Doctor Strange, Surgeon",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Donald Blake, Guise of Thor",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Hawkeye, Young Avenger",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Iron Fist, Hero for Hire",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Lucky the Pizza Dog",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Luke Cage, Hero for Hire",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Marvel Boy, Noh-Varr",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Mary Jane Watson",
+   "qty": 1,
+   "type": "Creature",
+   "role": "draw"
+  },
+  {
+   "name": "Matt Murdock, Justice Seeker",
+   "qty": 1,
+   "type": "Creature",
+   "role": "prot"
+  },
+  {
+   "name": "Michelangelo, the Heart",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Mockingbird, Ace Agent",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Radioactive Spider",
+   "qty": 1,
+   "type": "Creature",
+   "role": "tutor"
+  },
+  {
+   "name": "Raphael, the Muscle",
+   "qty": 1,
+   "type": "Creature",
+   "role": "win"
+  },
+  {
+   "name": "Scarlet Spider, Ben Reilly",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Shang-Chi, Martial Mentor",
+   "qty": 1,
+   "type": "Creature",
+   "role": "win"
+  },
+  {
+   "name": "She-Hulk, Attorney-at-Law",
+   "qty": 1,
+   "type": "Creature",
+   "role": "win"
+  },
+  {
+   "name": "Silver Sable, Mercenary Leader",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Spider Manifestation",
+   "qty": 1,
+   "type": "Creature",
+   "role": "ramp"
+  },
+  {
+   "name": "Spider-Man India",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Spider-Man, To the Rescue",
+   "qty": 1,
+   "type": "Creature",
+   "role": "prot"
+  },
+  {
+   "name": "Spider-Rex, Daring Dino",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "The Sentry, Golden Guardian",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "The Thing, Ben Grimm",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Thor Odinson",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Tigra, Feline Fury",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "White Tiger, Ava Ayala",
+   "qty": 1,
+   "type": "Creature",
+   "role": "eng"
+  },
+  {
+   "name": "Continue?",
+   "qty": 1,
+   "type": "Instant",
+   "role": "recur"
+  },
+  {
+   "name": "Lightning Bolt",
+   "qty": 1,
+   "type": "Instant",
+   "role": "rem"
+  },
+  {
+   "name": "Lightning Helix",
+   "qty": 1,
+   "type": "Instant",
+   "role": "rem"
+  },
+  {
+   "name": "Path to Exile",
+   "qty": 1,
+   "type": "Instant",
+   "role": "rem"
+  },
+  {
+   "name": "Strength of Will",
+   "qty": 1,
+   "type": "Instant",
+   "role": "prot"
+  },
+  {
+   "name": "Sudden Strike",
+   "qty": 1,
+   "type": "Instant",
+   "role": "rem"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1,
+   "type": "Instant",
+   "role": "rem"
+  },
+  {
+   "name": "Take Up the Shield",
+   "qty": 1,
+   "type": "Instant",
+   "role": "prot"
+  },
+  {
+   "name": "Turtles Forever",
+   "qty": 1,
+   "type": "Instant",
+   "role": "tutor"
+  },
+  {
+   "name": "Colossal Collision",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "rem"
+  },
+  {
+   "name": "Murdock's Crusade",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "rem"
+  },
+  {
+   "name": "Relentless Assault",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "win"
+  },
+  {
+   "name": "Restorative Technique",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "ramp"
+  },
+  {
+   "name": "Scout the City",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "rem"
+  },
+  {
+   "name": "Stunning Shot",
+   "qty": 1,
+   "type": "Sorcery",
+   "role": "rem"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Captain America's Shield",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "prot"
+  },
+  {
+   "name": "Costume Closet",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Fellwar Stone",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "Infinity Formula",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "eng"
+  },
+  {
+   "name": "Mjölnir, Hammer of Thor",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "win"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "type": "Artifact",
+   "role": "ramp"
+  },
+  {
+   "name": "High Score",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "draw"
+  },
+  {
+   "name": "Level Up",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "draw"
+  },
+  {
+   "name": "Origin of Spider-Man",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Super-Soldier Serum",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Together Forever",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "prot"
+  },
+  {
+   "name": "Unflinching Courage",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "World War Hulk",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "eng"
+  },
+  {
+   "name": "Asgardian Citadel",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Avengers Tower",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Birnin Zana Plaza",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Gathering Place",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Los Diablos Missile Base",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Nesting Grounds",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Savage Mansion",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Thriving Bluff",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Thriving Grove",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Thriving Heath",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Vibrant Cityscape",
+   "qty": 1,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Forest",
+   "qty": 8,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 9,
+   "type": "Land",
+   "role": "land"
+  },
+  {
+   "name": "Plains",
+   "qty": 7,
+   "type": "Land",
+   "role": "land"
+  }
+ ]
+}
