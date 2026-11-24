@@ -1,449 +1,4 @@
 {
- "name": "Beorn: Bears",
- "owner": "Family",
- "commanders": [
-  "Beorn the Fierce"
- ],
- "colors": [
-  "G"
- ],
- "format": "Commander",
- "bracket": "Bracket 2",
- "bracketGoal": "0 Game Changers · mono-green Bears · budget",
- "target": 100,
- "baseLabel": "Draft",
- "themeLabel": "Bears",
- "order": 95,
- "source": "Drafted by Claude Nov 23, 2026 from EDHREC's Beorn the Fierce data; checked for colour, legality and Game Changers in mtg-data. Ownership not checked.",
- "updated": "Nov 23, 2026",
- "cards": [
-  {
-   "name": "Goreclaw, Terror of Qal Sisma",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Ayula, Queen Among Bears",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Dancing from Dark to Dawn",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Sol Ring",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
-  },
-  {
-   "name": "Gigantic Big Bear",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win"
-  },
-  {
-   "name": "Studious First-Year",
-   "qty": 1,
-   "type": "Creature",
-   "role": "ramp"
-  },
-  {
-   "name": "Wilson, Refined Grizzly",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Little Bear",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Werebear",
-   "qty": 1,
-   "type": "Creature",
-   "role": "ramp"
-  },
-  {
-   "name": "The Earth King",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Beast Within",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem"
-  },
-  {
-   "name": "Garruk's Uprising",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "draw"
-  },
-  {
-   "name": "Surrak and Goreclaw",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Owlbear Cub",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Evercoat Ursine",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Radagast of Rhosgobel",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Cultivate",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp"
-  },
-  {
-   "name": "Heroic Intervention",
-   "qty": 1,
-   "type": "Instant",
-   "role": "prot"
-  },
-  {
-   "name": "Emerald Medallion",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
-  },
-  {
-   "name": "Unnatural Growth",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Vastlands Scavenger",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Beorn's Hospitality",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Rampaging Yao Guai",
-   "qty": 1,
-   "type": "Creature",
-   "role": "rem"
-  },
-  {
-   "name": "Llanowar Elves",
-   "qty": 1,
-   "type": "Creature",
-   "role": "ramp"
-  },
-  {
-   "name": "Return of the Wildspeaker",
-   "qty": 1,
-   "type": "Instant",
-   "role": "ramp"
-  },
-  {
-   "name": "Mother Bear",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Nature's Lore",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp"
-  },
-  {
-   "name": "Beorn, Reluctant Host",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Realmwalker",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Beast Whisperer",
-   "qty": 1,
-   "type": "Creature",
-   "role": "draw"
-  },
-  {
-   "name": "Ordinary Bear",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Chomping Changeling",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Rampant Growth",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp"
-  },
-  {
-   "name": "Ashcoat Bear",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Elvish Mystic",
-   "qty": 1,
-   "type": "Creature",
-   "role": "ramp"
-  },
-  {
-   "name": "Three Visits",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp"
-  },
-  {
-   "name": "Kodama's Reach",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp"
-  },
-  {
-   "name": "Overwhelming Stampede",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "win"
-  },
-  {
-   "name": "Ohran Frostfang",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Arcane Signet",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
-  },
-  {
-   "name": "Grizzly Bears",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Owlbear",
-   "qty": 1,
-   "type": "Creature",
-   "role": "draw"
-  },
-  {
-   "name": "Ram Through",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem"
-  },
-  {
-   "name": "Shamanic Revelation",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "draw"
-  },
-  {
-   "name": "Fog",
-   "qty": 1,
-   "type": "Instant",
-   "role": "prot"
-  },
-  {
-   "name": "Bear Cub",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Ayula's Influence",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Rishkar's Expertise",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp"
-  },
-  {
-   "name": "Beastmaster Ascension",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "win"
-  },
-  {
-   "name": "Toski, Bearer of Secrets",
-   "qty": 1,
-   "type": "Creature",
-   "role": "draw"
-  },
-  {
-   "name": "Runeclaw Bear",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Metallic Mimic",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Rhonas's Monument",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
-  },
-  {
-   "name": "Swiftfoot Boots",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "prot"
-  },
-  {
-   "name": "Copper Host Crusher",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Ursine Monstrosity",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Tamiyo's Safekeeping",
-   "qty": 1,
-   "type": "Instant",
-   "role": "prot"
-  },
-  {
-   "name": "Grizzly Fate",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
-  },
-  {
-   "name": "Lightning Greaves",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "prot"
-  },
-  {
-   "name": "Fade from History",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "rem"
-  },
-  {
-   "name": "Nature's Claim",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem"
-  },
-  {
-   "name": "Titania's Command",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
-  },
-  {
-   "name": "Mosswort Bridge",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Reliquary Tower",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Rogue's Passage",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Argoth, Sanctum of Nature",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Tranquil Thicket",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Myriad Landscape",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Temple of the False God",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Oran-Rief, the Vastwood",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Forest",
-   "qty": 29,
-   "type": "Land",
-   "role": "land"
-  }
- ],
  "adds": [
   {
    "name": "Necklace of Girion",
@@ -521,9 +76,454 @@
    "why": "In 10% of EDHREC decks for this commander (synergy +7%). Swap for your call (no clear filler left). Impact #15, value #3."
   }
  ],
+ "baseLabel": "Draft",
+ "bracket": "Bracket 2",
+ "bracketGoal": "0 Game Changers · mono-green Bears · budget",
+ "cards": [
+  {
+   "name": "Goreclaw, Terror of Qal Sisma",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ayula, Queen Among Bears",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Dancing from Dark to Dawn",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Gigantic Big Bear",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Studious First-Year",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Wilson, Refined Grizzly",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Little Bear",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Werebear",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "The Earth King",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Beast Within",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Garruk's Uprising",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Surrak and Goreclaw",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Owlbear Cub",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Evercoat Ursine",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Radagast of Rhosgobel",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Heroic Intervention",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Emerald Medallion",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Unnatural Growth",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Vastlands Scavenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Beorn's Hospitality",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Rampaging Yao Guai",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Llanowar Elves",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Return of the Wildspeaker",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Instant"
+  },
+  {
+   "name": "Mother Bear",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Nature's Lore",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Beorn, Reluctant Host",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Realmwalker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Beast Whisperer",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Ordinary Bear",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Chomping Changeling",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Rampant Growth",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Ashcoat Bear",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Elvish Mystic",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Three Visits",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Kodama's Reach",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Overwhelming Stampede",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Ohran Frostfang",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Grizzly Bears",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Owlbear",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Ram Through",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Shamanic Revelation",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Fog",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Bear Cub",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ayula's Influence",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Rishkar's Expertise",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Beastmaster Ascension",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Toski, Bearer of Secrets",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Runeclaw Bear",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Metallic Mimic",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Rhonas's Monument",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Copper Host Crusher",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ursine Monstrosity",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Tamiyo's Safekeeping",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Grizzly Fate",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Lightning Greaves",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Fade from History",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Nature's Claim",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Titania's Command",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Mosswort Bridge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Reliquary Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rogue's Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Argoth, Sanctum of Nature",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Tranquil Thicket",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Myriad Landscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of the False God",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Oran-Rief, the Vastwood",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Forest",
+   "qty": 29,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "G"
+ ],
+ "commanders": [
+  "Beorn the Fierce"
+ ],
+ "format": "Commander",
+ "name": "Beorn: Bears",
  "notes": [
   "Nov 23, 2026: Drafted as a mono-green Bears deck (C tier). Beorn the Fierce gives other Bears +2/+2, turns one creature into a Bear each combat and draws 2 once you have three Bears.",
   "About $110 at cheapest printings for the 98 non-basic cards; check the binder before buying.",
   "Owner not set yet: tell Claude whose deck it is."
- ]
+ ],
+ "order": 95,
+ "owner": "Andrew",
+ "source": "Drafted by Claude Nov 23, 2026 from EDHREC's Beorn the Fierce data; checked for colour, legality and Game Changers in mtg-data. Ownership not checked.",
+ "target": 100,
+ "themeLabel": "Bears",
+ "updated": "Nov 23, 2026"
 }

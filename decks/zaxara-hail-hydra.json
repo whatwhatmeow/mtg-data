@@ -1,173 +1,130 @@
 {
  "adds": [
   {
-   "name": "Wan Shi Tong, Librarian",
-   "status": "planned",
-   "why": "About $44. Flash X creature that draws cards. Swap for Mind Spring."
-  },
-  {
-   "name": "Doubling Season",
-   "status": "planned",
-   "why": "About $33–45. Doubles tokens and counters, so every Zaxara trigger makes two tokens with double counters. Already in The Astonishing Ant-Man, so move it or buy a second copy. Swap for Hardened Scales."
-  },
-  {
-   "name": "Green Sun's Zenith",
-   "status": "planned",
-   "why": "About $32. Finds any green creature directly onto the battlefield. Already listed in Tom's Bombs. Swap for Diabolic Revelation."
-  },
-  {
-   "name": "Finale of Devastation",
-   "status": "planned",
-   "why": "About $27. Tutor plus a team-wide pump at X=10. Already listed in Tom's Bombs. Swap for Overwhelming Stampede."
-  },
-  {
-   "name": "Zagoth Triome",
-   "status": "planned",
-   "why": "About $23. Three colors in one land. Already in Thanos & Obosh. Swap for Jungle Hollow."
-  },
-  {
-   "name": "Torment of Hailfire",
-   "status": "planned",
-   "why": "About $21. Big X finisher that hits every opponent. Swap for Profane Command."
-  },
-  {
-   "name": "Bloom Tender",
-   "status": "planned",
-   "why": "About $20. Explosive mana and a third Aura target for infinite mana. Already listed in Tom's Bombs. Swap for Incubation Druid."
-  },
-  {
    "name": "Craterhoof Behemoth",
    "status": "planned",
-   "why": "About $19. The best one-card finisher here. Already in The Astonishing Ant-Man. Swap for End-Raze Forerunners."
+   "why": "Option, ~$24: non-combo finisher; swap for Mind Spring"
   },
   {
-   "name": "Unbound Flourishing",
+   "name": "Demonic Tutor",
    "status": "planned",
-   "why": "About $16. The top pickup: doubles X on permanents and copies X instants and sorceries. Put its trigger above Zaxara's on the stack, so it resolves first. Copied X spells deal double, so Exsanguinate at X=20 hits for 40. Swap for Hydra's Growth."
+   "why": "Option (Game Changer, sleeved in Tom's Bombs): fetches Freed or Pemmin's"
   },
   {
-   "name": "Heroic Intervention",
+   "name": "Mossborn Hydra",
    "status": "planned",
-   "why": "About $15. Best protection against a board wipe. Already in several family decks. Swap for Snakeskin Veil."
+   "why": "Option, ~$13: cheap Hydra that grows on landfall"
   },
   {
-   "name": "Kalonian Hydra",
+   "name": "Wan Shi Tong, Librarian",
    "status": "planned",
-   "why": "About $14. Doubles counters every attack, and Gargos makes it {G}{G}. Swap for Managorger Hydra."
-  },
-  {
-   "name": "Walking Ballista",
-   "status": "planned",
-   "why": "About $11. Mana sink that turns infinite mana into a win. Already listed in Tom's Bombs. Swap for Vastwood Hydra."
+   "why": "Option: X creature, another Zaxara trigger"
   }
  ],
  "baseLabel": "B2",
- "bracket": "High Bracket 2",
- "bracketGoal": "No Game Changers · budget list · Aura combo OK at your table",
+ "bracket": "Bracket 3",
+ "bracketGoal": "Bracket 3 (no Game Changers; two-card infinites)",
  "cards": [
   {
    "name": "Gargos, Vicious Watcher",
    "qty": 1,
    "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Hydroid Krasis",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Hungering Hydra",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Mistcutter Hydra",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Goldvein Hydra",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Genesis Hydra",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Primordial Hydra",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Steelbane Hydra",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Voracious Hydra",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Lifeblood Hydra",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Hooded Hydra",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Neverwinter Hydra",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Hydra Broodmaster",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
-   "type": "Creature"
-  },
-  {
-   "name": "Hydra Omnivore",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
    "type": "Creature"
   },
   {
    "name": "Managorger Hydra",
    "qty": 1,
    "role": "eng",
-   "sub": "Hydra",
+   "type": "Creature"
+  },
+  {
+   "name": "Steelbane Hydra",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Voracious Hydra",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hungering Hydra",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Mistcutter Hydra",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Goldvein Hydra",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Genesis Hydra",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Primordial Hydra",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Lifeblood Hydra",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hooded Hydra",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hydra Broodmaster",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hydroid Krasis",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Kalonian Hydra",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Polukranos, Unchained",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Grakmaw, Skyclave Ravager",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Goose Mother",
+   "qty": 1,
+   "role": "draw",
    "type": "Creature"
   },
   {
@@ -177,35 +134,46 @@
    "type": "Creature"
   },
   {
-   "name": "Vastwood Hydra",
+   "name": "Walking Ballista",
    "qty": 1,
-   "role": "eng",
-   "sub": "Hydra",
+   "role": "win",
    "type": "Creature"
   },
   {
-   "name": "Hangarback Walker",
+   "name": "Unbound Flourishing",
    "qty": 1,
    "role": "eng",
-   "type": "Creature"
+   "type": "Enchantment"
   },
   {
-   "name": "Endless One",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "The Goose Mother",
+   "name": "Neverwinter Hydra",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
-   "name": "Mind Spring",
+   "name": "Kami of Whispered Hopes",
    "qty": 1,
-   "role": "draw",
-   "type": "Sorcery"
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Incubation Druid",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Bloom Tender",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Birds of Paradise",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
   },
   {
    "name": "Llanowar Elves",
@@ -220,39 +188,9 @@
    "type": "Creature"
   },
   {
-   "name": "Birds of Paradise",
-   "qty": 1,
-   "role": "ramp",
-   "type": "Creature"
-  },
-  {
-   "name": "Elves of Deep Shadow",
-   "qty": 1,
-   "role": "ramp",
-   "type": "Creature"
-  },
-  {
    "name": "Sakura-Tribe Elder",
    "qty": 1,
    "role": "ramp",
-   "type": "Creature"
-  },
-  {
-   "name": "Incubation Druid",
-   "qty": 1,
-   "role": "ramp",
-   "type": "Creature"
-  },
-  {
-   "name": "Kami of Whispered Hopes",
-   "qty": 1,
-   "role": "ramp",
-   "type": "Creature"
-  },
-  {
-   "name": "End-Raze Forerunners",
-   "qty": 1,
-   "role": "win",
    "type": "Creature"
   },
   {
@@ -262,24 +200,15 @@
    "type": "Creature"
   },
   {
-   "name": "Freed from the Real",
-   "qty": 1,
-   "role": "win",
-   "sub": "Aura",
-   "type": "Enchantment"
-  },
-  {
-   "name": "Pemmin's Aura",
-   "qty": 1,
-   "role": "win",
-   "sub": "Aura",
-   "type": "Enchantment"
-  },
-  {
-   "name": "Hydra's Growth",
+   "name": "Corpsejack Menace",
    "qty": 1,
    "role": "eng",
-   "sub": "Aura",
+   "type": "Creature"
+  },
+  {
+   "name": "Guardian Project",
+   "qty": 1,
+   "role": "draw",
    "type": "Enchantment"
   },
   {
@@ -293,6 +222,84 @@
    "qty": 1,
    "role": "eng",
    "type": "Enchantment"
+  },
+  {
+   "name": "Doubling Season",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Freed from the Real",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Pemmin's Aura",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Drift of Phantasms",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Creature"
+  },
+  {
+   "name": "Diabolic Tutor",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Diabolic Revelation",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Green Sun's Zenith",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Finale of Devastation",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Exsanguinate",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Hangarback Walker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Blue Sun's Zenith",
+   "qty": 1,
+   "role": "win",
+   "type": "Instant"
+  },
+  {
+   "name": "Torment of Hailfire",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Mind Spring",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
   },
   {
    "name": "Up the Beanstalk",
@@ -343,58 +350,16 @@
    "type": "Artifact"
   },
   {
-   "name": "Exsanguinate",
-   "qty": 1,
-   "role": "win",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Profane Command",
-   "qty": 1,
-   "role": "win",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Villainous Wealth",
-   "qty": 1,
-   "role": "win",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Overwhelming Stampede",
-   "qty": 1,
-   "role": "win",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Diabolic Revelation",
-   "qty": 1,
-   "role": "tutor",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Diabolic Tutor",
-   "qty": 1,
-   "role": "tutor",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Animist's Awakening",
-   "qty": 1,
-   "role": "ramp",
-   "type": "Sorcery"
-  },
-  {
    "name": "Nature's Lore",
    "qty": 1,
    "role": "ramp",
    "type": "Sorcery"
   },
   {
-   "name": "Three Visits",
+   "name": "Endless One",
    "qty": 1,
-   "role": "ramp",
-   "type": "Sorcery"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Farseek",
@@ -403,43 +368,7 @@
    "type": "Sorcery"
   },
   {
-   "name": "Awaken the Woods",
-   "qty": 1,
-   "role": "eng",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Blue Sun's Twilight",
-   "qty": 1,
-   "role": "rem",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Toxic Deluge",
-   "qty": 1,
-   "role": "wipe",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Blue Sun's Zenith",
-   "qty": 1,
-   "role": "draw",
-   "type": "Instant"
-  },
-  {
-   "name": "Pull from Tomorrow",
-   "qty": 1,
-   "role": "draw",
-   "type": "Instant"
-  },
-  {
    "name": "Counterspell",
-   "qty": 1,
-   "role": "rem",
-   "type": "Instant"
-  },
-  {
-   "name": "Negate",
    "qty": 1,
    "role": "rem",
    "type": "Instant"
@@ -463,10 +392,28 @@
    "type": "Instant"
   },
   {
-   "name": "Snakeskin Veil",
+   "name": "Toxic Deluge",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Profane Command",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Heroic Intervention",
    "qty": 1,
    "role": "prot",
    "type": "Instant"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
   },
   {
    "name": "Command Tower",
@@ -475,7 +422,25 @@
    "type": "Land"
   },
   {
-   "name": "Jungle Hollow",
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Reliquary Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Lair of the Hydra",
    "qty": 1,
    "role": "land",
    "type": "Land"
@@ -487,13 +452,31 @@
    "type": "Land"
   },
   {
+   "name": "Zagoth Triome",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Jungle Hollow",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
    "name": "Temple of Mystery",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Path of Ancestry",
+   "name": "Temple of Malady",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of Deceit",
    "qty": 1,
    "role": "land",
    "type": "Land"
@@ -517,42 +500,57 @@
    "type": "Land"
   },
   {
-   "name": "Exotic Orchard",
+   "name": "Hinterland Harbor",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Reliquary Tower",
+   "name": "Woodland Cemetery",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Lair of the Hydra",
+   "name": "Drowned Catacomb",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Myriad Landscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Evolving Wilds",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
    "name": "Forest",
-   "qty": 12,
+   "qty": 8,
    "role": "land",
-   "sub": "Basic",
    "type": "Land"
   },
   {
    "name": "Island",
-   "qty": 6,
+   "qty": 3,
    "role": "land",
-   "sub": "Basic",
    "type": "Land"
   },
   {
    "name": "Swamp",
-   "qty": 6,
+   "qty": 3,
    "role": "land",
-   "sub": "Basic",
    "type": "Land"
   }
  ],
@@ -565,147 +563,148 @@
   "Zaxara, the Exemplary"
  ],
  "format": "Commander",
- "name": "Zaxara: Hail Hydra",
+ "name": "Hail Hydra (Zaxara + Gargos merged)",
  "notes": [
-  "Plan: ramp into Zaxara, then cast X spells. Every X spell also makes an X-sized Hydra token, including instants and sorceries.",
-  "Budget build: the list swaps out 12 cards priced above $10. They now sit in Cards to add with prices and their replacements. Prices are rough Nov 2026 web listings, so recheck them before buying.",
-  "Freed from the Real and Pemmin's Aura stay in by request. Pemmin's runs about $11–13 and Freed about $7–11, and both are already listed in Tom's Bombs.",
-  "Land speed: no fetch or shock lands in this version, and the three pain lands stay. Opulent Palace, Temple of Mystery, Path of Ancestry and Jungle Hollow are the slower fixers.",
-  "Freed from the Real or Pemmin's Aura on Zaxara: tap her for {U}{U}, pay {U} to untap, and net {U} each time. Tap her for the other colors once you have enough blue. It needs her without summoning sickness.",
-  "Incubation Druid works too once it has a +1/+1 counter: it taps for three of any type your lands can make, so the untap nets two.",
-  "Infinite mana wins with Exsanguinate, Hydra Broodmaster's monstrosity, or Diabolic Revelation for X=everything you need. Blue Sun's Zenith also digs, but keep your own library above zero.",
-  "Pemmin's Aura has other jobs: {U} for flying on your biggest Hydra, or {U} for shroud in response to removal. Shroud stops you targeting that creature too.",
-  "Gargos in the 99: Hydra spells cost {4} less, so Hungering Hydra at X=4 costs {G} and still makes a 4/4 token.",
-  "Hardened Scales and Kami of Whispered Hopes each add a counter to anything getting counters, and they stack.",
-  "Farseek can't fetch a Forest. Take an Island or a Swamp.",
-  "Official Bracket 2 guidance doesn't expect two-card infinite combos, so mention it if you play with a new table.",
-  "Copies still shared with other decks: Branching Evolution and Kami of Whispered Hopes are in The Astonishing Ant-Man; Exsanguinate is in Doom Unrivaled; Hardened Scales and Snakeskin Veil are in The Astonishing Ant-Man; Overwhelming Stampede is in several decks."
+  "Nov 23 2026: folded Gargos: Hydra Tribal into this deck. Zaxara leads, Gargos sits in the 99. Main list about $281 (Nov 12 prices); the budget version is about $134.",
+  "Infinite mana: Freed from the Real or Pemmin's Aura on Zaxara (net {U} or any color per loop), Kami of Whispered Hopes (power 2+), Incubation Druid with a counter, or Bloom Tender with blue and green permanents out.",
+  "Kill with infinite mana: Walking Ballista, Exsanguinate, Torment of Hailfire, or Blue Sun's Zenith targeting each opponent for their library (it shuffles back in, so recast). Each X spell also makes a huge Zaxara Hydra token.",
+  "Find the combo: Drift of Phantasms (transmute finds Freed or Pemmin's), Diabolic Tutor, Diabolic Revelation; Green Sun's Zenith and Finale of Devastation find Kami, Druid or Bloom Tender.",
+  "Gargos makes Hydra spells cost {4} less, which also lowers X costs. Hungering Hydra at X=4 costs {G}.",
+  "Two-card infinite with the commander: flag it to new tables. No fetch or shock lands.",
+  "Shared copies: Exsanguinate and Toxic Deluge are also in Doom Unrivaled; Three Visits is earmarked for Hulk; both Birds of Paradise are spoken for."
  ],
  "order": 9,
  "owner": "Andrew",
  "source": "Built in chat, Nov 6, 2026",
  "target": 100,
- "themeLabel": "Hydras & X spells",
- "updated": "Nov 6, 2026",
+ "themeLabel": "Hydra typal + X spells + infinite mana",
+ "updated": "Nov 24, 2026 (Unbound Flourishing for Apex Devastator; Endless One for Three Visits; Hangarback Walker for Villainous Wealth)",
  "variants": [
   {
-   "adds": [],
    "bracket": "Bracket 3",
-   "bracketGoal": "3 Game Changers · shock lands back in",
-   "id": "b3",
+   "bracketGoal": "$150 league",
+   "id": "budget-150",
    "in": [
     {
-     "name": "Cyclonic Rift",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Seedborn Muse",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Demonic Tutor",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Breeding Pool",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Overgrown Tomb",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Watery Grave",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    }
-   ],
-   "label": "B3",
-   "name": "Zaxara: Hail Hydra (B3)",
-   "notes": [
-    "Game Changers (3): Cyclonic Rift, Seedborn Muse, Demonic Tutor. Freed from the Real and Pemmin's Aura stay in.",
-    "Shock lands return here because your land-speed concern was about Bracket 2. They replace Opulent Palace, Temple of Mystery and Exotic Orchard.",
-    "Seedborn Muse untaps Zaxara and your mana every opponent's turn, so instant X spells make tokens all around the table.",
-    "Copies: Cyclonic Rift is in the Lawyer Deck; Demonic Tutor is in Tom's Bombs, Doom Unrivaled and Winter Soldier; the shock lands are in Ant-Man, Thanos & Obosh and the Doom/Norman decks. Seedborn Muse isn't listed in the vault.",
-    "B3 cards above $10: Seedborn Muse about $18 (not in the vault), Cyclonic Rift about $39 (in the Lawyer Deck), Demonic Tutor about $65 (in three of your decks). Shock land prices weren't checked. The base list's budget swaps carry over here."
-   ],
-   "out": [
-    {
-     "name": "Negate",
-     "qty": 1
-    },
-    {
-     "name": "Hangarback Walker",
-     "qty": 1
-    },
-    {
-     "name": "Diabolic Tutor",
-     "qty": 1
-    },
-    {
-     "name": "Opulent Palace",
-     "qty": 1
-    },
-    {
-     "name": "Temple of Mystery",
-     "qty": 1
-    },
-    {
-     "name": "Exotic Orchard",
-     "qty": 1
-    }
-   ],
-   "source": "Built in chat, Nov 6, 2026",
-   "updated": "Nov 6, 2026"
-  },
-  {
-   "bracket": "High Bracket 2 (plays as Bracket 3)",
-   "bracketGoal": "No Game Changers · Aura combo still in · two cards that are no longer expensive",
-   "id": "nov15-sim",
-   "in": [
-    {
-     "name": "Unbound Flourishing",
+     "name": "Hydra's Growth",
      "qty": 1,
      "role": "eng",
      "type": "Enchantment"
     },
     {
-     "name": "Kalonian Hydra",
+     "name": "Overwhelming Stampede",
      "qty": 1,
-     "role": "eng",
-     "sub": "Hydra",
+     "role": "win",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Rishkar's Expertise",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Pull from Tomorrow",
+     "qty": 1,
+     "role": "draw",
+     "type": "Instant"
+    },
+    {
+     "name": "Elves of Deep Shadow",
+     "qty": 1,
+     "role": "ramp",
      "type": "Creature"
+    },
+    {
+     "name": "Forest",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
     }
    ],
-   "label": "Nov 15 prices",
-   "name": "Zaxara (Nov 15, two budget cuts reversed)",
+   "label": "Under $150",
+   "name": "Hail Hydra (under $150)",
    "notes": [
-    "Price check against the mtg-data repo (Nov 12 snapshot, cheapest printing): Unbound Flourishing $2.21 and Kalonian Hydra $5.91, not the $16 and $14 noted on Nov 6. Walking Ballista is $5.58.",
-    "Bracket flag from the Nov 15 generic sim: 93% of this deck's pod wins were Freed from the Real or Pemmin's Aura on Zaxara. The fair Hydra plan almost never got there first. With the Auras in, call it Bracket 3 at a new table."
+    "About $134 for the 99 at Nov 12 prices (before the Nov 24 swaps)."
    ],
    "out": [
     {
-     "name": "Hydra's Growth",
+     "name": "Doubling Season",
      "qty": 1
     },
     {
-     "name": "Managorger Hydra",
+     "name": "Green Sun's Zenith",
+     "qty": 1
+    },
+    {
+     "name": "Finale of Devastation",
+     "qty": 1
+    },
+    {
+     "name": "Torment of Hailfire",
+     "qty": 1
+    },
+    {
+     "name": "Zagoth Triome",
+     "qty": 1
+    },
+    {
+     "name": "Bloom Tender",
      "qty": 1
     }
    ],
-   "source": "Nov 15, 2026 vault-wide sim and price check",
-   "updated": "Nov 15, 2026"
+   "source": "cuts the six priciest cards",
+   "updated": "Nov 23, 2026"
+  },
+  {
+   "bracket": "Bracket 3",
+   "bracketGoal": "Bracket 3, 3 Game Changers from his own collection",
+   "id": "b3-3gc",
+   "in": [
+    {
+     "name": "Gifts Ungiven",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Fierce Guardianship",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Force of Will",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    }
+   ],
+   "label": "B3 + 3 Game Changers",
+   "name": "Hail Hydra (3 Game Changers)",
+   "notes": [
+    "Nov 24, 2026: Polukranos, Unchained is now the third cut (Villainous Wealth left the main list).",
+    "Nov 23, 2026: Gifts Ungiven in place of Demonic Tutor, since Demonic is sleeved in Tom's Bombs. Swap-ins when copies free up: Demonic Tutor and The One Ring (Tom's Bombs), Cyclonic Rift (lawyer deck).",
+    "Gifts Ungiven: with Zaxara out, name Freed from the Real, Pemmin's Aura, Drift of Phantasms and Diabolic Revelation. Whichever two you get, you have an aura or a tutor that finds one.",
+    "Fierce Guardianship and Force of Will protect the combo turn; Fierce is free while Zaxara is out.",
+    "Freed from the Real and Pemmin's Aura are both sleeved in Tom's Bombs: buy second copies or move them."
+   ],
+   "out": [
+    {
+     "name": "Diabolic Tutor",
+     "qty": 1
+    },
+    {
+     "name": "Mind Spring",
+     "qty": 1
+    },
+    {
+     "name": "Polukranos, Unchained",
+     "qty": 1
+    }
+   ],
+   "source": "owned Game Changers not sleeved elsewhere",
+   "updated": "Nov 24, 2026"
   }
  ]
 }

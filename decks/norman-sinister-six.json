@@ -758,6 +758,639 @@
    ],
    "source": "Built by Claude from the v3 B3 list, Nov 13, 2026",
    "updated": "Nov 13, 2026"
+  },
+  {
+   "adds": [],
+   "bracket": "Bracket 3 (1 Game Changer)",
+   "bracketGoal": "The physical deck as sleeved on Nov 19, 2026",
+   "id": "sleeved",
+   "in": [
+    {
+     "name": "Aerial Doombot",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Agent Venom",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Arnim Zola, Bio-Fanatic",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Baron Helmut Zemo",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Black Cat, Cunning Thief",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Doc Ock's Henchmen",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Kingpin, Wilson Fisk",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Mob Lookout",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Molten Man, Inferno Incarnate",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Moonstone, Harsh Mistress",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Morbius the Living Vampire",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Morlun, Devourer of Spiders",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Scarlet Spider, Kaine",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Shriek, Treblemaker",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Spider-Man Noir",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Taskmaster, Mercenary Mimic",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Titan of Littjara",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Venom, Eddie Brock",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Venom, Evil Unleashed",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Venomized Cat",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Vulture, Scheming Scavenger",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Decoy Ploy",
+     "qty": 1,
+     "role": "recur",
+     "type": "Instant"
+    },
+    {
+     "name": "Dismissive Denial",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Scorpion's Sting",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Spaceshift",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Spider-Sense",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Void Helix",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Minion Missile",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Night's Whisper",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Seize the Day",
+     "qty": 2,
+     "role": "win",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Sign in Blood",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Stock Up",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Venom's Hunger",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Villainous Wrath",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Commander's Sphere",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "HYDRA Disintegrator",
+     "qty": 1,
+     "role": "other",
+     "type": "Artifact"
+    },
+    {
+     "name": "Patchwork Banner",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Spider-Suit",
+     "qty": 1,
+     "role": "other",
+     "type": "Artifact"
+    },
+    {
+     "name": "Alien Symbiosis",
+     "qty": 1,
+     "role": "other",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Doom Reigns Supreme",
+     "qty": 1,
+     "role": "win",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Maximum Carnage",
+     "qty": 1,
+     "role": "win",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Mystic Remora",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Cinder Glade",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Evolving Wilds",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Exotic Orchard",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Hell's Kitchen",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Island",
+     "qty": 9,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mountain",
+     "qty": 8,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Ominous Asylum",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Oscorp Industries",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Rogue's Passage",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Swamp",
+     "qty": 8,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Thriving Moor",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Sleeved (Nov 19)",
+   "name": "Norman Osborn: Sinister Six (currently sleeved)",
+   "notes": [
+    "Nov 19, 2026: the physical deck as sleeved. The main list is Claude's Oct 17 B3 theory build; this version is what's actually in the box.",
+    "Not legal as sleeved: 102 cards with the commander (two over). Cinder Glade is red-green, so it's outside Norman's color identity, and Seize the Day is in twice (Commander is singleton). Cutting Cinder Glade and one Seize the Day makes exactly 100.",
+    "Only Game Changer: Opposition Agent, so it's officially Bracket 3. Lands: 40 as sleeved (39 after Cinder Glade), plus Commander's Sphere and Patchwork Banner."
+   ],
+   "out": [
+    {
+     "name": "Doctor Octopus, Master Planner",
+     "qty": 1
+    },
+    {
+     "name": "Mysterio, Master of Illusion",
+     "qty": 1
+    },
+    {
+     "name": "Electro, Assaulting Battery",
+     "qty": 1
+    },
+    {
+     "name": "Green Goblin, Nemesis",
+     "qty": 1
+    },
+    {
+     "name": "Swarm, Being of Bees",
+     "qty": 1
+    },
+    {
+     "name": "The Squadron Sinister",
+     "qty": 1
+    },
+    {
+     "name": "Ultron, Unlimited",
+     "qty": 1
+    },
+    {
+     "name": "Iron Monger, Sadistic Tycoon",
+     "qty": 1
+    },
+    {
+     "name": "M.O.D.O.K.",
+     "qty": 1
+    },
+    {
+     "name": "Leader, Super-Genius",
+     "qty": 1
+    },
+    {
+     "name": "Red Ghost, Intangible Genius",
+     "qty": 1
+    },
+    {
+     "name": "Orcish Bowmasters",
+     "qty": 1
+    },
+    {
+     "name": "The One Ring",
+     "qty": 1
+    },
+    {
+     "name": "Shadow of the Goblin",
+     "qty": 1
+    },
+    {
+     "name": "Mask of the Schemer",
+     "qty": 1
+    },
+    {
+     "name": "Faithless Looting",
+     "qty": 1
+    },
+    {
+     "name": "Frantic Search",
+     "qty": 1
+    },
+    {
+     "name": "Thrill of Possibility",
+     "qty": 1
+    },
+    {
+     "name": "Unexpected Windfall",
+     "qty": 1
+    },
+    {
+     "name": "Big Score",
+     "qty": 1
+    },
+    {
+     "name": "Fable of the Mirror-Breaker",
+     "qty": 1
+    },
+    {
+     "name": "Change of Plans",
+     "qty": 1
+    },
+    {
+     "name": "Glorious Purpose",
+     "qty": 1
+    },
+    {
+     "name": "Robot Domination",
+     "qty": 1
+    },
+    {
+     "name": "Cool but Rude",
+     "qty": 1
+    },
+    {
+     "name": "Endless Ranks of HYDRA",
+     "qty": 1
+    },
+    {
+     "name": "Animate Dead",
+     "qty": 1
+    },
+    {
+     "name": "Counterspell",
+     "qty": 1
+    },
+    {
+     "name": "Swan Song",
+     "qty": 1
+    },
+    {
+     "name": "Arcane Denial",
+     "qty": 1
+    },
+    {
+     "name": "An Offer You Can't Refuse",
+     "qty": 1
+    },
+    {
+     "name": "Negate",
+     "qty": 1
+    },
+    {
+     "name": "Deadly Rollick",
+     "qty": 1
+    },
+    {
+     "name": "Infernal Grasp",
+     "qty": 1
+    },
+    {
+     "name": "Terminate",
+     "qty": 1
+    },
+    {
+     "name": "Bedevil",
+     "qty": 1
+    },
+    {
+     "name": "Chaos Warp",
+     "qty": 1
+    },
+    {
+     "name": "Lethal Scheme",
+     "qty": 1
+    },
+    {
+     "name": "Toxic Deluge",
+     "qty": 1
+    },
+    {
+     "name": "Sol Ring",
+     "qty": 1
+    },
+    {
+     "name": "Arcane Signet",
+     "qty": 1
+    },
+    {
+     "name": "Fellwar Stone",
+     "qty": 1
+    },
+    {
+     "name": "Talisman of Dominance",
+     "qty": 1
+    },
+    {
+     "name": "Talisman of Indulgence",
+     "qty": 1
+    },
+    {
+     "name": "Talisman of Creativity",
+     "qty": 1
+    },
+    {
+     "name": "Swiftfoot Boots",
+     "qty": 1
+    },
+    {
+     "name": "Plaza of Heroes",
+     "qty": 1
+    },
+    {
+     "name": "Spymaster's Vault",
+     "qty": 1
+    },
+    {
+     "name": "Secluded Courtyard",
+     "qty": 1
+    },
+    {
+     "name": "Unclaimed Territory",
+     "qty": 1
+    },
+    {
+     "name": "Luxury Suite",
+     "qty": 1
+    },
+    {
+     "name": "Watery Grave",
+     "qty": 1
+    },
+    {
+     "name": "Blood Crypt",
+     "qty": 1
+    },
+    {
+     "name": "Steam Vents",
+     "qty": 1
+    },
+    {
+     "name": "Polluted Delta",
+     "qty": 1
+    },
+    {
+     "name": "Bloodstained Mire",
+     "qty": 1
+    },
+    {
+     "name": "Scalding Tarn",
+     "qty": 1
+    },
+    {
+     "name": "Choked Estuary",
+     "qty": 1
+    },
+    {
+     "name": "Fetid Pools",
+     "qty": 1
+    },
+    {
+     "name": "Sunken Hollow",
+     "qty": 1
+    },
+    {
+     "name": "Canyon Slough",
+     "qty": 1
+    },
+    {
+     "name": "Smoldering Marsh",
+     "qty": 1
+    },
+    {
+     "name": "Drowned Catacomb",
+     "qty": 1
+    },
+    {
+     "name": "Dragonskull Summit",
+     "qty": 1
+    },
+    {
+     "name": "Sulfur Falls",
+     "qty": 1
+    },
+    {
+     "name": "Sulfurous Springs",
+     "qty": 1
+    },
+    {
+     "name": "Underground River",
+     "qty": 1
+    },
+    {
+     "name": "Shivan Reef",
+     "qty": 1
+    },
+    {
+     "name": "Darkwater Catacombs",
+     "qty": 1
+    },
+    {
+     "name": "Blightstep Pathway",
+     "qty": 1
+    },
+    {
+     "name": "Frostboil Snarl",
+     "qty": 1
+    },
+    {
+     "name": "Foreboding Ruins",
+     "qty": 1
+    },
+    {
+     "name": "Crumbling Necropolis",
+     "qty": 1
+    },
+    {
+     "name": "Otawara, Soaring City",
+     "qty": 1
+    }
+   ],
+   "source": "Sleeved list from Andrew, Nov 19, 2026",
+   "updated": "Nov 19, 2026"
   }
  ]
 }

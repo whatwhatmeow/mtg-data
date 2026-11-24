@@ -1,595 +1,523 @@
 {
  "adds": [
   {
-   "name": "Crackle with Power",
+   "name": "Kíli the Resourceful",
    "status": "planned",
-   "why": "You own it. Left out by choice; a one-card finisher at 9+ mana, but it pulls the deck away from combat. Swap for Dwarven Reinforcements if he wants the burn ending."
+   "why": "About $1.50. A second free equip each turn, plus card draw when Dwarves or Equipment enter. Swap for Mind Stone."
   },
   {
-   "name": "Winota, Joiner of Forces",
+   "name": "Thorin, King of Durin's Folk",
    "status": "planned",
-   "why": "You own it (He-Man). Only 3 Humans here, so she rarely hits. Swap for Puresteel Paladin if he wants He-Man in the deck anyway."
+   "why": "About $3.50. Treasure for every Dwarf, and those Treasures pump the team. Swap for Glóin, Dwarf Emissary."
   },
   {
-   "name": "Skullclamp",
+   "name": "Thorin, Mountain-king",
    "status": "planned",
-   "why": "Very strong with 2/1 and 2/2 tokens. Not a Game Changer, but not a bulk card. Swap for Hard-Won Jitte."
+   "why": "About $2.40. Moves all Equipment onto one creature on entry and fights with it. Swap for Dwalin, Weaponmaster or Practiced Scrollsmith."
   },
   {
-   "name": "Hawkeye's Bow",
+   "name": "Fíli and Kíli, Joyous",
    "status": "planned",
-   "why": "You own it. Ping per tap fits a wide board. Swap for Sword of the Animist."
+   "why": "About $3.40. Hasty RR mana for Dwarves and Equipment. Swap for Talisman of Conviction."
+  },
+  {
+   "name": "Bearded Axe",
+   "status": "planned",
+   "why": "About $3.40. Scales with Dwarves plus Equipment; often +8 or more. Swap for Torch Gauntlet."
+  },
+  {
+   "name": "Open the Armory",
+   "status": "planned",
+   "why": "About $2.70. Finds Colossus Hammer or Jitte. Swap for Kami's Flare."
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "status": "planned",
+   "why": "About $1.20. Protects Bruenor from the targeted removal at your tables. Swap for Rogue's Gloves."
+  },
+  {
+   "name": "Loran's Escape",
+   "status": "planned",
+   "why": "About $1.50. One-mana save for Bruenor or a key Equipment. Swap for Vow to Erebor."
+  },
+  {
+   "name": "Boros Charm",
+   "status": "planned",
+   "why": "About $4.50. Indestructible team vs wraths, or double strike for the kill. Swap for War Flare."
+  },
+  {
+   "name": "Fighter Class",
+   "status": "planned",
+   "why": "About $9. Tutors Equipment, then makes equips cheaper and moves gear on attack. Swap for O-Naginata."
+  },
+  {
+   "name": "Embercleave",
+   "status": "planned",
+   "why": "About $9.50. Flash double strike and trample, cheap when attacking wide. Swap for Loxodon Warhammer."
+  },
+  {
+   "name": "Gimli of the Glittering Caves",
+   "status": "planned",
+   "why": "About $13. Double-strike Dwarf that grows with legends and makes Treasure. Swap for Dwarven Mauler."
+  },
+  {
+   "name": "Dáin of the Ancient Halls",
+   "status": "planned",
+   "why": "About $36, so last on the list. Hasty finisher that pings each opponent for every Dwarf. Swap for Full Throttle."
   }
  ],
  "bracket": "High Bracket 2",
- "bracketGoal": "0 Game Changers · He-Man Secret Lair start · go wide with Dwarves, free first equip each turn",
+ "bracketGoal": "0 Game Changers · sleeved deck first, upgrade in stages toward a tuned Dwarf army",
  "cards": [
   {
-   "name": "Aerial Responder",
-   "own": "buy-cu",
+   "name": "Adaptive Omnitool",
    "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "An Unexpected Party",
-   "own": "buy-r",
-   "qty": 1,
-   "role": "win",
-   "type": "Enchantment"
-  },
-  {
-   "name": "Arcane Signet",
-   "own": "have",
-   "qty": 1,
-   "role": "ramp",
+   "role": "draw",
    "type": "Artifact"
   },
   {
-   "name": "Balin, Loremaster",
-   "own": "buy-r",
+   "name": "Amber Gristle O'Maul",
    "qty": 1,
    "role": "draw",
    "type": "Creature"
   },
   {
+   "name": "Andúril, Flame of the West",
+   "qty": 1,
+   "role": "win",
+   "type": "Artifact"
+  },
+  {
+   "name": "Argentum Armor",
+   "qty": 1,
+   "role": "rem",
+   "type": "Artifact"
+  },
+  {
+   "name": "Austere Command",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Barrow-Blade",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Bastion Protector",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
    "name": "Battlefield Forge",
-   "own": "have",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Bearded Axe",
-   "own": "buy-cu",
+   "name": "Bloodforged Battle-Axe",
    "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
-  },
-  {
-   "name": "Bifur, Melodic Rider",
-   "own": "likely",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Blackblade Reforged",
-   "own": "buy-r",
-   "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
-  },
-  {
-   "name": "Bladehold War-Whip",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "eng",
+   "role": "win",
    "type": "Artifact"
   },
   {
    "name": "Bofur, Reliable Guardian",
-   "own": "likely",
    "qty": 1,
    "role": "prot",
    "type": "Creature"
   },
   {
    "name": "Bombur, Gentle Dreamer",
-   "own": "likely",
    "qty": 1,
-   "role": "eng",
+   "role": "ramp",
    "type": "Creature"
   },
   {
-   "name": "Boros Charm",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "prot",
-   "type": "Instant"
-  },
-  {
-   "name": "Boros Garrison",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
    "name": "Boros Signet",
-   "own": "have",
    "qty": 1,
    "role": "ramp",
    "type": "Artifact"
   },
   {
-   "name": "Chaos Warp",
-   "own": "buy-r",
+   "name": "Burn, Burn, Tree and Fern",
    "qty": 1,
    "role": "rem",
-   "type": "Instant"
+   "type": "Enchantment"
   },
   {
-   "name": "Colossus Hammer",
-   "own": "buy-cu",
+   "name": "Celebrate the Mountain-king",
    "qty": 1,
-   "role": "eng",
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Champion's Helm",
+   "qty": 1,
+   "role": "prot",
    "type": "Artifact"
   },
   {
-   "name": "Command Tower",
-   "own": "buy-cu",
+   "name": "Clifftop Retreat",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Danitha Capashen, Paragon",
-   "own": "buy-cu",
+   "name": "Colossus Hammer",
    "qty": 1,
-   "role": "eng",
-   "type": "Creature"
+   "role": "win",
+   "type": "Artifact"
   },
   {
-   "name": "Delina, Wild Mage",
-   "own": "have",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Depala, Pilot Exemplar",
-   "own": "buy-r",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Diamond Pick-Axe",
-   "own": "buy-cu",
+   "name": "Conqueror's Flail",
    "qty": 1,
    "role": "eng",
    "type": "Artifact"
   },
   {
+   "name": "Continue?",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Darksteel Axe",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Disenchant",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
    "name": "Dori, Bearer of Friends",
-   "own": "likely",
    "qty": 1,
    "role": "ramp",
    "type": "Creature"
   },
   {
    "name": "Dwalin, Weaponmaster",
-   "own": "buy-r",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
-   "name": "Dwarven Hammer",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
-  },
-  {
    "name": "Dwarven Mattock",
-   "own": "likely",
    "qty": 1,
    "role": "eng",
    "type": "Artifact"
   },
   {
    "name": "Dwarven Mauler",
-   "own": "likely",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
-   "name": "Dwarven Mine",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Dwarven Recruiter",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "tutor",
-   "type": "Creature"
-  },
-  {
-   "name": "Dwarven Reinforcements",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "win",
-   "type": "Sorcery"
-  },
-  {
    "name": "Dwarven Shortsword",
-   "own": "likely",
    "qty": 1,
    "role": "eng",
    "type": "Artifact"
   },
   {
-   "name": "Dáin Ironfoot",
-   "own": "buy-r",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Dáin of the Ancient Halls",
-   "own": "buy-r",
-   "qty": 1,
-   "role": "win",
-   "type": "Creature"
-  },
-  {
    "name": "Dáin's Company",
-   "own": "buy-r",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Field-Tested Frying Pan",
    "qty": 1,
    "role": "eng",
-   "type": "Creature"
+   "type": "Artifact"
   },
   {
-   "name": "Dáin, Lord of the Iron Hills",
-   "own": "likely",
+   "name": "Fortify",
    "qty": 1,
    "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Evolving Wilds",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Fairgrounds Warden",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "rem",
-   "type": "Creature"
-  },
-  {
-   "name": "Fearless Liberator",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
+   "type": "Instant"
   },
   {
    "name": "Full Throttle",
-   "own": "have",
    "qty": 1,
    "role": "win",
    "type": "Sorcery"
   },
   {
-   "name": "Fíli and Kíli, Joyous",
-   "own": "buy-r",
+   "name": "Furycalm Snarl",
    "qty": 1,
-   "role": "ramp",
-   "type": "Creature"
+   "role": "land",
+   "type": "Land"
   },
   {
-   "name": "Fíli the Pathfinder",
-   "own": "buy-r",
+   "name": "Gimli's Axe",
    "qty": 1,
    "role": "eng",
-   "type": "Creature"
+   "type": "Artifact"
   },
   {
-   "name": "Generous Gift",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "rem",
-   "type": "Instant"
-  },
-  {
-   "name": "Gimli of the Glittering Caves",
-   "own": "buy-r",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Giott, King of the Dwarves",
-   "own": "buy-cu",
+   "name": "Gimli, Counter of Kills",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
    "name": "Glóin the Mighty",
-   "own": "likely",
    "qty": 1,
    "role": "ramp",
    "type": "Creature"
   },
   {
-   "name": "Hard-Won Jitte",
-   "own": "have",
+   "name": "Glóin, Dwarf Emissary",
    "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
+   "role": "ramp",
+   "type": "Creature"
   },
   {
-   "name": "Hero's Blade",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
-  },
-  {
-   "name": "Iron Hills",
-   "own": "likely",
+   "name": "Great Hall of the Citadel",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
+   "name": "Hidden Footblade",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Hobbit's Sting",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
    "name": "Iron Hills Blacksmith",
-   "own": "likely",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
-   "name": "Iron Hills Stalwart",
-   "own": "likely",
+   "name": "Kami's Flare",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Kemba, Kha Enduring",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
    "name": "Konda's Banner",
-   "own": "have",
    "qty": 1,
-   "role": "eng",
+   "role": "win",
    "type": "Artifact"
   },
   {
-   "name": "Kíli the Resourceful",
-   "own": "buy-r",
-   "qty": 1,
-   "role": "draw",
-   "type": "Creature"
-  },
-  {
-   "name": "Loran's Escape",
-   "own": "buy-cu",
+   "name": "Lorehold Charm",
    "qty": 1,
    "role": "prot",
    "type": "Instant"
   },
   {
+   "name": "Loxodon Warhammer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
    "name": "Magda, Brazen Outlaw",
-   "own": "buy-r",
    "qty": 1,
    "role": "ramp",
    "type": "Creature"
   },
   {
+   "name": "Mask of Memory",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Meteoric Mace",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
    "name": "Mind Stone",
-   "own": "buy-cu",
    "qty": 1,
    "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mines of Moria",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mithril Coat",
+   "qty": 1,
+   "role": "prot",
    "type": "Artifact"
   },
   {
    "name": "Mountain",
-   "own": "have",
-   "qty": 11,
+   "qty": 13,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Open the Armory",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "tutor",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Path of Ancestry",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Path to Exile",
-   "own": "have",
-   "qty": 1,
-   "role": "rem",
-   "type": "Instant"
-  },
-  {
-   "name": "Plains",
-   "own": "have",
-   "qty": 9,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Puresteel Paladin",
-   "own": "buy-r",
+   "name": "Nettlecyst",
    "qty": 1,
    "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Reyav, Master Smith",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Rogue's Passage",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Rugged Prairie",
-   "own": "buy-r",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Sol Ring",
-   "own": "have",
-   "qty": 1,
-   "role": "ramp",
    "type": "Artifact"
   },
   {
-   "name": "Sram, Senior Edificer",
-   "own": "buy-r",
+   "name": "Now for Wrath, Now for Ruin!",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "O-Naginata",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Plains",
+   "qty": 13,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Practiced Scrollsmith",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Puresteel Paladin",
    "qty": 1,
    "role": "draw",
    "type": "Creature"
   },
   {
-   "name": "Sunbaked Canyon",
-   "own": "buy-r",
+   "name": "Requisition Raid",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rogue's Gloves",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Rugged Prairie",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Sword of the Animist",
-   "own": "buy-r",
+   "name": "Short Sword",
    "qty": 1,
    "role": "eng",
    "type": "Artifact"
   },
   {
+   "name": "Sram, Senior Edificer",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Sting, Bilbo's Sword",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sting, the Glinting Dagger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sunscorched Divide",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
    "name": "Swords to Plowshares",
-   "own": "have",
    "qty": 1,
    "role": "rem",
    "type": "Instant"
   },
   {
    "name": "Talisman of Conviction",
-   "own": "have",
    "qty": 1,
    "role": "ramp",
    "type": "Artifact"
   },
   {
-   "name": "Temple of Triumph",
-   "own": "buy-r",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Terramorphic Expanse",
-   "own": "buy-cu",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "The Lonely Mountain",
-   "own": "buy-r",
+   "name": "The Grey Havens",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
    "name": "Thorin Oakenshield",
-   "own": "likely",
    "qty": 1,
-   "role": "eng",
+   "role": "prot",
    "type": "Creature"
   },
   {
-   "name": "Thorin, King of Durin's Folk",
-   "own": "buy-r",
+   "name": "Umezawa's Jitte",
    "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Thorin, Mountain-king",
-   "own": "buy-r",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Vibranium Energy Daggers",
-   "own": "have",
-   "qty": 1,
-   "role": "eng",
+   "role": "rem",
    "type": "Artifact"
   },
   {
    "name": "Vow to Erebor",
-   "own": "likely",
    "qty": 1,
    "role": "prot",
    "type": "Instant"
   },
   {
-   "name": "Warchanter Skald",
-   "own": "buy-cu",
+   "name": "Vulshok Splitter",
    "qty": 1,
    "role": "eng",
-   "type": "Creature"
+   "type": "Artifact"
   },
   {
-   "name": "Wind-Scarred Crag",
-   "own": "buy-cu",
+   "name": "War Flare",
    "qty": 1,
-   "role": "land",
-   "type": "Land"
+   "role": "win",
+   "type": "Instant"
   },
   {
-   "name": "Éowyn, Lady of Rohan",
-   "own": "likely",
+   "name": "War of the Last Alliance",
    "qty": 1,
-   "role": "eng",
-   "type": "Creature"
+   "role": "tutor",
+   "type": "Enchantment"
   },
   {
-   "name": "Óin the Brave",
-   "own": "likely",
+   "name": "Well-Worn Spatula",
    "qty": 1,
    "role": "eng",
-   "type": "Creature"
+   "type": "Artifact"
   }
  ],
  "colors": [
@@ -602,21 +530,834 @@
  "format": "Commander",
  "name": "Man-At-Arms: Dwarven Armory",
  "notes": [
-  "Commander is the Man-At-Arms printing of Bruenor Battlehammer: each creature gets +2/+0 per attached Equipment, and the first equip each turn is free.",
-  "From the By the Power of Grayskull! Secret Lair: Bruenor, Delina (Orko), Konda's Banner (He-Man's Battle Harness) and the bonus Charge of Eternia (Full Throttle). Crackle with Power stays out, as you suggested.",
-  "Konda's Banner on Bruenor is the anthem: it needs a legendary creature, then Dwarves get +2/+2 and other red or white creatures +1/+1.",
-  "Plan: flood the board with Fíli the Pathfinder, Dwarven Hammer, Dwarven Shortsword and An Unexpected Party, spread free equips, then finish with Full Throttle or Dáin of the Ancient Halls.",
-  "Winota stays on the bench: a Dwarf deck runs only 3 Humans, so her trigger would rarely hit. Puresteel Paladin takes the slot.",
-  "Estimated, not simulated: wins around turns 7–9. Fastest line is Bruenor with Colossus Hammer plus Konda's Banner, which swings for 21 commander damage from about turn 6. Mention that at the table, since it's the deck's most Bracket 3-feeling moment. Early game is strong: lots of 2-drops and 5 cheap answers.",
-  "Bruenor's free equip applies only to the first equip each turn; Bearded Axe scales with Dwarves and Equipment, so it's usually the best second attachment.",
-  "Rares and mythics to pick up or check your binder for: An Unexpected Party; Balin, Loremaster; Blackblade Reforged; Chaos Warp; Depala, Pilot Exemplar; Dwalin, Weaponmaster; Dáin Ironfoot; Dáin of the Ancient Halls; Dáin's Company; Fíli and Kíli, Joyous; Fíli the Pathfinder; Gimli of the Glittering Caves; Kíli the Resourceful; Magda, Brazen Outlaw; Puresteel Paladin; Rugged Prairie; Sram, Senior Edificer; Sunbaked Canyon; Sword of the Animist; Temple of Triumph; The Lonely Mountain; Thorin, King of Durin's Folk; Thorin, Mountain-king",
-  "Commons and uncommons to pick up or check your binder for: Aerial Responder; Bearded Axe; Bladehold War-Whip; Boros Charm; Boros Garrison; Colossus Hammer; Command Tower; Danitha Capashen, Paragon; Diamond Pick-Axe; Dwarven Hammer; Dwarven Mine; Dwarven Recruiter; Dwarven Reinforcements; Evolving Wilds; Fairgrounds Warden; Fearless Liberator; Generous Gift; Giott, King of the Dwarves; Hero's Blade; Loran's Escape; Mind Stone; Open the Armory; Path of Ancestry; Reyav, Master Smith; Rogue's Passage; Terramorphic Expanse; Warchanter Skald; Wind-Scarred Crag",
-  "Hobbit or Lord of the Rings commons and uncommons you likely have from half displays: Bifur, Melodic Rider; Bofur, Reliable Guardian; Bombur, Gentle Dreamer; Dori, Bearer of Friends; Dwarven Mattock; Dwarven Mauler; Dwarven Shortsword; Dáin, Lord of the Iron Hills; Glóin the Mighty; Iron Hills; Iron Hills Blacksmith; Iron Hills Stalwart; Thorin Oakenshield; Vow to Erebor; Éowyn, Lady of Rohan; Óin the Brave"
+  "Nov 23, 2026 (later): middle kid's four picks (Gimli's Fury, Jhoira's Familiar, Path of Anger's Flame, Haunted Plate Mail) were tried in, then swapped back out pending a talk with him. Suggested home for Gimli's Fury if he wants it: cut Amber Gristle O'Maul instead of Hobbit's Sting.",
+  "Nov 23, 2026: rebuilt as the best 99 from the Dwarf pile on hand tonight (127 cards). In: Bloodforged Battle-Axe, Gimli, Counter of Kills, Sting, Bilbo's Sword, +2 Plains. Out: Electrostatic Infantry (now in Gandalf), Brawler's Plate, Torch Gauntlet, -2 Mountains (13/13 split; white pips outnumber red). Left in the box: second copies (Erebor Flamesmith, Iron Hills Blacksmith, Thorin Oakenshield, Dwarven Shortsword, War of the Last Alliance), the other Erebor Flamesmith, Fiery Inscription, Glamdring (too few instants/sorceries), Mana Geyser, Hex Magic, Bull Rush, Path of Anger's Flame, Smaug's Fury, Gimli's Fury, Ranger's Firebrand, Jhoira's Familiar, Changeling Berserker, Haunted Plate Mail, 4 Mountains, 3 Plains.",
+  "Nov 19, 2026: main list replaced with his actual sleeved deck, trimmed from 123 cards to 100. Removed 5 duplicates (Thorin Oakenshield, Iron Hills Blacksmith, Dwarven Shortsword, War of the Last Alliance, Erebor Flamesmith), 6 basics (40 to 34 lands), and 12 weak cards: the second Erebor Flamesmith, Fiery Inscription, Mana Geyser, Hex Magic, Bull Rush, Path of Anger's Flame, Smaug's Fury, Gimli's Fury, Ranger's Firebrand, Changeling Berserker, Jhoira's Familiar, Glamdring. The old Nov 3 build is saved as the 'Nov 3 plan' version.",
+  "Upgrade path: Stage 1 (owned cards) → Stage 2 (about $4 of bulk Dwarves) → the 'adds' list (dollar-plus cards, cheapest first).",
+  "With Bruenor out, every Equipment is +2/+0 on its own, so cheap junk Equipment is worth more here than pump spells.",
+  "Check: the deck has a Nettlecyst; the three you've noted are in Doom Unrivaled, Winter Soldier and Black Panther. Sram and Puresteel Paladin are also in the Bucky deck.",
+  "Commander is the Man-At-Arms printing of Bruenor Battlehammer: each creature gets +2/+0 per attached Equipment, and the first equip each turn is free."
  ],
  "order": 42,
  "owner": "Middle",
- "source": "Built by Claude Nov 3, 2026; card text and color identity checked, ownership assumed from your notes",
+ "source": "Best 99 from the Dwarf pile on hand Nov 23 2026 (Claude); card text from mtg-data",
  "target": 100,
  "themeLabel": "Dwarf army",
- "updated": "Nov 3, 2026"
+ "updated": "Nov 23, 2026",
+ "variants": [
+  {
+   "adds": [],
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers · no purchases",
+   "id": "stage-1",
+   "in": [
+    {
+     "name": "Sol Ring",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Arcane Signet",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Path to Exile",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Hard-Won Jitte",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Delina, Wild Mage",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    }
+   ],
+   "label": "Stage 1",
+   "name": "Man-At-Arms — Stage 1: cards already owned",
+   "notes": [
+    "Sol Ring and Arcane Signet speed up Bruenor by a turn; they replace a Mountain and Fortify.",
+    "Path to Exile replaces Kemba, Kha Enduring (the deck's only Cat, so her attach trigger rarely does anything). Austere Command stays: choosing enchantments + creatures with mana value 4+ spares nearly all his Dwarves, and Bastion Protector or Mithril Coat saves Bruenor (MV 4).",
+    "Hard-Won Jitte (double strike) replaces Hidden Footblade; with Bruenor every Equipment is already +2/+0, so double strike doubles all of it.",
+    "Delina is Orko from the He-Man Secret Lair; she replaces Continue?."
+   ],
+   "out": [
+    {
+     "name": "Mountain",
+     "qty": 1
+    },
+    {
+     "name": "Fortify",
+     "qty": 1
+    },
+    {
+     "name": "Kemba, Kha Enduring",
+     "qty": 1
+    },
+    {
+     "name": "Hidden Footblade",
+     "qty": 1
+    },
+    {
+     "name": "Continue?",
+     "qty": 1
+    }
+   ],
+   "source": "Claude, Nov 19 2026, from cards the notes say are owned",
+   "updated": "Nov 19, 2026"
+  },
+  {
+   "adds": [],
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers · about $4 of bulk added on top of Stage 1",
+   "id": "stage-2",
+   "in": [
+    {
+     "name": "Sol Ring",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Arcane Signet",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Path to Exile",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Hard-Won Jitte",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Delina, Wild Mage",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Fíli the Pathfinder",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "An Unexpected Party",
+     "qty": 1,
+     "role": "win",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Balin, Loremaster",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Dáin Ironfoot",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Depala, Pilot Exemplar",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Reyav, Master Smith",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Warchanter Skald",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Dwarven Hammer",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Éowyn, Lady of Rohan",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Chaos Warp",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Command Tower",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "The Lonely Mountain",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Path of Ancestry",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Stage 2",
+   "name": "Man-At-Arms — Stage 2: bulk Dwarf pickups",
+   "notes": [
+    "Includes all of Stage 1.",
+    "Every Stage 2 add was under about 50 cents at the last price pull; several may already be in your extras.",
+    "Fíli the Pathfinder, An Unexpected Party, Balin, Dáin Ironfoot, Depala, Reyav and Warchanter Skald turn it from a pile of Dwarves into a Dwarf deck: tokens, anthems, double strike and refills.",
+    "Lands go to 33 with 5 mana rocks plus Treasure makers.",
+    "Austere Command stays in; Gimli's Axe is the extra cut instead."
+   ],
+   "out": [
+    {
+     "name": "Mountain",
+     "qty": 3
+    },
+    {
+     "name": "Plains",
+     "qty": 1
+    },
+    {
+     "name": "Fortify",
+     "qty": 1
+    },
+    {
+     "name": "Hidden Footblade",
+     "qty": 1
+    },
+    {
+     "name": "Continue?",
+     "qty": 1
+    },
+    {
+     "name": "Kemba, Kha Enduring",
+     "qty": 1
+    },
+    {
+     "name": "Bombur, Gentle Dreamer",
+     "qty": 1
+    },
+    {
+     "name": "Amber Gristle O'Maul",
+     "qty": 1
+    },
+    {
+     "name": "Well-Worn Spatula",
+     "qty": 1
+    },
+    {
+     "name": "Short Sword",
+     "qty": 1
+    },
+    {
+     "name": "Barrow-Blade",
+     "qty": 1
+    },
+    {
+     "name": "Field-Tested Frying Pan",
+     "qty": 1
+    },
+    {
+     "name": "Requisition Raid",
+     "qty": 1
+    },
+    {
+     "name": "Now for Wrath, Now for Ruin!",
+     "qty": 1
+    },
+    {
+     "name": "Hobbit's Sting",
+     "qty": 1
+    },
+    {
+     "name": "Gimli's Axe",
+     "qty": 1
+    }
+   ],
+   "source": "Claude, Nov 19 2026; prices from the Nov 12 card-data pull",
+   "updated": "Nov 19, 2026"
+  },
+  {
+   "adds": [],
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers",
+   "id": "nov3-plan",
+   "in": [
+    {
+     "name": "Aerial Responder",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "An Unexpected Party",
+     "qty": 1,
+     "role": "win",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Arcane Signet",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Balin, Loremaster",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Bearded Axe",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Bifur, Melodic Rider",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Blackblade Reforged",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Bladehold War-Whip",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Boros Charm",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Boros Garrison",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Chaos Warp",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Command Tower",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Danitha Capashen, Paragon",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Delina, Wild Mage",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Depala, Pilot Exemplar",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Diamond Pick-Axe",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Dwarven Hammer",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Dwarven Mine",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Dwarven Recruiter",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Dwarven Reinforcements",
+     "qty": 1,
+     "role": "win",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Dáin Ironfoot",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Dáin of the Ancient Halls",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Dáin, Lord of the Iron Hills",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Evolving Wilds",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Fairgrounds Warden",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Fearless Liberator",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Fíli and Kíli, Joyous",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Fíli the Pathfinder",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Generous Gift",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Gimli of the Glittering Caves",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Giott, King of the Dwarves",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Hard-Won Jitte",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Hero's Blade",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Iron Hills",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Iron Hills Stalwart",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Kíli the Resourceful",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Loran's Escape",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Open the Armory",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Path of Ancestry",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Path to Exile",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Reyav, Master Smith",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Rogue's Passage",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Sol Ring",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Sunbaked Canyon",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Sword of the Animist",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Temple of Triumph",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "The Lonely Mountain",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Thorin, King of Durin's Folk",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Thorin, Mountain-king",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Vibranium Energy Daggers",
+     "qty": 1,
+     "role": "eng",
+     "type": "Artifact"
+    },
+    {
+     "name": "Warchanter Skald",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Wind-Scarred Crag",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Éowyn, Lady of Rohan",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Óin the Brave",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    }
+   ],
+   "label": "Nov 3 plan",
+   "name": "Man-At-Arms — original Nov 3 vault build",
+   "notes": [
+    "Kept for reference while the sleeved deck works toward it. Dáin of the Ancient Halls is now about $36, so it is no longer a bulk pick."
+   ],
+   "out": [
+    {
+     "name": "Adaptive Omnitool",
+     "qty": 1
+    },
+    {
+     "name": "Amber Gristle O'Maul",
+     "qty": 1
+    },
+    {
+     "name": "Andúril, Flame of the West",
+     "qty": 1
+    },
+    {
+     "name": "Argentum Armor",
+     "qty": 1
+    },
+    {
+     "name": "Austere Command",
+     "qty": 1
+    },
+    {
+     "name": "Barrow-Blade",
+     "qty": 1
+    },
+    {
+     "name": "Bastion Protector",
+     "qty": 1
+    },
+    {
+     "name": "Brawler's Plate",
+     "qty": 1
+    },
+    {
+     "name": "Burn, Burn, Tree and Fern",
+     "qty": 1
+    },
+    {
+     "name": "Celebrate the Mountain-king",
+     "qty": 1
+    },
+    {
+     "name": "Champion's Helm",
+     "qty": 1
+    },
+    {
+     "name": "Clifftop Retreat",
+     "qty": 1
+    },
+    {
+     "name": "Conqueror's Flail",
+     "qty": 1
+    },
+    {
+     "name": "Continue?",
+     "qty": 1
+    },
+    {
+     "name": "Darksteel Axe",
+     "qty": 1
+    },
+    {
+     "name": "Disenchant",
+     "qty": 1
+    },
+    {
+     "name": "Field-Tested Frying Pan",
+     "qty": 1
+    },
+    {
+     "name": "Fortify",
+     "qty": 1
+    },
+    {
+     "name": "Furycalm Snarl",
+     "qty": 1
+    },
+    {
+     "name": "Gimli's Axe",
+     "qty": 1
+    },
+    {
+     "name": "Glóin, Dwarf Emissary",
+     "qty": 1
+    },
+    {
+     "name": "Great Hall of the Citadel",
+     "qty": 1
+    },
+    {
+     "name": "Hidden Footblade",
+     "qty": 1
+    },
+    {
+     "name": "Hobbit's Sting",
+     "qty": 1
+    },
+    {
+     "name": "Kami's Flare",
+     "qty": 1
+    },
+    {
+     "name": "Kemba, Kha Enduring",
+     "qty": 1
+    },
+    {
+     "name": "Lorehold Charm",
+     "qty": 1
+    },
+    {
+     "name": "Loxodon Warhammer",
+     "qty": 1
+    },
+    {
+     "name": "Mask of Memory",
+     "qty": 1
+    },
+    {
+     "name": "Meteoric Mace",
+     "qty": 1
+    },
+    {
+     "name": "Mines of Moria",
+     "qty": 1
+    },
+    {
+     "name": "Mithril Coat",
+     "qty": 1
+    },
+    {
+     "name": "Mountain",
+     "qty": 4
+    },
+    {
+     "name": "Nettlecyst",
+     "qty": 1
+    },
+    {
+     "name": "Now for Wrath, Now for Ruin!",
+     "qty": 1
+    },
+    {
+     "name": "O-Naginata",
+     "qty": 1
+    },
+    {
+     "name": "Plains",
+     "qty": 2
+    },
+    {
+     "name": "Practiced Scrollsmith",
+     "qty": 1
+    },
+    {
+     "name": "Requisition Raid",
+     "qty": 1
+    },
+    {
+     "name": "Rogue's Gloves",
+     "qty": 1
+    },
+    {
+     "name": "Short Sword",
+     "qty": 1
+    },
+    {
+     "name": "Sting, Bilbo's Sword",
+     "qty": 1
+    },
+    {
+     "name": "Sting, the Glinting Dagger",
+     "qty": 1
+    },
+    {
+     "name": "Sunscorched Divide",
+     "qty": 1
+    },
+    {
+     "name": "The Grey Havens",
+     "qty": 1
+    },
+    {
+     "name": "Torch Gauntlet",
+     "qty": 1
+    },
+    {
+     "name": "Umezawa's Jitte",
+     "qty": 1
+    },
+    {
+     "name": "Vulshok Splitter",
+     "qty": 1
+    },
+    {
+     "name": "War Flare",
+     "qty": 1
+    },
+    {
+     "name": "War of the Last Alliance",
+     "qty": 1
+    },
+    {
+     "name": "Well-Worn Spatula",
+     "qty": 1
+    }
+   ],
+   "source": "Built by Claude Nov 3, 2026 (was the main list until Nov 19)",
+   "updated": "Nov 3, 2026"
+  }
+ ]
 }

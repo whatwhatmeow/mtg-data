@@ -3,37 +3,37 @@
   {
    "name": "Captain America's Shield",
    "status": "planned",
-   "why": "Buy · ~$2. Pairs with Wings of Freedom for a +11/+11 team pump."
+   "why": "Buy · ~$1. Pairs with Wings of Freedom for a +11/+11 team pump."
   },
   {
    "name": "Captain America, Wings of Freedom",
    "status": "planned",
-   "why": "Buy · ~$0.40. Attacks to give every other Hero +X/+X equal to his toughness."
+   "why": "Buy · ~$0.35. Attacks to give every other Hero +X/+X equal to his toughness."
   },
   {
    "name": "Jhoira, Weatherlight Captain",
    "status": "planned",
-   "why": "Buy · ~$0.55 (Edge of Eternities Commander printing). Draws a card on every historic spell."
+   "why": "Buy · ~$0.50 (Edge of Eternities Commander printing). Draws a card on every historic spell."
   },
   {
    "name": "Heroes' Podium",
    "status": "planned",
-   "why": "Buy · ~$0.45. Pump for every other legendary creature."
+   "why": "Buy · ~$0.50. Pump for every other legendary creature."
   },
   {
    "name": "Shared Animosity",
    "status": "planned",
-   "why": "Buy · ~$3.70. Attackers get +1/+0 for each other attacking Hero."
+   "why": "Buy · ~$1.70. Attackers get +1/+0 for each other attacking Hero."
   },
   {
    "name": "Ripples of Potential",
    "status": "planned",
-   "why": "Buy · ~$6. Proliferate the team's counters."
+   "why": "Buy · ~$5.40. Proliferate the team's counters."
   },
   {
    "name": "The Ozolith",
-   "status": "planned",
-   "why": "Buy later · ~$38. Saves counters when a Hero dies; the one to skip if money's tight."
+   "status": "skipped",
+   "why": "Was ~$38, now ~$60 (Nov 19). Too much of the $150 cap for one card; Thor Odinson took its slot."
   },
   {
    "name": "Cadric, Soul Kindler",
@@ -43,7 +43,7 @@
   {
    "name": "Vibranium Strike Gauntlets",
    "status": "planned",
-   "why": "Buy · ~$0.65 (Marvel Commander rare, unless one is loose). Flash, attaches free, +3/+0 trample and draws on combat damage."
+   "why": "Buy · ~$0.55 (Marvel Commander rare, unless one is loose). Flash, attaches free, +3/+0 trample and draws on combat damage."
   },
   {
    "name": "Hawkeye's Bow",
@@ -58,12 +58,12 @@
   {
    "name": "Mjölnir, Hammer of Thor",
    "status": "planned",
-   "why": "Optional · ~$21. Doubles the equipped creature's damage; equip worthy {1} works on the legendary white/red Heroes."
+   "why": "Optional · ~$15. Doubles the equipped creature's damage; equip worthy {1} works on the legendary white/red Heroes."
   },
   {
    "name": "Thor Odinson",
    "status": "owned",
-   "why": "Freed by the Daredevil fold (Nov 16). A flier with vigilance and double prowess. Confirm the copy is not the one already sleeved in the Fantastic Four deck."
+   "why": "Owned. In the High B2 and B3 lists from Nov 19 in The Ozolith's slot. Flier with vigilance and double prowess. Confirm it isn't the copy sleeved in the Fantastic Four deck."
   },
   {
    "name": "Captain America, Super-Soldier",
@@ -613,16 +613,16 @@
  "format": "Commander",
  "name": "Avengers Assemble",
  "notes": [
-  "Base is the stock precon. His \"slightly upgraded\" swaps aren't recorded yet.",
+  "Base is the stock precon (his physical deck as of Nov 19, 2026, no swaps yet).",
   "Director Nick Fury is the backup commander: he makes Heroes cheaper and draws Heroes on attack.",
-  "Future buy list (prices as of Nov 9–10, 2026): ~$51 for the original seven (~$13 without The Ozolith), plus Gauntlets ~$0.65. Mjölnir (~$21) and Cadric (~$16) are optional."
+  "Buy list (Nov 19, 2026 prices): about $10 for Captain America's Shield, Wings of Freedom, Jhoira, Heroes' Podium, Shared Animosity, Ripples of Potential and Vibranium Strike Gauntlets. The Ozolith (~$60) is dropped. Mjölnir (~$15) and Cadric (~$16) are optional."
  ],
  "order": 39,
  "owner": "Middle",
  "source": "Stock Avengers Assemble precon list, cross-checked on Draftsim and playgroup.gg",
  "target": 100,
- "themeLabel": "Hero typal go-wide",
- "updated": "Nov 10, 2026",
+ "themeLabel": "Heroes tribal",
+ "updated": "Nov 21, 2026",
  "variants": [
   {
    "bracket": "High Bracket 2",
@@ -720,10 +720,10 @@
      "type": "Artifact"
     },
     {
-     "name": "The Ozolith",
+     "name": "Thor Odinson",
      "qty": 1,
-     "role": "recur",
-     "type": "Artifact"
+     "role": "eng",
+     "type": "Creature"
     },
     {
      "name": "Ripples of Potential",
@@ -763,6 +763,72 @@
      "role": "draw",
      "sub": "Equipment",
      "type": "Artifact"
+    },
+    {
+     "name": "Daredevil, Man Without Fear",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Hawkeye, Trick Shot",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Iron Man, Tony Stark",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "SP//dr, Piloted by Peni",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Sensational Spider-Man",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Wraith, Vicious Vigilante",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Captain America, Unbowed",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Marvel Boy, Noh-Varr",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Spider-Woman, Stunning Savior",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Matt Murdock, Justice Seeker",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Captain America, Skybound",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
     }
    ],
    "label": "High B2",
@@ -776,9 +842,10 @@
     "Equipment rule: an Equipment only earns a slot if it attaches itself or enables a combo. Three made it: Captain America's Shield (Wings of Freedom combo), Hawkeye's Bow (Kate engine), Vibranium Strike Gauntlets (attaches free, draws cards). Skipped Unstable Molecule Suit and Iron Man Armor as stat sticks; Mjölnir is on the buy list as an optional upgrade.",
     "Don't put the Bow and the Shield on the same creature: the Shield gives vigilance, so that creature never taps to attack.",
     "From the binder: Adarkar Wastes, Battlefield Forge and Shivan Reef (spares) replace a basic of each color; Captain America, Super-Soldier; Agent Phil Coulson, Monica Rambeau (front face of Monica Rambeau // Photon, Living Light) and The Mighty Thor, Jane Foster (all owned); Path to Exile and a Counterspell from the pile. Check Super-Soldier, Jane Foster and Path aren't already sleeved elsewhere.",
-    "Check the binder first: Araña, Heart of the Spider, Hawkeye, Young Avenger and Hawkeye's Bow are Marvel/Spider-Man cards and may already be in the collection.",
     "37 lands + 7 rocks (Herald's Horn and the cost reducers on top). Honor-Worn Shaku came out for Captain America's Shield.",
-    "His own swaps to the precon aren't recorded yet. Add them to the base list so this version reads as true swaps."
+    "Nov 19, 2026: The Ozolith jumped to about $60, almost half the $150 cap on its own, so Thor Odinson (owned) takes its slot. Hawkeye, Young Avenger and Hawkeye's Bow are owned (Daredevil fold); Araña may still need checking.",
+    "Nov 21, 2026 Hero round (all cards owned, need sleeving): IN Daredevil, Man Without Fear; Hawkeye, Trick Shot; Iron Man, Tony Stark; SP//dr, Piloted by Peni; Sensational Spider-Man; Wraith, Vicious Vigilante; Captain America, Unbowed; Marvel Boy, Noh-Varr; Spider-Woman, Stunning Savior; Matt Murdock, Justice Seeker; Captain America, Skybound. OUT Jocasta, Captain Mar-Vell, Shang-Chi and the Ten Rings, Photon, Mighty Marvel, Professor Hulk (goes to the oldest's Gamma deck), Captain America, Living Legend, Firebird, Blazing Ranger, Falcon and Redwing, Bastion Protector, Heroic Sacrifice, Dismantling Wave. Winter Soldier, Reborn Avenger stays (family's call).",
+    "Why: Trick Shot pings for the number of Heroes every time a Hero enters, plus Kate's power and Thor's +1. Tony Stark's red spells make 2/1 flying Robot Hero tokens, which trigger Cap and Trick Shot. Cap's counters make every Hero modified, so SP//dr draws off every Hero that connects and Matt Murdock gives the whole team ward 1. Unbowed is the flash answer to wipes; Daredevil and Sensational keep the cards coming."
    ],
    "out": [
     {
@@ -868,10 +935,54 @@
     {
      "name": "Love on the Battlefield",
      "qty": 1
+    },
+    {
+     "name": "Jocasta, Automaton Avenger",
+     "qty": 1
+    },
+    {
+     "name": "Captain Mar-Vell, Space-Born",
+     "qty": 1
+    },
+    {
+     "name": "Shang-Chi and the Ten Rings",
+     "qty": 1
+    },
+    {
+     "name": "Photon, Mighty Marvel",
+     "qty": 1
+    },
+    {
+     "name": "Professor Hulk",
+     "qty": 1
+    },
+    {
+     "name": "Captain America, Living Legend",
+     "qty": 1
+    },
+    {
+     "name": "Firebird, Blazing Ranger",
+     "qty": 1
+    },
+    {
+     "name": "Falcon and Redwing",
+     "qty": 1
+    },
+    {
+     "name": "Bastion Protector",
+     "qty": 1
+    },
+    {
+     "name": "Heroic Sacrifice",
+     "qty": 1
+    },
+    {
+     "name": "Dismantling Wave",
+     "qty": 1
     }
    ],
-   "source": "Built Nov 9, 2026 from the stock precon plus EDHREC and EDHLAB upgrade guides",
-   "updated": "Nov 13, 2026"
+   "source": "Built Nov 9, 2026 from the stock precon plus EDHREC and EDHLAB upgrade guides; Hero round Nov 21, 2026 from the mtg-data card database",
+   "updated": "Nov 21, 2026"
   },
   {
    "bracket": "Bracket 3",
@@ -969,10 +1080,10 @@
      "type": "Artifact"
     },
     {
-     "name": "The Ozolith",
+     "name": "Thor Odinson",
      "qty": 1,
-     "role": "recur",
-     "type": "Artifact"
+     "role": "eng",
+     "type": "Creature"
     },
     {
      "name": "Ripples of Potential",
@@ -1030,13 +1141,81 @@
      "role": "draw",
      "sub": "Equipment",
      "type": "Artifact"
+    },
+    {
+     "name": "Daredevil, Man Without Fear",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Hawkeye, Trick Shot",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Iron Man, Tony Stark",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "SP//dr, Piloted by Peni",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Sensational Spider-Man",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Wraith, Vicious Vigilante",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Captain America, Unbowed",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Marvel Boy, Noh-Varr",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Spider-Woman, Stunning Savior",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Matt Murdock, Justice Seeker",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Captain America, Skybound",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
     }
    ],
    "label": "B3",
    "notes": [
     "Same deck as High B2 (Hawkeye package and Equipment included), with three Game Changers in for Fellwar Stone, Relic of Legends and Reconnaissance Mission.",
     "The One Ring is currently in the Sauron deck; this needs a second copy or a swap night.",
-    "Only push here if High B2 is running away with games."
+    "Only push here if High B2 is running away with games.",
+    "Nov 19, 2026: Thor Odinson replaces The Ozolith here too, same as High B2.",
+    "Nov 21, 2026: same 11-for-11 Hero round as High B2 (Daredevil, Trick Shot, Tony Stark, SP//dr, Sensational, Wraith, Unbowed, Marvel Boy, Spider-Woman, Matt Murdock, Skybound in). Winter Soldier, Reborn Avenger stays; Firebird out instead."
    ],
    "out": [
     {
@@ -1138,10 +1317,54 @@
     {
      "name": "Love on the Battlefield",
      "qty": 1
+    },
+    {
+     "name": "Jocasta, Automaton Avenger",
+     "qty": 1
+    },
+    {
+     "name": "Captain Mar-Vell, Space-Born",
+     "qty": 1
+    },
+    {
+     "name": "Shang-Chi and the Ten Rings",
+     "qty": 1
+    },
+    {
+     "name": "Photon, Mighty Marvel",
+     "qty": 1
+    },
+    {
+     "name": "Professor Hulk",
+     "qty": 1
+    },
+    {
+     "name": "Captain America, Living Legend",
+     "qty": 1
+    },
+    {
+     "name": "Firebird, Blazing Ranger",
+     "qty": 1
+    },
+    {
+     "name": "Falcon and Redwing",
+     "qty": 1
+    },
+    {
+     "name": "Bastion Protector",
+     "qty": 1
+    },
+    {
+     "name": "Heroic Sacrifice",
+     "qty": 1
+    },
+    {
+     "name": "Dismantling Wave",
+     "qty": 1
     }
    ],
    "source": "High B2 version plus EDHREC's three Game Changer picks",
-   "updated": "Nov 13, 2026"
+   "updated": "Nov 21, 2026"
   }
  ]
 }

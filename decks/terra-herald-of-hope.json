@@ -1,23 +1,224 @@
 {
- "name": "Terra, Herald of Hope",
- "owner": "Andrew",
- "commanders": [
-  "Terra, Herald of Hope"
+ "adds": [
+  {
+   "name": "Swords to Plowshares",
+   "status": "owned (Jace precon)",
+   "why": "High. One-mana instant exile. Suggested cut: Coin of Fate."
+  },
+  {
+   "name": "Path to Exile",
+   "status": "owned (Jace precon)",
+   "why": "High. One-mana instant exile. Suggested cut: Key to the City."
+  },
+  {
+   "name": "Archon of Cruelty",
+   "status": "owned (Jace precon)",
+   "why": "High. The best reanimation target here: on enter and attack an opponent sacrifices a creature or planeswalker, discards, loses 3; you draw and gain 3. Suggested cut: Umaro, Raging Yeti."
+  },
+  {
+   "name": "Avacyn, Angel of Horror",
+   "status": "owned (Jace precon)",
+   "why": "Mid. 8-mana flier that returns your nontoken creatures when they die. Too costly to cast; a reanimation and Rise of the Dark Realms target. Suggested cut: Gogo, Mysterious Mime."
+  },
+  {
+   "name": "Lingering Souls",
+   "status": "owned (Jace precon)",
+   "why": "Mid. Four 1/1 fliers from one card; if Terra mills it, you can still flash it back. Suggested cut: Mog, Moogle Warrior."
+  },
+  {
+   "name": "Despark",
+   "status": "owned (Jace precon)",
+   "why": "Mid. Two-mana exile for anything with mana value 4 or more. Suggested cut: Espers to Magicite."
+  },
+  {
+   "name": "Serra's Emissary",
+   "status": "owned (Jace precon)",
+   "why": "Mid. Reanimate it naming Creature and opponents' creatures can't touch you or your board. Suggested cut: Interceptor, Shadow's Hound."
+  },
+  {
+   "name": "Reflecting Pool",
+   "status": "owned (Jace precon)",
+   "why": "Taps for any color your other lands make. In for a Plains."
+  },
+  {
+   "name": "Fabled Passage",
+   "status": "owned (Jace precon)",
+   "why": "Fetches a basic; fills the graveyard count by one. In for a Plains."
+  },
+  {
+   "name": "Caves of Koilos",
+   "status": "owned (Jace precon)",
+   "why": "W/B pain land. In for a Swamp."
+  },
+  {
+   "name": "Turbulent Crater",
+   "status": "owned (Jace precon)",
+   "why": "B/R land. In for a Mountain if you want more fixing."
+  },
+  {
+   "name": "Rakdos Signet",
+   "status": "owned (Jace precon)",
+   "why": "Low. Another rock if the deck feels slow."
+  },
+  {
+   "name": "Archfiend of Despair",
+   "status": "owned (Jace precon)",
+   "why": "Low-mid. Reanimation target that stops lifegain and drains each end step."
+  },
+  {
+   "name": "Overlord of the Mistmoors",
+   "status": "owned (Jace precon)",
+   "why": "Low-mid. Reanimated, it arrives as a full 6/6 and makes two 2/1 fliers."
+  },
+  {
+   "name": "Elspeth, Sun's Champion",
+   "status": "owned (Jace precon)",
+   "why": "Low-mid. Strong on its own; doesn't use the graveyard plan."
+  },
+  {
+   "name": "Flawless Maneuver",
+   "status": "owned (Jace precon)",
+   "why": "Low. Free indestructible for your creatures with Terra out; answers a wipe."
+  },
+  {
+   "name": "Persist",
+   "status": "owned (Doom cut; shared with Doom Unrivaled)",
+   "why": "High. Two-mana reanimation for any nonlegendary creature: Archon of Cruelty, Sepulchral Primordial, Archfiend of Depravity. Suggested cut: Stitch Together."
+  },
+  {
+   "name": "Animate Dead",
+   "status": "owned (Doom cut; shared with Doom Unrivaled)",
+   "why": "High. Two-mana reanimation from any graveyard. Suggested cut: Setzer, Wandering Gambler."
+  },
+  {
+   "name": "Behold the Sinister Six!",
+   "status": "owned (Doom cut; spare)",
+   "why": "Mid-high. 7 mana: return up to six creatures with different names. The deck is mostly unique FF legends, so it rebuilds after a wipe. Suggested cut: Cyan, Vengeful Samurai."
+  },
+  {
+   "name": "Victimize",
+   "status": "owned (Doom cut; shared with Doom Unrivaled)",
+   "why": "Mid-high. Sacrifice one creature (a Terra-recurred small one) to return two. Suggested cut: Locke, Treasure Hunter."
+  },
+  {
+   "name": "Zombify",
+   "status": "owned (Doom cut; shared with Doom Unrivaled)",
+   "why": "Mid. 4-mana reanimation for any creature. Suggested cut: Siegfried, Famed Swordsman."
+  },
+  {
+   "name": "The Cruelty of Gix",
+   "status": "owned (Doom cut; shared with Doom Unrivaled)",
+   "why": "Mid. Saga: chapter II tutors, chapter III reanimates from any graveyard. Suggested cut: Sabin, Master Monk."
+  },
+  {
+   "name": "Breach the Multiverse",
+   "status": "owned (Doom cut; spare; also printed as Rally the Evil Warriors)",
+   "why": "Mid. 7 mana: everyone mills 10 and you take the best creature or planeswalker; fills Terra's graveyard too. Suggested cut: Strago and Relm."
+  },
+  {
+   "name": "Fated Return",
+   "status": "owned (Doom cut; spare)",
+   "why": "Low-mid. 6-mana reanimation from any graveyard, indestructible. Last in line. Suggested cut: Gau, Feral Youth."
+  },
+  {
+   "name": "Carrion Cruiser",
+   "status": "owned (Doom cut; shared with Doom Unrivaled)",
+   "why": "Mid. Vehicle that mills 2 and returns a creature card to hand; matches Terra's mill-and-recur plan. Suggested cut: Laughing Mad."
+  },
+  {
+   "name": "Skullclamp",
+   "status": "owned (spare copy from the second Marvel Commander set)",
+   "why": "Mid-high. Card draw off the small creatures Terra keeps returning. Suggested cut: Snort."
+  },
+  {
+   "name": "Murmuring Volume",
+   "status": "owned (Doom cut; shared with Doom Unrivaled)",
+   "why": "Low-mid. Any-color rock that can discard a big creature to reanimate. Suggested cut: Commander's Sphere."
+  },
+  {
+   "name": "Fellwar Stone",
+   "status": "owned (spare; another copy in the second Marvel Commander set)",
+   "why": "Low. 2-mana rock. Suggested cut: Wayfarer's Bauble."
+  },
+  {
+   "name": "Doom's Time Platform",
+   "status": "owned (spare)",
+   "why": "Low. Suspends a graveyard card whenever you attack; cute with Terra's mill but slow. No suggested cut."
+  },
+  {
+   "name": "Black Market Connections",
+   "status": "owned (second Marvel Commander set; spare)",
+   "why": "High. Pay life for a card, Treasure or 3/2 each main phase; the best draw engine on offer. Suggested cut: Ruin Grinder."
+  },
+  {
+   "name": "Generous Gift",
+   "status": "owned (second Marvel Commander set)",
+   "why": "Mid-high. Instant answer to any permanent; they get a 3/3. Suggested cut: Bedevil."
+  },
+  {
+   "name": "Terminate",
+   "status": "owned (second Marvel Commander set; spare)",
+   "why": "Mid. Two-mana instant kill, no regeneration. Suggested cut: Legions to Ashes."
+  },
+  {
+   "name": "Heroic Return",
+   "status": "owned (second Marvel Commander set)",
+   "why": "Mid. Instant reanimation of any creature; costs 4 if a creature is attacking you, so it doubles as a combat blowout. Suggested cut: Rejoin the Fight (opponents pick what comes back)."
+  },
+  {
+   "name": "Seize the Day",
+   "status": "owned (second Marvel Commander set)",
+   "why": "Mid. Extra combat with flashback: a second Terra combat-damage trigger (another return) each time. Suggested cut: Combustible Gearhulk."
+  },
+  {
+   "name": "Relic of Legends",
+   "status": "owned (second Marvel Commander set)",
+   "why": "Low-mid. Any-color rock that also taps your legends for mana; the deck is full of FF legends. Suggested cut: Meteor Golem."
+  },
+  {
+   "name": "Heart-Shaped Herb",
+   "status": "owned (second Marvel Commander set)",
+   "why": "Low-mid. Sacrifice and return a creature with three +1/+1 counters, you become the monarch; replays an enter trigger (Archon, Sun Titan). Suggested cut: Big Score."
+  },
+  {
+   "name": "Endless Ranks of HYDRA",
+   "status": "owned (second Marvel Commander set)",
+   "why": "Low-mid. A 2/1 menace per opponent; pay {1}{B} when Terra enters or attacks to get it back from the graveyard, so Terra's mill turns it into a repeat token maker. No suggested cut."
+  },
+  {
+   "name": "Austere Command",
+   "status": "owned (second Marvel Commander set)",
+   "why": "Low-mid. Modal wipe (e.g. big creatures plus artifacts) that can spare Terra's small army. Alternative to Tragic Arrogance. No suggested cut."
+  },
+  {
+   "name": "Lightning Greaves",
+   "status": "owned (second Marvel Commander set)",
+   "why": "Low-mid. Second haste-and-shroud piece for Terra at removal-heavy tables; Terra's triggers target graveyard cards, so shroud doesn't get in the way. No suggested cut."
+  },
+  {
+   "name": "Spectator Seating",
+   "status": "owned (second Marvel Commander set)",
+   "why": "R/W land, untapped in multiplayer. In for a Plains."
+  },
+  {
+   "name": "Luxury Suite",
+   "status": "owned (second Marvel Commander set; the other copy is in Doom's Big Wheels)",
+   "why": "B/R land, untapped in multiplayer. In for a Mountain."
+  },
+  {
+   "name": "Assimilation Assessor",
+   "status": "owned (Borg precon)",
+   "why": "Low-mid. 5-mana 5/5: exiles an opponent's graveyard on entering (stops their reanimation) and steals a creature from it on each attack. No suggested cut."
+  },
+  {
+   "name": "Assimilate the Wounded",
+   "status": "owned (Borg precon)",
+   "why": "Low. 3-mana instant: after a wipe or big combat, take one creature per opponent that died this turn. Situational. No suggested cut."
+  }
  ],
- "colors": [
-  "W",
-  "B",
-  "R"
- ],
- "format": "Commander",
- "order": 9.8,
+ "baseLabel": "Stock precon",
  "bracket": "Bracket 2",
  "bracketGoal": "Stock precon: 0 Game Changers",
- "target": 100,
- "themeLabel": "Mill and reanimate",
- "baseLabel": "Stock precon",
- "source": "Revival Trance (FINAL FANTASY VI) Commander precon, stock list",
- "updated": "Nov 21, 2026",
  "cards": [
   {
    "name": "Angel of the Ruins",
@@ -572,93 +773,29 @@
    "type": "Artifact"
   }
  ],
- "adds": [
-  {
-   "name": "Swords to Plowshares",
-   "status": "owned (Jace precon)",
-   "why": "High. One-mana instant exile. Suggested cut: Coin of Fate."
-  },
-  {
-   "name": "Path to Exile",
-   "status": "owned (Jace precon)",
-   "why": "High. One-mana instant exile. Suggested cut: Key to the City."
-  },
-  {
-   "name": "Archon of Cruelty",
-   "status": "owned (Jace precon)",
-   "why": "High. The best reanimation target here: on enter and attack an opponent sacrifices a creature or planeswalker, discards, loses 3; you draw and gain 3. Suggested cut: Umaro, Raging Yeti."
-  },
-  {
-   "name": "Avacyn, Angel of Horror",
-   "status": "owned (Jace precon)",
-   "why": "Mid. 8-mana flier that returns your nontoken creatures when they die. Too costly to cast; a reanimation and Rise of the Dark Realms target. Suggested cut: Gogo, Mysterious Mime."
-  },
-  {
-   "name": "Lingering Souls",
-   "status": "owned (Jace precon)",
-   "why": "Mid. Four 1/1 fliers from one card; if Terra mills it, you can still flash it back. Suggested cut: Mog, Moogle Warrior."
-  },
-  {
-   "name": "Despark",
-   "status": "owned (Jace precon)",
-   "why": "Mid. Two-mana exile for anything with mana value 4 or more. Suggested cut: Espers to Magicite."
-  },
-  {
-   "name": "Serra's Emissary",
-   "status": "owned (Jace precon)",
-   "why": "Mid. Reanimate it naming Creature and opponents' creatures can't touch you or your board. Suggested cut: Interceptor, Shadow's Hound."
-  },
-  {
-   "name": "Reflecting Pool",
-   "status": "owned (Jace precon)",
-   "why": "Taps for any color your other lands make. In for a Plains."
-  },
-  {
-   "name": "Fabled Passage",
-   "status": "owned (Jace precon)",
-   "why": "Fetches a basic; fills the graveyard count by one. In for a Plains."
-  },
-  {
-   "name": "Caves of Koilos",
-   "status": "owned (Jace precon)",
-   "why": "W/B pain land. In for a Swamp."
-  },
-  {
-   "name": "Turbulent Crater",
-   "status": "owned (Jace precon)",
-   "why": "B/R land. In for a Mountain if you want more fixing."
-  },
-  {
-   "name": "Rakdos Signet",
-   "status": "owned (Jace precon)",
-   "why": "Low. Another rock if the deck feels slow."
-  },
-  {
-   "name": "Archfiend of Despair",
-   "status": "owned (Jace precon)",
-   "why": "Low-mid. Reanimation target that stops lifegain and drains each end step."
-  },
-  {
-   "name": "Overlord of the Mistmoors",
-   "status": "owned (Jace precon)",
-   "why": "Low-mid. Reanimated, it arrives as a full 6/6 and makes two 2/1 fliers."
-  },
-  {
-   "name": "Elspeth, Sun's Champion",
-   "status": "owned (Jace precon)",
-   "why": "Low-mid. Strong on its own; doesn't use the graveyard plan."
-  },
-  {
-   "name": "Flawless Maneuver",
-   "status": "owned (Jace precon)",
-   "why": "Low. Free indestructible for your creatures with Terra out; answers a wipe."
-  }
+ "colors": [
+  "W",
+  "B",
+  "R"
  ],
+ "commanders": [
+  "Terra, Herald of Hope"
+ ],
+ "format": "Commander",
+ "name": "Terra, Herald of Hope",
  "notes": [
   "Nov 21, 2026: the stock Revival Trance precon (Final Fantasy VI), commander Terra, Herald of Hope; Celes, Rune Knight (the deck's second legend) is in the 99.",
   "Plan: Terra mills two each combat and brings back small creatures; the deck reanimates bigger threats (Sepulchral Primordial, Sun Titan, Archfiend of Depravity) and wins in combat. Reviews flag tension between Terra's small-creature recursion and the big reanimation targets.",
   "Cards to add are the Mardu-legal cards from Jace's Reality Fracture precon, which you opened for parts. Best of them: Swords to Plowshares, Path to Exile, Archon of Cruelty. Not simmed; there's no Terra simulator yet.",
-  "Stock list includes 3 Mountain, 4 Plains and 3 Swamp. No Game Changers."
+  "Stock list includes 3 Mountain, 4 Plains and 3 Swamp. No Game Changers.",
+  "Nov 21, 2026: added Doom-deck cuts (Big Wheels bench and Doom Unrivaled bench) as potential swaps only; the 99 is unchanged. Cards marked 'shared with Doom Unrivaled' appear in at least one Doom Unrivaled build-today list: check which version is sleeved, or that you have a spare copy, before moving one. Top three overall: Swords to Plowshares, Archon of Cruelty, Persist. Suggested cuts don't repeat the Jace-precon ones.",
+  "Nov 21, 2026: added Mardu-legal cards from the second set of Marvel Commander precons and the Borg precon as potential swaps. Terra's oracle text returns a creature with POWER 3 or less (not mana value). The second Marvel set gives a spare Skullclamp and Fellwar Stone, so those no longer need to come out of Doom Unrivaled. Marvel cards Doom Unrivaled's build-today lists already use (Thran Dynamo, Gilded Lotus, Chromatic Lantern, Thought Vessel, Syphon Mind, Whispersilk Cloak, Plaza of Heroes, Toxic Deluge) are left off. Borg cards aren't listed one by one in the card data, so only the clear Borg graveyard cards are here."
  ],
+ "order": 9.8,
+ "owner": "Andrew",
+ "source": "Revival Trance (FINAL FANTASY VI) Commander precon, stock list",
+ "target": 100,
+ "themeLabel": "Mill and reanimate",
+ "updated": "Nov 21, 2026 (Doom-deck, Marvel Commander and Borg precon cards added as potential swaps; list unchanged)",
  "variants": []
 }

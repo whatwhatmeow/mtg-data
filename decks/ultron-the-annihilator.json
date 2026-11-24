@@ -1,0 +1,780 @@
+{
+ "adds": [
+  {
+   "name": "Kingpin, Wilson Fisk",
+   "status": "check",
+   "why": "In the 99 (added Nov 24, confirm you own it or buy, about $0.50). 3/6 menace Villain: two Treasures once a turn when you sacrifice a creature; each Treasure drains with Ultron. Replaced Common Crook."
+  },
+  {
+   "name": "Genesis of the Daleks",
+   "status": "check",
+   "why": "In the 99 (added Nov 24, confirm you own it or buy, about $0.43). Six 3/3 menace Dalek artifact tokens over three turns. Sacrifice most before chapter IV so the villainous choice favors you. Replaced Sign in Blood."
+  },
+  {
+   "name": "Phyrexian Scriptures",
+   "status": "check",
+   "why": "In the 99 (added Nov 24, confirm you own it or buy, about $0.25-$0.90). Near one-sided wipe: Ultron and the artifact army survive. Chapter I: make Disciple of the Vault (or Plunderer) an artifact. Sacrifice your other nonartifact creatures before chapter II. Replaced Village Rites."
+  },
+  {
+   "name": "Idol of Oblivion",
+   "status": "check",
+   "why": "In the 99 (added Nov 24, confirm you own it or buy). Draws most turns since a token is made almost every turn; make the token before tapping it. Replaced Hot Dog Cart."
+  },
+  {
+   "name": "Disciple of the Vault",
+   "status": "wishlist",
+   "why": "In the 99 (buy). A second drain on every artifact that dies: two life a sacrifice with Ultron."
+  },
+  {
+   "name": "Marionette Master",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Three Servos, and every artifact of yours that dies drains one opponent for Marionette's power."
+  },
+  {
+   "name": "Mirkwood Bats",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Drains on every token made and every token sacrificed."
+  },
+  {
+   "name": "Pitiless Plunderer",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Treasure for each creature that dies: the Treasure drains again when you use it."
+  },
+  {
+   "name": "Bastion of Remembrance",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Drain on every creature death."
+  },
+  {
+   "name": "Zulaport Cutthroat",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Drain on every creature death."
+  },
+  {
+   "name": "Doom Reigns Supreme",
+   "status": "check",
+   "why": "In the 99 (check). Drains on every Villain that enters, and Ultron's tokens are Robot Villains. Yours is on Loki's list (D tier); take it if Loki isn't built, or buy one."
+  },
+  {
+   "name": "Mirrorworks",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Copies nontoken artifacts too."
+  },
+  {
+   "name": "Viscera Seer",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Free sacrifice outlet."
+  },
+  {
+   "name": "Ashnod's Altar",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Sacrifice a creature for {C}{C}: the big turns come from here."
+  },
+  {
+   "name": "Skullclamp",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Yours is in Cloud. Servos, Myr and Robot tokens become two cards each."
+  },
+  {
+   "name": "Deadly Dispute",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Yours is in Doom Unrivaled."
+  },
+  {
+   "name": "Trading Post",
+   "status": "check",
+   "why": "In the 99 (precon spare). Spare from the ripped Marvel precons. Sac a creature to get an artifact back."
+  },
+  {
+   "name": "Servo Schematic",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Servo when it enters and when it dies."
+  },
+  {
+   "name": "Myr Battlesphere",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Five bodies; a Construct, so Overlord pumps it."
+  },
+  {
+   "name": "Ichor Wellspring",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Draw on enter and on death."
+  },
+  {
+   "name": "Coveted Jewel",
+   "status": "check",
+   "why": "In the 99 (precon spare). Spare from the ripped Marvel precons."
+  },
+  {
+   "name": "Read the Bones",
+   "status": "wishlist",
+   "why": "In the 99 (buy)."
+  },
+  {
+   "name": "Infernal Grasp",
+   "status": "wishlist",
+   "why": "In the 99 (buy)."
+  },
+  {
+   "name": "Go for the Throat",
+   "status": "wishlist",
+   "why": "In the 99 (buy)."
+  },
+  {
+   "name": "Bone Shards",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Sacrifice a token to kill a creature or planeswalker."
+  },
+  {
+   "name": "Bitter Triumph",
+   "status": "wishlist",
+   "why": "In the 99 (buy)."
+  },
+  {
+   "name": "Feed the Swarm",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Yours are on Loki's and Sauron's lists. Hits enchantments too."
+  },
+  {
+   "name": "Meteor Golem",
+   "status": "check",
+   "why": "In the 99 (precon spare). Spare from the ripped precons. Kept Nov 24 by choice: answers anything and drains when sacrificed."
+  },
+  {
+   "name": "Massacre Wurm",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Wipes small creatures, drains for each."
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Hexproof and haste for Ultron."
+  },
+  {
+   "name": "Throne of the High City",
+   "status": "check",
+   "why": "In the 99 (precon spare). Spare from the ripped Marvel precons."
+  },
+  {
+   "name": "Myriad Landscape",
+   "status": "wishlist",
+   "why": "In the 99 (buy)."
+  },
+  {
+   "name": "War Room",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Draw for 1 life."
+  },
+  {
+   "name": "Buried Ruin",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Gets an artifact back."
+  },
+  {
+   "name": "Darksteel Citadel",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Artifact land for Metalwork and Cranial Plating."
+  },
+  {
+   "name": "Treasure Vault",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Cash in for Treasures late: each drains."
+  },
+  {
+   "name": "Castle Locthwain",
+   "status": "wishlist",
+   "why": "In the 99 (buy). Untapped Swamp-ish land that draws."
+  },
+  {
+   "name": "Liliana, Dreadhorde General",
+   "status": "wishlist",
+   "why": "Upgrade, about $10. A card for every creature that dies. Suggested cut: re-pick at upgrade time (Village Rites already cut Nov 24)."
+  },
+  {
+   "name": "Grim Hireling",
+   "status": "wishlist",
+   "why": "Upgrade, about $11. Two Treasures on combat damage; Treasures drain. Suggested cut: re-pick at upgrade time (Village Rites already cut Nov 24)."
+  },
+  {
+   "name": "Revel in Riches",
+   "status": "wishlist",
+   "why": "Upgrade, about $20. Treasures off opposing deaths, and an alternate win. Suggested cut: re-pick at upgrade time (Hot Dog Cart already cut Nov 24)."
+  },
+  {
+   "name": "Roaming Throne",
+   "status": "wishlist",
+   "why": "Upgrade, about $47. Name Robot: Ultron's token trigger and Ultron, Artificial Malevolence's copy trigger both happen twice. Suggested cut: re-pick at upgrade time (Sign in Blood already cut Nov 24)."
+  },
+  {
+   "name": "Galactus, Devourer of Worlds",
+   "status": "check",
+   "why": "Fun option from the ripped precons. Suggested cut: Massacre Wurm."
+  },
+  {
+   "name": "Archon of Cruelty",
+   "status": "check",
+   "why": "From the ripped Jace precon if it's still loose. Suggested cut: re-pick (Common Crook already cut Nov 24)."
+  },
+  {
+   "name": "Necropotence",
+   "status": "wishlist",
+   "why": "Bracket 3 option (Game Changer)."
+  },
+  {
+   "name": "The One Ring",
+   "status": "owned",
+   "why": "Bracket 3 option (Game Changer; yours is in Tom's Bombs)."
+  },
+  {
+   "name": "Rescue from the Underworld",
+   "status": "owned",
+   "why": "Cut Nov 23 for Chief of the Foundry. Five mana and slow; back in if you want more recursion."
+  },
+  {
+   "name": "Eerie Gravestone",
+   "status": "owned",
+   "why": "Cut Nov 23 for Doctor Doom."
+  },
+  {
+   "name": "The Vision",
+   "status": "check",
+   "why": "In the 99 (check binder; Marvel rare, about $0.54). Flying 2/5 Robot: each noncreature spell gives double strike, indestructible or a card."
+  },
+  {
+   "name": "Vision, Synthezoid Avenger",
+   "status": "check",
+   "why": "Alternative Vision, likely a spare from the ripped Avengers precon. Flying Robot that grows or phases out on opponents' spells. Swap it for The Vision if that's the copy you have."
+  },
+  {
+   "name": "Myr Retriever",
+   "status": "wishlist",
+   "why": "Cut Nov 23 for The Vision (was a buy)."
+  },
+  {
+   "name": "Agents of HYDRA",
+   "status": "owned",
+   "why": "Cut Nov 23 for Ultron Drone: neither it nor its Villain token is an artifact, so no Ultron drain and no Chief or Overlord pump."
+  },
+  {
+   "name": "Common Crook",
+   "status": "owned",
+   "why": "Cut Nov 24 for Kingpin, Wilson Fisk."
+  },
+  {
+   "name": "Sign in Blood",
+   "status": "owned",
+   "why": "Cut Nov 24 for Genesis of the Daleks."
+  },
+  {
+   "name": "Hot Dog Cart",
+   "status": "owned",
+   "why": "Cut Nov 24 for Idol of Oblivion."
+  },
+  {
+   "name": "Village Rites",
+   "status": "wishlist",
+   "why": "Cut Nov 24 for Phyrexian Scriptures (was a buy; no longer needed)."
+  }
+ ],
+ "baseLabel": "Main (built from cuts and spares)",
+ "bracket": "Bracket 2",
+ "bracketGoal": "0 Game Changers, no infinite combos · built to hold up at a Bracket 3 table",
+ "cards": [
+  {
+   "name": "Ultron, Artificial Malevolence",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultron, Machine Overlord",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultron's Auxiliary",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Disciple of the Vault",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Marionette Master",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Mirkwood Bats",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Pitiless Plunderer",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Bastion of Remembrance",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Zulaport Cutthroat",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Doom Reigns Supreme",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Mirrorworks",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Strionic Resonator",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Age of Ultron",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Viscera Seer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ashnod's Altar",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Kingpin's Enforcers",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Skullclamp",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Deadly Dispute",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Phyrexian Scriptures",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Nasty End",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Trading Post",
+   "qty": 1,
+   "role": "recur",
+   "type": "Artifact"
+  },
+  {
+   "name": "Rat King, Pale Piper",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Servo Schematic",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Myr Battlesphere",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Class-4 Tactical Cube",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Treasure Map // Treasure Cove",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Idol of Oblivion",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Kingpin, Wilson Fisk",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultron Drone",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Doom's Servo-Guards",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Doombot Harbinger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Project Deathlok Soldier",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Rat King, Verminister",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Big Mother Mouser",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Ichor Wellspring",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Doctor Doom",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "A.I.M. Synthoids",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "H.E.R.B.I.E. Scout Unit",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Viv Vision, Teen Synthezoid",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Metalwork Colossus",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "The Vision",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Chief of the Foundry",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Leaden Myr",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Hedron Crawler",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Everflowing Chalice",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Stonespeaker Crystal",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Murmuring Volume",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Coveted Jewel",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Jhoira's Familiar",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Read the Bones",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Genesis of the Daleks",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Infernal Grasp",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Go for the Throat",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Bone Shards",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Bitter Triumph",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Feed the Swarm",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "The Spot's Portal",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Terror Ballista",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Meteor Golem",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Battle of Wolf 359",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Massacre Wurm",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Creature"
+  },
+  {
+   "name": "Exsanguinate",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Cranial Plating",
+   "qty": 1,
+   "role": "win",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Castle Doom",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Villainous Hideout",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Baxter Building",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Surveillance Room",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Vibrant Cityscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Throne of the High City",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Myriad Landscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "War Room",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Buried Ruin",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Darksteel Citadel",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Treasure Vault",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Castle Locthwain",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 22,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "B"
+ ],
+ "commanders": [
+  "Ultron the Annihilator"
+ ],
+ "format": "Commander",
+ "name": "Ultron: Age of Annihilation",
+ "notes": [
+  "Nov 24, 2026: four swaps. Kingpin, Wilson Fisk in for Common Crook (two Treasures once a turn off any creature sacrifice; Villain for Doom Reigns Supreme). Genesis of the Daleks in for Sign in Blood (six 3/3 menace artifact Daleks; sacrifice most before chapter IV). Phyrexian Scriptures in for Village Rites (near one-sided wipe: the artifact army and Ultron survive; chapter I makes Disciple or Plunderer an artifact; sacrifice your other nonartifact creatures before chapter II). Idol of Oblivion in for Hot Dog Cart (draws most turns; make a token first). Meteor Golem kept by choice. Considered and passed: Graaz (forces the aristocrats to attack, resets sizes to 5/3), Charcoal Diamond (enters tapped; Mind Stone or Arcane Signet better if a rock is wanted).",
+  "Nov 23, 2026: Ultron Drone back in for Agents of HYDRA (the only creature here whose body and token are both nonartifact).",
+  "Nov 23, 2026: The Vision in for Myr Retriever. About 20 noncreature spells here (rocks, equipment, removal), so he draws, gains double strike or goes indestructible most turns; he's also a Robot, so Overlord makes him 4/7. If your Vision is Vision, Synthezoid Avenger instead, use that.",
+  "Nov 23, 2026: Rat King, Verminister in for Ultron Drone, so both Rat Kings are in. Something of yours leaves the battlefield almost every turn here, so Verminister makes a Rat and grows each end step; Pale Piper adds a Rat whenever a nontoken creature leaves and turns tokens into cards. Sacrifice three Rats to Verminister to bring back Metalwork Colossus, Myr Battlesphere or Doctor Doom.",
+  "Nov 23, 2026: Doctor Doom in for Eerie Gravestone (two 3/3 Robot Villain Doombots on entry, indestructible while you control an artifact creature, draws every end step). Castle Doom in for a Swamp (taps for artifact spells; sacrifice an artifact for a 3/3 Doombot, which drains with Ultron). Castle Doom is in Doom Unrivaled's sleeved Nov 22 list: move it and backfill Doom Unrivaled with a different land, or buy a second (about $0.53).",
+  "Nov 23, 2026: Chief of the Foundry in (just picked up; +1/+1 to every other artifact creature, and Overlord pumps it as a Construct), Rescue from the Underworld out.",
+  "Nov 23, 2026: new deck, chosen over a colorless Ultron, Artificial Malevolence build. Black adds removal, sacrifice outlets, recursion and drain payoffs, and Artificial Malevolence still comes along in the 99.",
+  "Plan: Ultron makes a 2/2 Robot Villain token every time he enters or attacks, and each opponent loses 1 whenever another artifact goes to your graveyard. Sacrifice Robot tokens, Servos, Myr, Daleks, Treasures, Food and Clue-style artifacts to Ashnod's Altar, Viscera Seer, Kingpin's Enforcers and the draw spells. Disciple of the Vault, Mirkwood Bats, Marionette Master, Bastion and Zulaport stack more drain on top. Finish with Exsanguinate, Cranial Plating on a flying Ultron, Genesis of the Daleks, or a wide Overlord-pumped swing.",
+  "No two-card infinite combos (checked: Ashnod's Altar + Pitiless Plunderer + Project Deathlok Soldier loses 1 mana a loop). Scrap Trawler and Krark-Clan Ironworks left out on purpose.",
+  "Where the cards come from (as of Nov 23; Nov 24 swaps add 4 cards to confirm or buy, about $2-3 total, and remove Village Rites from the buy list): 44 free, The Vision to check in the binder, 4 precon spares to confirm, Doom Reigns Supreme from Loki's list or bought, 28 cards to buy. Ultron the Annihilator (about $24) doesn't count toward the league cap.",
+  "Not simmed yet."
+ ],
+ "order": 60,
+ "owner": "Andrew",
+ "source": "Nov 23, 2026 build from deck cuts, the Doom Unrivaled bench, the ripped precons and Marvel commons; replaces the Ultron, Artificial Malevolence build",
+ "target": 100,
+ "themeLabel": "Robot army aristocrats: every artifact that dies drains",
+ "updated": "Nov 24, 2026",
+ "variants": []
+}

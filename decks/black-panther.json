@@ -27,7 +27,7 @@
    "type": "Creature"
   },
   {
-   "name": "Birds of Paradise",
+   "name": "Avacyn's Pilgrim",
    "qty": 1,
    "role": "ramp",
    "type": "Creature"
@@ -243,9 +243,9 @@
    "type": "Artifact"
   },
   {
-   "name": "Scourglass",
+   "name": "Aladdin's Ring",
    "qty": 1,
-   "role": "wipe",
+   "role": "rem",
    "type": "Artifact"
   },
   {
@@ -493,6 +493,10 @@
  "format": "Commander",
  "name": "Black Panther: Vibranium Forge",
  "notes": [
+  "Nov 24, 2026: Scourglass out, Aladdin's Ring in. Scourglass wiped T'Challa and nearly every creature in the deck. The Ring is repeatable removal or reach (4 damage to any target), can be paid with Vibranium/colorless mana, triggers Zuri/W'Kabi/T'Challa as an 8-MV artifact and discounts Metalwork Colossus by 8. Kept Coveted Jewel (tap it the turn it lands) and Mind's Eye.",
+  "Nov 23, 2026 (pending, not made yet): consider Talisman of Progress (2 spares in the bulk box from the precons) in for Avacyn's Pilgrim. A rock survives his own Martial Coup / Vanquish the Horde, counts as an artifact for Metalwork Colossus, and gets a 4-mana artifact out on turn 3. Talisman of Hierarchy (bulk box) works too. Pilgrim would go back to the bulk box.",
+  "Nov 23, 2026: Birds of Paradise pulled for Andrew's Tom's Bombs; Avacyn's Pilgrim in (from the Token Triumph bulk box) — same 1-drop slot, and its white mana casts everything here.",
+  "Nov 23, 2026: now the oldest's A-tier deck (swapped with Hulk). Precon Rip re-run: Black Panther keeps Idol of Oblivion, Loyal Guardian, Dispatch, Scavenger Grounds, Martial Coup and the Token Triumph upgrades (Conclave Tribunal, White Sun's Zenith, Curse of Bounty); its rip Terramorphic Expanse went to Hulk, so sleeve one of the spares instead.",
   "Stock precon. Six directions: big artifacts, monarch, commander equipment, go-wide tokens, +1/+1 counters, and generic ramp. Scrollvault rates it a 4.6/10 Bracket 2 deck.",
   "Vibranium tokens are indestructible artifacts that tap for {C}, and that mana can only cast artifact spells. T'Challa makes one when he enters or attacks and gets two +1/+1 counters whenever you cast an artifact with mana value 4 or more.",
   "Weak spots: Divine Visitation, Martial Coup, Overwhelming Stampede, Vanquish the Horde and Harmonize can't use Vibranium mana. Coveted Jewel hands opponents mana and the crown in one hit. M'Baku gives an opponent the monarch."
@@ -502,7 +506,7 @@
  "source": "Stock Wakanda Forever precon list (mtg.wtf), Nov 7, 2026",
  "target": 100,
  "themeLabel": "Vibranium & monarch",
- "updated": "Nov 7, 2026",
+ "updated": "Nov 24, 2026",
  "variants": [
   {
    "adds": [
@@ -861,6 +865,11 @@
      "name": "Agent Phil Coulson",
      "status": "planned",
      "why": "Low option. 2-mana 2/2 vigilance; tap to put a +1/+1 counter on each other Hero. The deck doesn't run enough Heroes to make it worth a slot."
+    },
+    {
+     "name": "Thought Vessel",
+     "status": "owned",
+     "why": "Alternate rock for the old Birds slot (Mind Stone got the nod). Swap in if you'd rather have no maximum hand size than the late-game card."
     }
    ],
    "bracket": "Bracket 2 (high)",
@@ -980,6 +989,12 @@
      "qty": 1,
      "role": "draw",
      "type": "Creature"
+    },
+    {
+     "name": "Mind Stone",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
     }
    ],
    "label": "Crown & Forge",
@@ -993,7 +1008,8 @@
     "Don't Move: cast before combat and don't attack, crew or tap Birds that turn. Vibranium tokens aren't creatures, so tap them freely.",
     "Captain America's Shield is a confirmed spare. Vibranium Mining Mech and N'Yami-Class Mother Ship are going in.",
     "Super-Soldier Serum turns Colossus Hammer into a free +10/+10 on attack if you want a spicier swap.",
-    "Nov 9: Puresteel Paladin in for Ingenious Smith. With three artifacts every Equipment has equip {0} (Helm of the Host included), and each Equipment entering draws a card."
+    "Nov 9: Puresteel Paladin in for Ingenious Smith. With three artifacts every Equipment has equip {0} (Helm of the Host included), and each Equipment entering draws a card.",
+    "Nov 19: Mind Stone in for Birds of Paradise. An artifact rock counts for Puresteel metalcraft and improvise, doesn't die to wipes or Don't Move, and cycles for a card late. The deck now runs no mana dorks."
    ],
    "out": [
     {
@@ -1071,10 +1087,14 @@
     {
      "name": "Ingenious Smith",
      "qty": 1
+    },
+    {
+     "name": "Birds of Paradise",
+     "qty": 1
     }
    ],
    "source": "Streamlined by Claude from the Vibranium Forge build plus the options list, Nov 8, 2026",
-   "updated": "Nov 9, 2026"
+   "updated": "Nov 19, 2026"
   }
  ]
 }

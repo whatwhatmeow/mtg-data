@@ -1,0 +1,814 @@
+{
+ "adds": [
+  {
+   "name": "Oath of Teferi",
+   "status": "planned",
+   "why": "Swap for Windcrag Siege. Jace activates loyalty twice a turn: +1 twice for 4 cards deep, or +1 then −3 to polymorph the same turn. The single biggest upgrade for a planeswalker commander."
+  },
+  {
+   "name": "Divergent Transformations",
+   "status": "planned",
+   "why": "Swap for Cursed Mirror. Instant-speed polymorph on two of your creatures, ideal on tokens or a creature about to die. More Mass Polymorph effects is the deck's whole point."
+  },
+  {
+   "name": "Agent of Treachery",
+   "status": "planned",
+   "why": "Swap for Ginger, Queen of Sweets. Every polymorph that flips this steals the best permanent at the table. Ginger is a 2/2 that dilutes the hits."
+  },
+  {
+   "name": "Chaos Warp",
+   "status": "planned",
+   "why": "Swap for Brainsurge. Cheap removal for anything, and pointed at your own token it's a mini-polymorph."
+  },
+  {
+   "name": "Grave Titan",
+   "status": "planned",
+   "why": "Swap for Dreadhorde Invasion. Top-tier polymorph hit that also makes Zombie fodder for the next Mass Polymorph."
+  },
+  {
+   "name": "Sphinx of the Second Sun",
+   "status": "planned",
+   "why": "Swap for Omnath, Locus of the Void. A Sphinx, so The Ur-Sphinx discounts it; an extra untap and draw every turn. Omnath's colorless mana does little here."
+  },
+  {
+   "name": "Inferno Titan",
+   "status": "planned",
+   "why": "Swap for Skrelv's Hive. Big hit that kills small creatures on arrival and on attack. Skrelv's Hive bleeds you for 1/1s."
+  },
+  {
+   "name": "Rune-Scarred Demon",
+   "status": "planned",
+   "why": "Swap for Currency Converter. Polymorph hit that tutors the next piece (a sweeper, Oath, or Agent)."
+  },
+  {
+   "name": "Sun Titan",
+   "status": "planned",
+   "why": "Swap for Staff of the Storyteller. Another real polymorph hit; brings back signets, Plan for All Outcomes, Oath and the cheap creatures."
+  },
+  {
+   "name": "Tempt with Vengeance",
+   "status": "planned",
+   "why": "Swap for Kher Keep. X hasty tokens: polymorph fodder and a finisher. Drops you to 38 lands, plenty with 15 rocks."
+  },
+  {
+   "name": "Ugin, the Ineffable",
+   "status": "planned",
+   "why": "Swap for Brainstorm. Colorless removal on a walker; Jace's −3 can also exile Ugin to polymorph into a creature or walker."
+  },
+  {
+   "name": "Raffine's Tower",
+   "status": "planned",
+   "why": "Swap for Contaminated Landscape. Three of Jace's colours in one land with no fetch speed. Big fixing upgrade."
+  },
+  {
+   "name": "Xander's Lounge",
+   "status": "planned",
+   "why": "Swap for Perilous Landscape. Same idea for the blue-black-red side."
+  },
+  {
+   "name": "Raugrin Triome",
+   "status": "planned",
+   "why": "Swap for Reflecting Pool. Third triome; Reflecting Pool only copies colours you already have. Optional at $16."
+  }
+ ],
+ "baseLabel": "Stock precon",
+ "bracket": "Bracket 2",
+ "bracketGoal": "Stock precon · 0 Game Changers",
+ "cards": [
+  {
+   "name": "Elspeth, Sun's Champion",
+   "qty": 1,
+   "role": "win",
+   "type": "Planeswalker"
+  },
+  {
+   "name": "Akroma, Angel of Fury",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Archfiend of Despair",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Archon of Cruelty",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Avacyn, Angel of Horror",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Dack Fayden, Helping Hand",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Darksteel Angel",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Ginger, Queen of Sweets",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Jhoira, Weatherlight Corsair",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Memnarch, the Warden",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Nissa, Leyline Tamer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Niv-Mizzet, Ghost Counsel",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Ob Nixilis, the Ascended",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Creature"
+  },
+  {
+   "name": "Omnath, Locus of the Void",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Overlord of the Mistmoors",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Serra's Emissary",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Tamiyo, Upriser Crowned",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "The Ur-Sphinx",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Venser, Fervent Forger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Azorius Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Chromatic Lantern",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Currency Converter",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Cursed Mirror",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Dimir Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Fellwar Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Izzet Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Proteus Staff",
+   "qty": 1,
+   "role": "rem",
+   "type": "Artifact"
+  },
+  {
+   "name": "Rakdos Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Staff of the Storyteller",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Creativity",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Dominance",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Indulgence",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Progress",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Dreadhorde Invasion",
+   "qty": 1,
+   "role": "other",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Plan for All Outcomes",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Shark Typhoon",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Skrelv's Hive",
+   "qty": 1,
+   "role": "other",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Whirlwind of Thought",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Windcrag Siege",
+   "qty": 1,
+   "role": "other",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Lingering Souls",
+   "qty": 1,
+   "role": "other",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Martial Coup",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Mass Polymorph",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Sunfall",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "White Sun's Twilight",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Brainstorm",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Brainsurge",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Despark",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Fact or Fiction",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Fatehold Charm",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Flawless Maneuver",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Grand Crescendo",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Occult Epiphany",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Path to Exile",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Secure the Wastes",
+   "qty": 1,
+   "role": "other",
+   "type": "Instant"
+  },
+  {
+   "name": "Stroke of Midnight",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Synthetic Destiny",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Teferi's Reproach",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Battlefield Forge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Caves of Koilos",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Clifftop Retreat",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Contaminated Landscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Drowned Catacomb",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fabled Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fetid Heath",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Glacial Fortress",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Isolated Chapel",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Kher Keep",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mystic Gate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Perilous Landscape",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Prairie Stream",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Radiant Summit",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Reflecting Pool",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Restless Anchorage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Restless Spire",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Shivan Reef",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfur Falls",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfurous Springs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sunken Ruins",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Turbulent Crater",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Turbulent Shore",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Turbulent Wetlands",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Underground River",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plains",
+   "qty": 4,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "W",
+  "U",
+  "B",
+  "R"
+ ],
+ "commanders": [
+  "Jace, Multiverse Architect"
+ ],
+ "format": "Commander",
+ "name": "Jace: Multiverse Reforged",
+ "notes": [
+  "Nov 23, 2026: Added to the vault as Andrew's stock Reality Fracture precon (Multiverse Reforged), unchanged. Tiered C (stock precon).",
+  "Nissa, Leyline Tamer is the deck's alternate commander (WUBR identity, so she fits the 99 under Jace).",
+  "Nov 23, 2026: Added the Top 14 swaps version (also on the Store Run list)."
+ ],
+ "order": 9.95,
+ "owner": "Andrew",
+ "source": "Reality Fracture Commander precon (Multiverse Reforged), stock list from the official Wizards decklist; every card checked for colour identity and legality in mtg-data. Check it against the box.",
+ "target": 100,
+ "themeLabel": "Polymorph & reality-swap value",
+ "updated": "Nov 23, 2026",
+ "variants": [
+  {
+   "adds": [],
+   "bracket": "Bracket 2",
+   "bracketGoal": "0 Game Changers · no fetch/shock lands · more polymorph hits and Jace support",
+   "id": "swaps",
+   "in": [
+    {
+     "name": "Oath of Teferi",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Divergent Transformations",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Agent of Treachery",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Chaos Warp",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Grave Titan",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Sphinx of the Second Sun",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Inferno Titan",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Rune-Scarred Demon",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Sun Titan",
+     "qty": 1,
+     "role": "recur",
+     "type": "Creature"
+    },
+    {
+     "name": "Tempt with Vengeance",
+     "qty": 1,
+     "role": "other",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Ugin, the Ineffable",
+     "qty": 1,
+     "role": "rem",
+     "type": "Planeswalker"
+    },
+    {
+     "name": "Raffine's Tower",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Xander's Lounge",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Raugrin Triome",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Top 14 swaps",
+   "name": "Jace: Multiverse Reforged (Top 14 swaps)",
+   "notes": [
+    "Nov 23, 2026: Top 14 swaps for the stock list, ranked by impact (the deck's Adds list has each swap's reason). All on the Store Run list (C tier). About $70 for all 14; the three triomes are $43 of that, so the 11 spells alone are about $26.",
+    "Theme: more and better polymorph hits (cuts low-impact creatures that dilute Mass Polymorph/Synthetic Destiny/Jace −3), more polymorph and token fodder, and Oath of Teferi for double Jace activations.",
+    "Upgrade ideas left out to stay Bracket 2 (Game Changers): Teferi's Protection, Smothering Tithe, Consecrated Sphinx."
+   ],
+   "out": [
+    {
+     "name": "Windcrag Siege",
+     "qty": 1
+    },
+    {
+     "name": "Cursed Mirror",
+     "qty": 1
+    },
+    {
+     "name": "Ginger, Queen of Sweets",
+     "qty": 1
+    },
+    {
+     "name": "Brainsurge",
+     "qty": 1
+    },
+    {
+     "name": "Dreadhorde Invasion",
+     "qty": 1
+    },
+    {
+     "name": "Omnath, Locus of the Void",
+     "qty": 1
+    },
+    {
+     "name": "Skrelv's Hive",
+     "qty": 1
+    },
+    {
+     "name": "Currency Converter",
+     "qty": 1
+    },
+    {
+     "name": "Staff of the Storyteller",
+     "qty": 1
+    },
+    {
+     "name": "Kher Keep",
+     "qty": 1
+    },
+    {
+     "name": "Brainstorm",
+     "qty": 1
+    },
+    {
+     "name": "Contaminated Landscape",
+     "qty": 1
+    },
+    {
+     "name": "Perilous Landscape",
+     "qty": 1
+    },
+    {
+     "name": "Reflecting Pool",
+     "qty": 1
+    }
+   ],
+   "source": "Built by Claude from the stock precon, Nov 23, 2026",
+   "updated": "Nov 23, 2026"
+  }
+ ]
+}

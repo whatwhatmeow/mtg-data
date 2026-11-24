@@ -1,495 +1,4 @@
 {
- "name": "Tom Bombadil (oldest)",
- "owner": "Oldest",
- "commanders": [
-  "Tom Bombadil"
- ],
- "colors": [
-  "W",
-  "U",
-  "B",
-  "R",
-  "G"
- ],
- "format": "Commander",
- "bracket": "Bracket 2",
- "bracketGoal": "0 Game Changers · Sagas and enchantments · built from Tom's Bombs cuts",
- "target": 100,
- "baseLabel": "From the cuts",
- "themeLabel": "Sagas",
- "order": 46,
- "source": "Built by Claude Nov 23, 2026 from the 23 spells and Urza's Saga cut from Andrew's sleeved Tom's Bombs list, cheap Tom staples not in Andrew's list, and Andrew's spare pain lands.",
- "updated": "Nov 23, 2026",
- "cards": [
-  {
-   "name": "Archon of Sun's Grace",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Battle at the Helvault",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "rem"
-  },
-  {
-   "name": "Destiny Spinner",
-   "qty": 1,
-   "type": "Creature",
-   "role": "prot"
-  },
-  {
-   "name": "Evolution Sage",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Firja's Retribution",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "rem"
-  },
-  {
-   "name": "Garnet, Princess of Alexandria",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Gatecreeper Vine",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Historian's Boon",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "draw"
-  },
-  {
-   "name": "Kiora Bests the Sea God",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "draw"
-  },
-  {
-   "name": "Mirrormade",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "O'aka, Traveling Merchant",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "One Ring to Rule Them All",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Power Conduit",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
-  },
-  {
-   "name": "Prismatic Omen",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Summon: Knights of Round",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win"
-  },
-  {
-   "name": "Terra, Magical Adept",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "The Aesir Escape Valhalla",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "The Horus Heresy",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "The Kami War",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Three Blind Mice",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Weaver of Harmony",
-   "qty": 1,
-   "type": "Creature",
-   "role": "draw"
-  },
-  {
-   "name": "Zur, Eternal Schemer",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Swords to Plowshares",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem"
-  },
-  {
-   "name": "Path to Exile",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem"
-  },
-  {
-   "name": "The Eldest Reborn",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Elspeth Conquers Death",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Farseek",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp"
-  },
-  {
-   "name": "Scroll of Isildur",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Sigurd, Jarl of Ravensthorpe",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Birth of the Imperium",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Summon: Fenrir",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Summon: Yojimbo",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Resurgent Belief",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
-  },
-  {
-   "name": "The First Iroan Games",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Barbara Wright",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Cultivate",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp"
-  },
-  {
-   "name": "Scholar of New Horizons",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Song of Eärendil",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "The Weatherseed Treaty",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "The Akroan War",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Dance of the Manse",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
-  },
-  {
-   "name": "War of the Last Alliance",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Nature's Lore",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp"
-  },
-  {
-   "name": "Jugan Defends the Temple",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "The Elder Dragon War",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Michiko's Reign of Truth",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Estrid's Invocation",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Ghen, Arcanum Weaver",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Rampant Growth",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp"
-  },
-  {
-   "name": "Summon: Valefor",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "The Misty Mountains Cold",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Herald of the Pantheon",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Flicker of Fate",
-   "qty": 1,
-   "type": "Instant",
-   "role": "eng"
-  },
-  {
-   "name": "Starfield Mystic",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Inventive Iteration",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Phyrexian Scriptures",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Satyr Enchanter",
-   "qty": 1,
-   "type": "Creature",
-   "role": "draw"
-  },
-  {
-   "name": "Summon: Titan",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng"
-  },
-  {
-   "name": "Strionic Resonator",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
-  },
-  {
-   "name": "Fable of the Mirror-Breaker",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
-  },
-  {
-   "name": "Urza's Saga",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Command Tower",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Exotic Orchard",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Path of Ancestry",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Battlefield Forge",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Adarkar Wastes",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Brushland",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Caves of Koilos",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Shivan Reef",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Llanowar Wastes",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Underground River",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Terramorphic Expanse",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Evolving Wilds",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Forest",
-   "qty": 5,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Plains",
-   "qty": 5,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Island",
-   "qty": 5,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Mountain",
-   "qty": 5,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Swamp",
-   "qty": 6,
-   "type": "Land",
-   "role": "land"
-  }
- ],
  "adds": [
   {
    "name": "Binding the Old Gods",
@@ -562,10 +71,501 @@
    "why": "In 44% of EDHREC decks for this commander (synergy +37%). Swap for your call (no clear filler left). Impact #14, value #12."
   }
  ],
+ "baseLabel": "From the cuts",
+ "bracket": "Bracket 2",
+ "bracketGoal": "0 Game Changers · Sagas and enchantments · built from Tom's Bombs cuts",
+ "cards": [
+  {
+   "name": "Archon of Sun's Grace",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Battle at the Helvault",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Destiny Spinner",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Evolution Sage",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Firja's Retribution",
+   "qty": 1,
+   "role": "rem",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Garnet, Princess of Alexandria",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Gatecreeper Vine",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Historian's Boon",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Kiora Bests the Sea God",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Mirrormade",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "O'aka, Traveling Merchant",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "One Ring to Rule Them All",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Power Conduit",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Prismatic Omen",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Summon: Knights of Round",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Terra, Magical Adept",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Aesir Escape Valhalla",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "The Horus Heresy",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "The Kami War",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Three Blind Mice",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Weaver of Harmony",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Zur, Eternal Schemer",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Path to Exile",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "The Eldest Reborn",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Elspeth Conquers Death",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Farseek",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Scroll of Isildur",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Sigurd, Jarl of Ravensthorpe",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Birth of the Imperium",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Summon: Fenrir",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Summon: Yojimbo",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Resurgent Belief",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "The First Iroan Games",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Barbara Wright",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Cultivate",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Scholar of New Horizons",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Song of Eärendil",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "The Weatherseed Treaty",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "The Akroan War",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Dance of the Manse",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "War of the Last Alliance",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Nature's Lore",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Jugan Defends the Temple",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "The Elder Dragon War",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Michiko's Reign of Truth",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Estrid's Invocation",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Ghen, Arcanum Weaver",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Rampant Growth",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Summon: Valefor",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Misty Mountains Cold",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Herald of the Pantheon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Flicker of Fate",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Starfield Mystic",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Inventive Iteration",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Phyrexian Scriptures",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Satyr Enchanter",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Summon: Titan",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Strionic Resonator",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Fable of the Mirror-Breaker",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Urza's Saga",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Battlefield Forge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Adarkar Wastes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Brushland",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Caves of Koilos",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Shivan Reef",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Llanowar Wastes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Underground River",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Evolving Wilds",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Forest",
+   "qty": 5,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plains",
+   "qty": 5,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 5,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 5,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 6,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "W",
+  "U",
+  "B",
+  "R",
+  "G"
+ ],
+ "commanders": [
+  "Tom Bombadil"
+ ],
+ "format": "Commander",
+ "name": "Tom Bombadil (oldest)",
  "notes": [
   "Nov 23, 2026: Built for the oldest from Tom's Bombs cuts (B tier).",
-  "From Andrew's cuts: Archon of Sun's Grace, Battle at the Helvault, Destiny Spinner, Evolution Sage, Firja's Retribution, Garnet, Princess of Alexandria, Gatecreeper Vine, Historian's Boon, Kiora Bests the Sea God, Mirrormade, O'aka, Traveling Merchant, One Ring to Rule Them All, Power Conduit, Prismatic Omen, Summon: Knights of Round, Terra, Magical Adept, The Aesir Escape Valhalla, The Horus Heresy, The Kami War, Three Blind Mice, Urza's Saga, Weaver of Harmony, Zur, Eternal Schemer, Urza's Saga.",
+  "From Andrew's cuts: Archon of Sun's Grace, Battle at the Helvault, Destiny Spinner, Evolution Sage, Firja's Retribution, Garnet, Princess of Alexandria, Gatecreeper Vine, Historian's Boon, Kiora Bests the Sea God, Mirrormade, O'aka, Traveling Merchant, One Ring to Rule Them All, Power Conduit, Prismatic Omen, Summon: Knights of Round, Terra, Magical Adept, The Aesir Escape Valhalla, The Horus Heresy, The Kami War, Three Blind Mice, Weaver of Harmony, Zur, Eternal Schemer, Urza's Saga.",
   "To buy to finish the 99 (about $35): The Eldest Reborn, Elspeth Conquers Death, Farseek, Scroll of Isildur, Sigurd, Jarl of Ravensthorpe, Birth of the Imperium, Summon: Fenrir, Summon: Yojimbo, Resurgent Belief, The First Iroan Games, Barbara Wright, Cultivate, Scholar of New Horizons, Song of Eärendil, The Weatherseed Treaty, The Akroan War, Dance of the Manse, War of the Last Alliance, Nature's Lore, Jugan Defends the Temple, The Elder Dragon War, Michiko's Reign of Truth, Estrid's Invocation, Ghen, Arcanum Weaver, Rampant Growth, Summon: Valefor, The Misty Mountains Cold, Herald of the Pantheon, Flicker of Fate, Starfield Mystic, Inventive Iteration, Phyrexian Scriptures, Satyr Enchanter, Summon: Titan, Strionic Resonator, Fable of the Mirror-Breaker, Command Tower, Exotic Orchard.",
   "Lands lean on Andrew's spare pain lands; Command Tower and Exotic Orchard are second copies (Andrew's are in Tom's Bombs)."
- ]
+ ],
+ "order": 46,
+ "owner": "Oldest",
+ "source": "Built by Claude Nov 23, 2026 from the 23 spells and Urza's Saga cut from Andrew's sleeved Tom's Bombs list, cheap Tom staples not in Andrew's list, and Andrew's spare pain lands.",
+ "target": 100,
+ "themeLabel": "Sagas",
+ "updated": "Nov 23, 2026"
 }

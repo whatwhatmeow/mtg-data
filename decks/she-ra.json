@@ -2,8 +2,8 @@
  "adds": [
   {
    "name": "Suki of the Kyoshi Warriors (Captain Sisay)",
-   "status": "planned",
-   "why": "Avatar set printing of Captain Sisay, {2}{G}{W}. {T}: search your library for any legendary card and put it in your hand — nearly the whole deck. Stacks with She-Ra's tutor. Strongest of the Avatar options; a second repeatable tutor pushes toward the top of Bracket 2. Swap for Ka-Zar of the Savage Land."
+   "status": "added",
+   "why": "Avatar set printing of Captain Sisay, {2}{G}{W}. {T}: search your library for any legendary card and put it in your hand — nearly the whole deck. Stacks with She-Ra's tutor. Strongest of the Avatar options; a second repeatable tutor pushes toward the top of Bracket 2. Replaced Ka-Zar of the Savage Land (Nov 17)."
   },
   {
    "name": "Avatar Aang // Aang, Master of Elements",
@@ -12,8 +12,8 @@
   },
   {
    "name": "Aang, Swift Savior",
-   "status": "planned",
-   "why": "Avatar rare, white-blue flash flyer. When he enters, exile another creature or spell (owner can recast it for {2}) — tempo on theirs, or re-use Elektra/Shocker/Cloak and Dagger on yours. White-blue is already crowded. Swap for Spider-Woman, Secret Agent."
+   "status": "added",
+   "why": "Avatar rare, white-blue flash flyer. When he enters, exile another creature or spell (owner can recast it for {2}) — tempo on theirs, or re-use Elektra/Shocker/Cloak and Dagger on yours. White-blue is already crowded. Replaced Falcon, Winged Wonder (Nov 17)."
   },
   {
    "name": "Mjölnir, Hammer of Thor",
@@ -136,12 +136,6 @@
    "type": "Creature"
   },
   {
-   "name": "Red Guardian, Super-Soldier",
-   "qty": 1,
-   "role": "rem",
-   "type": "Creature"
-  },
-  {
    "name": "Okoye, Dora Milaje Leader",
    "qty": 1,
    "role": "eng",
@@ -184,12 +178,6 @@
    "type": "Creature"
   },
   {
-   "name": "Falcon, Winged Wonder",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
    "name": "He-Man's Battle Harness (Konda's Banner)",
    "qty": 1,
    "role": "eng",
@@ -215,19 +203,7 @@
    "type": "Creature"
   },
   {
-   "name": "Shocker, Unshakable",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
    "name": "Spider-Gwen, Free Spirit",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Ka-Zar of the Savage Land",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
@@ -318,12 +294,6 @@
   },
   {
    "name": "Leatherhead, Iron Gator",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Man-At-Arms, Master Tactician (Bruenor Battlehammer)",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
@@ -588,12 +558,6 @@
    "type": "Land"
   },
   {
-   "name": "University Campus",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
    "name": "Plains",
    "qty": 3,
    "role": "land",
@@ -619,7 +583,7 @@
   },
   {
    "name": "Forest",
-   "qty": 3,
+   "qty": 2,
    "role": "land",
    "type": "Land"
   },
@@ -646,6 +610,48 @@
    "qty": 1,
    "role": "ramp",
    "type": "Sorcery"
+  },
+  {
+   "name": "Suki of the Kyoshi Warriors (Captain Sisay)",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Creature"
+  },
+  {
+   "name": "Aang, Swift Savior // Aang and La, Ocean's Fury",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Fracture",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Sodden Verdure",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "The Grey Havens",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Morbius the Living Vampire",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Ka-Zar of the Savage Land",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
   }
  ],
  "colors": [
@@ -693,14 +699,18 @@
   "Nov 4: Behold the Sinister Six! in for Pictures of Spider-Man (recovery). Next gap: card draw.",
   "Nov 4 purchase list (card draw): Guardian Project, Reki, the History of Kamigawa, Elemental Bond.",
   "Nov 4: Behold the Sinister Six! is owned (not on the purchase list).",
-  "Nov 5: Heroes' Podium in for Morbius, Avatar Aang (second copy) in for The Spot's Portal. She chose these cuts after reading the cards."
+  "Nov 5: Heroes' Podium in for Morbius, Avatar Aang (second copy) in for The Spot's Portal. She chose these cuts after reading the cards.",
+  "Nov 17: Suki of the Kyoshi Warriors (Captain Sisay) in for Ka-Zar, Aang, Swift Savior in for Falcon, Fracture in for Red Guardian, Flooded Grove in for a Forest (Forests now 2). Path to Exile in for Shocker in the sleeved deck (Path was already on this list), so The Grey Havens took the open slot: untapped legendary land, Suki can tutor it. 36 lands. Suki + Captain America, Living Legend = two legendary tutors a turn (Echo can copy a third); strong but not infinite.",
+  "Nov 17 sleeving: sleeve Chromatic Lantern, Behold the Sinister Six!, Path to Exile, Arcane Denial, Man-At-Arms, Flooded Grove, The Grey Havens; pull Hot Dog Cart, Pictures of Spider-Man, Shocker, Negate, Great Hall of the Citadel, Ka-Zar, Falcon, Red Guardian, one Forest. Later Nov 17 (her call): Morbius the Living Vampire stays in and University Campus stays out, so back to 35 lands. Count the stack: 99 + She-Ra.",
+  "Nov 21: Ka-Zar of the Savage Land back in for Man-At-Arms (the Man-At-Arms copy isn't available for this deck). Zabu is the non-Human attacker for He-Man (Winota); lands off the top are extra cards. Ka-Zar is already sleeved, so just pull Man-At-Arms off the to-sleeve list.",
+  "Nov 21: Sodden Verdure in for Flooded Grove. Forest Island types, so Farseek can fetch it; untapped once you control two basics; no pain."
  ],
  "order": 12,
  "owner": "Wife",
  "source": "Built by Claude Oct 28, 2026 from the She-Ra Secret Lair + Marvel Super Heroes / Spider-Man commons & uncommons; not yet checked against your binder",
  "target": 100,
  "themeLabel": "Legend parade",
- "updated": "Nov 5, 2026",
+ "updated": "Nov 21, 2026",
  "variants": [
   {
    "bracket": "High Bracket 2",

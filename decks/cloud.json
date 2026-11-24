@@ -146,9 +146,9 @@
    "why": "Land upgrade, replaces Wooded Ridgeline. Untapped R/G painland, matches his Battlefield Forge and Brushland."
   }
  ],
- "baseLabel": "His list",
- "bracket": "Bracket 3",
- "bracketGoal": "1 Game Changer (Gamble) · his current list",
+ "baseLabel": "His list (B2)",
+ "bracket": "Bracket 2",
+ "bracketGoal": "0 Game Changers · his current sleeved list",
  "cards": [
   {
    "name": "Aerith, Last Ancient",
@@ -181,10 +181,10 @@
    "type": "Land"
   },
   {
-   "name": "Avalanche of Sector 7",
+   "name": "Austere Command",
    "qty": 1,
-   "role": "eng",
-   "type": "Creature"
+   "role": "wipe",
+   "type": "Sorcery"
   },
   {
    "name": "Barret Wallace",
@@ -224,12 +224,6 @@
    "type": "Land"
   },
   {
-   "name": "Bronze Guardian",
-   "qty": 1,
-   "role": "prot",
-   "type": "Creature"
-  },
-  {
    "name": "Brushland",
    "qty": 1,
    "role": "land",
@@ -237,12 +231,6 @@
   },
   {
    "name": "Bugenhagen, Wise Elder",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Cait Sith, Fortune Teller",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
@@ -343,12 +331,6 @@
    "type": "Instant"
   },
   {
-   "name": "Elena, Turk Recruit",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
    "name": "Evolving Wilds",
    "qty": 1,
    "role": "land",
@@ -359,6 +341,13 @@
    "qty": 1,
    "role": "land",
    "type": "Land"
+  },
+  {
+   "name": "Explorer's Scope",
+   "qty": 1,
+   "role": "ramp",
+   "sub": "Equipment",
+   "type": "Artifact"
   },
   {
    "name": "Fire-Lit Thicket",
@@ -385,12 +374,6 @@
    "type": "Land"
   },
   {
-   "name": "Gamble",
-   "qty": 1,
-   "role": "tutor",
-   "type": "Sorcery"
-  },
-  {
    "name": "Game Trail",
    "qty": 1,
    "role": "land",
@@ -403,15 +386,9 @@
    "type": "Sorcery"
   },
   {
-   "name": "Helitrooper",
+   "name": "Heidegger, Shinra Executive",
    "qty": 1,
    "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Hellkite Tyrant",
-   "qty": 1,
-   "role": "win",
    "type": "Creature"
   },
   {
@@ -433,6 +410,12 @@
    "qty": 1,
    "role": "ramp",
    "type": "Artifact"
+  },
+  {
+   "name": "Jhoira's Familiar",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
   },
   {
    "name": "Jungle Shrine",
@@ -468,7 +451,7 @@
   },
   {
    "name": "Mountain",
-   "qty": 2,
+   "qty": 3,
    "role": "land",
    "type": "Land"
   },
@@ -534,6 +517,12 @@
    "type": "Creature"
   },
   {
+   "name": "Regrowth",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
    "name": "Relentless Assault",
    "qty": 1,
    "role": "win",
@@ -558,13 +547,13 @@
    "type": "Land"
   },
   {
-   "name": "Sacred Peaks",
+   "name": "SOLDIER Military Program",
    "qty": 1,
-   "role": "land",
-   "type": "Land"
+   "role": "eng",
+   "type": "Enchantment"
   },
   {
-   "name": "Scavenger Grounds",
+   "name": "Sacred Peaks",
    "qty": 1,
    "role": "land",
    "type": "Land"
@@ -607,11 +596,11 @@
    "type": "Creature"
   },
   {
-   "name": "Summon: Kujata",
+   "name": "Sting, Bilbo's Sword",
    "qty": 1,
    "role": "eng",
-   "sub": "Saga",
-   "type": "Creature"
+   "sub": "Equipment",
+   "type": "Artifact"
   },
   {
    "name": "Summoning Materia",
@@ -654,10 +643,16 @@
   },
   {
    "name": "Sword of the Animist",
-   "qty": 2,
+   "qty": 1,
    "role": "ramp",
    "sub": "Equipment",
    "type": "Artifact"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
   },
   {
    "name": "Tifa, Martial Artist",
@@ -722,6 +717,12 @@
    "type": "Artifact"
   },
   {
+   "name": "Yuffie, Materia Hunter",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
    "name": "Zack Fair",
    "qty": 1,
    "role": "prot",
@@ -739,60 +740,33 @@
  "format": "Commander",
  "name": "Cloud's Limit Break",
  "notes": [
-  "Not legal yet: 2 copies of Sword of the Animist. Commander is singleton, so cut one.",
-  "His changes from the stock precon: + Armored Skyhunter, Sram, Gamble, Relentless Assault, O-Naginata, Sword of Fire and Ice, Sword of Sinew and Steel, 2nd Sword of the Animist, Rogue's Passage; − Yuffie, Heidegger, Explorer's Scope, Secret Rendezvous, Austere Command, Clever Concealment, Furious Rise, SOLDIER Military Program, 1 Mountain.",
-  "Game Changers: Gamble (1 of 3).",
-  "Oct 22 land plan (texted to him): + Plaza of Heroes, Jetmir's Garden, Needleverge/Branchloft/Cragcrown Pathway, Karplusan Forest; − Scavenger Grounds, Ash Barrens, Path of Ancestry, Radiant Grove, Sacred Peaks, Wooded Ridgeline. Extras if wanted: Commercial District, Elegant Parlor, Lush Portico."
+  "His changes from the stock precon (Oct 22 list): + Armored Skyhunter, Sram, Gamble, Relentless Assault, O-Naginata, Sword of Fire and Ice, Sword of Sinew and Steel, 2nd Sword of the Animist, Rogue's Passage; − Yuffie, Heidegger, Explorer's Scope, Secret Rendezvous, Austere Command, Clever Concealment, Furious Rise, SOLDIER Military Program, 1 Mountain.",
+  "Oct 22 land plan (texted to him): + Plaza of Heroes, Jetmir's Garden, Needleverge/Branchloft/Cragcrown Pathway, Karplusan Forest; − Scavenger Grounds, Ash Barrens, Path of Ancestry, Radiant Grove, Sacred Peaks, Wooded Ridgeline. Extras if wanted: Commercial District, Elegant Parlor, Lush Portico.",
+  "Nov 19, 2026: added two versions on his ask for the best 10-15 swaps: 'B3 · 15 swaps' (high Bracket 3) and 'Under $150' (budget format). Buy list made as a Sheet.",
+  "Nov 19, 2026 (evening): main list replaced with his new Mythic Tools scan. Scan fixes: 'Q, Stacking the Deck' was really Tifa, Martial Artist; 'Island' was really Slayers' Stronghold. Tifa is KEY in this deck, keep her.",
+  "Nov 19 cuts to get to 100: Balance (banned), Armageddon (mass land destruction, not allowed in B2/B3), 2nd Sword of the Animist (singleton), Wrath of God, Bronze Guardian, Elena, Cait Sith, Avalanche of Sector 7, Helitrooper, Hellkite Tyrant, Scavenger Grounds, Summon: Kujata.",
+  "Nov 19: his own adds since Oct: Swords to Plowshares, Austere Command, Regrowth, Jhoira's Familiar, Yuffie, Heidegger, Sting, Explorer's Scope, SOLDIER Military Program, 3rd Mountain. Gamble moved to the Hulk deck, so this list has 0 Game Changers.",
+  "Nov 19: retired the Oct 22 'B3' and 'B2 + Gamble' versions (built on the old list); their swap reasons are still in the planned adds list. Versions now: 'B3' and 'Under $150', both built on this list.",
+  "Nov 19 values (cheapest printings, Nov 12 data): main list about $73, B3 about $292, Under $150 about $149."
  ],
  "order": 20,
  "owner": "Oldest",
- "source": "His list as pasted Oct 22, 2026",
+ "source": "His list as scanned Nov 19, 2026 (Mythic Tools), scan errors fixed, 12 cuts",
  "target": 100,
  "themeLabel": "Suit up",
- "updated": "Oct 22, 2026",
+ "updated": "Nov 19, 2026",
  "variants": [
   {
+   "adds": [],
    "bracket": "High Bracket 3",
-   "bracketGoal": "3 Game Changers: Gamble, Smothering Tithe, Enlightened Tutor · fast commander-damage voltron",
-   "id": "b3",
+   "bracketGoal": "3 Game Changers: Gamble, Enlightened Tutor, Smothering Tithe · fast, brutal voltron for a 4-player table",
+   "id": "b3-15",
    "in": [
     {
-     "name": "Akroma's Will",
+     "name": "Stoneforge Mystic",
      "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Austere Command",
-     "qty": 1,
-     "role": "wipe",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Blackblade Reforged",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Boros Charm",
-     "qty": 1,
-     "role": "win",
-     "type": "Instant"
-    },
-    {
-     "name": "Brass Squire",
-     "qty": 1,
-     "role": "eng",
+     "role": "tutor",
      "type": "Creature"
-    },
-    {
-     "name": "Buster Sword",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
     },
     {
      "name": "Cloud, Midgar Mercenary",
@@ -804,6 +778,50 @@
      "name": "Embercleave",
      "qty": 1,
      "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Sigarda's Aid",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Hammer of Nazahn",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Akroma's Will",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Path to Exile",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Heroic Intervention",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Boros Charm",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Shadowspear",
+     "qty": 1,
+     "role": "eng",
      "sub": "Equipment",
      "type": "Artifact"
     },
@@ -814,24 +832,10 @@
      "type": "Instant"
     },
     {
-     "name": "Fireshrieker",
+     "name": "Smothering Tithe",
      "qty": 1,
-     "role": "win",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Hammer of Nazahn",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Heroic Intervention",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
+     "role": "ramp",
+     "type": "Enchantment"
     },
     {
      "name": "Mother of Runes",
@@ -840,160 +844,41 @@
      "type": "Creature"
     },
     {
-     "name": "Path to Exile",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
      "name": "Quietus Spike",
      "qty": 1,
-     "role": "eng",
+     "role": "win",
      "sub": "Equipment",
      "type": "Artifact"
     },
     {
-     "name": "Shadowspear",
+     "name": "Gamble",
      "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Sigarda's Aid",
-     "qty": 1,
-     "role": "eng",
-     "type": "Enchantment"
-    },
-    {
-     "name": "Smothering Tithe",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Enchantment"
+     "role": "tutor",
+     "type": "Sorcery"
     },
     {
      "name": "Steelshaper's Gift",
      "qty": 1,
      "role": "tutor",
      "type": "Sorcery"
-    },
-    {
-     "name": "Stoneforge Mystic",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Creature"
-    },
-    {
-     "name": "Swiftfoot Boots",
-     "qty": 1,
-     "role": "prot",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Swords to Plowshares",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Talisman of Conviction",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
     }
    ],
    "label": "B3",
    "name": "Cloud (B3)",
    "notes": [
-    "Plan: Cloud is a hasty 4/4. Get him out on turn 3-4, suit him up, and kill one player per swing with commander damage (21). Key lines: Colossus Hammer (+10) + any double strike (Embercleave, Fireshrieker, Boros Charm, Akroma's Will) = 30+ trample; Quietus Spike + double strike halves life twice; Relentless Assault / Tifa for extra combats.",
-    "Built from his Oct 22 list: 23 swaps (listed on the Cloud tab). Kept all his own adds: Swords of Fire and Ice / Sinew and Steel, O-Naginata, Sram, Armored Skyhunter, Gamble, Relentless Assault, Rogue's Passage.",
-    "Oct 22: Austere Command back in for Three Visits. It's the deck's only board wipe: pick creatures MV 3 or less to keep Cloud, or artifacts + enchantments. Three Visits moved to the bench.",
-    "Game Changers (3): Gamble, Smothering Tithe, Enlightened Tutor. If he lacks one: Teferi's Protection, Jeska's Will, Ancient Tomb. Don't add Farewell (Game Changer).",
+    "Plan: tutor Equipment (Stoneforge, Cloud Midgar Mercenary, Enlightened Tutor, Gamble, Steelshaper's Gift), protect Cloud (Mother of Runes, Heroic Intervention, Boros Charm, Akroma's Will), then double strike. Tifa untaps the team after a 7+ power hit for extra combats. Quietus Spike + double strike takes 3/4 of a player's life in one hit.",
+    "Gamble is shared with the Hulk deck's B3 version. If only one copy, swap in Jeska's Will or Ancient Tomb here.",
     "Bracket 3 check: 3 Game Changers, no 2-card infinite combos, no extra turns (extra combats are fine), no mass land denial.",
-    "Lands: 35 + Sol Ring, Arcane Signet, Talisman, Nature's Lore, Rampant Growth, Smothering Tithe.",
-    "Bench: Three Visits, Giver of Runes, Fighter Class, Kellan the Fae-Blooded, Sword of Feast and Famine, Kaldra Compleat, Teferi's Protection, Ancient Tomb, Cloud Planet's Champion, Ultima Weapon, surveil lands.",
-    "Not checked against your collection."
+    "Estimated value about $299. Not checked against your collection.",
+    "Nov 19: + Steelshaper's Gift, − Hero's Blade. Needs its own Steelshaper's Gift (Andrew's copy is in Winter Soldier)."
    ],
    "out": [
-    {
-     "name": "Avalanche of Sector 7",
-     "qty": 1
-    },
-    {
-     "name": "Barret Wallace",
-     "qty": 1
-    },
-    {
-     "name": "Bonders' Enclave",
-     "qty": 1
-    },
-    {
-     "name": "Bronze Guardian",
-     "qty": 1
-    },
-    {
-     "name": "Cait Sith, Fortune Teller",
-     "qty": 1
-    },
-    {
-     "name": "Conformer Shuriken",
-     "qty": 1
-    },
-    {
-     "name": "Cultivate",
-     "qty": 1
-    },
-    {
-     "name": "Decimate",
-     "qty": 1
-    },
-    {
-     "name": "Dispatch",
-     "qty": 1
-    },
-    {
-     "name": "Elena, Turk Recruit",
-     "qty": 1
-    },
-    {
-     "name": "Helitrooper",
-     "qty": 1
-    },
-    {
-     "name": "Hellkite Tyrant",
-     "qty": 1
-    },
-    {
-     "name": "Hero's Heirloom",
-     "qty": 1
-    },
     {
      "name": "Inspiring Statuary",
      "qty": 1
     },
     {
-     "name": "Lifestream's Blessing",
-     "qty": 1
-    },
-    {
-     "name": "Professor Hojo",
-     "qty": 1
-    },
-    {
-     "name": "Summon: Kujata",
-     "qty": 1
-    },
-    {
-     "name": "Sword of the Animist",
-     "qty": 1
-    },
-    {
-     "name": "Trailblazer's Boots",
-     "qty": 1
-    },
-    {
-     "name": "Ultimate Magic: Holy",
+     "name": "Decimate",
      "qty": 1
     },
     {
@@ -1005,55 +890,68 @@
      "qty": 1
     },
     {
-     "name": "Wrecking Ball Arm",
+     "name": "Dispatch",
+     "qty": 1
+    },
+    {
+     "name": "Ultimate Magic: Holy",
+     "qty": 1
+    },
+    {
+     "name": "Lifestream's Blessing",
+     "qty": 1
+    },
+    {
+     "name": "Barret Wallace",
+     "qty": 1
+    },
+    {
+     "name": "Professor Hojo",
+     "qty": 1
+    },
+    {
+     "name": "Heidegger, Shinra Executive",
+     "qty": 1
+    },
+    {
+     "name": "SOLDIER Military Program",
+     "qty": 1
+    },
+    {
+     "name": "Conformer Shuriken",
+     "qty": 1
+    },
+    {
+     "name": "Explorer's Scope",
+     "qty": 1
+    },
+    {
+     "name": "Trailblazer's Boots",
+     "qty": 1
+    },
+    {
+     "name": "Hero's Heirloom",
+     "qty": 1
+    },
+    {
+     "name": "Hero's Blade",
      "qty": 1
     }
    ],
-   "source": "Built by Claude from his Oct 22 list (not checked against your collection)",
-   "updated": "Oct 22, 2026"
+   "source": "Built by Claude on his Nov 19 list",
+   "updated": "Nov 19, 2026"
   },
   {
-   "bracket": "Bracket 2 power (officially B3)",
-   "bracketGoal": "1 Game Changer (Gamble) by request · B2 rules otherwise",
-   "id": "b2-gamble",
+   "adds": [],
+   "bracket": "Bracket 3 power (0 Game Changers)",
+   "bracketGoal": "Total deck value under $150 for the budget format",
+   "id": "budget-150",
    "in": [
     {
-     "name": "Akroma's Will",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Austere Command",
-     "qty": 1,
-     "role": "wipe",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Blackblade Reforged",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Boros Charm",
-     "qty": 1,
-     "role": "win",
-     "type": "Instant"
-    },
-    {
-     "name": "Brass Squire",
+     "name": "Kor Outfitter",
      "qty": 1,
      "role": "eng",
      "type": "Creature"
-    },
-    {
-     "name": "Buster Sword",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
     },
     {
      "name": "Cloud, Midgar Mercenary",
@@ -1069,17 +967,10 @@
      "type": "Artifact"
     },
     {
-     "name": "Fighter Class",
+     "name": "Brass Squire",
      "qty": 1,
-     "role": "tutor",
-     "type": "Enchantment"
-    },
-    {
-     "name": "Fireshrieker",
-     "qty": 1,
-     "role": "win",
-     "sub": "Equipment",
-     "type": "Artifact"
+     "role": "eng",
+     "type": "Creature"
     },
     {
      "name": "Hammer of Nazahn",
@@ -1089,16 +980,10 @@
      "type": "Artifact"
     },
     {
-     "name": "Heroic Intervention",
+     "name": "Akroma's Will",
      "qty": 1,
-     "role": "prot",
+     "role": "win",
      "type": "Instant"
-    },
-    {
-     "name": "Mother of Runes",
-     "qty": 1,
-     "role": "prot",
-     "type": "Creature"
     },
     {
      "name": "Path to Exile",
@@ -1107,49 +992,29 @@
      "type": "Instant"
     },
     {
-     "name": "Quietus Spike",
+     "name": "Heroic Intervention",
      "qty": 1,
-     "role": "eng",
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Boros Charm",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Fireshrieker",
+     "qty": 1,
+     "role": "win",
      "sub": "Equipment",
      "type": "Artifact"
     },
     {
-     "name": "Shadowspear",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Sigarda's Aid",
-     "qty": 1,
-     "role": "eng",
-     "type": "Enchantment"
-    },
-    {
-     "name": "Steelshaper's Gift",
+     "name": "Open the Armory",
      "qty": 1,
      "role": "tutor",
      "type": "Sorcery"
-    },
-    {
-     "name": "Stoneforge Mystic",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Creature"
-    },
-    {
-     "name": "Swiftfoot Boots",
-     "qty": 1,
-     "role": "prot",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Swords to Plowshares",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
     },
     {
      "name": "Talisman of Conviction",
@@ -1158,101 +1023,40 @@
      "type": "Artifact"
     },
     {
-     "name": "Three Visits",
+     "name": "Mother of Runes",
      "qty": 1,
-     "role": "ramp",
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Quietus Spike",
+     "qty": 1,
+     "role": "win",
+     "sub": "Equipment",
+     "type": "Artifact"
+    },
+    {
+     "name": "Steelshaper's Gift",
+     "qty": 1,
+     "role": "tutor",
      "type": "Sorcery"
     }
    ],
-   "label": "B2 + Gamble",
-   "name": "Cloud (B2 + Gamble)",
+   "label": "Under $150",
+   "name": "Cloud (under $150)",
    "notes": [
-    "Gamble is a Game Changer, so this list is officially Bracket 3. Everything else is Bracket 2 level. Ask the table first (rule 0), or swap Gamble for Open the Armory (finds an Equipment, not a Game Changer) to make it true Bracket 2.",
-    "Changes from Cloud (B3): Smothering Tithe → Three Visits, Enlightened Tutor → Fighter Class. Gamble stays.",
-    "Plan: Cloud is a hasty 4/4. Get him out on turn 3-4, suit him up, and kill one player per swing with commander damage (21). Colossus Hammer + double strike (Embercleave, Fireshrieker, Boros Charm, Akroma's Will) = 30+ trample.",
-    "Bracket checks: no mass land denial, no 2-card infinite combos, no extra turns (extra combats are fine).",
-    "Austere Command is the only board wipe: pick creatures MV 3 or less to keep Cloud, or artifacts + enchantments.",
+    "Same as B3 with budget stand-ins: Kor Outfitter for Stoneforge, Brass Squire for Sigarda's Aid, Fireshrieker for Shadowspear, Open the Armory for Enlightened Tutor, Talisman of Conviction for Smothering Tithe, Steelshaper's Gift for Gamble.",
+    "Estimated value about $149: only about $1 under the cap, so check prices before buying. If it's over, swap Steelshaper's Gift (~$7.50) for Stonehewer Giant or another cheap Equipment tutor.",
+    "Andrew's only Steelshaper's Gift is in his Winter Soldier deck, so this list needs one bought.",
     "Not checked against your collection."
    ],
    "out": [
-    {
-     "name": "Avalanche of Sector 7",
-     "qty": 1
-    },
-    {
-     "name": "Barret Wallace",
-     "qty": 1
-    },
-    {
-     "name": "Bonders' Enclave",
-     "qty": 1
-    },
-    {
-     "name": "Bronze Guardian",
-     "qty": 1
-    },
-    {
-     "name": "Cait Sith, Fortune Teller",
-     "qty": 1
-    },
-    {
-     "name": "Conformer Shuriken",
-     "qty": 1
-    },
-    {
-     "name": "Cultivate",
-     "qty": 1
-    },
-    {
-     "name": "Decimate",
-     "qty": 1
-    },
-    {
-     "name": "Dispatch",
-     "qty": 1
-    },
-    {
-     "name": "Elena, Turk Recruit",
-     "qty": 1
-    },
-    {
-     "name": "Helitrooper",
-     "qty": 1
-    },
-    {
-     "name": "Hellkite Tyrant",
-     "qty": 1
-    },
-    {
-     "name": "Hero's Heirloom",
-     "qty": 1
-    },
     {
      "name": "Inspiring Statuary",
      "qty": 1
     },
     {
-     "name": "Lifestream's Blessing",
-     "qty": 1
-    },
-    {
-     "name": "Professor Hojo",
-     "qty": 1
-    },
-    {
-     "name": "Summon: Kujata",
-     "qty": 1
-    },
-    {
-     "name": "Sword of the Animist",
-     "qty": 1
-    },
-    {
-     "name": "Trailblazer's Boots",
-     "qty": 1
-    },
-    {
-     "name": "Ultimate Magic: Holy",
+     "name": "Decimate",
      "qty": 1
     },
     {
@@ -1264,12 +1068,52 @@
      "qty": 1
     },
     {
-     "name": "Wrecking Ball Arm",
+     "name": "Dispatch",
+     "qty": 1
+    },
+    {
+     "name": "Ultimate Magic: Holy",
+     "qty": 1
+    },
+    {
+     "name": "Lifestream's Blessing",
+     "qty": 1
+    },
+    {
+     "name": "Barret Wallace",
+     "qty": 1
+    },
+    {
+     "name": "Professor Hojo",
+     "qty": 1
+    },
+    {
+     "name": "Heidegger, Shinra Executive",
+     "qty": 1
+    },
+    {
+     "name": "SOLDIER Military Program",
+     "qty": 1
+    },
+    {
+     "name": "Conformer Shuriken",
+     "qty": 1
+    },
+    {
+     "name": "Explorer's Scope",
+     "qty": 1
+    },
+    {
+     "name": "Trailblazer's Boots",
+     "qty": 1
+    },
+    {
+     "name": "Hero's Heirloom",
      "qty": 1
     }
    ],
-   "source": "Cloud (B3) toned down, Oct 22, 2026 (not checked against your collection)",
-   "updated": "Oct 22, 2026"
+   "source": "Built by Claude on his Nov 19 list",
+   "updated": "Nov 19, 2026"
   }
  ]
 }

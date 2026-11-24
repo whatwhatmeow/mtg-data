@@ -1,422 +1,422 @@
 {
- "name": "Keen Engineering",
- "owner": "Family",
- "commanders": [
-  "Sai, Master Thopterist"
- ],
- "colors": [
-  "U"
- ],
- "format": "Commander",
+ "adds": [],
+ "baseLabel": "Stock precon",
  "bracket": "Bracket 2",
  "bracketGoal": "Stock precon · won't change",
- "target": 100,
- "baseLabel": "Stock precon",
- "themeLabel": "Theme",
- "order": 91,
- "source": "Foundations Commander precon (Oct 2, 2026), stock list from Wizards' published decklist; checked for colour identity and legality in mtg-data.",
- "updated": "Nov 23, 2026",
  "cards": [
   {
    "name": "All Is Dust",
    "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
+   "role": "eng",
+   "type": "Sorcery"
   },
   {
    "name": "Broodstar",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Kappa Cannoneer",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Master of Etherium",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Master Transmuter",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Misleading Signpost",
    "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
+   "role": "eng",
+   "type": "Artifact"
   },
   {
    "name": "Pull from Tomorrow",
    "qty": 1,
-   "type": "Instant",
-   "role": "eng"
+   "role": "eng",
+   "type": "Instant"
   },
   {
    "name": "Research Thief",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Shimmer Dragon",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Thopter Fabricator",
    "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
+   "role": "eng",
+   "type": "Artifact"
   },
   {
    "name": "Thopter Spy Network",
    "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
+   "role": "eng",
+   "type": "Enchantment"
   },
   {
    "name": "Thought Monitor",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Vedalken Archmage",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Adaptive Omnitool",
    "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
+   "role": "eng",
+   "type": "Artifact"
   },
   {
    "name": "Cultivator's Caravan",
    "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
+   "role": "eng",
+   "type": "Artifact"
   },
   {
    "name": "Darksteel Juggernaut",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Duplicant",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Forsaken Monument",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Graaz, Unstoppable Juggernaut",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Mazemind Tome",
    "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
+   "role": "eng",
+   "type": "Artifact"
   },
   {
    "name": "Mind's Eye",
    "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
+   "role": "eng",
+   "type": "Artifact"
   },
   {
    "name": "Myr Battlesphere",
    "qty": 1,
-   "type": "Creature",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Creature"
   },
   {
    "name": "Nettlecyst",
    "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
+   "role": "eng",
+   "type": "Artifact"
   },
   {
    "name": "Nevinyrral's Disk",
    "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
+   "role": "eng",
+   "type": "Artifact"
   },
   {
    "name": "Psychosis Crawler",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Scrawling Crawler",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Skysovereign, Consul Flagship",
    "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
+   "role": "eng",
+   "type": "Artifact"
   },
   {
    "name": "Steel Hellkite",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Steel Overseer",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "War Room",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Aetherize",
    "qty": 1,
-   "type": "Instant",
-   "role": "eng"
+   "role": "eng",
+   "type": "Instant"
   },
   {
    "name": "Counterspell",
    "qty": 1,
-   "type": "Instant",
-   "role": "eng"
+   "role": "eng",
+   "type": "Instant"
   },
   {
    "name": "Etherium Sculptor",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Fall from Favor",
    "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
+   "role": "eng",
+   "type": "Enchantment"
   },
   {
    "name": "Launch Mishap",
    "qty": 1,
-   "type": "Instant",
-   "role": "eng"
+   "role": "eng",
+   "type": "Instant"
   },
   {
    "name": "Memory Guardian",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Negate",
    "qty": 1,
-   "type": "Instant",
-   "role": "eng"
+   "role": "eng",
+   "type": "Instant"
   },
   {
    "name": "Padeem, Consul of Innovation",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Propaganda",
    "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
+   "role": "eng",
+   "type": "Enchantment"
   },
   {
    "name": "Tamiyo's Logbook",
    "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
+   "role": "eng",
+   "type": "Artifact"
   },
   {
    "name": "Thirst for Knowledge",
    "qty": 1,
-   "type": "Instant",
-   "role": "eng"
+   "role": "eng",
+   "type": "Instant"
   },
   {
    "name": "Thoughtcast",
    "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
+   "role": "eng",
+   "type": "Sorcery"
   },
   {
    "name": "Whirler Rogue",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Aether Spellbomb",
    "qty": 1,
-   "type": "Artifact",
-   "role": "eng"
+   "role": "eng",
+   "type": "Artifact"
   },
   {
    "name": "Arcane Signet",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Chief of the Foundry",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Foundry Inspector",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Hedron Archive",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Ichor Wellspring",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Meteor Golem",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Mind Stone",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Myr Retriever",
    "qty": 1,
-   "type": "Creature",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Creature"
   },
   {
    "name": "Ornithopter of Paradise",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Palladium Myr",
    "qty": 1,
-   "type": "Creature",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Creature"
   },
   {
    "name": "Shimmer Myr",
    "qty": 1,
-   "type": "Creature",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Creature"
   },
   {
    "name": "Silver Myr",
    "qty": 1,
-   "type": "Creature",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Creature"
   },
   {
    "name": "Sol Ring",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Soul-Guide Lantern",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Spire Golem",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Thought Vessel",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Buried Ruin",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Darksteel Citadel",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Foundry of the Consuls",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Lonely Sandbar",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Remote Isle",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Island",
    "qty": 34,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   }
  ],
- "adds": [],
+ "colors": [
+  "U"
+ ],
+ "commanders": [
+  "Sai, Master Thopterist"
+ ],
+ "format": "Commander",
+ "name": "Keen Engineering",
  "notes": [
   "Nov 23, 2026: Added as the family's stock Foundations Commander precon. Stays stock; D tier.",
   "Roles are rough (lands, ramp, everything else as theme) since the list won't change."
- ]
+ ],
+ "order": 91,
+ "owner": "Family",
+ "source": "Foundations Commander precon (Oct 2, 2026), stock list from Wizards' published decklist; checked for colour identity and legality in mtg-data.",
+ "target": 100,
+ "themeLabel": "Theme",
+ "updated": "Nov 23, 2026"
 }

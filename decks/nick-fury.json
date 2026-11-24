@@ -1,715 +1,4 @@
 {
- "name": "Nick Fury: Avengers Initiative",
- "owner": "Andrew",
- "commanders": [
-  "Nick Fury, Agent of S.H.I.E.L.D."
- ],
- "colors": [
-  "W",
-  "U",
-  "B",
-  "R",
-  "G"
- ],
- "format": "Commander",
- "order": 6.7,
- "bracket": "High Bracket 2",
- "bracketGoal": "Heroes tribal · Marvel printings only (base sets, Jumpstarts, Marvel Commander, Secret Lairs, bonus sheets) · 0 Game Changers",
- "target": 100,
- "themeLabel": "Heroes tribal",
- "baseLabel": "Marvel only",
- "source": "Built by Claude Nov 17, 2026 around the owned Nick Fury, Agent of S.H.I.E.L.D. Every card checked for a Marvel printing, colour identity and legality in mtg-data; ownership is tagged, not confirmed. Flip heroes already used in other vault decks are tagged 'buy' (Andrew is buying duplicates).",
- "updated": "Nov 17, 2026",
- "cards": [
-  {
-   "name": "Command Tower",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Exotic Orchard",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Path of Ancestry",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Plaza of Heroes",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Avengers Tower",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Secluded Courtyard",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Unclaimed Territory",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Multiversal Passage",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Fabled Passage",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Evolving Wilds",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Terramorphic Expanse",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Surveillance Room",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Mystic Monastery",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Crumbling Necropolis",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Savage Lands",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Urban Retreat",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Thriving Heath",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Thriving Isle",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Thriving Moor",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Thriving Bluff",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Thriving Grove",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Bountiful Promenade",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Luxury Suite",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Spectator Seating",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Rejuvenating Springs",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Glacial Fortress",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Sulfur Falls",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Dragonskull Summit",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Rootbound Crag",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Sunpetal Grove",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Drowned Catacomb",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Sol Ring",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "have"
-  },
-  {
-   "name": "Arcane Signet",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "have"
-  },
-  {
-   "name": "Fellwar Stone",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Chromatic Lantern",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Talisman of Indulgence",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Talisman of Dominance",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Farseek",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Talisman of Conviction",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Cultivate",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Birds of Paradise",
-   "qty": 1,
-   "type": "Creature",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Shang-Chi, Master of Kung Fu",
-   "qty": 1,
-   "type": "Creature",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Karolina Dean, Runaway",
-   "qty": 1,
-   "type": "Creature",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Echo, Perceptive Prodigy",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Wonder Man, Hollywood Hero",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Quantum Entanglement",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Ephemerate",
-   "qty": 1,
-   "type": "Instant",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Spaceshift",
-   "qty": 1,
-   "type": "Instant",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "S.H.I.E.L.D. Flying Car",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Photon, Lady of Light",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "The Mighty Thor, Jane Foster",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng",
-   "own": "have"
-  },
-  {
-   "name": "Helm of the Host",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Silver Surfer, Cosmic Voyager",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Director Nick Fury",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Captain America, Team Leader",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Agent Phil Coulson",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng",
-   "own": "have"
-  },
-  {
-   "name": "Daredevil, Man Without Fear",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Iron Lad, Diverging Destiny",
-   "qty": 1,
-   "type": "Creature",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Herald's Horn",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Origin of the Avengers",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "eng",
-   "own": "check"
-  },
-  {
-   "name": "Bruce Banner // The Incredible Hulk",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "buy"
-  },
-  {
-   "name": "King T'Challa // Black Panther, Hope Enduring",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "buy"
-  },
-  {
-   "name": "Jennifer Walters // The Sensational She-Hulk",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "buy"
-  },
-  {
-   "name": "Miles Morales // Ultimate Spider-Man",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "buy"
-  },
-  {
-   "name": "Tony Stark // The Invincible Iron Man",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Gwen Stacy // Ghost-Spider",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "buy"
-  },
-  {
-   "name": "Peter Parker // Amazing Spider-Man",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "buy"
-  },
-  {
-   "name": "Monica Rambeau // Photon, Living Light",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "have"
-  },
-  {
-   "name": "Eddie Brock // Venom, Lethal Protector",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "buy"
-  },
-  {
-   "name": "Captain Marvel, Apex Avenger",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Hyperion, Supreme Hero",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Vision, Spectral Synthezoid",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Professor Hulk",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Spider-Man, Miles Morales",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "buy"
-  },
-  {
-   "name": "Hulkbuster Armor",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "N'Yami-Class Mother Ship",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Captain Marvel, Shooting Star",
-   "qty": 1,
-   "type": "Creature",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Swords to Plowshares",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Path to Exile",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Generous Gift",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Beast Within",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Chaos Warp",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Terminate",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Infernal Grasp",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Counterspell",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Avengers Assemble!",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "draw",
-   "own": "check"
-  },
-  {
-   "name": "Avengers Quinjet",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "recur",
-   "own": "check"
-  },
-  {
-   "name": "Damning Verdict",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "wipe",
-   "own": "check"
-  },
-  {
-   "name": "Raise the Palisade",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "wipe",
-   "own": "check"
-  },
-  {
-   "name": "Lightning Greaves",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "prot",
-   "own": "check"
-  },
-  {
-   "name": "Swiftfoot Boots",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "prot",
-   "own": "check"
-  },
-  {
-   "name": "Flawless Maneuver",
-   "qty": 1,
-   "type": "Instant",
-   "role": "prot",
-   "own": "check"
-  },
-  {
-   "name": "Heroic Intervention",
-   "qty": 1,
-   "type": "Instant",
-   "role": "prot",
-   "own": "check"
-  },
-  {
-   "name": "Captain America, Super-Soldier",
-   "qty": 1,
-   "type": "Creature",
-   "role": "prot",
-   "own": "check"
-  },
-  {
-   "name": "Plains",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Island",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Swamp",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Mountain",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Forest",
-   "qty": 1,
-   "type": "Land",
-   "role": "land"
-  }
- ],
  "adds": [
   {
    "name": "Doc Samson, Super Psychiatrist",
@@ -732,6 +21,711 @@
    "why": "About $0.49. Sets up the top seven before a power-up. Swap for Talisman of Dominance."
   }
  ],
+ "baseLabel": "Marvel only",
+ "bracket": "High Bracket 2",
+ "bracketGoal": "Heroes tribal · Marvel printings only (base sets, Jumpstarts, Marvel Commander, Secret Lairs, bonus sheets) · 0 Game Changers",
+ "cards": [
+  {
+   "name": "Command Tower",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Path of Ancestry",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plaza of Heroes",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Avengers Tower",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Secluded Courtyard",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Unclaimed Territory",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Multiversal Passage",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fabled Passage",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Evolving Wilds",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Surveillance Room",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mystic Monastery",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Crumbling Necropolis",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Savage Lands",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Urban Retreat",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thriving Heath",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thriving Isle",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thriving Moor",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thriving Bluff",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thriving Grove",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Bountiful Promenade",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Luxury Suite",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Spectator Seating",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rejuvenating Springs",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Glacial Fortress",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfur Falls",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Dragonskull Summit",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Rootbound Crag",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sunpetal Grove",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Drowned Catacomb",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sol Ring",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Fellwar Stone",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Chromatic Lantern",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Indulgence",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Dominance",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Farseek",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Talisman of Conviction",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Cultivate",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Birds of Paradise",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Shang-Chi, Master of Kung Fu",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Karolina Dean, Runaway",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Echo, Perceptive Prodigy",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Wonder Man, Hollywood Hero",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Quantum Entanglement",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Ephemerate",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "Spaceshift",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Instant"
+  },
+  {
+   "name": "S.H.I.E.L.D. Flying Car",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Photon, Lady of Light",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "The Mighty Thor, Jane Foster",
+   "own": "have",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Helm of the Host",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Silver Surfer, Cosmic Voyager",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Director Nick Fury",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain America, Team Leader",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Agent Phil Coulson",
+   "own": "have",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Daredevil, Man Without Fear",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Lad, Diverging Destiny",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Herald's Horn",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Origin of the Avengers",
+   "own": "check",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Bruce Banner // The Incredible Hulk",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "King T'Challa // Black Panther, Hope Enduring",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Jennifer Walters // The Sensational She-Hulk",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Miles Morales // Ultimate Spider-Man",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Tony Stark // The Invincible Iron Man",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Gwen Stacy // Ghost-Spider",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Peter Parker // Amazing Spider-Man",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Monica Rambeau // Photon, Living Light",
+   "own": "have",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Eddie Brock // Venom, Lethal Protector",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain Marvel, Apex Avenger",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Hyperion, Supreme Hero",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Vision, Spectral Synthezoid",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Professor Hulk",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Spider-Man, Miles Morales",
+   "own": "buy",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Hulkbuster Armor",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Artifact"
+  },
+  {
+   "name": "N'Yami-Class Mother Ship",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Artifact"
+  },
+  {
+   "name": "Captain Marvel, Shooting Star",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Swords to Plowshares",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Path to Exile",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Generous Gift",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Beast Within",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Chaos Warp",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Terminate",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Infernal Grasp",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Counterspell",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Avengers Assemble!",
+   "own": "check",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Avengers Quinjet",
+   "own": "check",
+   "qty": 1,
+   "role": "recur",
+   "type": "Artifact"
+  },
+  {
+   "name": "Damning Verdict",
+   "own": "check",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Raise the Palisade",
+   "own": "check",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Lightning Greaves",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Flawless Maneuver",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Heroic Intervention",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Captain America, Super-Soldier",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Plains",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Forest",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "W",
+  "U",
+  "B",
+  "R",
+  "G"
+ ],
+ "commanders": [
+  "Nick Fury, Agent of S.H.I.E.L.D."
+ ],
+ "format": "Commander",
+ "name": "Nick Fury: Avengers Initiative",
  "notes": [
   "Plan: Nick costs {W}. His power-up costs {W}{U}{B}{R}{G}, or {U}{B}{R}{G} on a turn he entered. It puts two counters on him, then looks at the top seven cards. One Hero, Equipment or Vehicle goes onto the battlefield, and a double-faced card can come in already flipped. 35 of the 99 are hits, so a dig averages about 2.5 hits.",
   "Free flips: Bruce Banner arrives as The Incredible Hulk, King T'Challa as Black Panther, Jennifer Walters as The Sensational She-Hulk (opponents can't cast spells on your turn), Miles as Ultimate Spider-Man, Tony Stark as The Invincible Iron Man, plus Ghost-Spider, Amazing Spider-Man, Venom and Photon.",
@@ -743,15 +737,24 @@
   "Not simulated. Prices from the Nov 12 data snapshot: about $175 for the 99 at the cheapest printings. The priciest pieces are Shang-Chi $9.84, Luxury Suite $8.48, King T'Challa $8.16, Spider-Man, Miles Morales $8.04, Flawless Maneuver $7.58, Captain Marvel, Shooting Star $7.40.",
   "Flip heroes this shares with other vault decks (buy duplicates): King T'Challa (his own deck's commander), Bruce Banner (oldest's commander), Jennifer Walters (lawyer deck), Miles Morales, Gwen Stacy, Peter Parker and Spider-Man, Miles Morales (Cosmic Spider-Man deck), Eddie Brock (Thanos & Obosh), Tony Stark (Captain America deck)."
  ],
+ "order": 6.7,
+ "owner": "Andrew",
+ "source": "Built by Claude Nov 17, 2026 around the owned Nick Fury, Agent of S.H.I.E.L.D. Every card checked for a Marvel printing, colour identity and legality in mtg-data; ownership is tagged, not confirmed. Flip heroes already used in other vault decks are tagged 'buy' (Andrew is buying duplicates).",
+ "target": 100,
+ "themeLabel": "Heroes tribal",
+ "updated": "Nov 17, 2026",
  "variants": [
   {
-   "id": "b3",
-   "label": "Bracket 3",
-   "name": "Nick Fury (Bracket 3)",
+   "adds": [
+    {
+     "name": "Jeska's Will",
+     "status": "planned",
+     "why": "About $38. Game Changer alternative to Opposition Agent: mana plus three cards off the top."
+    }
+   ],
    "bracket": "Bracket 3",
    "bracketGoal": "3 Game Changers · still Marvel-only · protects the engine and adds hard-hitting equipment",
-   "source": "Nov 17, 2026; Game Changers checked against the mtg-data game_changer column",
-   "updated": "Nov 17, 2026",
+   "id": "b3",
    "in": [
     {
      "name": "Fierce Guardianship",
@@ -790,6 +793,14 @@
      "type": "Creature"
     }
    ],
+   "label": "Bracket 3",
+   "name": "Nick Fury (Bracket 3)",
+   "notes": [
+    "Game Changers: Fierce Guardianship (about $58, free with Nick out), Teferi's Protection (about $36) and Opposition Agent (owned). These are 3 of the only 5 Game Changers with a Marvel printing.",
+    "Equipment that hits from a dig: Sword of Fire and Ice (about $17) and Mjölnir, Hammer of Thor (about $15, 4 damage when it enters). Thor, God of Thunder is owned and is a Hero hit.",
+    "No fetch or shock lands were added: none of them have a Marvel printing, so the mana is the same as the B2 list.",
+    "Not simulated."
+   ],
    "out": [
     {
      "name": "Spaceshift",
@@ -816,19 +827,8 @@
      "qty": 1
     }
    ],
-   "adds": [
-    {
-     "name": "Jeska's Will",
-     "status": "planned",
-     "why": "About $38. Game Changer alternative to Opposition Agent: mana plus three cards off the top."
-    }
-   ],
-   "notes": [
-    "Game Changers: Fierce Guardianship (about $58, free with Nick out), Teferi's Protection (about $36) and Opposition Agent (owned). These are 3 of the only 5 Game Changers with a Marvel printing.",
-    "Equipment that hits from a dig: Sword of Fire and Ice (about $17) and Mjölnir, Hammer of Thor (about $15, 4 damage when it enters). Thor, God of Thunder is owned and is a Hero hit.",
-    "No fetch or shock lands were added: none of them have a Marvel printing, so the mana is the same as the B2 list.",
-    "Not simulated."
-   ]
+   "source": "Nov 17, 2026; Game Changers checked against the mtg-data game_changer column",
+   "updated": "Nov 17, 2026"
   }
  ]
 }

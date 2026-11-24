@@ -1,39 +1,44 @@
 {
  "adds": [
   {
+   "name": "Unstable Molecule Suit",
+   "status": "buy",
+   "why": "In the list (Nov 23) for Lightning Greaves. Marvel, ~$1.20: +2/+2 and indestructible, equip commander {2}. Pick one up."
+  },
+  {
+   "name": "Tamiyo's Safekeeping",
+   "status": "verify",
+   "why": "Back in (Nov 23) for Abomination, Terrifying Titan. ~$3.90; the only 1-mana save that can also protect Caltrops. Confirm you have a copy."
+  },
+  {
+   "name": "Tyvar's Stand",
+   "status": "planned",
+   "why": "Option (~$1.70): {X}{G}, hexproof + indestructible + pump X on one creature. Creatures only (can't save Caltrops). Swap: Strength of Will or Negate."
+  },
+  {
+   "name": "Champion's Helm",
+   "status": "planned",
+   "why": "Option (Andrew owns one): +2/+2 and hexproof on a legendary. Hexproof, unlike Greaves' shroud, still lets your own fight/ping tricks target Hulk."
+  },
+  {
+   "name": "Lightning Greaves",
+   "status": "planned",
+   "why": "Cut Nov 23: its shroud blocks your own Pounce, Strength of Will and Red Hulk pings on Hulk."
+  },
+  {
+   "name": "Abomination, Terrifying Titan",
+   "status": "planned",
+   "why": "Cut Nov 23 for Tamiyo's Safekeeping: vanilla-ish 4/4 whose power-up costs 7."
+  },
+  {
    "name": "Leader, Super-Genius",
    "status": "verify",
-   "why": "MSH rare — in the list; confirm you own it."
-  },
-  {
-   "name": "World War Hulk",
-   "status": "owned",
-   "why": "MSH rare saga — in the list. A copy is freed by the Ant-Man fold (Nov 16)."
-  },
-  {
-   "name": "Strength of Will",
-   "status": "owned",
-   "why": "SPM rare — key protection for Hulk. A copy is freed by the Ant-Man fold (Nov 16)."
+   "why": "MSH rare — in the list (kept by request); confirm you own it."
   },
   {
    "name": "Hulk, Strongest There Is",
    "status": "verify",
    "why": "From the 'Incredible' Jumpstart pack (with Brawn); doubles counters on Gammas."
-  },
-  {
-   "name": "Brawn, Amadeus Cho",
-   "status": "owned",
-   "why": "Jumpstart / Beginner Box card. A copy is freed by the Ant-Man fold (Nov 16)."
-  },
-  {
-   "name": "Hulk's Thunderclap",
-   "status": "verify",
-   "why": "Jumpstart-run card — confirm you own it."
-  },
-  {
-   "name": "Origin of the Hulk",
-   "status": "verify",
-   "why": "Jumpstart-run card — confirm you own it."
   },
   {
    "name": "Gamma Grotesque",
@@ -56,13 +61,73 @@
    "why": "From the Villains Unleashed box set."
   },
   {
-   "name": "Moon Girl and Devil Dinosaur",
-   "status": "owned",
-   "why": "Freed by the Ant-Man fold (Nov 16). Green-blue two-drop that becomes a 6/6 trampler when you draw a second card in a turn, which Bruce's draw ability does. Suggested cut: H.E.R.B.I.E. Scout Unit."
+   "name": "Professor Hulk",
+   "status": "verify",
+   "why": "In the middle kid's Avengers Assemble precon — may need a second copy."
+  },
+  {
+   "name": "Last March of the Ents",
+   "status": "verify",
+   "why": "In the list by request (~$19, not Marvel); confirm you own it. Draws off Hulk's 8 toughness, then drops every creature in hand."
+  },
+  {
+   "name": "Flora Colossus",
+   "status": "planned",
+   "why": "Decided add (Marvel printing; Groot's species). Suggested cut: Rhino's Rampage."
+  },
+  {
+   "name": "The Thing, Ben Grimm",
+   "status": "planned",
+   "why": "Decided add; 7/7 trample that grows when Heroes hit. Suggested cut: Harmonize."
+  },
+  {
+   "name": "Shang-Chi, Martial Mentor",
+   "status": "planned",
+   "why": "Decided add; doubles +1/+1 counters. Suggested cut: Brawn, Amadeus Cho."
+  },
+  {
+   "name": "Hit-Monkey",
+   "status": "planned",
+   "why": "Option (~$2.65): deathtouch + hexproof turns every fight spell into hard removal."
+  },
+  {
+   "name": "Maximum Carnage",
+   "status": "planned",
+   "why": "Option (~$0.61): forces opponents to attack each other, then RRR, then 5 to each opponent. Slow."
+  },
+  {
+   "name": "Woodcaller Automaton",
+   "status": "planned",
+   "why": "Option (~$0.27): 10 mana for two 8/8s, or 4 for two 3/3s; the animated land dies to wipes."
+  },
+  {
+   "name": "Craterhoof Behemoth",
+   "status": "planned",
+   "why": "Optional non-Marvel finisher (~$24)."
+  },
+  {
+   "name": "Embercleave",
+   "status": "planned",
+   "why": "Optional non-Marvel finisher (~$9); flash double strike + trample mid-combat."
+  },
+  {
+   "name": "Branching Evolution",
+   "status": "planned",
+   "why": "Optional; doubles +1/+1 counters (Shang-Chi does this on a body)."
+  },
+  {
+   "name": "Swan Song",
+   "status": "planned",
+   "why": "Not owned right now; Negate fills its slot. Swap back in if you pick one up."
+  },
+  {
+   "name": "Hulk's Thunderclap",
+   "status": "planned",
+   "why": "Cut for the rocks (Nov 19); a Gamma fight spell if you want it back."
   }
  ],
  "bracket": "High Bracket 2",
- "bracketGoal": "0 Game Changers · no infinite-combat combos · Gamma typal + counters, built from Marvel Super Heroes & Spider-Man first",
+ "bracketGoal": "0 Game Changers · no infinite-combat combos · big ramp, big Gamma bodies, extra-combat finishers · Marvel first",
  "cards": [
   {
    "name": "Hulk, Gamma Goliath",
@@ -89,13 +154,19 @@
    "type": "Creature"
   },
   {
-   "name": "Abomination, Terrifying Titan",
+   "name": "Tamiyo's Safekeeping",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Leader, Super-Genius",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
-   "name": "Leader, Super-Genius",
+   "name": "Moon Girl and Devil Dinosaur",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
@@ -137,49 +208,7 @@
    "type": "Creature"
   },
   {
-   "name": "Hulkling, Burgeoning Bruiser",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Ant-Man, Colony Commander",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
    "name": "Iron Fist, Living Weapon",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Bold Biochemist",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Beast, Erudite Aerialist",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Ka-Zar of the Savage Land",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Kid Loki",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "H.E.R.B.I.E. Scout Unit",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
@@ -233,7 +262,13 @@
    "type": "Artifact"
   },
   {
-   "name": "Hot Dog Cart",
+   "name": "Gruul Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Creativity",
    "qty": 1,
    "role": "ramp",
    "type": "Artifact"
@@ -275,24 +310,6 @@
    "type": "Sorcery"
   },
   {
-   "name": "Unstable Experiment",
-   "qty": 1,
-   "role": "eng",
-   "type": "Instant"
-  },
-  {
-   "name": "Pictures of Spider-Man",
-   "qty": 1,
-   "role": "draw",
-   "type": "Artifact"
-  },
-  {
-   "name": "Depower",
-   "qty": 1,
-   "role": "rem",
-   "type": "Instant"
-  },
-  {
    "name": "Garruk's Uprising",
    "qty": 1,
    "role": "draw",
@@ -329,34 +346,15 @@
    "type": "Sorcery"
   },
   {
-   "name": "Terrific Team-Up",
-   "qty": 1,
-   "role": "rem",
-   "type": "Instant"
-  },
-  {
    "name": "Epic Fight",
    "qty": 1,
    "role": "rem",
    "type": "Sorcery"
   },
   {
-   "name": "Frozen in Ice",
-   "qty": 1,
-   "role": "rem",
-   "sub": "Aura",
-   "type": "Enchantment"
-  },
-  {
    "name": "Avengers Disassembled",
    "qty": 1,
    "role": "wipe",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Hulk's Thunderclap",
-   "qty": 1,
-   "role": "rem",
    "type": "Sorcery"
   },
   {
@@ -384,12 +382,6 @@
    "type": "Instant"
   },
   {
-   "name": "Swan Song",
-   "qty": 1,
-   "role": "rem",
-   "type": "Instant"
-  },
-  {
    "name": "Strength of Will",
    "qty": 1,
    "role": "prot",
@@ -402,12 +394,6 @@
    "type": "Instant"
   },
   {
-   "name": "Tamiyo's Safekeeping",
-   "qty": 1,
-   "role": "prot",
-   "type": "Instant"
-  },
-  {
    "name": "Swiftfoot Boots",
    "qty": 1,
    "role": "prot",
@@ -415,7 +401,7 @@
    "type": "Artifact"
   },
   {
-   "name": "Lightning Greaves",
+   "name": "Unstable Molecule Suit",
    "qty": 1,
    "role": "prot",
    "sub": "Equipment",
@@ -429,24 +415,106 @@
    "type": "Enchantment"
   },
   {
-   "name": "Origin of the Hulk",
+   "name": "Last March of the Ents",
    "qty": 1,
-   "role": "eng",
-   "sub": "Saga",
-   "type": "Enchantment"
-  },
-  {
-   "name": "Claim the Kingdom",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Plan",
-   "type": "Enchantment"
+   "role": "draw",
+   "type": "Sorcery"
   },
   {
    "name": "Rhythm of the Wild",
    "qty": 1,
    "role": "eng",
    "type": "Enchantment"
+  },
+  {
+   "name": "Giant-Man, Gargantuan Genius",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Thran Dynamo",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Savage Land Dinosaur",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Professor Hulk",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Hulk, Bruce Banner",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Fiery Emancipation",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Savage Beating",
+   "qty": 1,
+   "role": "win",
+   "type": "Instant"
+  },
+  {
+   "name": "Relentless Assault",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Seize the Day",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Unnatural Growth",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Overwhelming Stampede",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Pounce",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Inscription of Abundance",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Elvish Mystic",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Negate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
   },
   {
    "name": "Command Tower",
@@ -528,7 +596,7 @@
   },
   {
    "name": "Mountain",
-   "qty": 8,
+   "qty": 7,
    "role": "land",
    "type": "Land"
   },
@@ -550,15 +618,1193 @@
  "format": "Commander",
  "name": "Bruce Banner // Hulk: Gamma Smash",
  "notes": [
-  "v1, Oct 28, 2026 (High Bracket 2): Bruce Banner draws cards early for {X}{X}; transform him, or cast The Incredible Hulk side from the command zone for 6. Enrage: whenever Hulk is dealt damage he gets a +1/+1 counter, and if he's attacking he untaps and you get an extra combat. Getting blocked, fight spells, Red Hulk, Iron Fist and Brash Taunter set it off. 12 Gamma creatures plus counter doublers (Doc Samson, Hulk, Strongest There Is).",
-  "Bracket 2 guardrails: no Caltrops, Pyrohemia, Gelectrode, Cunning Sparkmage or Prodigal Sorcerer — repeatable damage on an attacking Hulk is a two-card infinite-combat combo. No Game Changers (skip Cyclonic Rift, Fierce Guardianship, Mana Drain, tutors).",
-  "Staples (Sol Ring, Cultivate, Counterspell, Heroic Intervention, dual lands, etc.) are placeholders from the general collection — swap in anything similar if missing. A few Marvel legends (Kid Loki, Ka-Zar, Ant-Man, Iron Fist, Beast, Hulkling) weren't rarity-checked; easy cuts if they're rares you don't have.",
-  "Professor Hulk is another Gamma option, but it's in the Avengers Assemble precon."
+  "Nov 23, 2026 (pending, not made yet): the second Birds of Paradise (Precon Rip, Wakanda Forever copy) may go to the Lawyer deck instead of here — she lists Birds and is first in line for it. If it does, Leafkin Druid (bulk box) fills this Birds slot for now and Birds stays a buy-later upgrade. If the spare Exotic Orchard turns up, it comes here (none of the rip copies were left for Hulk).",
+  "Nov 23, 2026: now the oldest's S-tier deck (swapped with Black Panther). Precon Rip re-run with Hulk at S: Hulk now gets Professor Hulk (from Nick Fury), Swiftfoot Boots (from Wizards), Overwhelming Stampede (from Teval), Unstable Molecule Suit (from Cap: Shield Throw), Talisman of Creativity (from Sinister Six), Terramorphic Expanse (from Black Panther) and Seize the Day (from the binder), on top of Eternal Witness, Avengers Tower, Baxter Building, Path of Ancestry, Rootbound Crag, Farseek and Three Visits. Birds of Paradise stays earmarked for Tom's Bombs; all 5 rip Exotic Orchards went to other S decks.",
+  "Nov 23, 2026: Tamiyo's Safekeeping back in for Abomination, Terrifying Titan (main list; flows into the Bracket 3 and Best of Both versions). Trophy Mage added to the Caltrops versions as a third tutor.",
+  "Nov 23, 2026: Unstable Molecule Suit in for Lightning Greaves (all versions built off this list). Greaves' shroud blocked our own self-damage tricks on Hulk; the Suit's indestructible doesn't. Swiftfoot Boots stays (hexproof only stops opponents).",
+  "v2, Nov 18, 2026 — Big Ramp + Finishers (High Bracket 2, 0 Game Changers): ramp into big Gammas, then end it with extra combats. Self-damage on an attacking Incredible Hulk = untap + extra combat: Red Hulk's enrage ping (target your own Hulk), Iron Fist's ping, Brash Taunter fights, and instant fights Pounce / Inscription of Abundance cast during combat. Each gives one extra combat, not a loop.",
+  "Finishers: Fiery Emancipation (triples all damage), Savage Beating, Relentless Assault, Seize the Day, Unnatural Growth, Overwhelming Stampede.",
+  "Bracket 2 guardrails: no Caltrops in the main list — Caltrops + attacking Hulk is an infinite-combat win (it's in the Bracket 3 version on purpose). Single pingers like Cunning Sparkmage or Prodigal Sorcerer are NOT infinite (they don't untap) — one extra combat each. No Game Changers.",
+  "Skipped Hulk, Always Angry: his enter trigger destroys all artifacts, including your own rocks and Boots/Greaves.",
+  "By request: Elvish Mystic in (for Hulkling), Negate in for Swan Song (not owned right now), Moon Girl and Devil Dinosaur in for Tamiyo's Safekeeping (Leader kept), Last March of the Ents in for Origin of the Hulk.",
+  "Nov 19, 2026: Gruul Signet and Talisman of Creativity in for Hulk's Thunderclap and 1 Mountain — 16 ramp pieces, 35 lands; rocks survive wipes and fix RRGG for Hulk.",
+  "v1, Oct 28, 2026: the original Gamma typal + counters list — kept as the 'Original (Oct 28)' version."
  ],
  "order": 21,
  "owner": "Oldest",
- "source": "Built by Claude for your oldest from Marvel Super Heroes / Spider-Man cards plus collection staples, Oct 28, 2026; not yet checked against your collection",
+ "source": "Big Ramp + Finishers list (Nov 18, 2026), built by Claude from the Oct 28 v1 list; not yet checked against your collection",
  "target": 100,
- "themeLabel": "Gamma smash",
- "updated": "Oct 28, 2026"
+ "themeLabel": "Big ramp + Gamma finishers",
+ "updated": "Nov 23, 2026",
+ "variants": [
+  {
+   "adds": [
+    {
+     "name": "Reckless Handling",
+     "status": "planned",
+     "why": "Option (~$0.30): {1}{R} artifact-only Gamble, not a Game Changer; random discard covered by recursion."
+    },
+    {
+     "name": "Fabricate",
+     "status": "planned",
+     "why": "Option (~$5.80): {2}{U} sorcery, any artifact to hand."
+    },
+    {
+     "name": "Scour for Scrap",
+     "status": "planned",
+     "why": "Option (~$0.45): {3}{U} instant; tutors Caltrops or returns it from the graveyard (both for 4 more)."
+    },
+    {
+     "name": "Whir of Invention",
+     "status": "planned",
+     "why": "From the primer: puts Caltrops onto the battlefield at instant speed. Left out because it needs UUU in a mostly-green deck."
+    },
+    {
+     "name": "Rhino, Terrible Trampler",
+     "status": "planned",
+     "why": "From the primer: 7/6 trampler that kills an artifact or land and hands out counters."
+    },
+    {
+     "name": "Wolverine, Fierce Fighter",
+     "status": "planned",
+     "why": "From the primer: haste and a fight when he enters — removal on a body."
+    },
+    {
+     "name": "Thing Swing",
+     "status": "planned",
+     "why": "From the primer: 2 mana with a Hero; your creature deals double its power to an opposing creature."
+    },
+    {
+     "name": "Spider-Punk",
+     "status": "planned",
+     "why": "From the primer: damage can't be prevented and spells can't be countered — lets you Moonmist on the attack turn and protects the combo."
+    },
+    {
+     "name": "Talisman of Impulse",
+     "status": "planned",
+     "why": "From the primer: R/G rock."
+    },
+    {
+     "name": "Simic Signet",
+     "status": "planned",
+     "why": "From the primer: G/U rock."
+    },
+    {
+     "name": "Mystic Remora",
+     "status": "planned",
+     "why": "From the primer: early card draw (~$11)."
+    },
+    {
+     "name": "Bristly Bill, Spine Sower",
+     "status": "planned",
+     "why": "From the primer (~$20): landfall counters and a counter-doubler."
+    },
+    {
+     "name": "Fierce Guardianship",
+     "status": "planned",
+     "why": "Game Changer alternative (~$58): free counter to protect the combo turn."
+    }
+   ],
+   "bracket": "Bracket 3 (fast — may play like a 4)",
+   "bracketGoal": "3 Game Changers (Gifts Ungiven, Gamble, Natural Order) · Caltrops + Hulk combo with Moonmist for speed and recovery · deep removal and big-creature backup",
+   "id": "best-of-both",
+   "in": [
+    {
+     "name": "Flora Colossus",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "The Thing, Ben Grimm",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Shang-Chi, Martial Mentor",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Caltrops",
+     "qty": 1,
+     "role": "win",
+     "type": "Artifact"
+    },
+    {
+     "name": "Sandstorm",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Cunning Sparkmage",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Gifts Ungiven",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Gamble",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Natural Order",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Trophy Mage",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Regrowth",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Call Damage Control",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Ancestral Communion",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Moonmist",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Noxious Revival",
+     "qty": 1,
+     "role": "recur",
+     "type": "Instant"
+    },
+    {
+     "name": "Pyrohemia",
+     "qty": 1,
+     "role": "win",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Bala Ged Recovery",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Hinterland Harbor",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Yavimaya Coast",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Shivan Reef",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Cascade Bluffs",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Flooded Grove",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mossfire Valley",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Vineglimmer Snarl",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Sheltered Thicket",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Restless Ridgeline",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Rogue's Passage",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Best of Both (Moonmist)",
+   "name": "Bruce Banner // Hulk: Best of Both",
+   "notes": [
+    "Nov 23, 2026: Trophy Mage in for Hulk, Bruce Banner (a vanilla 7/4). Trophy Mage's enter trigger finds any mana-value-3 artifact: Caltrops, or Unstable Molecule Suit if Caltrops is already handled. Tamiyo's Safekeeping comes in via the main list (for Abomination, Terrifying Titan).",
+    "Nov 19, 2026: best-of-both build — the Bracket 3 (Caltrops) shell + the primer's mana base, recursion and Moonmist. 99 + Bruce, 35 lands (incl. Bala Ged Recovery as a land), 3 Game Changers.",
+    "Why Moonmist (Andrew's call): these tables run heavy removal, so a creature combo has to rebuild fast. When Hulk dies, recast Bruce for {U} + tax and Moonmist him at the end of an opponent's turn instead of paying 6 + tax for Hulk.",
+    "MOONMIST RULE: it prevents combat damage from every non-Werewolf/Wolf that turn, Hulk included. Cast it at the end of an opponent's turn (or any turn you won't attack), never on your attack turn. Caltrops and Pyrohemia damage isn't combat damage, so that's unaffected.",
+    "Combo lines: (1) Bruce early → Moonmist on an opponent's end step → Caltrops + attack. (2) Gifts pile: Caltrops + Eternal Witness + Bala Ged Recovery + Noxious Revival (or Call Damage Control / Regrowth). (3) Gamble or Trophy Mage for Caltrops; recursion fixes a bad Gamble discard. Without Caltrops: Pyrohemia (one extra combat per R), Sandstorm, Cunning Sparkmage, Iron Fist, Red Hulk, fight spells.",
+    "Backup if the combo is answered: Flora Colossus, The Thing, Shang-Chi, Natural Order, Last March of the Ents, Unnatural Growth, Fiery Emancipation, Savage Beating.",
+    "Interaction kept: Beast Within, Chaos Warp, Counterspell, Arcane Denial, Negate, Pounce, Inscription of Abundance, HULK SMASH!, Epic Fight, Avengers Disassembled; protection: Heroic Intervention, Tamiyo's Safekeeping, Strength of Will, Swiftfoot Boots, Unstable Molecule Suit."
+   ],
+   "out": [
+    {
+     "name": "Multiversal Passage",
+     "qty": 1
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "qty": 1
+    },
+    {
+     "name": "Evolving Wilds",
+     "qty": 1
+    },
+    {
+     "name": "Frontier Bivouac",
+     "qty": 1
+    },
+    {
+     "name": "Path of Ancestry",
+     "qty": 1
+    },
+    {
+     "name": "Forest",
+     "qty": 3
+    },
+    {
+     "name": "Mountain",
+     "qty": 3
+    },
+    {
+     "name": "Rhino's Rampage",
+     "qty": 1
+    },
+    {
+     "name": "Harmonize",
+     "qty": 1
+    },
+    {
+     "name": "Brawn, Amadeus Cho",
+     "qty": 1
+    },
+    {
+     "name": "Rampant Growth",
+     "qty": 1
+    },
+    {
+     "name": "Three Visits",
+     "qty": 1
+    },
+    {
+     "name": "Seize the Day",
+     "qty": 1
+    },
+    {
+     "name": "Overwhelming Stampede",
+     "qty": 1
+    },
+    {
+     "name": "Relentless Assault",
+     "qty": 1
+    },
+    {
+     "name": "Rishkar's Expertise",
+     "qty": 1
+    },
+    {
+     "name": "Ripjaw Raptor",
+     "qty": 1
+    },
+    {
+     "name": "Savage Land Dinosaur",
+     "qty": 1
+    },
+    {
+     "name": "Gamma Grotesque",
+     "qty": 1
+    },
+    {
+     "name": "Abomination, Irradiated Brute",
+     "qty": 1
+    },
+    {
+     "name": "Abomination, World Ravager",
+     "qty": 1
+    },
+    {
+     "name": "Hulk, Brutal Brawler",
+     "qty": 1
+    },
+    {
+     "name": "Hulk, Bruce Banner",
+     "qty": 1
+    }
+   ],
+   "source": "Built by Claude from the Bracket 3 (Caltrops) version + the primer list, Nov 19, 2026",
+   "updated": "Nov 23, 2026"
+  },
+  {
+   "adds": [
+    {
+     "name": "Fierce Guardianship",
+     "status": "planned",
+     "why": "Game Changer (~$58, Marvel printing). Swap in for one of the three if you want combo protection. Swap: Negate."
+    },
+    {
+     "name": "Cyclonic Rift",
+     "status": "planned",
+     "why": "Game Changer (~$30). Alternative Game Changer: clears every blocker before the Hulk swing. Swap: Chaos Warp."
+    },
+    {
+     "name": "Mystical Tutor",
+     "status": "planned",
+     "why": "Game Changer (~$15). Alternative: finds Gifts/Gamble (→ Caltrops) or Sandstorm/Savage Beating."
+    },
+    {
+     "name": "Worldly Tutor",
+     "status": "planned",
+     "why": "Game Changer (~$27). Creatures only — finds Sparkmage, Red Hulk or Flora Colossus."
+    },
+    {
+     "name": "Jeska's Will",
+     "status": "planned",
+     "why": "Game Changer (~$38, Marvel printing). Burst of red mana + cards with Hulk out."
+    },
+    {
+     "name": "Biorhythm",
+     "status": "planned",
+     "why": "Game Changer (~$15, Marvel printing). Opponents' life becomes their creature count."
+    },
+    {
+     "name": "Damage Control Crew",
+     "status": "planned",
+     "why": "Option (~$0.17, Marvel): body that returns a 4+ mana value card or exiles an artifact/enchantment."
+    },
+    {
+     "name": "Timeless Witness",
+     "status": "planned",
+     "why": "Option (~$0.32): second Eternal Witness, can eternalize later."
+    }
+   ],
+   "bracket": "Bracket 3",
+   "bracketGoal": "3 Game Changers (Gifts Ungiven, Gamble, Natural Order) — at the Bracket 3 cap · Caltrops + attacking Hulk is an intentional infinite-combat win",
+   "id": "b3-caltrops",
+   "in": [
+    {
+     "name": "Flora Colossus",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "The Thing, Ben Grimm",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Shang-Chi, Martial Mentor",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Caltrops",
+     "qty": 1,
+     "role": "win",
+     "type": "Artifact"
+    },
+    {
+     "name": "Sandstorm",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Cunning Sparkmage",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Gifts Ungiven",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Gamble",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Natural Order",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Trophy Mage",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Regrowth",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Call Damage Control",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Ancestral Communion",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    }
+   ],
+   "label": "Bracket 3 (Caltrops)",
+   "name": "Bruce Banner // Hulk: Gamma Smash (Bracket 3)",
+   "notes": [
+    "Nov 23, 2026: Trophy Mage added (Caltrops tutor). Still no cuts — 112 cards; the finished 100 is 'Best of Both'.",
+    "Nov 18, 2026: Bracket 3 build (by request). Adds Flora Colossus, The Thing and Shang-Chi (decided) plus the combo pieces Caltrops, Sandstorm and Cunning Sparkmage.",
+    "Nov 19, 2026: Game Changers Gifts Ungiven, Gamble and Natural Order (3 of 3 — at the cap) with recursion: Regrowth, Call Damage Control (Marvel), Ancestral Communion (Marvel). NO CUTS — 111 cards; the finished 100 is the 'Best of Both' version.",
+    "Gifts pile: Caltrops, Eternal Witness, Call Damage Control, Regrowth — whichever two they bin, you get Caltrops.",
+    "Caltrops + attacking Incredible Hulk: Caltrops damages Hulk on every attack → counter, untap, extra combat, repeat."
+   ],
+   "out": [],
+   "source": "Built by Claude from the main list, Nov 18, 2026",
+   "updated": "Nov 23, 2026"
+  },
+  {
+   "adds": [],
+   "bracket": "Bracket 4 in practice (primer says 3/4)",
+   "bracketGoal": "2 Game Changers (Gifts Ungiven, Gamble) · turn-3 Caltrops + Hulk infinite combat · NOT LEGAL AS-IS: She-Hulk, Attorney-at-Law is G/W hybrid (white identity)",
+   "id": "primer-combo",
+   "in": [
+    {
+     "name": "Absorbing Man",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Abomination, Terrifying Titan",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Bala Ged Recovery",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Bristly Bill, Spine Sower",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Caltrops",
+     "qty": 1,
+     "role": "win",
+     "type": "Artifact"
+    },
+    {
+     "name": "Cascade Bluffs",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Fact or Fiction",
+     "qty": 1,
+     "role": "draw",
+     "type": "Instant"
+    },
+    {
+     "name": "Fellwar Stone",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Flooded Grove",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Gamble",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Gifts Ungiven",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Hex Magic",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Hinterland Harbor",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Hulkling, Burgeoning Bruiser",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Izzet Signet",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Mana Geyser",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Moonmist",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Mossfire Valley",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mystic Remora",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Noxious Revival",
+     "qty": 1,
+     "role": "recur",
+     "type": "Instant"
+    },
+    {
+     "name": "Planar Genesis",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Instant"
+    },
+    {
+     "name": "Pyrohemia",
+     "qty": 1,
+     "role": "win",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Ram Through",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Red XIII, Proud Warrior",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Restless Ridgeline",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Rhino, Terrible Trampler",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Rogue's Passage",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Ruby, Daring Tracker",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Shang-Chi, Martial Mentor",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "She-Hulk, Attorney-at-Law",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "She-Hulk, Jennifer Walters",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Sheltered Thicket",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Shivan Reef",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Simic Signet",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Skyshroud Claim",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Spider-Punk",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Super Strength",
+     "qty": 1,
+     "role": "prot",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Surveillance Room",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Talisman of Impulse",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "The Astonishing Ant-Man",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "The Thing, Ben Grimm",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Thing Swing",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Vineglimmer Snarl",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Whir of Invention",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Wolverine, Fierce Fighter",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Yavimaya Coast",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Primer: Caltrops Combo",
+   "name": "Bruce Banner // Hulk: Temur Caltrops Combo (primer list)",
+   "notes": [
+    "Primer summary: Temur midrange-combo. Early ramp + Bruce drawing; Moonmist transforms Bruce into Hulk cheaply; tutor Caltrops with Gifts Ungiven, Whir of Invention or Gamble; Caltrops + attacking Hulk = infinite combats. Backup: Hulk, Strongest There Is, World War Hulk, Unnatural Growth, Last March of the Ents. Pyrohemia and Iron Fist give extra combats without Caltrops.",
+    "Primer Gifts piles: (1) Caltrops + Eternal Witness + Bala Ged Recovery + Noxious Revival; (2) with Caltrops in hand: Heroic Intervention + Moonmist + Arcane Denial + Noxious Revival. Whir of Invention for X=3 at end of turn puts Caltrops onto the battlefield.",
+    "Mulligan (primer): keep 2–3 lands, a 1–2 mana ramp piece, and draw or a tutor/combo piece; ship slow hands of 5+ mana Hulks.",
+    "Claude review Nov 19, 2026: She-Hulk, Attorney-at-Law has a {G/W} hybrid cost, so her colour identity includes white — not legal under Bruce. Moonmist prevents combat damage from non-Werewolves that turn, so cast it at the end of an opponent's turn (or a turn before attacking), never in the combat turn. A turn-3 two-card win plays at Bracket 4 regardless of Game Changer count. Runs no Sol Ring."
+   ],
+   "out": [
+    {
+     "name": "Abomination, Irradiated Brute",
+     "qty": 1
+    },
+    {
+     "name": "Abomination, World Ravager",
+     "qty": 1
+    },
+    {
+     "name": "Hulk, Brutal Brawler",
+     "qty": 1
+    },
+    {
+     "name": "Birds of Paradise",
+     "qty": 1
+    },
+    {
+     "name": "Ripjaw Raptor",
+     "qty": 1
+    },
+    {
+     "name": "Brash Taunter",
+     "qty": 1
+    },
+    {
+     "name": "Sol Ring",
+     "qty": 1
+    },
+    {
+     "name": "Cultivate",
+     "qty": 1
+    },
+    {
+     "name": "Kodama's Reach",
+     "qty": 1
+    },
+    {
+     "name": "Farseek",
+     "qty": 1
+    },
+    {
+     "name": "Nature's Lore",
+     "qty": 1
+    },
+    {
+     "name": "Rampant Growth",
+     "qty": 1
+    },
+    {
+     "name": "Three Visits",
+     "qty": 1
+    },
+    {
+     "name": "Return of the Wildspeaker",
+     "qty": 1
+    },
+    {
+     "name": "Rishkar's Expertise",
+     "qty": 1
+    },
+    {
+     "name": "Beast Within",
+     "qty": 1
+    },
+    {
+     "name": "Chaos Warp",
+     "qty": 1
+    },
+    {
+     "name": "Counterspell",
+     "qty": 1
+    },
+    {
+     "name": "Swiftfoot Boots",
+     "qty": 1
+    },
+    {
+     "name": "Unstable Molecule Suit",
+     "qty": 1
+    },
+    {
+     "name": "Tamiyo's Safekeeping",
+     "qty": 1
+    },
+    {
+     "name": "Rhythm of the Wild",
+     "qty": 1
+    },
+    {
+     "name": "Baxter Building",
+     "qty": 1
+    },
+    {
+     "name": "Multiversal Passage",
+     "qty": 1
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "qty": 1
+    },
+    {
+     "name": "Evolving Wilds",
+     "qty": 1
+    },
+    {
+     "name": "Frontier Bivouac",
+     "qty": 1
+    },
+    {
+     "name": "Rootbound Crag",
+     "qty": 1
+    },
+    {
+     "name": "Path of Ancestry",
+     "qty": 1
+    },
+    {
+     "name": "Forest",
+     "qty": 4
+    },
+    {
+     "name": "Mountain",
+     "qty": 1
+    },
+    {
+     "name": "Thran Dynamo",
+     "qty": 1
+    },
+    {
+     "name": "Savage Land Dinosaur",
+     "qty": 1
+    },
+    {
+     "name": "Professor Hulk",
+     "qty": 1
+    },
+    {
+     "name": "Fiery Emancipation",
+     "qty": 1
+    },
+    {
+     "name": "Savage Beating",
+     "qty": 1
+    },
+    {
+     "name": "Relentless Assault",
+     "qty": 1
+    },
+    {
+     "name": "Seize the Day",
+     "qty": 1
+    },
+    {
+     "name": "Overwhelming Stampede",
+     "qty": 1
+    },
+    {
+     "name": "Pounce",
+     "qty": 1
+    },
+    {
+     "name": "Inscription of Abundance",
+     "qty": 1
+    },
+    {
+     "name": "Negate",
+     "qty": 1
+    },
+    {
+     "name": "Talisman of Creativity",
+     "qty": 1
+    }
+   ],
+   "source": "Primer + decklist provided by Andrew, Nov 19, 2026 (100 cards incl. Bruce)",
+   "updated": "Nov 19, 2026"
+  },
+  {
+   "adds": [],
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers · no infinite-combat combos · Gamma typal + counters, built from Marvel Super Heroes & Spider-Man first",
+   "id": "v1-original",
+   "in": [
+    {
+     "name": "Hulkling, Burgeoning Bruiser",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Ant-Man, Colony Commander",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Bold Biochemist",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Beast, Erudite Aerialist",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Ka-Zar of the Savage Land",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Kid Loki",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "H.E.R.B.I.E. Scout Unit",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Hot Dog Cart",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Unstable Experiment",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Pictures of Spider-Man",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Depower",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Terrific Team-Up",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Frozen in Ice",
+     "qty": 1,
+     "role": "rem",
+     "sub": "Aura",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Swan Song",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Claim the Kingdom",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Plan",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Abomination, Terrifying Titan",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Origin of the Hulk",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Saga",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Hulk's Thunderclap",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Mountain",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Lightning Greaves",
+     "qty": 1,
+     "role": "prot",
+     "sub": "Equipment",
+     "type": "Artifact"
+    }
+   ],
+   "label": "Original (Oct 28)",
+   "name": "Bruce Banner // Hulk: Gamma Smash (original v1)",
+   "notes": [
+    "The original Oct 28 list, kept for reference after Big Ramp + Finishers became the main list on Nov 18, 2026."
+   ],
+   "out": [
+    {
+     "name": "Giant-Man, Gargantuan Genius",
+     "qty": 1
+    },
+    {
+     "name": "Thran Dynamo",
+     "qty": 1
+    },
+    {
+     "name": "Savage Land Dinosaur",
+     "qty": 1
+    },
+    {
+     "name": "Professor Hulk",
+     "qty": 1
+    },
+    {
+     "name": "Hulk, Bruce Banner",
+     "qty": 1
+    },
+    {
+     "name": "Fiery Emancipation",
+     "qty": 1
+    },
+    {
+     "name": "Savage Beating",
+     "qty": 1
+    },
+    {
+     "name": "Relentless Assault",
+     "qty": 1
+    },
+    {
+     "name": "Seize the Day",
+     "qty": 1
+    },
+    {
+     "name": "Unnatural Growth",
+     "qty": 1
+    },
+    {
+     "name": "Overwhelming Stampede",
+     "qty": 1
+    },
+    {
+     "name": "Pounce",
+     "qty": 1
+    },
+    {
+     "name": "Inscription of Abundance",
+     "qty": 1
+    },
+    {
+     "name": "Elvish Mystic",
+     "qty": 1
+    },
+    {
+     "name": "Negate",
+     "qty": 1
+    },
+    {
+     "name": "Moon Girl and Devil Dinosaur",
+     "qty": 1
+    },
+    {
+     "name": "Last March of the Ents",
+     "qty": 1
+    },
+    {
+     "name": "Gruul Signet",
+     "qty": 1
+    },
+    {
+     "name": "Talisman of Creativity",
+     "qty": 1
+    },
+    {
+     "name": "Unstable Molecule Suit",
+     "qty": 1
+    }
+   ]
+  }
+ ]
 }

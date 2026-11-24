@@ -1,428 +1,428 @@
 {
- "name": "Wretched Ranks",
- "owner": "Family",
- "commanders": [
-  "Ghoulcaller Gisa"
- ],
- "colors": [
-  "B"
- ],
- "format": "Commander",
+ "adds": [],
+ "baseLabel": "Stock precon",
  "bracket": "Bracket 2",
  "bracketGoal": "Stock precon · won't change",
- "target": 100,
- "baseLabel": "Stock precon",
- "themeLabel": "Theme",
- "order": 92,
- "source": "Foundations Commander precon (Oct 2, 2026), stock list from Wizards' published decklist; checked for colour identity and legality in mtg-data.",
- "updated": "Nov 23, 2026",
  "cards": [
   {
    "name": "Army of the Damned",
    "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
+   "role": "eng",
+   "type": "Sorcery"
   },
   {
    "name": "Ayara, First of Locthwain",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Bad Moon",
    "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
+   "role": "eng",
+   "type": "Enchantment"
   },
   {
    "name": "Cemetery Reaper",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Champion of the Perished",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Cryptbreaker",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Death Baron",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Diregraf Colossus",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Endless Ranks of the Dead",
    "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
+   "role": "eng",
+   "type": "Enchantment"
   },
   {
    "name": "God-Eternal Bontu",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Grave Titan",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Graveborn Muse",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Gravecrawler",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Headless Rider",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Josu Vess, Lich Knight",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Kalitas, Traitor of Ghet",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Liliana's Mastery",
    "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
+   "role": "eng",
+   "type": "Enchantment"
   },
   {
    "name": "Liliana's Reaver",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Lord of the Undead",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Midnight Reaper",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Mutilate",
    "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
+   "role": "eng",
+   "type": "Sorcery"
   },
   {
    "name": "Necrotic Hex",
    "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
+   "role": "eng",
+   "type": "Sorcery"
   },
   {
    "name": "Open the Graves",
    "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
+   "role": "eng",
+   "type": "Enchantment"
   },
   {
    "name": "Oversold Cemetery",
    "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
+   "role": "eng",
+   "type": "Enchantment"
   },
   {
    "name": "Phyrexian Arena",
    "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
+   "role": "eng",
+   "type": "Enchantment"
   },
   {
    "name": "Razorlash Transmogrant",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Zul Ashur, Lich Lord",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Castle Locthwain",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Geier Reach Sanitarium",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Ambition's Cost",
    "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
+   "role": "eng",
+   "type": "Sorcery"
   },
   {
    "name": "Carrion Feeder",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Cemetery Recruitment",
    "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
+   "role": "eng",
+   "type": "Sorcery"
   },
   {
    "name": "Consumed by Greed",
    "qty": 1,
-   "type": "Instant",
-   "role": "eng"
+   "role": "eng",
+   "type": "Instant"
   },
   {
    "name": "Consuming Corruption",
    "qty": 1,
-   "type": "Instant",
-   "role": "eng"
+   "role": "eng",
+   "type": "Instant"
   },
   {
    "name": "Eternal Taskmaster",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Fleshbag Marauder",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Go for the Throat",
    "qty": 1,
-   "type": "Instant",
-   "role": "eng"
+   "role": "eng",
+   "type": "Instant"
   },
   {
    "name": "Gray Merchant of Asphodel",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Lord of the Accursed",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Marchesa's Decree",
    "qty": 1,
-   "type": "Enchantment",
-   "role": "eng"
+   "role": "eng",
+   "type": "Enchantment"
   },
   {
    "name": "Mire Triton",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Moan of the Unhallowed",
    "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
+   "role": "eng",
+   "type": "Sorcery"
   },
   {
    "name": "Night's Whisper",
    "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
+   "role": "eng",
+   "type": "Sorcery"
   },
   {
    "name": "Noxious Ghoul",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Sign in Blood",
    "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
+   "role": "eng",
+   "type": "Sorcery"
   },
   {
    "name": "Soulless One",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Syphon Flesh",
    "qty": 1,
-   "type": "Sorcery",
-   "role": "eng"
+   "role": "eng",
+   "type": "Sorcery"
   },
   {
    "name": "Tendrils of Corruption",
    "qty": 1,
-   "type": "Instant",
-   "role": "eng"
+   "role": "eng",
+   "type": "Instant"
   },
   {
    "name": "Undead Augur",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Undead Butler",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Undead Warchief",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Vengeful Dead",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Wight of Precinct Six",
    "qty": 1,
-   "type": "Creature",
-   "role": "eng"
+   "role": "eng",
+   "type": "Creature"
   },
   {
    "name": "Withering Torment",
    "qty": 1,
-   "type": "Instant",
-   "role": "eng"
+   "role": "eng",
+   "type": "Instant"
   },
   {
    "name": "Arcane Signet",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Bontu's Monument",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Charcoal Diamond",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Commander's Sphere",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Infernal Idol",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Mind Stone",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Patchwork Banner",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Sol Ring",
    "qty": 1,
-   "type": "Artifact",
-   "role": "ramp"
+   "role": "ramp",
+   "type": "Artifact"
   },
   {
    "name": "Barren Moor",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Bojuka Bog",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Memorial to Folly",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Witch's Cottage",
    "qty": 1,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Swamp",
    "qty": 33,
-   "type": "Land",
-   "role": "land"
+   "role": "land",
+   "type": "Land"
   }
  ],
- "adds": [],
+ "colors": [
+  "B"
+ ],
+ "commanders": [
+  "Ghoulcaller Gisa"
+ ],
+ "format": "Commander",
+ "name": "Wretched Ranks",
  "notes": [
   "Nov 23, 2026: Added as the family's stock Foundations Commander precon. Stays stock; D tier.",
   "Roles are rough (lands, ramp, everything else as theme) since the list won't change."
- ]
+ ],
+ "order": 92,
+ "owner": "Family",
+ "source": "Foundations Commander precon (Oct 2, 2026), stock list from Wizards' published decklist; checked for colour identity and legality in mtg-data.",
+ "target": 100,
+ "themeLabel": "Theme",
+ "updated": "Nov 23, 2026"
 }

@@ -1,680 +1,4 @@
 {
- "name": "Loki: God of Lies",
- "owner": "Andrew",
- "commanders": [
-  "Loki, the Deceiver"
- ],
- "colors": [
-  "U",
-  "B",
-  "R"
- ],
- "format": "Commander",
- "order": 6.8,
- "bracket": "High Bracket 2",
- "bracketGoal": "Villains tribal · Marvel printings only (base sets, Jumpstarts, Marvel Commander, Secret Lairs, bonus sheets) · 0 Game Changers",
- "target": 100,
- "themeLabel": "Villains tribal",
- "baseLabel": "Marvel only",
- "source": "Built by Claude Nov 18, 2026 around the owned Loki, the Deceiver. Every card checked for a Marvel printing, colour identity, legality and Game Changer status in mtg-data. Ownership is tagged ('have' from his saved collection notes, otherwise 'check'), not confirmed.",
- "updated": "Nov 18, 2026",
- "cards": [
-  {
-   "name": "Loki, God of Mischief",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Ultron, Unlimited",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Prowler, Clawed Thief",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Crimson Cowl, Master of Evil",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Typhoid Mary, Fractured",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Crossbones, Malicious Mercenary",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Madame Hydra",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Carnage, Crimson Chaos",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Doctor Doom, King of Latveria",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Mysterio, Master of Illusion",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Kang, Temporal Tyrant",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Red Ghost, Intangible Genius",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Kang Prime",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Black Cat, Cunning Thief",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "M.O.D.O.K.",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "have"
-  },
-  {
-   "name": "Doctor Doom",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "have"
-  },
-  {
-   "name": "Venom, Eddie Brock",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Doctor Octopus, Master Planner",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "The Squadron Sinister",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Chameleon, Master of Disguise",
-   "qty": 1,
-   "type": "Creature",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Endless Ranks of HYDRA",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Doom Reigns Supreme",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Criminal Enterprise",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Helm of the Host",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "win",
-   "own": "check"
-  },
-  {
-   "name": "Sol Ring",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "have"
-  },
-  {
-   "name": "Arcane Signet",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "have"
-  },
-  {
-   "name": "Talisman of Dominance",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Talisman of Indulgence",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Talisman of Creativity",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Fellwar Stone",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Relic of Legends",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Loki's Scepter",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Black Market Connections",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "ramp",
-   "own": "have"
-  },
-  {
-   "name": "Kingpin, Wilson Fisk",
-   "qty": 1,
-   "type": "Creature",
-   "role": "ramp",
-   "own": "have"
-  },
-  {
-   "name": "Baron Strucker, HYDRA Overlord",
-   "qty": 1,
-   "type": "Creature",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Tombstone, Career Criminal",
-   "qty": 1,
-   "type": "Creature",
-   "role": "ramp",
-   "own": "check"
-  },
-  {
-   "name": "Terminate",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Bedevil",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Infernal Grasp",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Doom Blade",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "have"
-  },
-  {
-   "name": "Feed the Swarm",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "rem",
-   "own": "have"
-  },
-  {
-   "name": "Chaos Warp",
-   "qty": 1,
-   "type": "Instant",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Lethal Protection",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Bullseye, Death Dealer",
-   "qty": 1,
-   "type": "Creature",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Klaw, Sonic Subjugator",
-   "qty": 1,
-   "type": "Creature",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Ultimo, Civilization's End",
-   "qty": 1,
-   "type": "Creature",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Tri-Sentinel, Act of Vengeance",
-   "qty": 1,
-   "type": "Creature",
-   "role": "rem",
-   "own": "check"
-  },
-  {
-   "name": "Toxic Deluge",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "wipe",
-   "own": "have"
-  },
-  {
-   "name": "Kindred Dominance",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "wipe",
-   "own": "check"
-  },
-  {
-   "name": "Swiftfoot Boots",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "prot",
-   "own": "check"
-  },
-  {
-   "name": "Lightning Greaves",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "prot",
-   "own": "check"
-  },
-  {
-   "name": "Champion's Helm",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "prot",
-   "own": "have"
-  },
-  {
-   "name": "Counterspell",
-   "qty": 1,
-   "type": "Instant",
-   "role": "prot",
-   "own": "check"
-  },
-  {
-   "name": "Arcane Denial",
-   "qty": 1,
-   "type": "Instant",
-   "role": "prot",
-   "own": "check"
-  },
-  {
-   "name": "Three Steps Ahead",
-   "qty": 1,
-   "type": "Instant",
-   "role": "prot",
-   "own": "check"
-  },
-  {
-   "name": "Night's Whisper",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "draw",
-   "own": "have"
-  },
-  {
-   "name": "Visions of Villainy",
-   "qty": 1,
-   "type": "Instant",
-   "role": "draw",
-   "own": "check"
-  },
-  {
-   "name": "Deadly Dispute",
-   "qty": 1,
-   "type": "Instant",
-   "role": "draw",
-   "own": "have"
-  },
-  {
-   "name": "Kindred Discovery",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "draw",
-   "own": "check"
-  },
-  {
-   "name": "Skullclamp",
-   "qty": 1,
-   "type": "Artifact",
-   "role": "draw",
-   "own": "have"
-  },
-  {
-   "name": "Victor Timely, Wily Tycoon",
-   "qty": 1,
-   "type": "Creature",
-   "role": "draw",
-   "own": "check"
-  },
-  {
-   "name": "Thunderbolts Conspiracy",
-   "qty": 1,
-   "type": "Enchantment",
-   "role": "recur",
-   "own": "have"
-  },
-  {
-   "name": "Reanimate",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "recur",
-   "own": "have"
-  },
-  {
-   "name": "Command Tower",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Exotic Orchard",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Path of Ancestry",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Crumbling Necropolis",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Oscorp Industries",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Villainous Hideout",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Unclaimed Territory",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Secluded Courtyard",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Plaza of Heroes",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Dragonskull Summit",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Sulfur Falls",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Drowned Catacomb",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Luxury Suite",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Foreboding Ruins",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Frostboil Snarl",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Choked Estuary",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Hidden Lair",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Dark Fortress",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Fetid Pools",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Canyon Slough",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Thriving Bluff",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Hell's Kitchen",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Stark Industries",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "A.I.M. Labs",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Thriving Isle",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Thriving Moor",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "check"
-  },
-  {
-   "name": "Terramorphic Expanse",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "have"
-  },
-  {
-   "name": "Evolving Wilds",
-   "qty": 1,
-   "type": "Land",
-   "role": "land",
-   "own": "have"
-  },
-  {
-   "name": "Island",
-   "qty": 3,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Swamp",
-   "qty": 3,
-   "type": "Land",
-   "role": "land"
-  },
-  {
-   "name": "Mountain",
-   "qty": 2,
-   "type": "Land",
-   "role": "land"
-  }
- ],
  "adds": [
   {
    "name": "Spark Double",
@@ -692,6 +16,676 @@
    "why": "About $0.15. Another ETB to copy: 2 to a creature and 2 to its controller every attack. Swap for Red Ghost, Intangible Genius."
   }
  ],
+ "baseLabel": "Marvel only",
+ "bracket": "High Bracket 2",
+ "bracketGoal": "Villains tribal · Marvel printings only (base sets, Jumpstarts, Marvel Commander, Secret Lairs, bonus sheets) · 0 Game Changers",
+ "cards": [
+  {
+   "name": "Loki, God of Mischief",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultron, Unlimited",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Prowler, Clawed Thief",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Crimson Cowl, Master of Evil",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Typhoid Mary, Fractured",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Crossbones, Malicious Mercenary",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Madame Hydra",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Carnage, Crimson Chaos",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Doctor Doom, King of Latveria",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Mysterio, Master of Illusion",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Kang, Temporal Tyrant",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Red Ghost, Intangible Genius",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Kang Prime",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Black Cat, Cunning Thief",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "M.O.D.O.K.",
+   "own": "have",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Doctor Doom",
+   "own": "have",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Venom, Eddie Brock",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Doctor Octopus, Master Planner",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "The Squadron Sinister",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Chameleon, Master of Disguise",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Endless Ranks of HYDRA",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Doom Reigns Supreme",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Criminal Enterprise",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Helm of the Host",
+   "own": "check",
+   "qty": 1,
+   "role": "win",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sol Ring",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Dominance",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Indulgence",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Creativity",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Fellwar Stone",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Relic of Legends",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Loki's Scepter",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Black Market Connections",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Kingpin, Wilson Fisk",
+   "own": "have",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Baron Strucker, HYDRA Overlord",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Tombstone, Career Criminal",
+   "own": "check",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Terminate",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Bedevil",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Infernal Grasp",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Doom Blade",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Feed the Swarm",
+   "own": "have",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Chaos Warp",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Lethal Protection",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Bullseye, Death Dealer",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Klaw, Sonic Subjugator",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Ultimo, Civilization's End",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Tri-Sentinel, Act of Vengeance",
+   "own": "check",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Toxic Deluge",
+   "own": "have",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Kindred Dominance",
+   "own": "check",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Swiftfoot Boots",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Lightning Greaves",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Champion's Helm",
+   "own": "have",
+   "qty": 1,
+   "role": "prot",
+   "type": "Artifact"
+  },
+  {
+   "name": "Counterspell",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Denial",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Three Steps Ahead",
+   "own": "check",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Night's Whisper",
+   "own": "have",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Visions of Villainy",
+   "own": "check",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Deadly Dispute",
+   "own": "have",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Kindred Discovery",
+   "own": "check",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Skullclamp",
+   "own": "have",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
+   "name": "Victor Timely, Wily Tycoon",
+   "own": "check",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Thunderbolts Conspiracy",
+   "own": "have",
+   "qty": 1,
+   "role": "recur",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Reanimate",
+   "own": "have",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Command Tower",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Exotic Orchard",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Path of Ancestry",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Crumbling Necropolis",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Oscorp Industries",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Villainous Hideout",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Unclaimed Territory",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Secluded Courtyard",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Plaza of Heroes",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Dragonskull Summit",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sulfur Falls",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Drowned Catacomb",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Luxury Suite",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Foreboding Ruins",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Frostboil Snarl",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Choked Estuary",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Hidden Lair",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Dark Fortress",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fetid Pools",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Canyon Slough",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thriving Bluff",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Hell's Kitchen",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Stark Industries",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "A.I.M. Labs",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thriving Isle",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Thriving Moor",
+   "own": "check",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Evolving Wilds",
+   "own": "have",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 3,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Mountain",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "U",
+  "B",
+  "R"
+ ],
+ "commanders": [
+  "Loki, the Deceiver"
+ ],
+ "format": "Commander",
+ "name": "Loki: God of Lies",
  "notes": [
   "Plan: when Loki attacks, he makes a tapped-and-attacking token copy of another Villain you control. The copy isn't legendary and is sacrificed at the next end step. Because it enters the battlefield, every enters trigger fires again each attack. Any Villain combat damage to a player draws a card.",
   "Best copy targets: Doctor Doom (two permanent 3/3 Doombots every attack), Black Cat (steal two cards from an opponent's top nine), Ultimo (each opponent sacrifices a creature), Tri-Sentinel (3 damage to a creature per opponent), Carnage (reanimates a 3-drop), Kang Prime (free suspended spell), Victor Timely (recast a removal spell or draw spell from the graveyard), Mysterio (3/3 Illusions for each nontoken Villain, gone when the copy is sacrificed), Klaw and Bullseye for small value.",
@@ -703,15 +697,18 @@
   "Not simulated. Prices from the Nov 2026 data snapshot: about $128 for the 99 at the cheapest printings. Priciest: Venom, Eddie Brock $15.61, Black Market Connections $13.53, Reanimate $8.67, Luxury Suite $8.48, Kindred Discovery $5.52, Helm of the Host $5.08.",
   "Shared with other vault decks (buy duplicates or move from a deck being folded): Kingpin (Doom Unrivaled, Zemo), M.O.D.O.K. and Doctor Octopus, Master Planner (Sinister Six, Thanos & Obosh), Doctor Doom (Doom Unrivaled), Ultimo and Thunderbolts Conspiracy (Zemo), Mysterio, Carnage, Doctor Doom, King of Latveria and The Squadron Sinister (Sinister Six), Black Market Connections, Skullclamp, Reanimate, Toxic Deluge, Helm of the Host (Nick Fury, Black Panther), Kindred Discovery, Champion's Helm, Plaza of Heroes, Luxury Suite, the Boots and Greaves. Many of these were also in the folded Doom Connive deck."
  ],
+ "order": 6.8,
+ "owner": "Andrew",
+ "source": "Built by Claude Nov 18, 2026 around the owned Loki, the Deceiver. Every card checked for a Marvel printing, colour identity, legality and Game Changer status in mtg-data. Ownership is tagged ('have' from his saved collection notes, otherwise 'check'), not confirmed.",
+ "target": 100,
+ "themeLabel": "Villains tribal",
+ "updated": "Nov 18, 2026",
  "variants": [
   {
-   "id": "b3",
-   "label": "Bracket 3",
-   "name": "Loki (Bracket 3)",
+   "adds": [],
    "bracket": "Bracket 3",
    "bracketGoal": "3 Game Changers · still Marvel-only",
-   "source": "Nov 18, 2026; Game Changers checked against the mtg-data game_changer column",
-   "updated": "Nov 18, 2026",
+   "id": "b3",
    "in": [
     {
      "name": "Fierce Guardianship",
@@ -732,6 +729,12 @@
      "type": "Sorcery"
     }
    ],
+   "label": "Bracket 3",
+   "name": "Loki (Bracket 3)",
+   "notes": [
+    "Game Changers: Fierce Guardianship (about $58, free with Loki out, protects him from removal), Opposition Agent (owned; flash, punishes tutors) and Jeska's Will (about $38). These are the only 3 Grixis Game Changers with a Marvel printing.",
+    "Not simulated."
+   ],
    "out": [
     {
      "name": "Three Steps Ahead",
@@ -746,11 +749,8 @@
      "qty": 1
     }
    ],
-   "adds": [],
-   "notes": [
-    "Game Changers: Fierce Guardianship (about $58, free with Loki out, protects him from removal), Opposition Agent (owned; flash, punishes tutors) and Jeska's Will (about $38). These are the only 3 Grixis Game Changers with a Marvel printing.",
-    "Not simulated."
-   ]
+   "source": "Nov 18, 2026; Game Changers checked against the mtg-data game_changer column",
+   "updated": "Nov 18, 2026"
   }
  ]
 }

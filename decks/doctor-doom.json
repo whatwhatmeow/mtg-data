@@ -4,6 +4,11 @@
    "name": "Swan Song",
    "status": "planned",
    "why": "Not owned right now. Swap back in for Glint-Horn Buccaneer when you get one: 1-mana counter for sweepers, combo pieces and key enchantments."
+  },
+  {
+   "name": "Howling Mine",
+   "status": "planned",
+   "why": "On order (Nov 18). Swap in for Currency Converter when it arrives: +0.11-0.13 turns B3 / +0.16 B4 in sim, the biggest single upgrade tested."
   }
  ],
  "bracket": "High Bracket 3",
@@ -47,6 +52,12 @@
   },
   {
    "name": "Blightstep Pathway",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Blood Crypt",
    "qty": 1,
    "role": "land",
    "type": "Land"
@@ -114,6 +125,12 @@
   },
   {
    "name": "Crucible of Worlds",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Currency Converter",
    "qty": 1,
    "role": "eng",
    "type": "Artifact"
@@ -421,7 +438,7 @@
   },
   {
    "name": "Swamp",
-   "qty": 4,
+   "qty": 3,
    "role": "land",
    "type": "Land"
   },
@@ -581,12 +598,6 @@
    "qty": 1,
    "role": "land",
    "type": "Land"
-  },
-  {
-   "name": "Howling Mine",
-   "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
   }
  ],
  "colors": [
@@ -641,5 +652,5 @@
  "source": "as pasted Oct 11, 2026",
  "target": 100,
  "themeLabel": "Wheels & discard",
- "updated": "Nov 12, 2026 (Negate in for Currency Converter, +0.04 B3 / +0.08 B4 in sim v6; Converter benched)"
+ "updated": "Nov 18, 2026 (Blood Crypt in for 1 Swamp; Currency Converter back in for Howling Mine, which isn't owned yet. Swap Mine in for Converter when it arrives.)"
 }

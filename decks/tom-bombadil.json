@@ -213,6 +213,12 @@
    "type": "Creature"
   },
   {
+   "name": "Fireball",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
    "name": "Firja's Retribution",
    "qty": 1,
    "role": "rem",
@@ -497,13 +503,6 @@
    "type": "Creature"
   },
   {
-   "name": "Summon: Knights of Round",
-   "qty": 1,
-   "role": "win",
-   "sub": "Saga",
-   "type": "Creature"
-  },
-  {
    "name": "Summon: Primal Odin",
    "qty": 1,
    "role": "eng",
@@ -653,14 +652,15 @@
   "Game Changers (3): Demonic Tutor, The One Ring, Crop Rotation. That's the Bracket 3 limit.",
   "Oct 12 land review: keep Maze's End, Command Tower, Plaza of Harmony, Nesting Grounds, Underground Sea, The World Tree and the 7 basics. Other land upgrades: Reflecting Pool, Mana Confluence or City of Brass.",
   "Oct 13: Added Destiny Spinner, Helix Pinnacle, All Will Be One and Urza's Saga. Cut Kefka, Court Mage, Rakdos Guildgate, The Grey Havens and Exotic Orchard. Still 3 Game Changers. Considered Calix, Guided by Fate and passed: its token-copy ability needs combat damage.",
-  "Nov 13, 2026: Tom (sleeve-today list with the Saga swaps) vs Lawyers (Kynaios and Tiro): kill-turn race on a B3 table, Tom first 79%, Lawyers first 10%, neither by turn 16 12%. With Lawyer counters, wipes and enchantment removal doubled: Tom 47%, Lawyers 13%, neither 40%. By turn 12: Tom 47% (B3) / 25% (B4) vs Lawyers 9% / 5%. Tom's risk is the stack, wipes and Rule of Law, not the clock. Compare with Doom's Big Wheels: 72% / 51% by turn 12, Doom Unrivaled: 66% by turn 8 (different sims, not calibrated against each other)."
+  "Nov 13, 2026: Tom (sleeve-today list with the Saga swaps) vs Lawyers (Kynaios and Tiro): kill-turn race on a B3 table, Tom first 79%, Lawyers first 10%, neither by turn 16 12%. With Lawyer counters, wipes and enchantment removal doubled: Tom 47%, Lawyers 13%, neither 40%. By turn 12: Tom 47% (B3) / 25% (B4) vs Lawyers 9% / 5%. Tom's risk is the stack, wipes and Rule of Law, not the clock. Compare with Doom's Big Wheels: 72% / 51% by turn 12, Doom Unrivaled: 66% by turn 8 (different sims, not calibrated against each other).",
+  "Nov 23, 2026: Cut Summon: Knights of Round (8 mana, slow 5-chapter Saga) for Fireball, a table-wide infinite-mana outlet (extra targets cost {1} each). Walking Ballista still incoming; planned slot: Historian's Boon. Drain Life considered and passed (one target, black-only X)."
  ],
  "order": 4,
  "owner": "Andrew",
  "source": "as pasted Oct 11, 2026",
  "target": 100,
  "themeLabel": "Sagas & engines",
- "updated": "Oct 13, 2026",
+ "updated": "Nov 23, 2026",
  "variants": [
   {
    "bracket": "Bracket 3",

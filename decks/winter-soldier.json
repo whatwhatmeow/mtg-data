@@ -1,6 +1,11 @@
 {
  "adds": [
   {
+   "name": "Shredder, Shadow Master",
+   "status": "planned",
+   "why": "Nov 18: temporarily out for Danitha, Sword of Hope until a second Shredder copy arrives. Swap back for Danitha, Sword of Hope (or keep both and cut Stolen Stark Tech)."
+  },
+  {
    "name": "Stoneforge Mystic",
    "status": "planned",
    "why": "Not in your pool, but the best Equipment tutor in white: finds Colossus Hammer or Kaldra and can put it in for {1}{W}. Swap for Cloak and Dagger."
@@ -164,6 +169,12 @@
    "name": "Danitha Capashen, Paragon",
    "qty": 1,
    "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Danitha, Sword of Hope",
+   "qty": 1,
+   "role": "draw",
    "type": "Creature"
   },
   {
@@ -366,12 +377,6 @@
    "type": "Land"
   },
   {
-   "name": "Shredder, Shadow Master",
-   "qty": 1,
-   "role": "win",
-   "type": "Creature"
-  },
-  {
    "name": "Sign in Blood",
    "qty": 1,
    "role": "draw",
@@ -571,14 +576,15 @@
   "Oct 13: In: Bloodforged Battle-Axe (1 mana, +4/+0 on him, copies itself on hit), Conqueror's Flail (+2/+2; opponents can't cast spells during your turn, so no instant-speed removal while he attacks), Nightmare Lash (+1/+1 per Swamp, ~+12 with 12 Swamps; equip by paying 3 life). Out: Short Sword, Well-Worn Spatula, Fireshrieker.",
   "Oct 14: Vorpal Sword in over Vibranium Energy Daggers. Same 1-mana cost, +4/+0 and deathtouch on him; deathtouch + menace kills both blockers, and with trample (O-Naginata, Loxodon Warhammer) he assigns just 1 to each blocker. {5}{B}: a player he hits loses the game. Equip {B}{B}{B} is easy with ~22 black sources, or free via Puresteel/Brass Squire/Serum. Daggers only added toughness, already covered by Enforcer, Shield and Plate Armor.",
   "Oct 14: Nesting Grounds and Villainous Hideout in over Thriving Heath and Thriving Moor (your swap). Nesting Grounds can move his finality counter off him at sorcery speed, so he can die and come back again. Cost: two fewer dual sources, so watch for color-screw.",
-  "Oct 30: Shredder, Shadow Master in over Bone Saw. Second threat and clock: each unblocked swing makes every opponent lose half their life (copies attack each other opponent), so two connects put the table at ~10 and a suited-up Bucky finishes with plain combat damage, no 21 commander damage needed. Sequencing: Shredder swings alone early while Bucky suits up (attacking together turns off attack-alone payoffs like Squall and Peggy); once totals are low, swing with both. Trample gear (O-Naginata, Loxodon Warhammer) on him beats chump blocks. Other versions unchanged."
+  "Oct 30: Shredder, Shadow Master in over Bone Saw. Second threat and clock: each unblocked swing makes every opponent lose half their life (copies attack each other opponent), so two connects put the table at ~10 and a suited-up Bucky finishes with plain combat damage, no 21 commander damage needed. Sequencing: Shredder swings alone early while Bucky suits up (attacking together turns off attack-alone payoffs like Squall and Peggy); once totals are low, swing with both. Trample gear (O-Naginata, Loxodon Warhammer) on him beats chump blocks. Other versions unchanged.",
+  "Nov 23, 2026 (pending, not made yet): Metalwork Colossus in, cut a creature or spell (not Equipment). Andrew has 2 spares (the homeless one from the ripped Black Panther precon, plus a $0.50-bin copy); one goes here. With Kaldra Compleat, Lashwrithe, the Swords, Plate Armor, Warhammer, Nettlecyst and the rocks out it's usually free by turn 3-4: a backup carrier when Bucky is removed, and an artifact for Cranial Plating."
  ],
  "order": 5,
  "owner": "Andrew",
  "source": "Sleeved list + alternatives, Oct 13, 2026",
  "target": 100,
  "themeLabel": "Suit up",
- "updated": "Oct 30, 2026",
+ "updated": "Nov 18, 2026",
  "variants": [
   {
    "adds": [
