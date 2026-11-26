@@ -1,6 +1,11 @@
 {
  "adds": [
   {
+   "name": "Winds of Abandon",
+   "status": "planned",
+   "why": "Nov 25, 2026 house pick for every white S-B deck. 2 mana: exile one creature you don't control; overload {4}{W}{W}: one-sided exile wipe that leaves T'Challa and the Vibranium board alone (better here than Vanquish the Horde or Scourglass). About $5-8 (Mystical Archive printing is cheapest). Cut not chosen."
+  },
+  {
    "name": "Court of Bounty",
    "status": "owned",
    "why": "From the History of Heroes kit (Nov 16). Makes you the monarch and drops a land or creature each upkeep. Vibranium can't pay for it. Suggested cut: Fleecemane Lion."
@@ -27,7 +32,7 @@
    "type": "Creature"
   },
   {
-   "name": "Avacyn's Pilgrim",
+   "name": "Birds of Paradise",
    "qty": 1,
    "role": "ramp",
    "type": "Creature"
@@ -243,9 +248,9 @@
    "type": "Artifact"
   },
   {
-   "name": "Aladdin's Ring",
+   "name": "Scourglass",
    "qty": 1,
-   "role": "rem",
+   "role": "wipe",
    "type": "Artifact"
   },
   {
@@ -493,302 +498,19 @@
  "format": "Commander",
  "name": "Black Panther: Vibranium Forge",
  "notes": [
-  "Nov 24, 2026: Scourglass out, Aladdin's Ring in. Scourglass wiped T'Challa and nearly every creature in the deck. The Ring is repeatable removal or reach (4 damage to any target), can be paid with Vibranium/colorless mana, triggers Zuri/W'Kabi/T'Challa as an 8-MV artifact and discounts Metalwork Colossus by 8. Kept Coveted Jewel (tap it the turn it lands) and Mind's Eye.",
-  "Nov 23, 2026 (pending, not made yet): consider Talisman of Progress (2 spares in the bulk box from the precons) in for Avacyn's Pilgrim. A rock survives his own Martial Coup / Vanquish the Horde, counts as an artifact for Metalwork Colossus, and gets a 4-mana artifact out on turn 3. Talisman of Hierarchy (bulk box) works too. Pilgrim would go back to the bulk box.",
-  "Nov 23, 2026: Birds of Paradise pulled for Andrew's Tom's Bombs; Avacyn's Pilgrim in (from the Token Triumph bulk box) — same 1-drop slot, and its white mana casts everything here.",
-  "Nov 23, 2026: now the oldest's A-tier deck (swapped with Hulk). Precon Rip re-run: Black Panther keeps Idol of Oblivion, Loyal Guardian, Dispatch, Scavenger Grounds, Martial Coup and the Token Triumph upgrades (Conclave Tribunal, White Sun's Zenith, Curse of Bounty); its rip Terramorphic Expanse went to Hulk, so sleeve one of the spares instead.",
+  "Nov 25, 2026: main list reset to the exact stock Wakanda Forever precon (Birds of Paradise and Scourglass back; the Avacyn's Pilgrim and Aladdin's Ring edits moved into Crown & Forge or dropped). The Vibranium Forge version was cut; Crown & Forge is the one working version. Sleeved checklist trimmed to the Crown & Forge cards that were already checked. Dropped the old Talisman of Progress/Hierarchy idea: neither is legal in a G/W deck.",
+  "Nov 23, 2026: now the oldest's A-tier deck (swapped with Hulk).",
   "Stock precon. Six directions: big artifacts, monarch, commander equipment, go-wide tokens, +1/+1 counters, and generic ramp. Scrollvault rates it a 4.6/10 Bracket 2 deck.",
   "Vibranium tokens are indestructible artifacts that tap for {C}, and that mana can only cast artifact spells. T'Challa makes one when he enters or attacks and gets two +1/+1 counters whenever you cast an artifact with mana value 4 or more.",
   "Weak spots: Divine Visitation, Martial Coup, Overwhelming Stampede, Vanquish the Horde and Harmonize can't use Vibranium mana. Coveted Jewel hands opponents mana and the crown in one hit. M'Baku gives an opponent the monarch."
  ],
  "order": 47,
  "owner": "Oldest",
- "source": "Stock Wakanda Forever precon list (mtg.wtf), Nov 7, 2026",
+ "source": "Stock Wakanda Forever precon list (mtg.wtf), re-checked Nov 25, 2026",
  "target": 100,
  "themeLabel": "Vibranium & monarch",
- "updated": "Nov 24, 2026",
+ "updated": "Nov 25, 2026",
  "variants": [
-  {
-   "adds": [
-    {
-     "name": "Big Mother Mouser",
-     "status": "planned",
-     "why": "Option, replacing Loyal Guardian. A 4-mana colorless artifact creature (TMNT Commander) that grows T'Challa. Enters with two +1/+1 counters, doubles them each attack, and leaves a 1/1 Robot artifact token per counter when it dies. Iron Man Armor gives it flying."
-    },
-    {
-     "name": "Don't Move",
-     "status": "planned",
-     "why": "Option, replacing Helm of the Host. Cast it before combat: it destroys every creature that attacked you last turn (they're still tapped), then kills any creature that taps before your next turn. That locks the table out of attacking you and protects the monarch. Don't attack, crew or tap Birds that turn."
-    },
-    {
-     "name": "Martial Coup",
-     "status": "planned",
-     "why": "Option, replacing Conduit of Worlds. At 7 mana it's a one-sided wipe that leaves you five 1/1 Soldiers. Can't use Vibranium mana."
-    },
-    {
-     "name": "Vanquish the Horde",
-     "status": "planned",
-     "why": "Option. A cheap full wipe when the board is crowded. Your Equipment, Vibranium and uncrewed Vehicles survive, but T'Challa doesn't."
-    },
-    {
-     "name": "Overwhelming Stampede",
-     "status": "planned",
-     "why": "Weakest of the four. A one-shot finisher that needs a wide board, and it can't use Vibranium mana."
-    },
-    {
-     "name": "Super-Soldier Serum",
-     "status": "planned",
-     "why": "Option. A 2-mana Aura for T'Challa: +2/+2, first strike and vigilance, so he can attack and still block for the monarch. Each time he attacks, attach any number of your Equipment to him for free. It's an Aura, so removal costs you a card."
-    },
-    {
-     "name": "Divine Visitation",
-     "status": "planned",
-     "why": "Option, best with the token makers (Okoye's Soldiers, Kimoyo Beads, Royal Talon, Peregrin Took, Mouser Robots). Every creature token becomes a 4/4 flying Angel. Can't use Vibranium mana."
-    },
-    {
-     "name": "Greater Good",
-     "status": "planned",
-     "why": "Option. Sacrifice a creature in response to removal to draw cards equal to its power, then discard three. Best on a big T'Challa or a grown Mouser. Can't use Vibranium mana."
-    },
-    {
-     "name": "Black Panther, Wakandan King",
-     "status": "planned",
-     "why": "Option, strong. A 2-mana 2/2 first striker. Whenever it or another creature you control enters (tokens too), put a +1/+1 counter on a land. {3}: move them all to a creature, gain that much life and draw a card. Card draw that doesn't need the monarch, and it piles counters on T'Challa or the Mouser."
-    },
-    {
-     "name": "Black Panther, Vanguard",
-     "status": "planned",
-     "why": "Option. A 4-mana 4/4. Whenever another nontoken Hero enters, make a 1/1 Soldier or give the team +1/+1. Only as good as the deck's Hero count."
-    },
-    {
-     "name": "Loyal Retainers",
-     "status": "planned",
-     "why": "Option. Sacrifice on your turn before attacks to return a legendary creature from your graveyard to the battlefield: Storm, Ramonda, Okoye, Shuri, or T'Challa if you leave him in the graveyard."
-    },
-    {
-     "name": "Terramorphic Expanse",
-     "status": "planned",
-     "why": "Land option, replaced by Ancient Den. Slow fixing in a two-color deck that doesn't need much."
-    },
-    {
-     "name": "Scavenger Grounds",
-     "status": "planned",
-     "why": "Land option, replaced by Rogue's Passage. Colorless land with one-shot graveyard hate."
-    },
-    {
-     "name": "Genji Glove",
-     "status": "verify",
-     "why": "Top equipment pick, on hold until Cloud's Glove is confirmed. 5 mana, so it grows T'Challa. Double strike, plus an untap and an extra combat on the first attack each turn: two Vibranium tokens, two shots at the monarch."
-    },
-    {
-     "name": "Colossus Hammer",
-     "status": "planned",
-     "why": "Option only with Super-Soldier Serum, which attaches it for free on attack: +10/+10. Equip 8 otherwise. Removes flying, so it fights Iron Man Armor and Midnight Angel Armor."
-    },
-    {
-     "name": "Darksteel Plate",
-     "status": "planned",
-     "why": "Option. Makes T'Challa indestructible, which covers destroy wipes. 3 mana, so no T'Challa trigger. Doesn't stop exile."
-    },
-    {
-     "name": "Loxodon Warhammer",
-     "status": "planned",
-     "why": "Option. +3/+0, trample and lifelink. Fine, but 3 mana and equip 3, so it doesn't feed the engine."
-    },
-    {
-     "name": "Vibranium Energy Daggers",
-     "status": "planned",
-     "why": "Option, low. 1-mana indestructible, +2/+2, but equip 3. Flavor win, power loss."
-    },
-    {
-     "name": "Swordsman's Steel",
-     "status": "verify",
-     "why": "Option only if a third copy turns up. Both copies are in Bucky (Marvel B2) and the five-deck Marvel package."
-    },
-    {
-     "name": "Trading Post",
-     "status": "planned",
-     "why": "Option, much better with Divine Visitation. A 4-mana artifact, so it grows T'Challa. {1},{T}, pay 4 life: a 0/1 Goat, which Visitation turns into a 4/4 flying Angel every turn. {1},{T}, sacrifice an artifact: draw a card (Food, Robot tokens), which is card draw that doesn't need the monarch. It can also return an artifact from your graveyard."
-    },
-    {
-     "name": "Steel Seraph",
-     "status": "planned",
-     "why": "Strong option, replacing Panther Habit. Cast for 6, it's a 5/4 flying artifact Angel that Vibranium pays for, and it grows T'Challa. Each combat it gives T'Challa flying (reach the monarch), vigilance (attack and still guard it) or lifelink. Prototype for {1}{W}{W} as a 3/3 when you need it early."
-    },
-    {
-     "name": "Idol of Oblivion",
-     "status": "planned",
-     "why": "Strong option, replacing Selesnya Signet. Vibranium tokens are tokens, so every time T'Challa makes one, Idol taps to draw a card: steady draw that doesn't need the monarch. Soldiers, Goats, Robots and Angels also count. Late game: {8}, sacrifice for a 10/10. With Divine Visitation out, that token becomes a 4/4 Angel instead, so sacrifice it before Visitation lands or skip that mode."
-    },
-    {
-     "name": "Arc Reactor",
-     "status": "planned",
-     "why": "Sidegrade option for Thran Dynamo. 5 mana with improvise, so tapping Vibranium tokens and other artifacts often makes it cheap, and it still grows T'Challa. Taps for {C}{C}{C} but enters tapped. The deck has enough mana already."
-    },
-    {
-     "name": "Bastion Protector",
-     "status": "planned",
-     "why": "Option. 3-mana 3/3: T'Challa gets +2/+2 and indestructible, so destroy wipes stop costing you commander tax. Doesn't cover Helm copies (they aren't commanders) or exile. Swap for Valorous Stance or Darksteel Plate."
-    },
-    {
-     "name": "Agent Phil Coulson",
-     "status": "planned",
-     "why": "Low option. 2-mana 2/2 vigilance; tap to put a +1/+1 counter on each other Hero. The deck doesn't run enough Heroes to make it worth a slot."
-    }
-   ],
-   "bracket": "Bracket 2",
-   "bracketGoal": "0 Game Changers · big artifacts + monarch, equipment as the glue",
-   "id": "vibranium",
-   "in": [
-    {
-     "name": "Adaptive Omnitool",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Artifact"
-    },
-    {
-     "name": "Nettlecyst",
-     "qty": 1,
-     "role": "eng",
-     "type": "Artifact"
-    },
-    {
-     "name": "Iron Man Armor",
-     "qty": 1,
-     "role": "eng",
-     "type": "Artifact"
-    },
-    {
-     "name": "Black Panther, Most Dangerous",
-     "qty": 1,
-     "role": "win",
-     "type": "Creature"
-    },
-    {
-     "name": "Okoye, Dora Milaje Leader",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Wakandan Drone Flock",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Swiftfoot Boots",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Talisman of Unity",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Selesnya Signet",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Ancient Den",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Rogue's Passage",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Captain America's Shield",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Puresteel Paladin",
-     "qty": 1,
-     "role": "draw",
-     "type": "Creature"
-    }
-   ],
-   "label": "Vibranium Forge",
-   "name": "Black Panther: Vibranium Forge",
-   "notes": [
-    "Plan: T'Challa attacks, makes Vibranium, and that mana pays for 4+ mana artifacts. Each one grows him, Zuri pumps the team, and W'Kabi makes a 4/4 Rhino on attack. Monarch is the card engine: Okoye, Ramonda, Nakia, Spear, Frogs, T'Chaka, Fight for the Throne, Heart-Shaped Herb, Palace Jailer and Throne of the High City take or retake it.",
-    "Cut 9: the non-artifact token package (Divine Visitation, Martial Coup, Overwhelming Stampede, Vanquish the Horde), Coveted Jewel, M'Baku, Trading Post, Loyal Retainers and Greater Good. Terramorphic Expanse out for Ancient Den. Scavenger Grounds out for Rogue's Passage.",
-    "Equipment goes from 8 to 13. Omnitool and Iron Man Armor are cheap ways to start, Nettlecyst and Omnitool grow with every Vibranium token, and Swordsman's Steel draws one card per Equipment, so it refills your hand late. Iron Man Armor attaches itself and gives flying, so T'Challa can reach the monarch.",
-    "Equipment goes from 8 to 12. Omnitool and Iron Man Armor are cheap ways to start, and Nettlecyst and Omnitool grow with every Vibranium token. Iron Man Armor attaches itself and gives flying, so T'Challa can reach the monarch.",
-    "Collection check Nov 7: spares on hand for the new cards except Swordsman's Steel (both copies are in other Marvel builds). Mind's Eye stays from the precon in that slot: a 5-mana artifact that grows T'Challa and draws without needing the monarch. Swap Swordsman's Steel back in for it if a third copy turns up.",
-    "Not legal here: Shuri, Vibranium Technologist from the Wakanda Jumpstart packet. Her {W/U} hybrid symbol makes her color identity white-blue.",
-    "Next upgrades to consider: Thought Vessel, more artifact lands (Tree of Tales), and Hulkbuster Armor or Hero's Blade if a spare turns up.",
-    "Nov 9: Captain America's Shield in for Conduit of Worlds. Indestructible, vigilance so T'Challa attacks and still guards the monarch, and it taps a blocker when he attacks.",
-    "Nov 9: Puresteel Paladin in for Ingenious Smith. With three artifacts every Equipment has equip {0} (Helm of the Host included), and each Equipment entering draws a card."
-   ],
-   "out": [
-    {
-     "name": "Divine Visitation",
-     "qty": 1
-    },
-    {
-     "name": "Martial Coup",
-     "qty": 1
-    },
-    {
-     "name": "Overwhelming Stampede",
-     "qty": 1
-    },
-    {
-     "name": "Vanquish the Horde",
-     "qty": 1
-    },
-    {
-     "name": "Coveted Jewel",
-     "qty": 1
-    },
-    {
-     "name": "M'Baku, Jabari Chieftain",
-     "qty": 1
-    },
-    {
-     "name": "Trading Post",
-     "qty": 1
-    },
-    {
-     "name": "Loyal Retainers",
-     "qty": 1
-    },
-    {
-     "name": "Greater Good",
-     "qty": 1
-    },
-    {
-     "name": "Terramorphic Expanse",
-     "qty": 1
-    },
-    {
-     "name": "Scavenger Grounds",
-     "qty": 1
-    },
-    {
-     "name": "Conduit of Worlds",
-     "qty": 1
-    },
-    {
-     "name": "Ingenious Smith",
-     "qty": 1
-    }
-   ],
-   "source": "Built by Claude from the precon plus cards you own, Nov 7, 2026",
-   "updated": "Nov 9, 2026"
-  },
   {
    "adds": [
     {
@@ -804,7 +526,7 @@
     {
      "name": "Enlightened Tutor",
      "status": "planned",
-     "why": "Bracket 3 Game Changer #3, replacing Heart-Shaped Herb. Finds Divine Visitation, The One Ring, Super-Soldier Serum or Iron Man Armor."
+     "why": "Bracket 3 Game Changer #3, replacing Heart-Shaped Herb. Finds Divine Visitation, The One Ring, Super-Soldier Serum or Steel Seraph."
     },
     {
      "name": "Teferi's Protection",
@@ -817,19 +539,34 @@
      "why": "Bracket 3 alternate Game Changer (GW). Every creature you make destroys an artifact or enchantment. Heavy-handed at most tables."
     },
     {
-     "name": "Swords to Plowshares",
-     "status": "verify",
-     "why": "Use spares from your white exile pile."
+     "name": "Talisman of Unity",
+     "status": "planned",
+     "why": "Not on hand (Nov 25); Wayfarer's Bauble holds its slot. A 2-mana G/W rock that counts for Puresteel metalcraft and improvise; swap back in if a copy turns up."
     },
     {
-     "name": "Path to Exile",
-     "status": "verify",
-     "why": "Use spares from your white exile pile. Any similar 1-2 mana exile spell works."
+     "name": "Mind's Eye",
+     "status": "owned",
+     "why": "Cut Nov 25 for Bast. 5-MV artifact that grows T'Challa and draws without the monarch, but each draw costs {1}. Swap back if the deck runs dry."
+    },
+    {
+     "name": "Dora Milaje Elite",
+     "status": "owned",
+     "why": "Next cut candidate if another slot is needed (Nov 25)."
+    },
+    {
+     "name": "Gilded Lotus",
+     "status": "owned",
+     "why": "Solid option (cut from the stock list). 5 MV, so Vibranium pays for it and it grows T'Challa; taps for three of one color, which casts the green/white spells Vibranium can't. Nobody can steal it, unlike Coveted Jewel."
+    },
+    {
+     "name": "Iron Man Armor",
+     "status": "planned",
+     "why": "Not on hand (Nov 25); Steel Seraph holds its slot. Cheap equipment that attaches itself and gives flying."
     },
     {
      "name": "Genji Glove",
      "status": "verify",
-     "why": "On hold until Cloud's Glove is confirmed. If a third copy is free, it replaces Mind's Eye."
+     "why": "On hold until Cloud's Glove is confirmed. If a third copy is free, it's a strong equipment add."
     },
     {
      "name": "Kaldra Compleat",
@@ -837,19 +574,14 @@
      "why": "Benched for the token package."
     },
     {
-     "name": "Steel Seraph",
-     "status": "planned",
-     "why": "Strong option, replacing Panther Habit. Cast for 6, it's a 5/4 flying artifact Angel that Vibranium pays for, and it grows T'Challa. Each combat it gives T'Challa flying (reach the monarch), vigilance (attack and still guard it) or lifelink. Prototype for {1}{W}{W} as a 3/3 when you need it early."
-    },
-    {
      "name": "Idol of Oblivion",
      "status": "planned",
-     "why": "Strong option, replacing Selesnya Signet. Vibranium tokens are tokens, so every time T'Challa makes one, Idol taps to draw a card: steady draw that doesn't need the monarch. Soldiers, Goats, Robots and Angels also count. Late game: {8}, sacrifice for a 10/10. With Divine Visitation out, that token becomes a 4/4 Angel instead, so sacrifice it before Visitation lands or skip that mode."
+     "why": "Strong option, replacing Selesnya Signet. Vibranium tokens are tokens, so every time T'Challa makes one, Idol taps to draw a card: steady draw that doesn't need the monarch. Late game: {8}, sacrifice for a 10/10 (with Divine Visitation out it becomes a 4/4 Angel instead)."
     },
     {
      "name": "Arc Reactor",
-     "status": "planned",
-     "why": "Sidegrade option for Thran Dynamo. 5 mana with improvise, so tapping Vibranium tokens and other artifacts often makes it cheap, and it still grows T'Challa. Taps for {C}{C}{C} but enters tapped. The deck has enough mana already."
+     "status": "owned",
+     "why": "Sidegrade option for Thran Dynamo. 5 mana with improvise, so tapping Vibranium tokens and other artifacts often makes it cheap, and it still grows T'Challa. Taps for {C}{C}{C} but enters tapped."
     },
     {
      "name": "Darksteel Plate",
@@ -859,17 +591,42 @@
     {
      "name": "Bastion Protector",
      "status": "planned",
-     "why": "Option. 3-mana 3/3: T'Challa gets +2/+2 and indestructible, so destroy wipes stop costing you commander tax. Doesn't cover Helm copies (they aren't commanders) or exile. Swap for Valorous Stance or Darksteel Plate."
+     "why": "Option. 3-mana 3/3: T'Challa gets +2/+2 and indestructible, so destroy wipes stop costing you commander tax. Swap for Take up the Shield or Darksteel Plate."
     },
     {
      "name": "Agent Phil Coulson",
      "status": "planned",
-     "why": "Low option. 2-mana 2/2 vigilance; tap to put a +1/+1 counter on each other Hero. The deck doesn't run enough Heroes to make it worth a slot."
+     "why": "Low option. 2-mana 2/2 vigilance; tap to put a +1/+1 counter on each other Hero. Not enough Heroes here."
     },
     {
      "name": "Thought Vessel",
+     "status": "verify",
+     "why": "Both copies in use (Avengers Assemble, Doom Unrivaled). Alternate rock if a spare turns up."
+    },
+    {
+     "name": "Dispatch",
+     "status": "planned",
+     "why": "Not on hand (Nov 25). Overwhelming Stampede holds its slot."
+    },
+    {
+     "name": "Valorous Stance",
+     "status": "planned",
+     "why": "Not on hand (Nov 25). Take up the Shield holds its slot."
+    },
+    {
+     "name": "Seraph Sanctuary",
      "status": "owned",
-     "why": "Alternate rock for the old Birds slot (Mind Stone got the nod). Swap in if you'd rather have no maximum hand size than the late-game card."
+     "why": "Considered Nov 25 and skipped: a colorless land that only gains a little life, and the deck is WW-heavy."
+    },
+    {
+     "name": "Court of Bounty",
+     "status": "owned",
+     "why": "From the History of Heroes kit. Makes you the monarch and drops a land or creature each upkeep. Vibranium can't pay for it."
+    },
+    {
+     "name": "Mjölnir, Storm Hammer",
+     "status": "verify",
+     "why": "One copy from the History of Heroes kit, listed in Captain America: Shield Throw. A four-mana artifact Vibranium pays for, and it attaches itself."
     }
    ],
    "bracket": "Bracket 2 (high)",
@@ -907,7 +664,7 @@
      "type": "Creature"
     },
     {
-     "name": "Talisman of Unity",
+     "name": "Wayfarer's Bauble",
      "qty": 1,
      "role": "ramp",
      "type": "Artifact"
@@ -937,10 +694,10 @@
      "type": "Artifact"
     },
     {
-     "name": "Iron Man Armor",
+     "name": "Steel Seraph",
      "qty": 1,
      "role": "eng",
-     "type": "Artifact"
+     "type": "Creature"
     },
     {
      "name": "Swiftfoot Boots",
@@ -995,27 +752,39 @@
      "qty": 1,
      "role": "ramp",
      "type": "Artifact"
+    },
+    {
+     "name": "Take up the Shield",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Aladdin's Ring",
+     "qty": 1,
+     "role": "rem",
+     "type": "Artifact"
     }
    ],
    "label": "Crown & Forge",
    "name": "Black Panther: Crown & Forge",
    "notes": [
-    "Plan: T'Challa attacks every turn for Vibranium, and the 4+ mana artifacts it pays for grow him and the team. Monarch is the card engine: Okoye, Ramonda, Nakia, T'Chaka, Palace Jailer, Spear, Frogs, Fight for the Throne, Herb and Throne of the High City. Evasion and vigilance keep the crown: Iron Man Armor, Whispersilk Cloak, Rogue's Passage, Captain America's Shield, Super-Soldier Serum. Tokens crew the ships and become Angels: Divine Visitation turns Okoye's Soldiers, Kimoyo Beads, Royal Talon, Trading Post Goats, Mouser Robots and Martial Coup into 4/4 fliers.",
+    "Plan: T'Challa attacks every turn for Vibranium, and the 4+ mana artifacts it pays for grow him and the team. Monarch is the card engine: Okoye, Ramonda, Nakia, T'Chaka, Palace Jailer, Spear, Frogs, Fight for the Throne, Herb and Throne of the High City. Evasion and vigilance keep the crown: Steel Seraph, Whispersilk Cloak, Rogue's Passage, Captain America's Shield, Super-Soldier Serum. Tokens crew the ships and become Angels: Divine Visitation turns Okoye's Soldiers, Kimoyo Beads, Royal Talon, Trading Post Goats, Mouser Robots and Martial Coup into 4/4 fliers.",
     "Helm of the Host is a top engine: Hammer of Nazahn attaches it free on entry (or Super-Soldier Serum on attack), and each combat makes a hasty, nonlegendary T'Challa copy that makes Vibranium on entering and attacking and grows with every 4+ artifact. With Divine Visitation out the copy becomes a 4/4 hasty Angel instead, so pick which one to lean on.",
-    "Cut directions: Overwhelming Stampede and Vanquish the Horde, +1/+1 counter filler (Loyal Guardian, Fleecemane Lion), slow value (Gilded Lotus, Conduit, Coveted Jewel, Greater Good) and conditional cards (Bast, Everett Ross, Hatut Zeraze, M'Baku, Loyal Retainers, Midnight Angel Armor, Ancestral Communion).",
-    "Counts: 37 lands, 10 ramp pieces plus Vibranium, 12 Equipment, about 11 draw sources outside the monarch, 12 removal or wipes, and 8 protection pieces.",
+    "Cut directions: Vanquish the Horde, Scourglass, +1/+1 counter filler (Loyal Guardian, Fleecemane Lion), slow value (Gilded Lotus, Conduit, Coveted Jewel, Greater Good, Mind's Eye) and conditional cards (Everett Ross, Hatut Zeraze, M'Baku, Loyal Retainers, Midnight Angel Armor, Ancestral Communion).",
+    "Counts (physically verified Nov 25): 22 creatures, 26 noncreature artifacts, 6 instants, 6 sorceries, 2 enchantments, 37 lands (12 Plains, 11 Forest, 14 nonbasic) = 99 + T'Challa. Roughly 10 ramp pieces plus Vibranium, 11 Equipment, 11 removal or wipes, 8 protection pieces.",
     "Bracket 2: no Game Changers, no infinite combos, no land destruction. For Bracket 3, swap Trading Post, Harmonize and Heart-Shaped Herb for The One Ring, Smothering Tithe and Enlightened Tutor.",
-    "Don't Move: cast before combat and don't attack, crew or tap Birds that turn. Vibranium tokens aren't creatures, so tap them freely.",
-    "Captain America's Shield is a confirmed spare. Vibranium Mining Mech and N'Yami-Class Mother Ship are going in.",
+    "Don't Move: cast before combat and don't attack or crew that turn. Vibranium tokens aren't creatures, so tap them freely.",
     "Super-Soldier Serum turns Colossus Hammer into a free +10/+10 on attack if you want a spicier swap.",
     "Nov 9: Puresteel Paladin in for Ingenious Smith. With three artifacts every Equipment has equip {0} (Helm of the Host included), and each Equipment entering draws a card.",
-    "Nov 19: Mind Stone in for Birds of Paradise. An artifact rock counts for Puresteel metalcraft and improvise, doesn't die to wipes or Don't Move, and cycles for a card late. The deck now runs no mana dorks."
+    "Nov 19: Mind Stone in for Birds of Paradise. An artifact rock counts for Puresteel metalcraft and improvise, doesn't die to wipes or Don't Move, and cycles for a card late.",
+    "Nov 24: Aladdin's Ring in for Scourglass. Scourglass wiped T'Challa and nearly every creature in the deck. The Ring is repeatable removal or reach (4 damage to any target), Vibranium can pay for it, and as an 8-MV artifact it triggers Zuri/W'Kabi/T'Challa and discounts Metalwork Colossus by 8.",
+    "Nov 25: Take up the Shield in for Valorous Stance and Overwhelming Stampede back in for Dispatch (neither on hand). Stampede is a one-card alpha strike once the board is wide; hold it for that.",
+    "Nov 25: Steel Seraph in for Iron Man Armor (not on hand). Same flying job plus vigilance or lifelink each combat, and it's a 6-MV artifact that grows T'Challa. Panther Habit and King Solomon's Frogs stay: both are among the deck's best cards.",
+    "Nov 25: Bast, Panther Goddess back in for Mind's Eye (Andrew's call; Dora Milaje Elite was the other candidate).",
+    "Nov 25: Wayfarer's Bauble in for Talisman of Unity (not on hand). Fetch a Plains; it's ramp that survives wipes as a land."
    ],
    "out": [
-    {
-     "name": "Bast, Panther Goddess",
-     "qty": 1
-    },
     {
      "name": "Everett K. Ross, Hapless Attaché",
      "qty": 1
@@ -1061,10 +830,6 @@
      "qty": 1
     },
     {
-     "name": "Overwhelming Stampede",
-     "qty": 1
-    },
-    {
      "name": "Vanquish the Horde",
      "qty": 1
     },
@@ -1091,10 +856,26 @@
     {
      "name": "Birds of Paradise",
      "qty": 1
+    },
+    {
+     "name": "Dispatch",
+     "qty": 1
+    },
+    {
+     "name": "Valorous Stance",
+     "qty": 1
+    },
+    {
+     "name": "Scourglass",
+     "qty": 1
+    },
+    {
+     "name": "Mind's Eye",
+     "qty": 1
     }
    ],
    "source": "Streamlined by Claude from the Vibranium Forge build plus the options list, Nov 8, 2026",
-   "updated": "Nov 19, 2026"
+   "updated": "Nov 25, 2026"
   }
  ]
 }

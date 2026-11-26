@@ -1,6 +1,11 @@
 {
  "adds": [
   {
+   "name": "Winds of Abandon",
+   "status": "planned",
+   "why": "Nov 25, 2026 house pick for every white S-B deck. 2 mana: exile one creature you don't control; overload {4}{W}{W}: one-sided exile wipe, so the Heroes swing into an empty board. About $5-8 (Mystical Archive printing is cheapest). Cut not chosen."
+  },
+  {
    "name": "Captain America's Shield",
    "status": "planned",
    "why": "Buy · ~$1. Pairs with Wings of Freedom for a +11/+11 team pump."

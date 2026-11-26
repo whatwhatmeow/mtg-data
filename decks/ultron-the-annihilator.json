@@ -77,8 +77,8 @@
   },
   {
    "name": "Deadly Dispute",
-   "status": "wishlist",
-   "why": "In the 99 (buy). Yours is in Doom Unrivaled."
+   "status": "owned",
+   "why": "In the 99 (owned: your second copy; the first stays in Doom Unrivaled). Every artifact sacrificed drains with Ultron, and the Treasure drains again."
   },
   {
    "name": "Trading Post",
@@ -758,6 +758,7 @@
  "format": "Commander",
  "name": "Ultron: Age of Annihilation",
  "notes": [
+  "Nov 25, 2026: Andrew has two Deadly Dispute, so one stays in Doom Unrivaled and the second goes here. Marked owned; off the buy list.",
   "Nov 24, 2026: four swaps. Kingpin, Wilson Fisk in for Common Crook (two Treasures once a turn off any creature sacrifice; Villain for Doom Reigns Supreme). Genesis of the Daleks in for Sign in Blood (six 3/3 menace artifact Daleks; sacrifice most before chapter IV). Phyrexian Scriptures in for Village Rites (near one-sided wipe: the artifact army and Ultron survive; chapter I makes Disciple or Plunderer an artifact; sacrifice your other nonartifact creatures before chapter II). Idol of Oblivion in for Hot Dog Cart (draws most turns; make a token first). Meteor Golem kept by choice. Considered and passed: Graaz (forces the aristocrats to attack, resets sizes to 5/3), Charcoal Diamond (enters tapped; Mind Stone or Arcane Signet better if a rock is wanted).",
   "Nov 23, 2026: Ultron Drone back in for Agents of HYDRA (the only creature here whose body and token are both nonartifact).",
   "Nov 23, 2026: The Vision in for Myr Retriever. About 20 noncreature spells here (rocks, equipment, removal), so he draws, gains double strike or goes indestructible most turns; he's also a Robot, so Overlord makes him 4/7. If your Vision is Vision, Synthezoid Avenger instead, use that.",
@@ -767,7 +768,7 @@
   "Nov 23, 2026: new deck, chosen over a colorless Ultron, Artificial Malevolence build. Black adds removal, sacrifice outlets, recursion and drain payoffs, and Artificial Malevolence still comes along in the 99.",
   "Plan: Ultron makes a 2/2 Robot Villain token every time he enters or attacks, and each opponent loses 1 whenever another artifact goes to your graveyard. Sacrifice Robot tokens, Servos, Myr, Daleks, Treasures, Food and Clue-style artifacts to Ashnod's Altar, Viscera Seer, Kingpin's Enforcers and the draw spells. Disciple of the Vault, Mirkwood Bats, Marionette Master, Bastion and Zulaport stack more drain on top. Finish with Exsanguinate, Cranial Plating on a flying Ultron, Genesis of the Daleks, or a wide Overlord-pumped swing.",
   "No two-card infinite combos (checked: Ashnod's Altar + Pitiless Plunderer + Project Deathlok Soldier loses 1 mana a loop). Scrap Trawler and Krark-Clan Ironworks left out on purpose.",
-  "Where the cards come from (as of Nov 23; Nov 24 swaps add 4 cards to confirm or buy, about $2-3 total, and remove Village Rites from the buy list): 44 free, The Vision to check in the binder, 4 precon spares to confirm, Doom Reigns Supreme from Loki's list or bought, 28 cards to buy. Ultron the Annihilator (about $24) doesn't count toward the league cap.",
+  "Where the cards come from (as of Nov 23; Nov 24 swaps add 4 cards to confirm or buy, about $2-3 total, and remove Village Rites from the buy list; Nov 25 Deadly Dispute now owned): 45 free, The Vision to check in the binder, 4 precon spares to confirm, Doom Reigns Supreme from Loki's list or bought, 27 cards to buy. Ultron the Annihilator (about $24) doesn't count toward the league cap.",
   "Not simmed yet."
  ],
  "order": 60,
@@ -775,6 +776,6 @@
  "source": "Nov 23, 2026 build from deck cuts, the Doom Unrivaled bench, the ripped precons and Marvel commons; replaces the Ultron, Artificial Malevolence build",
  "target": 100,
  "themeLabel": "Robot army aristocrats: every artifact that dies drains",
- "updated": "Nov 24, 2026",
+ "updated": "Nov 25, 2026",
  "variants": []
 }

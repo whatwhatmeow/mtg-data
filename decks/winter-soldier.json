@@ -1,34 +1,114 @@
 {
  "adds": [
   {
-   "name": "Shredder, Shadow Master",
+   "name": "Winds of Abandon",
    "status": "planned",
-   "why": "Nov 18: temporarily out for Danitha, Sword of Hope until a second Shredder copy arrives. Swap back for Danitha, Sword of Hope (or keep both and cut Stolen Stark Tech)."
+   "why": "Nov 25, 2026 house pick for every white S-B deck. 2 mana: exile a blocker or threat; overload {4}{W}{W}: one-sided exile wipe that keeps Bucky, Shredder and all the Equipment (Damn and Austere hit both sides). About $5-8 (Mystical Archive printing is cheapest). Cut not chosen."
+  },
+  {
+   "name": "Demonic Tutor",
+   "status": "planned",
+   "why": "Ideal B3: Game Changer. Your copy lives in Tom's Bombs; buy a second or move it per game night. (~$58.61)"
+  },
+  {
+   "name": "Commander's Plate",
+   "status": "planned",
+   "why": "Ideal B3: +3/+3 and protection from every color he isn't: dodges most removal and blockers. Equip 5, free via Puresteel/Squire/Serum. (~$37.87)"
+  },
+  {
+   "name": "Sword of Feast and Famine",
+   "status": "planned",
+   "why": "Ideal B3: Pro black/green, untaps your lands, makes them discard. Pays for a second combat with Genji Glove. (~$36.55)"
+  },
+  {
+   "name": "Teferi's Protection",
+   "status": "planned",
+   "why": "Ideal B3: Game Changer. Phases out everything: total answer to a wipe or a lethal swing back. (~$35.86)"
+  },
+  {
+   "name": "Urza's Saga",
+   "status": "planned",
+   "why": "Ideal B3: Makes constructs that scale with your artifacts, then fetches Sol Ring, Colossus Hammer, Shadowspear, O-Naginata or Battle-Axe. (~$32.10)"
   },
   {
    "name": "Stoneforge Mystic",
    "status": "planned",
-   "why": "Not in your pool, but the best Equipment tutor in white: finds Colossus Hammer or Kaldra and can put it in for {1}{W}. Swap for Cloak and Dagger."
+   "why": "Ideal B3: Finds Kaldra Compleat or Colossus Hammer and puts it in for {1}{W}. Best Equipment tutor in white. (~$29.00)"
+  },
+  {
+   "name": "Necropotence",
+   "status": "planned",
+   "why": "Ideal B3: Game Changer. Pay life, draw a pile; a 2-mana commander with lifelink gear refills fast. (~$24.92)"
+  },
+  {
+   "name": "Shadowspear",
+   "status": "planned",
+   "why": "Ideal B3: 1 mana, trample + lifelink; also a Urza's Saga target. (~$20.45)"
   },
   {
    "name": "Sigarda's Aid",
    "status": "planned",
-   "why": "Not in your pool. Flash Equipment and attach on entry for free: instant-speed Colossus Hammer. Swap for Sai of the Shinobi."
-  },
-  {
-   "name": "Mother of Runes",
-   "status": "planned",
-   "why": "Not in your pool. Turn-1 repeatable protection for him every turn. Swap for Stolen Stark Tech."
+   "why": "Ideal B3: Flash Equipment that attaches for free: instant-speed Colossus Hammer or Kaldra. (~$16.79)"
   },
   {
    "name": "Akroma's Will",
    "status": "planned",
-   "why": "Not in your pool. Protection plus double strike/lifelink when he's your commander; wins through blockers and wipes. Swap for Take Up the Shield."
+   "why": "Ideal B3: Free-ish when he's your commander: protection from everything plus double strike/lifelink — wins through blockers and wipes. (~$14.97)"
+  },
+  {
+   "name": "Stonehewer Giant",
+   "status": "planned",
+   "why": "Ideal B3: Repeatable Equipment tutor that also attaches what it finds. (~$7.66)"
+  },
+  {
+   "name": "Flawless Maneuver",
+   "status": "planned",
+   "why": "Ideal B3: Free when Bucky is out: whole-board indestructible vs wipes. (~$7.58)"
+  },
+  {
+   "name": "Mother of Runes",
+   "status": "planned",
+   "why": "Ideal B3: Turn-1 repeatable protection for Bucky (or Shredder) every turn. (~$6.72)"
+  },
+  {
+   "name": "Giver of Runes",
+   "status": "planned",
+   "why": "Ideal B3: Second Mother; can't target herself but protects either attacker. (~$5.61)"
+  },
+  {
+   "name": "Sword of Light and Shadow",
+   "status": "planned",
+   "why": "Ideal B3: Pro white/black (dodges Swords, Path, Damn-style removal) and regrows a creature. (~$3.54)"
+  },
+  {
+   "name": "Hammer of Nazahn",
+   "status": "planned",
+   "why": "Ideal B3: WS's own copy (yours went to Cloud). Attaches every Equipment you cast for free and makes the carrier indestructible. (~$3.21)"
+  },
+  {
+   "name": "Silent Clearing",
+   "status": "planned",
+   "why": "Ideal B3: Untapped W/B land that cashes in for a card late. (~$2.06)"
+  },
+  {
+   "name": "Concealed Courtyard",
+   "status": "planned",
+   "why": "Ideal B3: Untapped W/B dual early. (~$1.13)"
+  },
+  {
+   "name": "Vindicate",
+   "status": "planned",
+   "why": "Ideal B3: 3-mana answer to anything. (~$0.34)"
+  },
+  {
+   "name": "Bitter Triumph",
+   "status": "planned",
+   "why": "Ideal B3: 1-mana instant removal (discard a card or pay 3 life). (~$0.32)"
   }
  ],
- "baseLabel": "B2",
+ "baseLabel": "Today",
  "bracket": "Bracket 2",
- "bracketGoal": "No Game Changers · built to hold up in Bracket 3",
+ "bracketGoal": "No Game Changers · built from cards owned today · holds up in Bracket 3",
  "cards": [
   {
    "name": "Adaptive Omnitool",
@@ -182,12 +262,6 @@
    "qty": 1,
    "role": "rem",
    "type": "Instant"
-  },
-  {
-   "name": "Fellwar Stone",
-   "qty": 1,
-   "role": "ramp",
-   "type": "Artifact"
   },
   {
    "name": "Fetid Heath",
@@ -377,6 +451,12 @@
    "type": "Land"
   },
   {
+   "name": "Shredder, Shadow Master",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
    "name": "Sign in Blood",
    "qty": 1,
    "role": "draw",
@@ -557,11 +637,11 @@
   "Plan: suit him up and swing alone. Each Equipment is +2/+0 on top of its own bonus, so cheap Equipment matter most. Menace + vigilance means he attacks and still blocks.",
   "Double strike and protection when he attacks alone: Squall (double strike), Peggy Carter (indestructible), plus Genji Glove. With 3 Equipment and double strike he swings for 16+, lethal commander damage.",
   "Free/cheap equipping: Puresteel Paladin (equip 0 with metalcraft), Brass Squire (tap to attach anything, incl. Colossus Hammer and Kaldra), Super-Soldier Serum, Danitha (equip 1 less), Ronin (equipment mana), Cid (Equipment spells 1 less, so Colossus Hammer is free to cast). Finders: Steelshaper's Gift, Armored Skyhunter, Adaptive Omnitool; draw from Sram, Mask, Swordsman's Steel, Swordsman.",
-  "Bracket 2: zero Game Changers (checked Oct 13 against the Feb 2026 list). No infinite combos, extra turns or land destruction. Bracket 3 swaps: Sign in Blood → Demonic Tutor, Fellwar Stone → Smothering Tithe, Brawler's Plate → Teferi's Protection.",
+  "Bracket 2: zero Game Changers (checked Nov 24 against the card data). No infinite combos, extra turns or land destruction. Game Changer swaps live in the B3 version; the buy-everything list is the Ideal B3 version.",
   "Recursion: let him go to the graveyard and use {3}{W}{B}; he comes back with a finality counter and grabs an Equipment. Sai of the Shinobi and Super-Soldier Serum re-attach gear too.",
   "Protection: General's Enforcer (he's legendary, so indestructible), Champion's Helm (hexproof, he's legendary), My Precious, Swiftfoot Boots, Bastion Protector, Peggy, Stolen Stark Tech, Take Up the Shield, Captain America's Shield.",
   "Wipes: Austere Command (choose creatures + something that spares your artifacts) and Damn (spot removal early, wipe when behind).",
-  "Count: 35 lands (21 basics: 9 Plains, 12 Swamps), 28 Equipment, 3 Auras, 14 creatures, 6 rocks, 7 removal, 3 draw spells, 1 tutor, 1 protection spell.",
+  "Count (Nov 24): 35 lands (21 basics: 9 Plains, 12 Swamps), 29 Equipment, 3 Auras, 15 creatures, 5 rocks (plus Sword of the Animist), 7 removal, 3 draw spells, 1 tutor, 1 protection spell.",
   "Oct 13: Rebuilt from the sleeved list + Oct 13 alternatives. Sleeved list was 102 cards (23 basics); trimmed to 17 basics.",
   "Bench (considered, not in list): Thriving Heath, Thriving Moor (cut Oct 14 for Nesting Grounds, Villainous Hideout), Vibranium Energy Daggers (cut Oct 14 for Vorpal Sword), Short Sword, Well-Worn Spatula, Fireshrieker (cut Oct 13 for Bloodforged Battle-Axe, Conqueror's Flail, Nightmare Lash), Darksteel Axe (cut Oct 13 for O-Naginata), Voltaic Whip (cut Oct 13 to keep Captain America's Shield), Rogue's Gloves (cut Oct 13 for Plate Armor), Desolate Mire, Temple of Silence (cut Oct 13 land audit), Liquimetal Torque (cut for Lashwrithe), Elektra (cut Oct 13 for Cloak and Dagger), Brawler's Plate (cut Oct 13 for Lightning Greaves), Black Widow, Viper, Spider-Man Noir, Bucky Barnes, Fisk Tower (all cut Oct 13 for competitiveness), Argentum Armor, Cathar's Shield, Continue?, Costume Closet, Dancing Sword, Dark Ritual, Diabolic Tutor, Duress, Exotic Orchard, Final Act, Hidden Blade, Infinity Formula, Jhoira's Familiar, Key to the City, Power Conduit, Red Guardian, Super-Soldier, Render Speechless, S.H.I.E.L.D. Spy Kit, Slagwurm Armor, Steel Seraph, Sting, the Glinting Dagger, U.S.Agent, John Walker, Whiplash, Vengeful Engineer, Whispersilk Cloak, White Widow, Free Agent.",
   "Bench (Oct 12 theorycraft builds, not in your pool): Akroma's Will, Anguished Unmaking, Armory Automaton, Batterskull, Benevolent Bodyguard, Bitter Triumph, Black Market Connections, Bonesplitter, Brass Squire, Brightclimb Pathway, Castle Ardenvale, Castle Locthwain, Colossus Hammer, Commander's Plate, Concealed Courtyard, Deadly Rollick, Feed the Swarm, Fighter Class, Flawless Maneuver, Generous Gift, Giver of Runes, Godless Shrine, Hammer of Nazahn, Infernal Grasp, Inventors' Fair, Land Tax, Lightning Greaves, Mithril Coat, Mother of Runes, Open the Armory, Orzhov Basilica, Phyrexian Arena, Restless Fortress, Scoured Barrens, Shadowspear, Shattered Sanctum, Sigarda's Aid, Silent Clearing, Skullclamp, Stoneforge Mystic, Stonehewer Giant, Sword of Body and Mind, Sword of Feast and Famine, Sword of Hearth and Home, Sword of Light and Shadow, Thought Vessel, Unbreakable Formation, Urza's Saga, Vault of the Archangel, Vindicate, Wayfarer's Bauble, Whispersilk Cloak.",
@@ -577,25 +657,32 @@
   "Oct 14: Vorpal Sword in over Vibranium Energy Daggers. Same 1-mana cost, +4/+0 and deathtouch on him; deathtouch + menace kills both blockers, and with trample (O-Naginata, Loxodon Warhammer) he assigns just 1 to each blocker. {5}{B}: a player he hits loses the game. Equip {B}{B}{B} is easy with ~22 black sources, or free via Puresteel/Brass Squire/Serum. Daggers only added toughness, already covered by Enforcer, Shield and Plate Armor.",
   "Oct 14: Nesting Grounds and Villainous Hideout in over Thriving Heath and Thriving Moor (your swap). Nesting Grounds can move his finality counter off him at sorcery speed, so he can die and come back again. Cost: two fewer dual sources, so watch for color-screw.",
   "Oct 30: Shredder, Shadow Master in over Bone Saw. Second threat and clock: each unblocked swing makes every opponent lose half their life (copies attack each other opponent), so two connects put the table at ~10 and a suited-up Bucky finishes with plain combat damage, no 21 commander damage needed. Sequencing: Shredder swings alone early while Bucky suits up (attacking together turns off attack-alone payoffs like Squall and Peggy); once totals are low, swing with both. Trample gear (O-Naginata, Loxodon Warhammer) on him beats chump blocks. Other versions unchanged.",
-  "Nov 23, 2026 (pending, not made yet): Metalwork Colossus in, cut a creature or spell (not Equipment). Andrew has 2 spares (the homeless one from the ripped Black Panther precon, plus a $0.50-bin copy); one goes here. With Kaldra Compleat, Lashwrithe, the Swords, Plate Armor, Warhammer, Nettlecyst and the rocks out it's usually free by turn 3-4: a backup carrier when Bucky is removed, and an artifact for Cranial Plating."
+  "Nov 24: Metalwork Colossus pending add dropped. Shredder now fills the backup-threat job it was meant to cover; Colossus stays a spare.",
+  "Nov 24: Shredder, Shadow Master (second copy arrived) in over Fellwar Stone (your pick). Stolen Stark Tech and Danitha, Sword of Hope stay. Hammer of Nazahn goes to the oldest's Cloud deck instead, so Sai of the Shinobi stays here. Ramp is now Sol Ring, Arcane Signet, Mind Stone, Orzhov Signet, Talisman of Hierarchy plus Sword of the Animist; fine for a 2-mana commander. Shredder + Squall: Shredder attacking alone gets double strike, so each opponent he connects with loses half their life twice (about 3/4 of it). Genji Glove on Shredder gives a second combat for more halvings.",
+  "Nov 24: Cut from 5 versions to 3: Today (main list, all owned, sleeved tonight), B3 (owned Game Changer swap) and Ideal B3 (buy everything). Retired B2+ sim, B3+ sim and B4 sim; backup in mtg-data decks/_retired/winter-soldier-5-versions-2026-11-24.json."
  ],
  "order": 5,
  "owner": "Andrew",
- "source": "Sleeved list + alternatives, Oct 13, 2026",
+ "source": "Sleeved list + Nov 24 Shredder/Hammer update",
  "target": 100,
  "themeLabel": "Suit up",
- "updated": "Nov 18, 2026",
+ "updated": "Nov 24, 2026",
  "variants": [
   {
    "adds": [
     {
-     "name": "Mother of Runes",
-     "status": "planned",
-     "why": "Not in your pool. Turn-1 repeatable protection for him every turn. Swap for Mind Stone."
+     "name": "Smothering Tithe",
+     "status": "option",
+     "why": "Better GC than Orcish Bowmasters here if you own one (~$51.50); not recorded in the collection."
+    },
+    {
+     "name": "Teferi's Protection",
+     "status": "option",
+     "why": "Better GC than Orcish Bowmasters vs wipes if you own one (~$35.86); not recorded in the collection."
     }
    ],
-   "bracket": "High Bracket 3",
-   "bracketGoal": "3 Game Changers · Equipment voltron",
+   "bracket": "Bracket 3",
+   "bracketGoal": "3 owned Game Changers swapped into Today's list",
    "id": "b3",
    "in": [
     {
@@ -605,221 +692,64 @@
      "type": "Sorcery"
     },
     {
-     "name": "Smothering Tithe",
+     "name": "The One Ring",
      "qty": 1,
-     "role": "ramp",
-     "type": "Enchantment"
+     "role": "draw",
+     "type": "Artifact"
     },
     {
-     "name": "Teferi's Protection",
+     "name": "Orcish Bowmasters",
      "qty": 1,
-     "role": "prot",
-     "type": "Instant"
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Godless Shrine",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
     }
    ],
    "label": "B3",
    "name": "Winter Soldier (B3)",
    "notes": [
-    "Game Changers (3): Demonic Tutor, Smothering Tithe, Teferi's Protection, replacing Sign in Blood, Fellwar Stone and Brawler's Plate from the B2 list. Assumes you own them (they were in the Oct 12 B3 build).",
-    "Bracket 4 ideas: Enlightened Tutor, Vampiric Tutor, Mana Vault, The One Ring; Genji Glove and Diabolic Tutor from the bench.",
-    "Bench (considered, not in list): Thriving Heath, Thriving Moor (cut Oct 14 for Nesting Grounds, Villainous Hideout), Vibranium Energy Daggers (cut Oct 14 for Vorpal Sword), Short Sword, Well-Worn Spatula, Bone Saw (cut Oct 13 to keep Sword of Sinew and Steel; was cut for Bloodforged Battle-Axe, Conqueror's Flail, Nightmare Lash), Darksteel Axe (cut Oct 13 for O-Naginata), Voltaic Whip (cut Oct 13 to keep Captain America's Shield), Rogue's Gloves (cut Oct 13 for Plate Armor), Desolate Mire, Temple of Silence (cut Oct 13 land audit), Liquimetal Torque (cut for Lashwrithe), Elektra (cut Oct 13 for Cloak and Dagger), Fireshrieker (cut Oct 13 for Lightning Greaves), Black Widow, Viper, Spider-Man Noir, Bucky Barnes, Fisk Tower (all cut Oct 13 for competitiveness), Argentum Armor, Cathar's Shield, Continue?, Costume Closet, Dancing Sword, Dark Ritual, Diabolic Tutor, Duress, Exotic Orchard, Final Act, Hidden Blade, Infinity Formula, Jhoira's Familiar, Key to the City, Power Conduit, Red Guardian, Super-Soldier, Render Speechless, S.H.I.E.L.D. Spy Kit, Slagwurm Armor, Steel Seraph, Sting, the Glinting Dagger, U.S.Agent, John Walker, Whiplash, Vengeful Engineer, Whispersilk Cloak, White Widow, Free Agent.",
-    "Oct 13: Lightning Greaves in over Fireshrieker. Equip it LAST: suit him up first, then Greaves for 0. To add gear later, move Greaves to another creature for 0, equip, then move it back. His graveyard return attaches without targeting, so shroud doesn't stop it. Haste matters most when recasting from the command zone; returning him from the graveyard at the end of an opponent's turn lets him attack anyway.",
-    "Oct 13: In: Bloodforged Battle-Axe (1 mana, +4/+0 on him, copies itself on hit), Conqueror's Flail (+2/+2; opponents can't cast spells during your turn, so no instant-speed removal while he attacks), Nightmare Lash (+1/+1 per Swamp, ~+12 with 12 Swamps; equip by paying 3 life). Out: Short Sword, Well-Worn Spatula, Bone Saw (Sword of Sinew and Steel stays)."
+    "Game Changers (3), all owned: Demonic Tutor and The One Ring (both currently sleeved in Tom's Bombs) and Orcish Bowmasters (sleeved in Doom's Big Wheels). Moving them is a per-game-night swap until you own second copies.",
+    "Out: Sign in Blood, Night's Whisper, Read the Bones (The One Ring and Demonic Tutor replace the draw), 1 Swamp for Godless Shrine (unused by any other deck; it's a Swamp, so Nightmare Lash doesn't lose anything).",
+    "The One Ring: cast it the turn before you go all-in, so the protection turn covers the opponents' answers; then it draws every turn. Bowmasters: flash, pings Mother of Runes-type blockers and punishes wheel/draw tables.",
+    "If you own Smothering Tithe or Teferi's Protection, they beat Bowmasters in this deck; Bowmasters is in because it's confirmed owned."
    ],
    "out": [
-    {
-     "name": "Shredder, Shadow Master",
-     "qty": 1
-    },
-    {
-     "name": "Fellwar Stone",
-     "qty": 1
-    },
     {
      "name": "Sign in Blood",
      "qty": 1
+    },
+    {
+     "name": "Night's Whisper",
+     "qty": 1
+    },
+    {
+     "name": "Read the Bones",
+     "qty": 1
+    },
+    {
+     "name": "Swamp",
+     "qty": 1
     }
    ],
-   "source": "Sleeved list + alternatives, Oct 13, 2026",
-   "updated": "Oct 14, 2026"
+   "source": "Today list + owned Game Changers, Nov 24, 2026",
+   "updated": "Nov 24, 2026"
   },
   {
-   "bracket": "Bracket 2",
-   "bracketGoal": "0 Game Changers · Equipment voltron",
-   "id": "b2-plus",
+   "adds": [],
+   "bracket": "High Bracket 3",
+   "bracketGoal": "3 Game Changers: Demonic Tutor, Necropotence, Teferi's Protection · buy-everything list",
+   "id": "ideal-b3",
    "in": [
-    {
-     "name": "Bonesplitter",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Commander's Plate",
-     "qty": 1,
-     "role": "prot",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Flawless Maneuver",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Hammer of Nazahn",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Shadowspear",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Sigarda's Aid",
-     "qty": 1,
-     "role": "eng",
-     "type": "Enchantment"
-    },
-    {
-     "name": "Stoneforge Mystic",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Creature"
-    },
-    {
-     "name": "Stonehewer Giant",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Creature"
-    },
-    {
-     "name": "Sword of Feast and Famine",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Sword of Light and Shadow",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Bone Saw",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    }
-   ],
-   "label": "B2+ sim",
-   "name": "Winter Soldier (B2+)",
-   "notes": [
-    "Overnight sim build (5,000 games, B2 table): kills by turn 12 in 88.9% of games vs 77.1% for the current B2 list (+1.10 turns faster).",
-    "Changes vs current B2: -Cloak and Dagger, Despark, Fracture, Lashwrithe, Peggy Carter, Ronin, Take Up the Shield, With Great Power, Stolen Stark Tech, Cid; +Stoneforge Mystic, Commander's Plate, Shadowspear, Sword of Feast and Famine, Sword of Light and Shadow, Sigarda's Aid, Stonehewer Giant, Hammer of Nazahn, Flawless Maneuver, Bonesplitter. Bloodforged Battle-Axe stays (model fix Oct 16).",
-    "Not in your pool (buy list): Stoneforge Mystic, Sigarda's Aid, plus any of the new Equipment you don't own."
-   ],
-   "out": [
-    {
-     "name": "Cid, Freeflier Pilot",
-     "qty": 1
-    },
-    {
-     "name": "Cloak and Dagger, Entwined",
-     "qty": 1
-    },
-    {
-     "name": "Despark",
-     "qty": 1
-    },
-    {
-     "name": "Fracture",
-     "qty": 1
-    },
-    {
-     "name": "Lashwrithe",
-     "qty": 1
-    },
-    {
-     "name": "Peggy Carter, Secret Agent",
-     "qty": 1
-    },
-    {
-     "name": "Ronin, Shadow Stalker",
-     "qty": 1
-    },
-    {
-     "name": "Stolen Stark Tech",
-     "qty": 1
-    },
-    {
-     "name": "Take Up the Shield",
-     "qty": 1
-    },
-    {
-     "name": "With Great Power . . .",
-     "qty": 1
-    },
-    {
-     "name": "Shredder, Shadow Master",
-     "qty": 1
-    }
-   ],
-   "source": "Overnight simulator build, Oct 16, 2026",
-   "updated": "Oct 16, 2026"
-  },
-  {
-   "bracket": "Bracket 3",
-   "bracketGoal": "3 Game Changers: Mox Diamond, Necropotence, Demonic Tutor",
-   "id": "b3-plus",
-   "in": [
-    {
-     "name": "Commander's Plate",
-     "qty": 1,
-     "role": "prot",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
     {
      "name": "Demonic Tutor",
      "qty": 1,
      "role": "tutor",
      "type": "Sorcery"
-    },
-    {
-     "name": "Flawless Maneuver",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Hammer of Nazahn",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mother of Runes",
-     "qty": 1,
-     "role": "prot",
-     "type": "Creature"
-    },
-    {
-     "name": "Mox Diamond",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
     },
     {
      "name": "Necropotence",
@@ -828,17 +758,10 @@
      "type": "Enchantment"
     },
     {
-     "name": "Shadowspear",
+     "name": "Teferi's Protection",
      "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Sigarda's Aid",
-     "qty": 1,
-     "role": "eng",
-     "type": "Enchantment"
+     "role": "prot",
+     "type": "Instant"
     },
     {
      "name": "Stoneforge Mystic",
@@ -847,141 +770,16 @@
      "type": "Creature"
     },
     {
-     "name": "Stonehewer Giant",
+     "name": "Sigarda's Aid",
      "qty": 1,
-     "role": "tutor",
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Mother of Runes",
+     "qty": 1,
+     "role": "prot",
      "type": "Creature"
-    },
-    {
-     "name": "Sword of Feast and Famine",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Sword of Light and Shadow",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Bone Saw",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    }
-   ],
-   "label": "B3+ sim",
-   "name": "Winter Soldier (B3+)",
-   "notes": [
-    "Overnight sim build (5,000 games, B3 table): kills by turn 12 in 81.6% vs 61.5% for the current B3 list. Bloodforged Battle-Axe kept over Cid (model fix Oct 16).",
-    "Game Changers: Mox Diamond, Necropotence, Demonic Tutor (Smothering Tithe and Teferi's Protection dropped)."
-   ],
-   "out": [
-    {
-     "name": "Cid, Freeflier Pilot",
-     "qty": 1
-    },
-    {
-     "name": "Cloak and Dagger, Entwined",
-     "qty": 1
-    },
-    {
-     "name": "Conqueror's Flail",
-     "qty": 1
-    },
-    {
-     "name": "Despark",
-     "qty": 1
-    },
-    {
-     "name": "Fracture",
-     "qty": 1
-    },
-    {
-     "name": "Lashwrithe",
-     "qty": 1
-    },
-    {
-     "name": "Peggy Carter, Secret Agent",
-     "qty": 1
-    },
-    {
-     "name": "Ronin, Shadow Stalker",
-     "qty": 1
-    },
-    {
-     "name": "Sai of the Shinobi",
-     "qty": 1
-    },
-    {
-     "name": "Silverquill Charm",
-     "qty": 1
-    },
-    {
-     "name": "Stolen Stark Tech",
-     "qty": 1
-    },
-    {
-     "name": "Take Up the Shield",
-     "qty": 1
-    },
-    {
-     "name": "With Great Power . . .",
-     "qty": 1
-    },
-    {
-     "name": "Shredder, Shadow Master",
-     "qty": 1
-    }
-   ],
-   "source": "Overnight simulator build, Oct 16, 2026",
-   "updated": "Oct 16, 2026"
-  },
-  {
-   "bracket": "Bracket 4",
-   "bracketGoal": "Unlimited Game Changers · fast mana voltron",
-   "id": "b4",
-   "in": [
-    {
-     "name": "Akroma's Will",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Ancient Tomb",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Chrome Mox",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Commander's Plate",
-     "qty": 1,
-     "role": "prot",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Demonic Tutor",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Flawless Maneuver",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
     },
     {
      "name": "Giver of Runes",
@@ -990,44 +788,6 @@
      "type": "Creature"
     },
     {
-     "name": "Hammer of Nazahn",
-     "qty": 1,
-     "role": "eng",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mana Vault",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mithril Coat",
-     "qty": 1,
-     "role": "prot",
-     "sub": "Equipment",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mother of Runes",
-     "qty": 1,
-     "role": "prot",
-     "type": "Creature"
-    },
-    {
-     "name": "Mox Diamond",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Necropotence",
-     "qty": 1,
-     "role": "draw",
-     "type": "Enchantment"
-    },
-    {
      "name": "Shadowspear",
      "qty": 1,
      "role": "eng",
@@ -1035,22 +795,11 @@
      "type": "Artifact"
     },
     {
-     "name": "Sigarda's Aid",
+     "name": "Commander's Plate",
      "qty": 1,
-     "role": "eng",
-     "type": "Enchantment"
-    },
-    {
-     "name": "Stoneforge Mystic",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Creature"
-    },
-    {
-     "name": "Stonehewer Giant",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Creature"
+     "role": "prot",
+     "sub": "Equipment",
+     "type": "Artifact"
     },
     {
      "name": "Sword of Feast and Famine",
@@ -1067,85 +816,87 @@
      "type": "Artifact"
     },
     {
-     "name": "The One Ring",
+     "name": "Stonehewer Giant",
      "qty": 1,
-     "role": "draw",
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Flawless Maneuver",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Akroma's Will",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Bitter Triumph",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Vindicate",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Urza's Saga",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Godless Shrine",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Concealed Courtyard",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Silent Clearing",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Hammer of Nazahn",
+     "qty": 1,
+     "role": "prot",
+     "sub": "Equipment",
      "type": "Artifact"
     }
    ],
-   "label": "B4 sim",
-   "name": "Winter Soldier (B4)",
+   "label": "Ideal B3",
+   "name": "Winter Soldier (Ideal B3)",
    "notes": [
-    "Overnight sim build (5,000 games, B4 table): kills by turn 12 in 59.8% vs 54.2% for B3+ on the same table.",
-    "B3+ plus: Ancient Tomb, Chrome Mox, Mana Vault, The One Ring, Akroma's Will, Giver of Runes, Mithril Coat; minus Austere Command, Bastion Protector, Bone Saw, Cid, Nightmare Lash, Plains, Vorpal Sword."
+    "Buys (20 cards, ~$345; ~$287 if you move your Demonic Tutor over from Tom's Bombs): see the deck's planned adds. Godless Shrine is owned. Hammer of Nazahn is a second copy (yours went to Cloud).",
+    "Built from the Oct 16 overnight sim's B3+ picks (kills by turn 12 in 81.6% vs 61.5% for the old B3): Stoneforge, Stonehewer, Sigarda's Aid, Commander's Plate, Shadowspear, Swords of Feast and Famine / Light and Shadow, Mother of Runes, Flawless Maneuver. Added Giver of Runes, Akroma's Will, Urza's Saga, Bitter Triumph, Vindicate, untapped duals. Plus Hammer of Nazahn.",
+    "Game Changers: Demonic Tutor, Necropotence, Teferi's Protection. The sim liked Mox Diamond over Teferi's, but it's ~$1,100 on the Reserved List, which is a lot of money for a card that makes you discard a land.",
+    "Cuts: the cheap draw spells (Necro replaces them), Take Up the Shield, Stolen Stark Tech, Sai of the Shinobi (Hammer does Sai's job better) and Peggy (Mother, Giver, Flawless, Akroma's Will, Teferi's cover protection better), Ronin, Cid, Swordsman, Lashwrithe, With Great Power, Wrecking Ball Arm, Mask of Memory, Sword of the Animist, Cloak and Dagger and Fracture (Bitter Triumph and Vindicate are cheaper/wider), Tainted Field, Goldmire Bridge, Vibrant Cityscape, 1 Swamp.",
+    "Shredder stays: with Squall he's a second win con that doesn't need 21 commander damage."
    ],
    "out": [
     {
-     "name": "Austere Command",
+     "name": "Sign in Blood",
      "qty": 1
     },
     {
-     "name": "Bastion Protector",
+     "name": "Night's Whisper",
      "qty": 1
     },
     {
-     "name": "Bloodforged Battle-Axe",
-     "qty": 1
-    },
-    {
-     "name": "Shredder, Shadow Master",
-     "qty": 1
-    },
-    {
-     "name": "Cid, Freeflier Pilot",
-     "qty": 1
-    },
-    {
-     "name": "Cloak and Dagger, Entwined",
-     "qty": 1
-    },
-    {
-     "name": "Conqueror's Flail",
-     "qty": 1
-    },
-    {
-     "name": "Despark",
-     "qty": 1
-    },
-    {
-     "name": "Fracture",
-     "qty": 1
-    },
-    {
-     "name": "Lashwrithe",
-     "qty": 1
-    },
-    {
-     "name": "Nightmare Lash",
-     "qty": 1
-    },
-    {
-     "name": "Peggy Carter, Secret Agent",
-     "qty": 1
-    },
-    {
-     "name": "Plains",
-     "qty": 1
-    },
-    {
-     "name": "Ronin, Shadow Stalker",
-     "qty": 1
-    },
-    {
-     "name": "Sai of the Shinobi",
-     "qty": 1
-    },
-    {
-     "name": "Silverquill Charm",
-     "qty": 1
-    },
-    {
-     "name": "Stolen Stark Tech",
+     "name": "Read the Bones",
      "qty": 1
     },
     {
@@ -1153,16 +904,76 @@
      "qty": 1
     },
     {
-     "name": "Vorpal Sword",
+     "name": "Ronin, Shadow Stalker",
+     "qty": 1
+    },
+    {
+     "name": "Cid, Freeflier Pilot",
+     "qty": 1
+    },
+    {
+     "name": "Lashwrithe",
      "qty": 1
     },
     {
      "name": "With Great Power . . .",
      "qty": 1
+    },
+    {
+     "name": "Peggy Carter, Secret Agent",
+     "qty": 1
+    },
+    {
+     "name": "Cloak and Dagger, Entwined",
+     "qty": 1
+    },
+    {
+     "name": "Fracture",
+     "qty": 1
+    },
+    {
+     "name": "Mask of Memory",
+     "qty": 1
+    },
+    {
+     "name": "Sword of the Animist",
+     "qty": 1
+    },
+    {
+     "name": "Wrecking Ball Arm",
+     "qty": 1
+    },
+    {
+     "name": "Swordsman, Sharp Scoundrel",
+     "qty": 1
+    },
+    {
+     "name": "Tainted Field",
+     "qty": 1
+    },
+    {
+     "name": "Goldmire Bridge",
+     "qty": 1
+    },
+    {
+     "name": "Vibrant Cityscape",
+     "qty": 1
+    },
+    {
+     "name": "Swamp",
+     "qty": 1
+    },
+    {
+     "name": "Stolen Stark Tech",
+     "qty": 1
+    },
+    {
+     "name": "Sai of the Shinobi",
+     "qty": 1
     }
    ],
-   "source": "Overnight simulator build, Oct 16, 2026",
-   "updated": "Oct 16, 2026"
+   "source": "Today list + Oct 16 sim picks + buys, Nov 24, 2026",
+   "updated": "Nov 24, 2026"
   }
  ]
 }

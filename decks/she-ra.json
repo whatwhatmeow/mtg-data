@@ -1,6 +1,11 @@
 {
  "adds": [
   {
+   "name": "Winds of Abandon",
+   "status": "planned",
+   "why": "Nov 25, 2026 house pick for every white S-B deck. 2 mana: exile one creature you don't control; overload {4}{W}{W}: one-sided exile wipe, her legends stay so She-Ra keeps her colors. About $5-8 (Mystical Archive printing is cheapest). Cut not chosen."
+  },
+  {
    "name": "Suki of the Kyoshi Warriors (Captain Sisay)",
    "status": "added",
    "why": "Avatar set printing of Captain Sisay, {2}{G}{W}. {T}: search your library for any legendary card and put it in your hand — nearly the whole deck. Stacks with She-Ra's tutor. Strongest of the Avatar options; a second repeatable tutor pushes toward the top of Bracket 2. Replaced Ka-Zar of the Savage Land (Nov 17)."
@@ -130,7 +135,7 @@
    "type": "Creature"
   },
   {
-   "name": "Jessica Jones, Private Eye",
+   "name": "Raph & Leo, Sibling Rivals",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
@@ -703,14 +708,15 @@
   "Nov 17: Suki of the Kyoshi Warriors (Captain Sisay) in for Ka-Zar, Aang, Swift Savior in for Falcon, Fracture in for Red Guardian, Flooded Grove in for a Forest (Forests now 2). Path to Exile in for Shocker in the sleeved deck (Path was already on this list), so The Grey Havens took the open slot: untapped legendary land, Suki can tutor it. 36 lands. Suki + Captain America, Living Legend = two legendary tutors a turn (Echo can copy a third); strong but not infinite.",
   "Nov 17 sleeving: sleeve Chromatic Lantern, Behold the Sinister Six!, Path to Exile, Arcane Denial, Man-At-Arms, Flooded Grove, The Grey Havens; pull Hot Dog Cart, Pictures of Spider-Man, Shocker, Negate, Great Hall of the Citadel, Ka-Zar, Falcon, Red Guardian, one Forest. Later Nov 17 (her call): Morbius the Living Vampire stays in and University Campus stays out, so back to 35 lands. Count the stack: 99 + She-Ra.",
   "Nov 21: Ka-Zar of the Savage Land back in for Man-At-Arms (the Man-At-Arms copy isn't available for this deck). Zabu is the non-Human attacker for He-Man (Winota); lands off the top are extra cards. Ka-Zar is already sleeved, so just pull Man-At-Arms off the to-sleeve list.",
-  "Nov 21: Sodden Verdure in for Flooded Grove. Forest Island types, so Farseek can fetch it; untapped once you control two basics; no pain."
+  "Nov 21: Sodden Verdure in for Flooded Grove. Forest Island types, so Farseek can fetch it; untapped once you control two basics; no pain.",
+  "Nov 25: Raph & Leo, Sibling Rivals (owned, picked up Nov 24) in for Jessica Jones (her copy stays in the lawyer deck). Red-white hybrid, so +2 colors for She-Ra; non-Human attacker for He-Man (Winota); Turtle for Heroes in a Half Shell. First-combat attack untaps up to two attackers and adds a combat, re-triggering Leatherhead, Jane Foster, Michelangelo, Gwenom, Kang, Daredevil and He-Man. Sleeve Raph & Leo, pull Jessica Jones."
  ],
  "order": 12,
  "owner": "Wife",
  "source": "Built by Claude Oct 28, 2026 from the She-Ra Secret Lair + Marvel Super Heroes / Spider-Man commons & uncommons; not yet checked against your binder",
  "target": 100,
  "themeLabel": "Legend parade",
- "updated": "Nov 21, 2026",
+ "updated": "Nov 25, 2026",
  "variants": [
   {
    "bracket": "High Bracket 2",
@@ -754,7 +760,8 @@
     "Not simulated: theme picks. All five are legal legends under $6 in the mtg-data repo (Nov 12): Sonic $3.66, Tails $1.04, Amy Rose $1.42, Optimus Prime $5.22, Megatron $1.93. None are owned as far as the vault knows.",
     "Sonic (blue-red-white, haste) puts a +1/+1 counter on each of her creatures with flash or haste when he attacks. Amy Rose attaches an Equipment when she attacks, which suits the Battle Harness. Megatron stops opponents casting spells during combat. Optimus and Megatron are three colors each for She-Ra's power.",
     "Other cartoon options: Soundwave, Sonic Spy; Leonardo, the Balance; Sokka and Suki; Katara, the Fearless; Toph, the First Metalbender.",
-    "The cuts are suggestions; she should pick. Correction to the Nov 15 review doc: do not cut Kutzil. It is Catra from the She-Ra pack."
+    "The cuts are suggestions; she should pick. Correction to the Nov 15 review doc: do not cut Kutzil. It is Catra from the She-Ra pack.",
+    "Nov 25: Falcon and Jessica Jones are already out of the main list (Falcon Nov 17, Jessica for Raph & Leo Nov 25), so two of these cuts need new picks if this version is used. See the Transformers version."
    ],
    "out": [
     {
@@ -780,6 +787,187 @@
    ],
    "source": "Nov 15, 2026 theme search of the mtg-data repo",
    "updated": "Nov 15, 2026"
+  },
+  {
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers · five Transformers (non-Human Robot legends) for She-Ra, He-Man and the extra combats",
+   "id": "nov25-transformers",
+   "in": [
+    {
+     "name": "Optimus Prime, Hero // Optimus Prime, Autobot Leader",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Goldbug, Humanity's Ally // Goldbug, Scrappy Scout",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Ultra Magnus, Tactician // Ultra Magnus, Armored Carrier",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Megatron, Tyrant // Megatron, Destructive Force",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Arcee, Sharpshooter // Arcee, Acrobatic Coupe",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    }
+   ],
+   "label": "Transformers",
+   "name": "She-Ra (Transformers)",
+   "notes": [
+    "Nov 25: she liked the Transformers list. All five need buying (none owned as far as the vault knows). mtg-data repo prices, cheapest printing: Optimus Prime $5.22, Goldbug $1.35, Ultra Magnus $0.52, Megatron $1.93, Arcee $1.11 (about $10 total).",
+    "Why they fit: every one is a Robot, so attacking with them triggers He-Man (Winota) to dig for a Human, and every one is legendary, so She-Ra counts their colors and can tutor them.",
+    "Optimus Prime (U/R/W): bolster 1 each end step; truck side bolsters 2 every attack (every combat with Raph & Leo / Charge of Eternia), feeding Raphael; returns as the truck when he dies, so a wipe doesn't strip She-Ra's colors.",
+    "Goldbug (W/U, 3 mana): car side draws whenever it attacks with a Human; robot side prevents combat damage to her attacking Humans. Card draw was the deck's gap.",
+    "Ultra Magnus (R/G/W): cast converted for {2}{R}{G}{W}; the truck has haste and makes all attackers indestructible every attack.",
+    "Megatron (B/R/W): opponents can't cast spells during combat (robot side only) — protects the extra-combat turns with Silence and Catra (Kutzil). 6 mana; finisher, not engine.",
+    "Arcee (R/W, 3 mana): first strike; removes +1/+1 counters (Leatherhead, Michelangelo) to deal that much damage to a creature. Same colors as Raph & Leo and Daredevil, so no extra She-Ra power.",
+    "Cuts are suggestions; she picks: Okoye (top cut), Ka-Zar (the Robots take Zabu's non-Human-attacker job), Black Panther, Vanguard, Morbius (she kept him on Nov 17), Spider-Woman, Secret Agent (Goldbug covers white-blue).",
+    "Not legal in Commander: Grimlock, Dinobot Leader and Optimus Prime, Inspiring Leader. Weaker legal options: Cyclonus, Soundwave, Blaster, Starscream, Ratchet, Prowl, Jetfire, Slicer."
+   ],
+   "out": [
+    {
+     "name": "Okoye, Dora Milaje Leader",
+     "qty": 1
+    },
+    {
+     "name": "Ka-Zar of the Savage Land",
+     "qty": 1
+    },
+    {
+     "name": "Black Panther, Vanguard",
+     "qty": 1
+    },
+    {
+     "name": "Morbius the Living Vampire",
+     "qty": 1
+    },
+    {
+     "name": "Spider-Woman, Secret Agent",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 25, 2026 Transformers search of the mtg-data repo",
+   "updated": "Nov 25, 2026"
+  },
+  {
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers · stacks on the Transformers version · 99 stays under the $150 league cap",
+   "id": "nov25-powerup",
+   "in": [
+    {
+     "name": "Jodah, the Unifier",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Aurelia, the Warleader",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Relic of Legends",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Plaza of Heroes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Guardian Project",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Flawless Maneuver",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Heroic Intervention",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Swiftfoot Boots",
+     "qty": 1,
+     "role": "prot",
+     "type": "Artifact"
+    }
+   ],
+   "label": "Power-up",
+   "name": "She-Ra (power-up, B2)",
+   "notes": [
+    "Nov 25: Andrew asked to power up the deck. Meant to go on top of the Transformers version (13 swaps total); these cuts don't overlap the Transformers cuts. Not simulated.",
+    "Prices (mtg-data repo, cheapest printing, Nov 12 data): Jodah $2.70, Aurelia $3.24, Relic of Legends $0.70, Plaza of Heroes $3.84, Guardian Project $5.04, Flawless Maneuver $7.58, Heroic Intervention $6.32, Swiftfoot Boots $1.22 — about $31 (about $41 with the Transformers). The current 99 prices at roughly $94 by cheapest printings, so the whole remake should land around $130, under the $150 cap. Ownership not checked — confirm Boots and any of these in the binder first.",
+    "Jodah, the Unifier (WUBRG): all five colors in one legend for She-Ra; legends get +X/+X per legend; every legendary spell cast from hand cascades into another legend. Biggest single upgrade.",
+    "Aurelia, the Warleader (R/W, flying, haste): first attack each turn untaps everything and adds a combat. Raph & Leo trigger in the same first combat, so the two together make two extra combats; Charge of Eternia adds more. She-Ra fetches her at power 7+.",
+    "Relic of Legends: taps any legend for any color, so the creatures pay for She-Ra's WUBRG tutor. Replaces Talisman of Dominance.",
+    "Plaza of Heroes: untapped land, any color for legends, and can exile to give a legend hexproof (answers targeted removal on She-Ra). Replaces the tapped Suburban Sanctuary.",
+    "Guardian Project: draws on every new legend that enters, including She-Ra, Suki and Jodah fetches. Fixes the card-draw gap; replaces Harmonize.",
+    "Board-wipe insurance for the family table: Flawless Maneuver (free while She-Ra is out) and Heroic Intervention (hexproof + indestructible on everything) replace Arcane Denial and Crackle with Power. Swiftfoot Boots keeps She-Ra and Karolina safe from targeted removal.",
+    "Other cuts: Spider-Gwen, Free Spirit and Tokka & Rahzar (single-color 3-drops; Jodah and the Robots add more colors), Kang, Temporal Tyrant (runner-up keep — swap him back in for Arcane Denial's cut if she wants a counterspell kept instead).",
+    "Winds of Abandon (the house's planned pick, already on this deck's adds list) fits on top of this; it still needs its own cut.",
+    "Bracket 2 check: no Game Changers, no extra turns, no two-card infinites. Extra combats are allowed. No fetch or shock lands added (the house's B2 land-speed rule).",
+    "Pricier options if wanted later: Bloom Tender ($13; makes WUBRG on its own once she has all five colors out), Akroma's Will ($15). Game Changers kept out: Teferi's Protection, Smothering Tithe, Rhystic Study."
+   ],
+   "out": [
+    {
+     "name": "Harmonize",
+     "qty": 1
+    },
+    {
+     "name": "Talisman of Dominance",
+     "qty": 1
+    },
+    {
+     "name": "Suburban Sanctuary",
+     "qty": 1
+    },
+    {
+     "name": "Crackle with Power",
+     "qty": 1
+    },
+    {
+     "name": "Arcane Denial",
+     "qty": 1
+    },
+    {
+     "name": "Spider-Gwen, Free Spirit",
+     "qty": 1
+    },
+    {
+     "name": "Tokka & Rahzar, Unsupervised",
+     "qty": 1
+    },
+    {
+     "name": "Kang, Temporal Tyrant",
+     "qty": 1
+    }
+   ],
+   "source": "Nov 25, 2026 power-up pass using the mtg-data repo",
+   "updated": "Nov 25, 2026"
   }
  ]
 }

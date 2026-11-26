@@ -1,0 +1,636 @@
+{
+ "adds": [
+  {
+   "name": "The Scarab God",
+   "status": "buy",
+   "why": "Commander, ~$5"
+  },
+  {
+   "name": "Counterspell",
+   "status": "planned",
+   "why": "Not on hand Nov 24. When you have one, swap it in for Negate."
+  },
+  {
+   "name": "Disrupting Scepter",
+   "status": "owned",
+   "why": "Option (owned), on the side for now. Best against tables that refill hands; swap for Codex Shredder's old slot partner if wanted. Can target you to discard a Surfer-tutored Galactus."
+  },
+  {
+   "name": "Shredder's Technique",
+   "status": "planned",
+   "why": "Option: {2}{B} destroy creature or enchantment. Only if your tables run lots of enchantments."
+  },
+  {
+   "name": "Mesmeric Orb",
+   "status": "planned",
+   "why": "Option, ~$17: best mill engine left out on price; swap for Millstone"
+  },
+  {
+   "name": "Bruvac the Grandiloquent",
+   "status": "planned",
+   "why": "Option, ~$16: doubles all mill; swap for Traumatize"
+  },
+  {
+   "name": "Necromancy",
+   "status": "planned",
+   "why": "Option, ~$18: another reanimation spell that works on their graveyards"
+  },
+  {
+   "name": "Opposition Agent",
+   "status": "planned",
+   "why": "Game Changer option, owned (in Sinister Six/Thanos): steal their tutors"
+  },
+  {
+   "name": "Tergrid, God of Fright",
+   "status": "planned",
+   "why": "Game Changer option, ~$20: every discarded permanent becomes yours"
+  },
+  {
+   "name": "Shred Memory",
+   "status": "owned",
+   "why": "Option (owned): picky graveyard exile plus transmute for a two-drop."
+  },
+  {
+   "name": "Codex Shredder",
+   "status": "owned",
+   "why": "Cut Nov 24 for Splinter's Technique."
+  },
+  {
+   "name": "Night's Whisper",
+   "status": "owned",
+   "why": "Cut Nov 24 for Shredder's Revenge."
+  },
+  {
+   "name": "Doom Blade",
+   "status": "owned",
+   "why": "Cut Nov 24 for The Rack."
+  },
+  {
+   "name": "Pongify",
+   "status": "owned",
+   "why": "Cut Nov 24 for Skullcage."
+  },
+  {
+   "name": "Treasure Cruise",
+   "status": "owned",
+   "why": "Cut Nov 24 for Cursed Rack."
+  },
+  {
+   "name": "Arcane Denial",
+   "status": "owned",
+   "why": "Cut Nov 24 for Perplex."
+  },
+  {
+   "name": "Sign in Blood",
+   "status": "owned",
+   "why": "Cut Nov 24 for Silver Surfer, Galactus's Herald."
+  },
+  {
+   "name": "Hero's Downfall",
+   "status": "owned",
+   "why": "Cut Nov 24 for Galactus, Devourer of Worlds."
+  }
+ ],
+ "bracket": "Bracket 3",
+ "bracketGoal": "Bracket 3, 0 Game Changers · 99 fits the $150 league cap (~$143)",
+ "cards": [
+  {
+   "name": "Necrogen Mists",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Bottomless Pit",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Waste Not",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Black Vise",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Liliana's Caress",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Tinybones, the Pickpocket",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Tinybones, Bauble Burglar",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Kitesail Freebooter",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Burglar Rat",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Brain Maggot",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hymn to Tourach",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Mind Twist",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Painful Quandary",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Raiders' Wake",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Tasha's Hideous Laughter",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Breach the Multiverse",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Millstone",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Splinter's Technique",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Throne of the Grim Captain // The Grim Captain",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Ruin Crab",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Hedron Crab",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Merfolk Secretkeeper // Venture Deeper",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Maddening Cacophony",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Fraying Sanity",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Phenax, God of Deception",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Captain N'ghathrod",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Szadek, Lord of Secrets",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Psychosis Crawler",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Traumatize",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Geth, Lord of the Vault",
+   "qty": 1,
+   "role": "recur",
+   "type": "Creature"
+  },
+  {
+   "name": "Animate Dead",
+   "qty": 1,
+   "role": "recur",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Reanimate",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Grave Betrayal",
+   "qty": 1,
+   "role": "recur",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Dread Return",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Rise of the Dread Marn",
+   "qty": 1,
+   "role": "recur",
+   "type": "Instant"
+  },
+  {
+   "name": "Grim Discovery",
+   "qty": 1,
+   "role": "recur",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Shadow of the Grave",
+   "qty": 1,
+   "role": "recur",
+   "type": "Instant"
+  },
+  {
+   "name": "Massacre Girl",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Creature"
+  },
+  {
+   "name": "Shredder's Revenge",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Read the Bones",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Silver Surfer, Galactus's Herald",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Creature"
+  },
+  {
+   "name": "Cursed Rack",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Phyrexian Arena",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
+  },
+  {
+   "name": "Muddle the Mixture",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Instant"
+  },
+  {
+   "name": "Perplex",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Instant"
+  },
+  {
+   "name": "Negate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "The Rack",
+   "qty": 1,
+   "role": "win",
+   "type": "Artifact"
+  },
+  {
+   "name": "Feed the Swarm",
+   "qty": 1,
+   "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Skullcage",
+   "qty": 1,
+   "role": "win",
+   "type": "Artifact"
+  },
+  {
+   "name": "Infernal Grasp",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Go for the Throat",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Toxic Deluge",
+   "qty": 1,
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Galactus, Devourer of Worlds",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Sheoldred's Edict",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Glimpse the Unthinkable",
+   "qty": 1,
+   "role": "eng",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Mind Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Dimir Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Talisman of Dominance",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Fellwar Stone",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Wayfarer's Bauble",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Dark Ritual",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Instant"
+  },
+  {
+   "name": "Gul Dukat, Colonial Prefect",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Exsanguinate",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Watery Grave",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Underground River",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Polluted Mire",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Barren Moor",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Spawning Pool",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Terramorphic Expanse",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Evolving Wilds",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Undercity Sewers",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Dimir Aqueduct",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Jwar Isle Refuge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Temple of Deceit",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Choked Estuary",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Sunken Hollow",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Drowned Catacomb",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Darkwater Catacombs",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Path of Ancestry",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Dimir Guildgate",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 9,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Island",
+   "qty": 7,
+   "role": "land",
+   "type": "Land"
+  }
+ ],
+ "colors": [
+  "U",
+  "B"
+ ],
+ "commanders": [
+  "The Scarab God"
+ ],
+ "format": "Commander",
+ "name": "Scarab God: Lock & Loot",
+ "notes": [
+  "Nov 24 2026 (later): Splinter's Technique in for Codex Shredder (4-mana Demonic Tutor; sneak rarely matters here) and Shredder's Revenge in for Night's Whisper (target player discards two, or draws two and loses 2; point the discard at yourself to bin a Surfer-tutored Galactus).",
+  "Nov 24 2026 (later): rack package in from a spare set on hand (the Doom decks keep their copies). The Rack in for Doom Blade, Skullcage in for Pongify, Cursed Rack in for Treasure Cruise. Necrogen Mists, Bottomless Pit, Hymn, Mind Twist, Shredder's Revenge and the Tinybones keep hands under three for The Rack; Skullcage hits anyone not at exactly 3-4; Cursed Rack caps your biggest-handed opponent at four.",
+  "Nov 24 2026 (later): Muddle the Mixture and Perplex in for Counterspell (not on hand) and Arcane Denial. Negate stays until a Counterspell turns up, then swap Negate out. Muddle transmutes for MV 2 (Animate Dead, Waste Not, Liliana's Caress, Glimpse, Millstone, Skullcage); Perplex transmutes for MV 3 (Necrogen Mists, Bottomless Pit, Fraying Sanity, Toxic Deluge, Shredder's Revenge) and its counter makes them discard their hand.",
+  "Nov 24 2026: Galactus package in. Silver Surfer, Galactus's Herald in for Sign in Blood; Galactus, Devourer of Worlds in for Hero's Downfall. Both from the ripped Fantastic Four precon. Line: Surfer tutors Galactus to hand, your own Necrogen Mists / Bottomless Pit / Shredder's Revenge discard him (or mill him with Hedron Crab on yourself, Glimpse, Throne), then Animate Dead / Reanimate / Dread Return. Scarab God can also exile Galactus from any graveyard for a 4/4 token copy that keeps flying, trample, indestructible and the exile trigger. Controlling Surfer turns off Galactus's forced attack.",
+  "Nov 24 2026: new discard + mill deck. Doom's Big Wheels stays the punish-the-wheel deck; this one locks hands and libraries, then plays the table's graveyards.",
+  "Plan: Necrogen Mists / Bottomless Pit / Black Vise empty hands; mill engines (Phenax, Captain N'ghathrod, crabs, Fraying Sanity, Tasha's Hideous Laughter, Traumatize) dump libraries; The Scarab God, Geth, Breach the Multiverse, Grave Betrayal, Rise of the Dread Marn and the reanimation spells turn their graveyards into your board.",
+  "Wins: Scarab God upkeep drain per Zombie, Gul Dukat doubling life loss, The Rack / Skullcage / Black Vise upkeep damage, Exsanguinate, Psychosis Crawler, Szadek, Galactus, or decking.",
+  "Throne of the Grim Captain only mills you (fuel for reanimation). Craft needs a Dinosaur, Merfolk, Pirate and Vampire: Merfolk Secretkeeper, Captain N'ghathrod (Pirate) and Szadek (Vampire) are in the deck; a stolen Dinosaur finishes it.",
+  "No graveyard hate in this deck on purpose (Leyline of the Void would exile your own loot).",
+  "Value at Nov 12 prices: 99 about $143, cards to buy about $65 plus the Scarab God. Nov 24 Galactus swap: Galactus (regular printing ~$3-8) and Surfer add value to the 99, so it may now sit near or over the $150 league cap; re-check at the next price update and trim if needed."
+ ],
+ "order": 20,
+ "owner": "Andrew",
+ "source": "Built in chat, Nov 24, 2026",
+ "target": 100,
+ "themeLabel": "Discard lock + mill, then steal from their graveyards",
+ "updated": "Nov 24, 2026",
+ "variants": []
+}

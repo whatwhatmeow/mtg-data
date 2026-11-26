@@ -1709,6 +1709,8 @@
  "format": "Commander",
  "name": "Doom Unrivaled",
  "notes": [
+  "Nov 24, 2026: Multiversal Passage is coming over from the middle kid's Thanos deck (owned, not sleeved or listed yet). Unique name, so Tainted Pact-safe; choose Swamp, pay 2 life and it enters untapped. Suggested swap when he sleeves it: Thriving Moor (enters tapped and isn't a Swamp). Keep both basics (Swamp, Snow-Covered Swamp) for Fabled Passage and Ash Barrens.",
+  "Nov 24, 2026: Sleeved Nov 22 (no Game Changers): Whispersilk Cloak in for Darksteel Plate (Andrew's call; Doom keeps getting removed, and Plate doesn't stop exile or bounce).",
   "Nov 22, 2026: two new versions from Andrew's actual cards and 37-land unique base: 'Sleeved Nov 22, no Game Changers' and 'Sleeved Nov 22, Demonic Tutor + The One Ring'. Picked up today: Demonic Consultation, Beseech the Queen, Wishclaw Talisman, Demonic Bargain, Tainted Pact (Secret Lair), Champion's Helm, Snuff Out, Treasure Map, plus four black lands.",
   "Nov 21, 2026 rebuild. Main list = Ideal (3 Game Changers: Demonic Tutor, Vampiric Tutor, Chrome Mox). Versions: Ideal without Game Changers, Budget (under $150, no Game Changers), Build today with and without, Bracket 4 and Bracket 5. Every list was built by the sim one swap at a time, fastest first.",
   "Ideal, Nov 21 sim, 10,000 games, Bracket 3 table: by turn 6 78%, turn 8 92%, turn 10 95%, average win turn 5.8. About $1130 at the cheapest printings.",
@@ -1729,7 +1731,7 @@
  "source": "Nov 21, 2026 sim-driven rebuild (Ideal, 3 Game Changers)",
  "target": 100,
  "themeLabel": "Empty the library",
- "updated": "Nov 22, 2026",
+ "updated": "Nov 25, 2026",
  "variants": [
   {
    "bracket": "Bracket 3",
@@ -3414,6 +3416,18 @@
    "updated": "Nov 21, 2026"
   },
   {
+   "adds": [
+    {
+     "name": "The Cruelty of Gix",
+     "status": "wishlist",
+     "why": "Next buy #1 (about $1.31). Read ahead: II tutors anything, III reanimates Leveler. Swap in for Tormod's Crypt."
+    },
+    {
+     "name": "Inverter of Truth",
+     "status": "wishlist",
+     "why": "Next buy #2 (about $0.95, about 0.37 turns faster in the owned lists). Second library-emptying win with Doom. Suggested cut: Charcoal Diamond (enters tapped)."
+    }
+   ],
    "bracket": "Bracket 3",
    "bracketGoal": "0 Game Changers",
    "id": "sleeved-nov22",
@@ -3485,7 +3499,7 @@
      "type": "Land"
     },
     {
-     "name": "Darksteel Plate",
+     "name": "Whispersilk Cloak",
      "qty": 1,
      "role": "prot",
      "type": "Artifact"
@@ -3557,7 +3571,7 @@
      "type": "Artifact"
     },
     {
-     "name": "Lash of the Balrog",
+     "name": "Doomfall",
      "qty": 1,
      "role": "rem",
      "type": "Sorcery"
@@ -3570,6 +3584,12 @@
     },
     {
      "name": "Mishra's Foundry",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Multiversal Passage",
      "qty": 1,
      "role": "land",
      "type": "Land"
@@ -3671,6 +3691,12 @@
      "type": "Artifact"
     },
     {
+     "name": "Tormod's Crypt",
+     "qty": 1,
+     "role": "other",
+     "type": "Artifact"
+    },
+    {
      "name": "Toxic Deluge",
      "qty": 1,
      "role": "rem",
@@ -3704,11 +3730,13 @@
    "label": "Sleeved Nov 22, no Game Changers",
    "name": "Doom Unrivaled (Sleeved Nov 22, no Game Changers)",
    "notes": [
+    "Nov 25: matched to Andrew's physical deck. Multiversal Passage in for The Soul Stone (not owned; too pricey for tonight) and Tormod's Crypt in for Exsanguinate (not on hand). Mishra's Bauble and Lash of the Balrog left on the bench. Next buys: The Cruelty of Gix (in for Tormod's Crypt) and Inverter of Truth (in for Charcoal Diamond). Not re-simmed.",
+    "Nov 24: Doomfall in for Lash of the Balrog (Andrew's call; the edict mode gets around hexproof, the hand mode strips a counterspell before the combo, and escape brings it back). Not re-simmed.",
+    "Nov 24: Whispersilk Cloak in for Darksteel Plate (Andrew's call; protects Doom from targeted removal, which Plate doesn't stop when it's exile or bounce). Not re-simmed.",
     "Best 62 from the cards on Andrew's table plus the Secret Lair and precon cards, built by the sim with the land base fixed. Nov 22 sim, 10,000 games, Bracket 3 table: by turn 6 51%, turn 8 81%, turn 10 91%, average win turn 7.2 (with The Cruelty of Gix; Exsanguinate in its place until bought costs about 0.09 turns).",
-    "To buy: The Cruelty of Gix (about $1.31, no spare copy). Swap it in for Exsanguinate.",
-    "Lands: Andrew's 37-land all-unique base (Nov 22): Cabal Pit, Spawning Pool, Barren Moor and Polluted Mire in; Thespian's Stage, Cryptic Caves, Geier Reach Sanitarium and Demolition Field out. Every name appears once, so Tainted Pact works.",
-    "Kept by choice: Duress, Adaptive Omnitool, Doomsday, Horn of Greed. Check before sleeving: Darksteel Plate, Syphon Mind and Thought Vessel (location not confirmed).",
-    "Benched (tested slower): Breach the Multiverse, the Ultrons, Kingpin, Psychosis Crawler, Throne of the Grim Captain, Millstone, Tormod's Crypt, Hedron Crawler, Icy Manipulator, Temple of the False God, Mishra's Bauble, Feed the Swarm."
+    "Lands: Andrew's 37-land all-unique base (Nov 22), plus Multiversal Passage (Nov 25). Every name appears once, so Tainted Pact works.",
+    "Kept by choice: Duress, Adaptive Omnitool, Doomsday, Horn of Greed.",
+    "Benched (tested slower): Breach the Multiverse, the Ultrons, Kingpin, Psychosis Crawler, Throne of the Grim Captain, Millstone, Tormod's Crypt (back in Nov 25 as a placeholder), Hedron Crawler, Icy Manipulator, Temple of the False God, Mishra's Bauble, Feed the Swarm, Lash of the Balrog."
    ],
    "out": [
     {
@@ -3773,6 +3801,10 @@
     },
     {
      "name": "Evolving Wilds",
+     "qty": 1
+    },
+    {
+     "name": "Exsanguinate",
      "qty": 1
     },
     {
@@ -3880,6 +3912,10 @@
      "qty": 1
     },
     {
+     "name": "The Soul Stone",
+     "qty": 1
+    },
+    {
      "name": "Treasure Vault",
      "qty": 1
     },
@@ -3900,8 +3936,8 @@
      "qty": 1
     }
    ],
-   "source": "Nov 22 sim-driven build from the cards on Andrew's table, his 37-land unique base",
-   "updated": "Nov 22, 2026"
+   "source": "Nov 22 sim-driven build from the cards on Andrew's table, his 37-land unique base; matched to the physical deck Nov 25",
+   "updated": "Nov 25, 2026"
   },
   {
    "bracket": "Bracket 3",

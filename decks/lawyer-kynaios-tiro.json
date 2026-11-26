@@ -1,6 +1,11 @@
 {
  "adds": [
   {
+   "name": "Winds of Abandon",
+   "status": "planned",
+   "why": "Nov 25, 2026 house pick for every white S-B deck. 2 mana: exile one creature you don't control; overload {4}{W}{W}: one-sided exile wipe, so Azor's Elocutors keeps its filibuster counters and her birds stay. Opponents get basics, which Kynaios and Tiro already hands out. About $5-8 (Mystical Archive printing is cheapest). Cut not chosen."
+  },
+  {
    "name": "Approach of the Second Sun",
    "status": "added",
    "why": "Win con #1. Replaced Sphere of Resistance (it taxed her own 7-mana win con). Arrived (confirmed Nov 23, 2026)."
@@ -280,6 +285,10 @@
    "qty": 1
   },
   {
+   "name": "Bountiful Promenade",
+   "qty": 1
+  },
+  {
    "name": "Canopy Vista",
    "qty": 1
   },
@@ -396,10 +405,6 @@
    "qty": 4
   },
   {
-   "name": "Frontier Bivouac",
-   "qty": 1
-  },
-  {
    "name": "Ghostly Prison",
    "qty": 1
   },
@@ -456,10 +461,6 @@
    "qty": 1
   },
   {
-   "name": "Jungle Shrine",
-   "qty": 1
-  },
-  {
    "name": "Lassoed by the Law",
    "qty": 1
   },
@@ -488,10 +489,6 @@
    "qty": 1
   },
   {
-   "name": "Mystic Monastery",
-   "qty": 1
-  },
-  {
    "name": "Narset, Parter of Veils",
    "qty": 1
   },
@@ -516,6 +513,10 @@
    "qty": 1
   },
   {
+   "name": "Port Town",
+   "qty": 1
+  },
+  {
    "name": "Prairie Stream",
    "qty": 1
   },
@@ -528,11 +529,19 @@
    "qty": 1
   },
   {
+   "name": "Razorverge Thicket",
+   "qty": 1
+  },
+  {
    "name": "Rootbound Crag",
    "qty": 1
   },
   {
    "name": "Rule of Law",
+   "qty": 1
+  },
+  {
+   "name": "Seachrome Coast",
    "qty": 1
   },
   {
@@ -561,10 +570,6 @@
   },
   {
    "name": "Stock Up",
-   "qty": 1
-  },
-  {
-   "name": "Sulfur Falls",
    "qty": 1
   },
   {
@@ -642,5 +647,5 @@
  "source": "as pasted Oct 22, 2026 (a version of her list)",
  "target": 100,
  "themeLabel": "Bird lawyers",
- "updated": "Nov 23, 2026"
+ "updated": "Nov 24, 2026"
 }

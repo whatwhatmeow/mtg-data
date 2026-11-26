@@ -1,6 +1,11 @@
 {
  "adds": [
   {
+   "name": "Winds of Abandon",
+   "status": "planned",
+   "why": "Nov 25, 2026 house pick for every white S-B deck. 2 mana: exile one creature you don't control; overload {4}{W}{W}: one-sided exile wipe (Avatar's Wrath hits everyone). About $5-8 (Mystical Archive printing is cheapest). Cut not chosen."
+  },
+  {
    "name": "Badgermole Cub",
    "status": "planned",
    "why": "Mythic, likely not bulk. 2-mana body with earthbend. Swap for Earth Rumble."

@@ -1,6 +1,11 @@
 {
  "adds": [
   {
+   "name": "Winds of Abandon",
+   "status": "planned",
+   "why": "Nov 25, 2026 (middle kid is SUPER excited). 2 mana: exile one creature you don't control; overload {4}{W}{W}: exile every creature you don't control, so his Dwarves and Equipment stay. About $5-8 (Mystical Archive printing is cheapest). Cut Kemba or War Flare."
+  },
+  {
    "name": "Kíli the Resourceful",
    "status": "planned",
    "why": "About $1.50. A second free equip each turn, plus card draw when Dwarves or Equipment enter. Swap for Mind Stone."
@@ -74,12 +79,6 @@
    "qty": 1,
    "role": "draw",
    "type": "Artifact"
-  },
-  {
-   "name": "Amber Gristle O'Maul",
-   "qty": 1,
-   "role": "draw",
-   "type": "Creature"
   },
   {
    "name": "Andúril, Flame of the West",
@@ -172,6 +171,12 @@
    "type": "Artifact"
   },
   {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
    "name": "Conqueror's Flail",
    "qty": 1,
    "role": "eng",
@@ -236,12 +241,6 @@
    "qty": 1,
    "role": "eng",
    "type": "Artifact"
-  },
-  {
-   "name": "Fortify",
-   "qty": 1,
-   "role": "eng",
-   "type": "Instant"
   },
   {
    "name": "Full Throttle",
@@ -371,7 +370,7 @@
   },
   {
    "name": "Mountain",
-   "qty": 13,
+   "qty": 12,
    "role": "land",
    "type": "Land"
   },
@@ -395,7 +394,7 @@
   },
   {
    "name": "Plains",
-   "qty": 13,
+   "qty": 12,
    "role": "land",
    "type": "Land"
   },
@@ -410,6 +409,12 @@
    "qty": 1,
    "role": "draw",
    "type": "Creature"
+  },
+  {
+   "name": "Relentless Assault",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
   },
   {
    "name": "Requisition Raid",
@@ -430,9 +435,21 @@
    "type": "Land"
   },
   {
+   "name": "Seize the Day",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
    "name": "Short Sword",
    "qty": 1,
    "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
    "type": "Artifact"
   },
   {
@@ -530,6 +547,9 @@
  "format": "Commander",
  "name": "Man-At-Arms: Dwarven Armory",
  "notes": [
+  "Nov 25, 2026 (late): KEEP Continue? — the family tables run lots of board wipes. Stage 1 and Stage 2 still list it as a cut; swap those cuts (e.g. Stage 1: Delina for Well-Worn Spatula; Stage 2: Dwarven Mauler) when the removal package is settled.",
+  "Nov 25, 2026 (late): In: Sol Ring (for a Mountain), Command Tower (for a Plains); basics now 12/12. Both still need sleeving (unchecked on the sleeved list). Sol Ring/Command Tower removed from the Stage 1, Stage 2 and Nov 3 diffs since the main list has them now. Pending with middle kid: cut Kemba and War Flare (may already be cut physically; unconfirmed) for more removal (Path to Exile owned; Chaos Warp, Generous Gift, Winds of Abandon as pickups) after his win over Andrew's Jace deck via Austere Command and Celebrate the Mountain-king.",
+  "Nov 25, 2026: middle kid found Relentless Assault and Seize the Day. In: Relentless Assault (for Fortify), Seize the Day (for Amber Gristle O'Maul — her discard-your-hand attack trigger fights an Equipment deck that holds cards for after combat). Both unsleeved from the checklist. Stage 1 now cuts War Flare instead of Fortify; Stage 2 cuts War Flare and Kami's Flare instead of Fortify and Amber. If he still wants Gimli's Fury, cut Hobbit's Sting or War Flare.",
   "Nov 23, 2026 (later): middle kid's four picks (Gimli's Fury, Jhoira's Familiar, Path of Anger's Flame, Haunted Plate Mail) were tried in, then swapped back out pending a talk with him. Suggested home for Gimli's Fury if he wants it: cut Amber Gristle O'Maul instead of Hobbit's Sting.",
   "Nov 23, 2026: rebuilt as the best 99 from the Dwarf pile on hand tonight (127 cards). In: Bloodforged Battle-Axe, Gimli, Counter of Kills, Sting, Bilbo's Sword, +2 Plains. Out: Electrostatic Infantry (now in Gandalf), Brawler's Plate, Torch Gauntlet, -2 Mountains (13/13 split; white pips outnumber red). Left in the box: second copies (Erebor Flamesmith, Iron Hills Blacksmith, Thorin Oakenshield, Dwarven Shortsword, War of the Last Alliance), the other Erebor Flamesmith, Fiery Inscription, Glamdring (too few instants/sorceries), Mana Geyser, Hex Magic, Bull Rush, Path of Anger's Flame, Smaug's Fury, Gimli's Fury, Ranger's Firebrand, Jhoira's Familiar, Changeling Berserker, Haunted Plate Mail, 4 Mountains, 3 Plains.",
   "Nov 19, 2026: main list replaced with his actual sleeved deck, trimmed from 123 cards to 100. Removed 5 duplicates (Thorin Oakenshield, Iron Hills Blacksmith, Dwarven Shortsword, War of the Last Alliance, Erebor Flamesmith), 6 basics (40 to 34 lands), and 12 weak cards: the second Erebor Flamesmith, Fiery Inscription, Mana Geyser, Hex Magic, Bull Rush, Path of Anger's Flame, Smaug's Fury, Gimli's Fury, Ranger's Firebrand, Changeling Berserker, Jhoira's Familiar, Glamdring. The old Nov 3 build is saved as the 'Nov 3 plan' version.",
@@ -543,7 +563,7 @@
  "source": "Best 99 from the Dwarf pile on hand Nov 23 2026 (Claude); card text from mtg-data",
  "target": 100,
  "themeLabel": "Dwarf army",
- "updated": "Nov 23, 2026",
+ "updated": "Nov 25, 2026",
  "variants": [
   {
    "adds": [],
@@ -551,12 +571,6 @@
    "bracketGoal": "0 Game Changers · no purchases",
    "id": "stage-1",
    "in": [
-    {
-     "name": "Sol Ring",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
     {
      "name": "Arcane Signet",
      "qty": 1,
@@ -585,18 +599,15 @@
    "label": "Stage 1",
    "name": "Man-At-Arms — Stage 1: cards already owned",
    "notes": [
-    "Sol Ring and Arcane Signet speed up Bruenor by a turn; they replace a Mountain and Fortify.",
+    "Nov 25, 2026 (late): Sol Ring is now in the main list, so it and its Mountain cut came out of this diff.",
+    "Arcane Signet replaces War Flare (was Fortify until Nov 25, when Relentless Assault took Fortify's slot).",
     "Path to Exile replaces Kemba, Kha Enduring (the deck's only Cat, so her attach trigger rarely does anything). Austere Command stays: choosing enchantments + creatures with mana value 4+ spares nearly all his Dwarves, and Bastion Protector or Mithril Coat saves Bruenor (MV 4).",
     "Hard-Won Jitte (double strike) replaces Hidden Footblade; with Bruenor every Equipment is already +2/+0, so double strike doubles all of it.",
     "Delina is Orko from the He-Man Secret Lair; she replaces Continue?."
    ],
    "out": [
     {
-     "name": "Mountain",
-     "qty": 1
-    },
-    {
-     "name": "Fortify",
+     "name": "War Flare",
      "qty": 1
     },
     {
@@ -612,8 +623,8 @@
      "qty": 1
     }
    ],
-   "source": "Claude, Nov 19 2026, from cards the notes say are owned",
-   "updated": "Nov 19, 2026"
+   "source": "Claude, Nov 19 2026, from cards the notes say are owned; updated Nov 25 2026",
+   "updated": "Nov 25, 2026"
   },
   {
    "adds": [],
@@ -621,12 +632,6 @@
    "bracketGoal": "0 Game Changers · about $4 of bulk added on top of Stage 1",
    "id": "stage-2",
    "in": [
-    {
-     "name": "Sol Ring",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
     {
      "name": "Arcane Signet",
      "qty": 1,
@@ -712,12 +717,6 @@
      "type": "Instant"
     },
     {
-     "name": "Command Tower",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
      "name": "The Lonely Mountain",
      "qty": 1,
      "role": "land",
@@ -734,22 +733,20 @@
    "name": "Man-At-Arms — Stage 2: bulk Dwarf pickups",
    "notes": [
     "Includes all of Stage 1.",
+    "Nov 25, 2026 (late): Sol Ring and Command Tower are now in the main list, so they and two basic cuts came out of this diff (now cuts 2 Mountains; ends 10 Mountains / 12 Plains, same as before).",
     "Every Stage 2 add was under about 50 cents at the last price pull; several may already be in your extras.",
     "Fíli the Pathfinder, An Unexpected Party, Balin, Dáin Ironfoot, Depala, Reyav and Warchanter Skald turn it from a pile of Dwarves into a Dwarf deck: tokens, anthems, double strike and refills.",
     "Lands go to 33 with 5 mana rocks plus Treasure makers.",
-    "Austere Command stays in; Gimli's Axe is the extra cut instead."
+    "Austere Command stays in; Gimli's Axe is the extra cut instead.",
+    "Nov 25, 2026: War Flare and Kami's Flare (Chaos Warp covers its removal slot) replace Fortify and Amber Gristle O'Maul as cuts, since those two are already out of the main list."
    ],
    "out": [
     {
      "name": "Mountain",
-     "qty": 3
+     "qty": 2
     },
     {
-     "name": "Plains",
-     "qty": 1
-    },
-    {
-     "name": "Fortify",
+     "name": "War Flare",
      "qty": 1
     },
     {
@@ -769,7 +766,7 @@
      "qty": 1
     },
     {
-     "name": "Amber Gristle O'Maul",
+     "name": "Kami's Flare",
      "qty": 1
     },
     {
@@ -805,8 +802,8 @@
      "qty": 1
     }
    ],
-   "source": "Claude, Nov 19 2026; prices from the Nov 12 card-data pull",
-   "updated": "Nov 19, 2026"
+   "source": "Claude, Nov 19 2026; prices from the Nov 12 card-data pull; updated Nov 25 2026",
+   "updated": "Nov 25, 2026"
   },
   {
    "adds": [],
@@ -879,12 +876,6 @@
      "qty": 1,
      "role": "rem",
      "type": "Instant"
-    },
-    {
-     "name": "Command Tower",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
     },
     {
      "name": "Danitha Capashen, Paragon",
@@ -1067,12 +1058,6 @@
      "type": "Land"
     },
     {
-     "name": "Sol Ring",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
      "name": "Sunbaked Canyon",
      "qty": 1,
      "role": "land",
@@ -1148,7 +1133,8 @@
    "label": "Nov 3 plan",
    "name": "Man-At-Arms — original Nov 3 vault build",
    "notes": [
-    "Kept for reference while the sleeved deck works toward it. Dáin of the Ancient Halls is now about $36, so it is no longer a bulk pick."
+    "Kept for reference while the sleeved deck works toward it. Dáin of the Ancient Halls is now about $36, so it is no longer a bulk pick.",
+    "Nov 25, 2026 (late): Sol Ring and Command Tower moved into the main list, so this diff no longer adds them and cuts one fewer Mountain and Plains."
    ],
    "out": [
     {
@@ -1156,7 +1142,7 @@
      "qty": 1
     },
     {
-     "name": "Amber Gristle O'Maul",
+     "name": "Relentless Assault",
      "qty": 1
     },
     {
@@ -1220,7 +1206,7 @@
      "qty": 1
     },
     {
-     "name": "Fortify",
+     "name": "Seize the Day",
      "qty": 1
     },
     {
@@ -1281,7 +1267,7 @@
     },
     {
      "name": "Mountain",
-     "qty": 4
+     "qty": 3
     },
     {
      "name": "Nettlecyst",
@@ -1297,7 +1283,7 @@
     },
     {
      "name": "Plains",
-     "qty": 2
+     "qty": 1
     },
     {
      "name": "Practiced Scrollsmith",

@@ -1,25 +1,292 @@
 {
- "adds": [],
- "bracket": "Bracket 3",
- "bracketGoal": "3 Game Changers: Opposition Agent, Mystical Tutor, Aura Shards · all-odd deck, Obosh companion",
- "cards": [
+ "adds": [
+  {
+   "name": "Birds of Paradise",
+   "status": "Buy — mana",
+   "why": "Swap for Guy in the Chair"
+  },
+  {
+   "name": "Delighted Halfling",
+   "status": "Buy — pricier",
+   "why": "Swap for Progenitor's Icon"
+  },
+  {
+   "name": "Coalition Relic",
+   "status": "Buy — mana",
+   "why": "Swap for Pristine Talisman"
+  },
+  {
+   "name": "Glissa Sunslayer",
+   "status": "Buy — engine",
+   "why": "Swap for Black Cat, Cunning Thief"
+  },
+  {
+   "name": "Phyrexian Arena",
+   "status": "Buy — engine",
+   "why": "Swap for Read the Bones"
+  },
+  {
+   "name": "Braids, Arisen Nightmare",
+   "status": "Buy — engine",
+   "why": "Swap for Doc Ock, Sinister Scientist"
+  },
   {
    "name": "An Offer You Can't Refuse",
-   "qty": 1,
-   "role": "rem",
-   "type": "Instant"
+   "status": "Buy — engine",
+   "why": "Swap for Perplex"
+  },
+  {
+   "name": "Jeska, Thrice Reborn",
+   "status": "Buy — engine",
+   "why": "Swap for Helmut Zemo, Mastermind"
+  },
+  {
+   "name": "Mystical Tutor",
+   "status": "Buy — Game Changers (B3)",
+   "why": "Swap for Stock Up"
+  },
+  {
+   "name": "Aura Shards",
+   "status": "Buy — Game Changers (B3)",
+   "why": "Swap for The Spot's Portal"
+  },
+  {
+   "name": "Grim Tutor",
+   "status": "Buy — pricier",
+   "why": "Swap for Behold the Sinister Six!"
+  },
+  {
+   "name": "Absorbing Man and Titania",
+   "status": "Buy — priority (hunting it)",
+   "why": "Swap for Whispersilk Cloak"
+  },
+  {
+   "name": "Stilt-Man, Towering Terror",
+   "status": "Buy — engine",
+   "why": "Swap for Superior Foes of Spider-Man (or pull Loki's copy — D tier)"
+  },
+  {
+   "name": "Plaza of Heroes",
+   "status": "Buy — mana",
+   "why": "Swap for Path of Ancestry"
+  },
+  {
+   "name": "Opposition Agent",
+   "status": "Owned — pull for Today",
+   "why": "History of Heroes kit copy"
   },
   {
    "name": "Anguished Unmaking",
-   "qty": 1,
-   "role": "rem",
-   "type": "Instant"
+   "status": "Optional buy",
+   "why": "Was earmarked from the rip pile but Andrew doesn't think he has it. Swift Demise (already sleeved) holds the slot."
   },
   {
-   "name": "Arid Mesa",
+   "name": "Beast Within",
+   "status": "Owned — pull for Today",
+   "why": "rip pile (Thanos)"
+  },
+  {
+   "name": "Bedevil",
+   "status": "Owned — pull for Today",
+   "why": "In for Chaos Warp (Nov 24). Mana value 3, instant: destroys an artifact, creature or planeswalker."
+  },
+  {
+   "name": "Toxic Deluge",
+   "status": "Owned — pull for Today",
+   "why": "rip pile (Thanos)"
+  },
+  {
+   "name": "Luxury Suite",
+   "status": "Owned — pull for Today",
+   "why": "From the ripped Doom Prevails precon (rip sheet earmark)."
+  },
+  {
+   "name": "Spectator Seating",
+   "status": "Owned — pull for Today",
+   "why": "From the ripped Avengers Assemble precon (rip sheet earmark)."
+  },
+  {
+   "name": "Rogue's Passage",
+   "status": "Owned — pull for Today",
+   "why": "rip pile (Thanos)"
+  },
+  {
+   "name": "Overgrown Tomb",
+   "status": "Buy — mana",
+   "why": "Not in the house after all. Swap for Vernal Fen. About $5.50."
+  },
+  {
+   "name": "Fetid Heath",
+   "status": "Owned — pull for Today",
+   "why": "Swapped in for Godless Shrine (Andrew's call, Nov 24)."
+  },
+  {
+   "name": "Path to Exile",
+   "status": "Owned — find a spare copy",
+   "why": "Andrew is finding another copy; Terra keeps hers."
+  },
+  {
+   "name": "Swords to Plowshares",
+   "status": "Owned — find a spare copy",
+   "why": "Andrew is finding another copy; Terra keeps hers."
+  },
+  {
+   "name": "Flawless Maneuver",
+   "status": "Buy — protection",
+   "why": "Swap for Frantic Search. Terra keeps her copy."
+  },
+  {
+   "name": "The Spot, Living Portal",
+   "status": "Owned — pull for Today",
+   "why": "Andrew's collection"
+  },
+  {
+   "name": "Isolated Chapel",
+   "status": "Owned — pull for Today",
+   "why": "binder"
+  },
+  {
+   "name": "Morphic Pool",
+   "status": "Buy — mana",
+   "why": "Not in the house after all (it comes in the Star Trek Borg precon; check that rip pile). Swap for Sunken Hollow. About $9."
+  },
+  {
+   "name": "Battlefield Forge",
+   "status": "Owned — pull for Today",
+   "why": "spare pain land"
+  },
+  {
+   "name": "Caves of Koilos",
+   "status": "Owned — pull for Today",
+   "why": "spare pain land"
+  },
+  {
+   "name": "Adarkar Wastes",
+   "status": "Owned — pull for Today",
+   "why": "spare pain land"
+  },
+  {
+   "name": "Brushland",
+   "status": "Owned — pull for Today",
+   "why": "spare pain land"
+  },
+  {
+   "name": "Llanowar Wastes",
+   "status": "Owned — pull for Today",
+   "why": "spare pain land"
+  },
+  {
+   "name": "Shivan Reef",
+   "status": "Owned — pull for Today",
+   "why": "spare pain land"
+  },
+  {
+   "name": "Yavimaya Coast",
+   "status": "Owned — pull for Today",
+   "why": "spare pain land"
+  },
+  {
+   "name": "Karplusan Forest",
+   "status": "Owned — pull for Today",
+   "why": "spare pain land"
+  },
+  {
+   "name": "Mister Sinister, Hubris Unbound",
+   "status": "Owned — bench",
+   "why": "Andrew's copy (listed in Doom Unrivaled's extras). Swap in for The Spot, Living Portal if you'd rather have Thrulls than removal."
+  },
+  {
+   "name": "Dauntless Escort",
+   "status": "Owned — bench",
+   "why": "Earmarked from the Token Triumph rip; fine but cut for stronger cards."
+  },
+  {
+   "name": "Damn",
+   "status": "Not legal (Obosh)",
+   "why": "Mana value 2 (even). The History of Heroes sheet had it going here; it can't."
+  },
+  {
+   "name": "Cloudshift",
+   "status": "Optional buy",
+   "why": "Blinks Thanos so the power-up costs {C}{U}{G} again. About $1."
+  },
+  {
+   "name": "The Coming of Galactus",
+   "status": "Optional buy",
+   "why": "Removal, 4 drain, then a 16/16 (a token, so mana value 0: Thanos's wipe kills it). About $1."
+  },
+  {
+   "name": "Cosmic Cube",
+   "status": "Optional buy",
+   "why": "Free spells off the top whenever you attack. About $7."
+  },
+  {
+   "name": "Urborg, Tomb of Yawgmoth",
+   "status": "Cut",
+   "why": "Too expensive (about $52). Cut."
+  },
+  {
+   "name": "Twilight Mire",
+   "status": "Owned — pull for Today",
+   "why": "In for Godless Shrine (Nov 24): green was the thinnest color and the early dorks need it; also taps for {C}. Godless Shrine is free for another deck."
+  },
+  {
+   "name": "Withering Torment",
+   "status": "Owned — bench",
+   "why": "Owned. In the B2 version for Aura Shards; also the Today version's swap for Opposition Agent at a Bracket 2 table."
+  },
+  {
+   "name": "Terminate",
+   "status": "Not legal (Obosh)",
+   "why": "Mana value 2 (even)."
+  },
+  {
+   "name": "Mole Man, Moloid Master",
+   "status": "Owned — bench",
+   "why": "Cut for Irma/Shredder (Nov 24): his Moloid tokens are mana value 0 and die to Thanos's wipe."
+  },
+  {
+   "name": "Typhoid Mary, Fractured",
+   "status": "Owned — bench",
+   "why": "Cut Nov 24 to make room for Irma and Shredder (Visions of Villainy stays). Her attack bonus is random unless you discarded that turn."
+  },
+  {
+   "name": "Aven Mindcensor",
+   "status": "Optional buy",
+   "why": "Alternative to Sandman in the B2 version if you want a card that stops opponents' searches. About $0.41."
+  },
+  {
+   "name": "Sandman, Shifting Scoundrel",
+   "status": "Owned — B2 version",
+   "why": "Takes Opposition Agent's slot in the B2 version (Nov 24)."
+  }
+ ],
+ "bracket": "Bracket 3",
+ "bracketGoal": "3 Game Changers: Opposition Agent, Mystical Tutor, Aura Shards · all-odd deck, Obosh companion · Today version has 1 (Opposition Agent)",
+ "cards": [
+  {
+   "name": "Absorbing Man and Titania",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Adarkar Wastes",
    "qty": 1,
    "role": "land",
    "type": "Land"
+  },
+  {
+   "name": "An Offer You Can't Refuse",
+   "qty": 1,
+   "role": "prot",
+   "type": "Instant"
+  },
+  {
+   "name": "Archnemesis",
+   "qty": 1,
+   "role": "draw",
+   "type": "Enchantment"
   },
   {
    "name": "Aura Shards",
@@ -34,19 +301,19 @@
    "type": "Creature"
   },
   {
-   "name": "Basalt Monolith",
+   "name": "Battlefield Forge",
    "qty": 1,
-   "role": "ramp",
-   "type": "Artifact"
-  },
-  {
-   "name": "Bastion of Remembrance",
-   "qty": 1,
-   "role": "win",
-   "type": "Enchantment"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Beast Within",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Bedevil",
    "qty": 1,
    "role": "rem",
    "type": "Instant"
@@ -64,16 +331,16 @@
    "type": "Sorcery"
   },
   {
-   "name": "Bloodstained Mire",
+   "name": "Braids, Arisen Nightmare",
+   "qty": 1,
+   "role": "draw",
+   "type": "Creature"
+  },
+  {
+   "name": "Brushland",
    "qty": 1,
    "role": "land",
    "type": "Land"
-  },
-  {
-   "name": "Braids, Arisen Nightmare",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
   },
   {
    "name": "Bullseye, Death Dealer",
@@ -82,10 +349,16 @@
    "type": "Creature"
   },
   {
-   "name": "Chaos Warp",
+   "name": "Castle Doom",
    "qty": 1,
-   "role": "rem",
-   "type": "Instant"
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Caves of Koilos",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Chromatic Lantern",
@@ -136,18 +409,6 @@
    "type": "Sorcery"
   },
   {
-   "name": "Dauntless Escort",
-   "qty": 1,
-   "role": "prot",
-   "type": "Creature"
-  },
-  {
-   "name": "Deflecting Swat",
-   "qty": 1,
-   "role": "prot",
-   "type": "Instant"
-  },
-  {
    "name": "Delighted Halfling",
    "qty": 1,
    "role": "ramp",
@@ -178,10 +439,22 @@
    "type": "Land"
   },
   {
+   "name": "Fabled Passage",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
    "name": "Faeburrow Elder",
    "qty": 1,
    "role": "ramp",
    "type": "Creature"
+  },
+  {
+   "name": "Fetid Heath",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Flawless Maneuver",
@@ -190,7 +463,7 @@
    "type": "Instant"
   },
   {
-   "name": "Flooded Strand",
+   "name": "Forest",
    "qty": 1,
    "role": "land",
    "type": "Land"
@@ -200,6 +473,12 @@
    "qty": 1,
    "role": "rem",
    "type": "Creature"
+  },
+  {
+   "name": "Grand Coliseum",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Green Goblin, Revenant",
@@ -220,7 +499,25 @@
    "type": "Creature"
   },
   {
-   "name": "Indatha Triome",
+   "name": "Irma, Part-Time Mutant",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Iron Monger, Sadistic Tycoon",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Island",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Isolated Chapel",
    "qty": 1,
    "role": "land",
    "type": "Land"
@@ -232,28 +529,28 @@
    "type": "Planeswalker"
   },
   {
-   "name": "Jetmir's Garden",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
    "name": "Kang Prime",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
-   "name": "Ketria Triome",
+   "name": "Karplusan Forest",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Kid Loki",
+   "name": "Kindred Dominance",
    "qty": 1,
-   "role": "eng",
-   "type": "Creature"
+   "role": "wipe",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Llanowar Wastes",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Luxury Suite",
@@ -270,20 +567,8 @@
   {
    "name": "M.O.D.O.K., Evil Intellect",
    "qty": 1,
-   "role": "eng",
+   "role": "rem",
    "type": "Creature"
-  },
-  {
-   "name": "Mana Confluence",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Marsh Flats",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
   },
   {
    "name": "Massacre Girl",
@@ -292,9 +577,16 @@
    "type": "Creature"
   },
   {
+   "name": "Maximum Carnage",
+   "qty": 1,
+   "role": "win",
+   "sub": "Saga",
+   "type": "Enchantment"
+  },
+  {
    "name": "Mayhem Devil",
    "qty": 1,
-   "role": "eng",
+   "role": "win",
    "type": "Creature"
   },
   {
@@ -304,34 +596,16 @@
    "type": "Creature"
   },
   {
-   "name": "Mister Sinister, Hubris Unbound",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Misty Rainforest",
+   "name": "Morphic Pool",
    "qty": 1,
    "role": "land",
    "type": "Land"
-  },
-  {
-   "name": "Mole Man, Moloid Master",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
   },
   {
    "name": "Mountain",
    "qty": 1,
    "role": "land",
    "type": "Land"
-  },
-  {
-   "name": "Mysterio's Mirage",
-   "qty": 1,
-   "role": "eng",
-   "type": "Enchantment"
   },
   {
    "name": "Mystic Remora",
@@ -350,19 +624,6 @@
    "qty": 1,
    "role": "rem",
    "type": "Creature"
-  },
-  {
-   "name": "Origin of Black Widow",
-   "qty": 1,
-   "role": "eng",
-   "sub": "Saga",
-   "type": "Enchantment"
-  },
-  {
-   "name": "Oscorp Industries",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
   },
   {
    "name": "Overgrown Tomb",
@@ -390,7 +651,7 @@
   },
   {
    "name": "Plains",
-   "qty": 1,
+   "qty": 2,
    "role": "land",
    "type": "Land"
   },
@@ -401,49 +662,19 @@
    "type": "Land"
   },
   {
-   "name": "Polluted Delta",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Professional Face-Breaker",
-   "qty": 1,
-   "role": "ramp",
-   "type": "Creature"
-  },
-  {
    "name": "Prowler, Clawed Thief",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
-   "name": "Raffine's Tower",
+   "name": "Reanimate",
    "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Raugrin Triome",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
+   "role": "recur",
+   "type": "Sorcery"
   },
   {
    "name": "Rogue's Passage",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Savai Triome",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Scalding Tarn",
    "qty": 1,
    "role": "land",
    "type": "Land"
@@ -455,16 +686,28 @@
    "type": "Land"
   },
   {
+   "name": "Shivan Reef",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Shredder, Shadow Master",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Skullclamp",
+   "qty": 1,
+   "role": "draw",
+   "type": "Artifact"
+  },
+  {
    "name": "Sol Ring",
    "qty": 1,
    "role": "ramp",
    "type": "Artifact"
-  },
-  {
-   "name": "Spara's Headquarters",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
   },
   {
    "name": "Spectator Seating",
@@ -473,22 +716,34 @@
    "type": "Land"
   },
   {
-   "name": "Stomping Ground",
+   "name": "Spire Garden",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Superior Foes of Spider-Man",
+   "name": "Stilt-Man, Towering Terror",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
-   "name": "Swamp",
+   "name": "Sulfurous Springs",
    "qty": 1,
    "role": "land",
    "type": "Land"
+  },
+  {
+   "name": "Swamp",
+   "qty": 2,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Swift Demise",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
   },
   {
    "name": "Swords to Plowshares",
@@ -497,22 +752,27 @@
    "type": "Instant"
   },
   {
+   "name": "The Spot, Living Portal",
+   "qty": 1,
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
    "name": "The Squadron Sinister",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
-   "name": "The Watcher's Warning",
+   "name": "Tinybones, the Pickpocket",
    "qty": 1,
    "role": "eng",
-   "type": "Instant",
-   "uv": true
+   "type": "Creature"
   },
   {
    "name": "Tombstone, Career Criminal",
    "qty": 1,
-   "role": "eng",
+   "role": "recur",
    "type": "Creature"
   },
   {
@@ -524,14 +784,14 @@
   {
    "name": "Tri-Sentinel, Act of Vengeance",
    "qty": 1,
-   "role": "eng",
+   "role": "rem",
    "type": "Creature"
   },
   {
-   "name": "Ultimate Green Goblin",
+   "name": "Twilight Mire",
    "qty": 1,
-   "role": "eng",
-   "type": "Creature"
+   "role": "land",
+   "type": "Land"
   },
   {
    "name": "Ultron, Unlimited",
@@ -540,16 +800,34 @@
    "type": "Creature"
   },
   {
-   "name": "Unknown Shores",
+   "name": "Unclaimed Territory",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Verdant Catacombs",
+   "name": "Underground River",
    "qty": 1,
    "role": "land",
    "type": "Land"
+  },
+  {
+   "name": "Undergrowth Stadium",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Venomized Cat",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Venser, the Sojourner",
+   "qty": 1,
+   "role": "eng",
+   "type": "Planeswalker"
   },
   {
    "name": "Villainous Hideout",
@@ -558,46 +836,16 @@
    "type": "Land"
   },
   {
-   "name": "Windswept Heath",
+   "name": "Visions of Villainy",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Yavimaya Coast",
    "qty": 1,
    "role": "land",
    "type": "Land"
-  },
-  {
-   "name": "Wooded Foothills",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Worn Powerstone",
-   "qty": 1,
-   "role": "ramp",
-   "type": "Artifact"
-  },
-  {
-   "name": "Xander's Lounge",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Zagoth Triome",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Ziatora's Proving Ground",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Venser, the Sojourner",
-   "qty": 1,
-   "role": "eng",
-   "type": "Planeswalker"
   }
  ],
  "colors": [
@@ -614,21 +862,811 @@
  "name": "Thanos & Obosh",
  "notes": [
   "Companion: Obosh, the Preypiercer (outside the 100). Every nonland card must have an odd mana value or Obosh is illegal. No even-cost cards, ever (Coalition Victory was ruled out for this; he chose Obosh).",
-  "Plan: cast Thanos ({R}{W}{B}), then power-up for {C}{W}{U}{B}{R}{G} (only {C}{U}{G} the turn he enters). Always choose EVEN: his creatures are all odd, so the wipe is one-sided. Obosh doubles damage from odd sources: Thanos, Jeska, Mayhem Devil, Bastion.",
-  "The {C} is true colorless, and it's the bottleneck. Colorless sources: Sol Ring, Worn Powerstone, Basalt Monolith, Plaza of Heroes, Rogue's Passage, Villainous Hideout, Secluded Courtyard (name Villain), Unknown Shores.",
-  "Plaza of Heroes and Villainous Hideout can pay any symbol of the power-up once Thanos is out. Oscorp Industries taps for U, B or R only.",
+  "Plan: cast Thanos ({R}{W}{B}), then power-up for {C}{W}{U}{B}{R}{G} (only {C}{U}{G} the turn he enters). Always choose EVEN: his creatures are all odd, so the wipe is one-sided. Obosh doubles damage from odd sources: Thanos, Jeska, Mayhem Devil, Maximum Carnage (chapter III = 10 to each opponent); Absorbing Man and Titania doubles it again.",
+  "The {C} is true colorless, and it's the bottleneck. Colorless sources: all 10 pain lands, Fetid Heath, Twilight Mire, Sol Ring, Castle Doom, Rogue's Passage, Grand Coliseum, Unclaimed Territory, Plaza of Heroes, Villainous Hideout, Secluded Courtyard (name Villain).",
+  "Plaza of Heroes and Villainous Hideout can pay any symbol of the power-up once Thanos is out.",
   "Repeat wipes: Ephemerate, Conjurer's Closet or Venser's +2 blinks Thanos, so he 'entered this turn' and the power-up costs just {C}{U}{G} again.",
-  "Tokens are mana value 0 (even), so his own tokens die to the wipe too. Bastion of Remembrance turns that into drain. Mister Sinister's Thrulls reset this way before he hits seven.",
+  "Tokens are mana value 0 (even), so his own tokens die to the wipe too. Skullclamp a token before the wipe for cards. Kindred Dominance naming Villain keeps Thanos and nearly all his creatures.",
   "Game Changers (3): Opposition Agent, Mystical Tutor, Aura Shards. Mystic Remora: draw off it 2–3 turns, then let it go.",
   "Changes since Oct 17 rebuild: Champion's Helm → Ephemerate; Forest, Island → Secluded Courtyard, Unknown Shores; Rhystic Study → Mystic Remora; Teferi's Protection → Mystical Tutor; Painful Truths → Narset → Aura Shards.",
   "Odd-cost upgrade ideas if a villain is a dud: Esper Sentinel, Skullclamp, Vindicate, Generous Gift, Swan Song, Gilded Lotus, Palladium Myr. Avoid Ancient Tomb/Mana Vault (Game Changers) and Mind Stone/Thran Dynamo (even).",
   "Not all Marvel card mana values were confirmed. Moxfield will flag an illegal Obosh on import if one is even.",
-  "Nov 4, 2026: cut Aang's Shelter. It's Teferi's Protection under another name, and that made a 4th Game Changer. Venser, the Sojourner took the open slot, so the deck is back to 100."
+  "Nov 24, 2026: 'Today' version = what can be sleeved now from his pile plus cards already in the house (see 'Owned — pull' in Adds). Each 'Buy' in Adds is a one-for-one swap from Today; finishing them gives this main list.",
+  "Nov 24, 2026: merged rebuild from his pile + the old vault list (old list kept as the 'Old B3' version). Added from his pile: Maximum Carnage, Kindred Dominance, Skullclamp, Reanimate, Iron Monger, Archnemesis, Typhoid Mary, Swift Demise, Visions of Villainy. Splinter's Technique is mana value 4 and can't be played with Obosh.",
+  "Nov 24, 2026 (later): land base rebuilt from cards in the house — 10 pain lands (each also taps for {C}, which fixes the power-up's colorless bottleneck), shock lands, five multiplayer duals (Luxury Suite, Spectator Seating, Spire Garden, Undergrowth Stadium, Morphic Pool), Isolated Chapel, villain/colorless utility lands, 7 basics for Cultivate/Fabled Passage. Multiversal Passage went to Doom Unrivaled.",
+  "Nov 24, 2026 (later): new upgrades — Absorbing Man and Titania (doubles damage; with Obosh, odd sources deal 4x), Stilt-Man (steals noncreature permanents on Villain combat damage), The Spot, Living Portal (exile on a Villain body). Out: Deflecting Swat (not buying it), Worn Powerstone (pain lands make {C}), Mister Sinister (bench), Superior Foes. Venomized Cat stays (his call).",
+  "Buy list is 17 cards, about $125 (Flawless Maneuver, Overgrown Tomb and Morphic Pool added; Terra keeps her Path, Swords and Flawless). Absorbing Man and Titania is the top want. Optional extras: Cloudshift, The Coming of Galactus, Cosmic Cube.",
+  "Nov 24, 2026 (later): Urborg cut (too expensive); Godless Shrine back in its slot. Fetid Heath replaced the first Godless Shrine slot. Overgrown Tomb and Morphic Pool aren't in the house: buys, with Vernal Fen and Sunken Hollow holding their slots in Today.",
+  "Nov 24, 2026 (later): Twilight Mire in for Godless Shrine — green was the thinnest color (~13 sources) and the turn-1-2 dorks need it.",
+  "Nov 24, 2026 (later): Bedevil in for Chaos Warp. Terminate is mana value 2, so it can't go in with Obosh.",
+  "Nov 24, 2026 (later): Irma and Shredder in for Mole Man and Typhoid Mary (Visions of Villainy stays, his call). Irma copying Obosh (once Obosh is cast from the companion zone) makes a second Obosh: odd sources deal 4x damage, 8x with Absorbing Man and Titania. Shredder attacks every opponent at once and each one he hits loses half their life. Neither is a Villain, so Kindred Dominance naming Villain kills them.",
+  "Nov 24, 2026 (later): added a B2 version (no Game Changers): Opposition Agent → Sandman, Mystical Tutor → Read the Bones, Aura Shards → Withering Torment."
  ],
  "order": 40,
  "owner": "Middle",
- "source": "Rebuilt Oct 17–18, 2026 from his list (not checked against your collection)",
+ "source": "Merged Nov 24, 2026: his pile + the previous vault list + cards in the house",
  "target": 100,
  "themeLabel": "Odd-cost villains",
- "updated": "Nov 4, 2026"
+ "updated": "Nov 24, 2026",
+ "variants": [
+  {
+   "adds": [],
+   "bracket": "Bracket 3",
+   "bracketGoal": "1 Game Changer (Opposition Agent) · his pile + cards already in the house",
+   "id": "today",
+   "in": [
+    {
+     "name": "Behold the Sinister Six!",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Black Cat, Cunning Thief",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Doc Ock, Sinister Scientist",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Frantic Search",
+     "qty": 1,
+     "role": "draw",
+     "type": "Instant"
+    },
+    {
+     "name": "Guy in the Chair",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Helmut Zemo, Mastermind",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Path of Ancestry",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Perplex",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Pristine Talisman",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Progenitor's Icon",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Read the Bones",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Stock Up",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Sunken Hollow",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Superior Foes of Spider-Man",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "The Spot's Portal",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Vernal Fen",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Whispersilk Cloak",
+     "qty": 1,
+     "role": "prot",
+     "type": "Artifact"
+    }
+   ],
+   "label": "Today",
+   "name": "Sleeve now from the house (Nov 24)",
+   "notes": [
+    "Every card here is in the house: his pile plus the 'Owned' cards in Adds (Luxury Suite from the ripped Doom Prevails precon, Spectator Seating from the ripped Avengers Assemble precon). Path to Exile and Swords to Plowshares need spare copies (Terra keeps hers); until then, The Spot's Portal and Swift Demise cover removal.",
+    "Venomized Cat stays in every version (his call).",
+    "Multiversal Passage leaves for Doom Unrivaled.",
+    "Left in his pile: Mole Man, Typhoid Mary, Aerial Doombot, Aether Vial, Endrek Sahr, Expedition Map, Kid Loki, Killmonger, Kraven, Propaganda, Restorative Technique, Sandman (in the B2 version), Splinter's Technique (even, illegal), Tasha's Hideous Laughter, Venom, Wiccan, and lands Ash Barrens, Cinder Glade, Escape Tunnel, Evolving Wilds, Hidden Hideout, Hinterland Harbor, Rain-Slicked Copse, Rootbound Crag, Smoldering Marsh, Sodden Verdure, Vibrant Cityscape, 1 Forest, 1 Island, 1 Mountain."
+   ],
+   "out": [
+    {
+     "name": "Absorbing Man and Titania",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "An Offer You Can't Refuse",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Aura Shards",
+     "qty": 1,
+     "role": "rem",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Birds of Paradise",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Braids, Arisen Nightmare",
+     "qty": 1,
+     "role": "draw",
+     "type": "Creature"
+    },
+    {
+     "name": "Coalition Relic",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Delighted Halfling",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Flawless Maneuver",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Glissa Sunslayer",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Grim Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Jeska, Thrice Reborn",
+     "qty": 1,
+     "role": "win",
+     "type": "Planeswalker"
+    },
+    {
+     "name": "Morphic Pool",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mystical Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Overgrown Tomb",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Phyrexian Arena",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Plaza of Heroes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Stilt-Man, Towering Terror",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    }
+   ],
+   "source": "His pile + rip earmarks, Nov 24 pickups, spare pain lands, binder lands; Path and Swords once he finds spare copies",
+   "updated": "Nov 24, 2026"
+  },
+  {
+   "adds": [],
+   "bracket": "Bracket 2",
+   "bracketGoal": "0 Game Changers · same plan for Bracket 2 tables",
+   "id": "b2",
+   "in": [
+    {
+     "name": "Sandman, Shifting Scoundrel",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Read the Bones",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Withering Torment",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    }
+   ],
+   "label": "B2",
+   "name": "Bracket 2 (no Game Changers)",
+   "notes": [
+    "Opposition Agent → Sandman (his card): power and toughness equal to your lands, small creatures can't block him, and he comes back from the graveyard with a land. A Villain, so Kindred Dominance and Squadron Sinister help him. (Aven Mindcensor, about $0.41, is the swap if you'd rather keep a search-stopper.)",
+    "Mystical Tutor → Read the Bones (owned). Aura Shards → Withering Torment (owned; creature or enchantment).",
+    "To play the Today version at a Bracket 2 table: swap Opposition Agent for Withering Torment (no other Game Changers in Today).",
+    "Everything else is Bracket 2-friendly: no mass land denial, no extra turns, no two-card infinite combos."
+   ],
+   "out": [
+    {
+     "name": "Opposition Agent",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Mystical Tutor",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Instant"
+    },
+    {
+     "name": "Aura Shards",
+     "qty": 1,
+     "role": "rem",
+     "type": "Enchantment"
+    }
+   ],
+   "source": "Main list with the 3 Game Changers swapped out (Nov 24, 2026)",
+   "updated": "Nov 24, 2026"
+  },
+  {
+   "adds": [],
+   "bracket": "Bracket 3",
+   "bracketGoal": "3 Game Changers; fetch/triome land base",
+   "id": "prev-b3",
+   "in": [
+    {
+     "name": "Anguished Unmaking",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Arid Mesa",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Basalt Monolith",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Bastion of Remembrance",
+     "qty": 1,
+     "role": "win",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Bloodstained Mire",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Chaos Warp",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Dauntless Escort",
+     "qty": 1,
+     "role": "prot",
+     "type": "Creature"
+    },
+    {
+     "name": "Deflecting Swat",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Flooded Strand",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Indatha Triome",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Jetmir's Garden",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Ketria Triome",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Kid Loki",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Mana Confluence",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Marsh Flats",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mister Sinister, Hubris Unbound",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Misty Rainforest",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mole Man, Moloid Master",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Mysterio's Mirage",
+     "qty": 1,
+     "role": "eng",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Origin of Black Widow",
+     "qty": 1,
+     "role": "eng",
+     "sub": "Saga",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Oscorp Industries",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Polluted Delta",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Professional Face-Breaker",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Raffine's Tower",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Raugrin Triome",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Savai Triome",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Scalding Tarn",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Spara's Headquarters",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Stomping Ground",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Superior Foes of Spider-Man",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "The Watcher's Warning",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Ultimate Green Goblin",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Unknown Shores",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Verdant Catacombs",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Windswept Heath",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Wooded Foothills",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Worn Powerstone",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Xander's Lounge",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Zagoth Triome",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Ziatora's Proving Ground",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Old B3",
+   "name": "Previous vault list (Nov 4)",
+   "notes": [
+    "Kept for reference: fetch/triome land base (~$450) and the old flex cards."
+   ],
+   "out": [
+    {
+     "name": "Absorbing Man and Titania",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Adarkar Wastes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Archnemesis",
+     "qty": 1,
+     "role": "draw",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Battlefield Forge",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Bedevil",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Brushland",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Castle Doom",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Caves of Koilos",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Fabled Passage",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Fetid Heath",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Forest",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Grand Coliseum",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Irma, Part-Time Mutant",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Iron Monger, Sadistic Tycoon",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Island",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Isolated Chapel",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Karplusan Forest",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Kindred Dominance",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Llanowar Wastes",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Maximum Carnage",
+     "qty": 1,
+     "role": "win",
+     "sub": "Saga",
+     "type": "Enchantment"
+    },
+    {
+     "name": "Morphic Pool",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Plains",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Reanimate",
+     "qty": 1,
+     "role": "recur",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Shivan Reef",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Shredder, Shadow Master",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Skullclamp",
+     "qty": 1,
+     "role": "draw",
+     "type": "Artifact"
+    },
+    {
+     "name": "Spire Garden",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Stilt-Man, Towering Terror",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Sulfurous Springs",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Swamp",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Swift Demise",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "The Spot, Living Portal",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Tinybones, the Pickpocket",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Twilight Mire",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Unclaimed Territory",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Underground River",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Undergrowth Stadium",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Venomized Cat",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Visions of Villainy",
+     "qty": 1,
+     "role": "draw",
+     "type": "Instant"
+    },
+    {
+     "name": "Yavimaya Coast",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "source": "Vault main list Oct 17 – Nov 24 2026",
+   "updated": "Nov 24, 2026"
+  }
+ ]
 }

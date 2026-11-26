@@ -1,24 +1,19 @@
 {
  "adds": [
   {
-   "name": "Wizard Class",
+   "name": "Electrostatic Infantry",
    "status": "planned",
-   "why": "About $2.50. Cheap spell-speed card draw that grows a creature later. Swap for Sleight of Hand."
+   "why": "39¢ and his must-have. First buy."
   },
   {
-   "name": "Conjurer's Closet",
+   "name": "Veyran, Voice of Duality",
    "status": "planned",
-   "why": "About $3.10 (you own one, in Thanos & Obosh). Re-enters a Wizard every end step: Viashino, Basalt Ravager or Archaeomancer each turn. Swap for Decanter of Endless Water."
-  },
-  {
-   "name": "Spellseeker",
-   "status": "planned",
-   "why": "About $17, so last. Tutors any 2-mana-or-less instant or sorcery, twice with Naban. Swap for Shipwreck Dowser."
+   "why": "$2.60. Makes Gandalf trigger twice per spell."
   }
  ],
  "baseLabel": "Sleeved",
  "bracket": "Bracket 2",
- "bracketGoal": "0 Game Changers · sleeved bulk-Wizard deck first, upgrade in stages to a maxed high Bracket 2 spellslinger",
+ "bracketGoal": "0 Game Changers · sleeved list first; Bang for the Buck → Ideal (B2) maxes Bracket 2; Ideal (B3) adds 3 Game Changers",
  "cards": [
   {
    "name": "Archaeomancer",
@@ -27,9 +22,9 @@
    "type": "Creature"
   },
   {
-   "name": "Artisan of Forms",
+   "name": "Archmage Emeritus",
    "qty": 1,
-   "role": "other",
+   "role": "draw",
    "type": "Creature"
   },
   {
@@ -39,33 +34,27 @@
    "type": "Creature"
   },
   {
-   "name": "Bazaar Trademage",
+   "name": "Balmor, Battlemage Captain",
    "qty": 1,
-   "role": "draw",
-   "type": "Creature"
-  },
-  {
-   "name": "Benthic Criminologists",
-   "qty": 1,
-   "role": "draw",
+   "role": "win",
    "type": "Creature"
   },
   {
    "name": "Bilbo, Retired Burglar",
    "qty": 1,
-   "role": "other",
-   "type": "Creature"
-  },
-  {
-   "name": "Captain of the Mists",
-   "qty": 1,
-   "role": "other",
+   "role": "eng",
    "type": "Creature"
   },
   {
    "name": "Changeling Wayfinder",
    "qty": 1,
    "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Cyclone Summoner",
+   "qty": 1,
+   "role": "rem",
    "type": "Creature"
   },
   {
@@ -93,15 +82,9 @@
    "type": "Creature"
   },
   {
-   "name": "Ghitu Lavarunner",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
    "name": "Goblin Electromancer",
    "qty": 1,
-   "role": "eng",
+   "role": "ramp",
    "type": "Creature"
   },
   {
@@ -111,75 +94,27 @@
    "type": "Creature"
   },
   {
-   "name": "Havengul Runebinder",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
    "name": "Hydro-Channeler",
    "qty": 1,
    "role": "ramp",
    "type": "Creature"
   },
   {
-   "name": "Illusion Spinners",
-   "qty": 1,
-   "role": "other",
-   "type": "Creature"
-  },
-  {
    "name": "Imoen, Mystic Trickster",
    "qty": 1,
-   "role": "other",
+   "role": "draw",
    "type": "Creature"
   },
   {
-   "name": "Izzet Guildmage",
+   "name": "Melek, Izzet Paragon",
    "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Izzet Staticaster",
-   "qty": 1,
-   "role": "rem",
-   "type": "Creature"
-  },
-  {
-   "name": "Jalira, Master Polymorphist",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Kheru Spellsnatcher",
-   "qty": 1,
-   "role": "rem",
-   "type": "Creature"
-  },
-  {
-   "name": "Meletis Charlatan",
-   "qty": 1,
-   "role": "eng",
+   "role": "draw",
    "type": "Creature"
   },
   {
    "name": "Merfolk Trickster",
    "qty": 1,
-   "role": "prot",
-   "type": "Creature"
-  },
-  {
-   "name": "Mistcaller",
-   "qty": 1,
-   "role": "other",
-   "type": "Creature"
-  },
-  {
-   "name": "Moonfolk Puzzlemaker",
-   "qty": 1,
-   "role": "other",
+   "role": "rem",
    "type": "Creature"
   },
   {
@@ -189,21 +124,9 @@
    "type": "Creature"
   },
   {
-   "name": "Mystic Archaeologist",
-   "qty": 1,
-   "role": "draw",
-   "type": "Creature"
-  },
-  {
    "name": "Najal, the Storm Runner",
    "qty": 1,
    "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Reckless Scholar",
-   "qty": 1,
-   "role": "draw",
    "type": "Creature"
   },
   {
@@ -213,21 +136,27 @@
    "type": "Creature"
   },
   {
+   "name": "Samut, Tyrant of Naktamun",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
+   "name": "Saruman the White",
+   "qty": 1,
+   "role": "win",
+   "type": "Creature"
+  },
+  {
    "name": "Serum Visionary",
    "qty": 1,
    "role": "draw",
    "type": "Creature"
   },
   {
-   "name": "Shaper Apprentice",
-   "qty": 1,
-   "role": "other",
-   "type": "Creature"
-  },
-  {
    "name": "Sizzling Changeling",
    "qty": 1,
-   "role": "other",
+   "role": "eng",
    "type": "Creature"
   },
   {
@@ -249,27 +178,9 @@
    "type": "Creature"
   },
   {
-   "name": "Viashino Pyromancer",
-   "qty": 1,
-   "role": "win",
-   "type": "Creature"
-  },
-  {
-   "name": "Watertrap Weaver",
-   "qty": 1,
-   "role": "other",
-   "type": "Creature"
-  },
-  {
    "name": "Wee Dragonauts",
    "qty": 1,
    "role": "win",
-   "type": "Creature"
-  },
-  {
-   "name": "Wizards of the _____",
-   "qty": 1,
-   "role": "draw",
    "type": "Creature"
   },
   {
@@ -286,6 +197,12 @@
   },
   {
    "name": "Brainstorm",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Consider",
    "qty": 1,
    "role": "draw",
    "type": "Instant"
@@ -309,7 +226,7 @@
    "type": "Instant"
   },
   {
-   "name": "Jace's Ingenuity",
+   "name": "Opt",
    "qty": 1,
    "role": "draw",
    "type": "Instant"
@@ -333,15 +250,33 @@
    "type": "Instant"
   },
   {
-   "name": "Totally Lost",
+   "name": "Vapor Snag",
    "qty": 1,
    "role": "rem",
    "type": "Instant"
   },
   {
+   "name": "Birthday Escape",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
    "name": "Firebolt",
    "qty": 1,
    "role": "rem",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Grapeshot",
+   "qty": 1,
+   "role": "win",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Hex Magic",
+   "qty": 1,
+   "role": "draw",
    "type": "Sorcery"
   },
   {
@@ -369,18 +304,6 @@
    "type": "Artifact"
   },
   {
-   "name": "Mind Stone",
-   "qty": 1,
-   "role": "ramp",
-   "type": "Artifact"
-  },
-  {
-   "name": "Red Mage's Rapier",
-   "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
-  },
-  {
    "name": "Talisman of Creativity",
    "qty": 1,
    "role": "ramp",
@@ -393,10 +316,16 @@
    "type": "Artifact"
   },
   {
-   "name": "Sage of Mysteries",
+   "name": "Wizard's Staff",
    "qty": 1,
-   "role": "other",
-   "type": "Creature"
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
+   "name": "Fiery Inscription",
+   "qty": 1,
+   "role": "win",
+   "type": "Enchantment"
   },
   {
    "name": "Cascade Bluffs",
@@ -429,8 +358,80 @@
    "type": "Land"
   },
   {
+   "name": "Sol Ring",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Arcane Signet",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Artifact"
+  },
+  {
+   "name": "Command Tower",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Lightning Bolt",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Mana Geyser",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Fact or Fiction",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Arcane Denial",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Negate",
+   "qty": 1,
+   "role": "rem",
+   "type": "Instant"
+  },
+  {
+   "name": "Muddle the Mixture",
+   "qty": 1,
+   "role": "tutor",
+   "type": "Instant"
+  },
+  {
+   "name": "Big Score",
+   "qty": 1,
+   "role": "draw",
+   "type": "Instant"
+  },
+  {
+   "name": "Faithless Looting",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
+   "name": "Glamdring",
+   "qty": 1,
+   "role": "eng",
+   "type": "Artifact"
+  },
+  {
    "name": "Island",
-   "qty": 18,
+   "qty": 17,
    "role": "land",
    "type": "Land"
   },
@@ -451,1598 +452,33 @@
  "format": "Commander",
  "name": "Gandalf the Grey: Izzet Wizards",
  "notes": [
-  "Nov 19, 2026: main list replaced with his actual sleeved deck (bulk Wizards), trimmed from 119 cards to 100: one copy each of Artisan of Forms, Captain of the Mists, Benthic Criminologists, Kheru Spellsnatcher, Tomik, Izzet Charm and Viashino Pyromancer, plus cuts of Academy Loremaster, Jace's Erasure, Minamo Scrollkeeper, Prism Array, Search the City, Tameshi, Towering-Wave Mystic, Triton Waverider and Urabrask's Anointer. The old Nov 5 list (Bracket 3–4, with the Dualcaster Mage infinites) is retired; its high Bracket 2 form lives on as the Spellslinger B2 version.",
-  "Upgrade path: Stage 1 (cards at home) → Stage 2 (cheap spells, ~$7) → Stage 3 (payoffs, ~$16 total) → Spellslinger B2 (interaction and mana, ~$35 total) → Max B2 (best of the old Inalla list, ~$38 total) → the 'adds' list (dollar-plus cards, cheapest first). Each stage includes the ones before it.",
+  "Nov 24, 2026 (final for tonight): Glamdring back in for Shock — they'd rather have the sword. Shock goes back to the bulk box.",
+  "Nov 24, 2026 (sleeving tonight, part 2): Faithless Looting from the house in for Red Mage's Rapier (one more cheap spell for Gandalf).",
+  "Nov 24, 2026 (sleeving tonight): bulk found at home goes in — Fact or Fiction (for Jace's Ingenuity), Arcane Denial (for Spellshift), Negate (for Blue Elemental Blast), Muddle the Mixture (for Jace's Ruse), Big Score (for Elemental Summoning), Shock (for Glamdring). Bilbo, Retired Burglar is locked in every version at his request (\"The Goat\").",
+  "Nov 24, 2026 (later still): Mana Geyser back in for Illusion Spinners — at a 4-player table it makes a pile of red mana for Grapeshot, Fiery Confluence or Expansion // Explosion. Kept in all three upgraded versions too.",
+  "Nov 24, 2026 (later): sleeved Sol Ring (for Mana Geyser, which then came back), Arcane Signet (for Mind Stone), Command Tower (for an Island) and Lightning Bolt (for Ranger's Firebrand) from the house. Wizard's Rockets stays for now.",
+  "Nov 24, 2026: main list replaced with his newly sleeved 100 (146-card pile: 19 duplicates removed, then 27 cuts — 3 Island, 2 Mountain, Wizards of the _____, Shivan Dragon, Artisan of Forms, Captain of the Mists, Havengul Runebinder, Izzet Guildmage, Jalira, Kheru Spellsnatcher, Meletis Charlatan, Mystic Archaeologist, Reckless Scholar, Sage of Mysteries, Shaper Apprentice, Watertrap Weaver, Bazaar Trademage, Ghitu Lavarunner, Viashino Pyromancer, Izzet Staticaster, Flame Rift, Browse, Mystic Speculation, Totally Lost). Old Stage 1–3, Spellslinger B2 and Max B2 versions replaced by three: Bang for the Buck, Ideal (B2), Ideal (B3).",
   "Gandalf triggers only on instants and sorceries, choosing a mode not yet chosen: tap or untap, 3 damage to each opponent (4 with Tomik), copy the spell, or put Gandalf on top of the library. Blinking him resets the modes.",
-  "Middle kid's must-have: Electrostatic Infantry (first buy, Stage 2). Orko (Delina, Wild Mage) was considered: fun with Wizard enter effects, not a power upgrade; not added."
+  "Middle kid's must-have: Electrostatic Infantry (in every upgraded version; first buy). Orko (Delina, Wild Mage) was considered: fun with Wizard enter effects, not a power upgrade; not added."
  ],
  "order": 46,
  "owner": "Middle",
- "source": "His sleeved bulk-Wizard deck (Nov 19 2026), trimmed to 100 by Claude; card text from mtg-data",
+ "source": "His sleeved Wizard deck (Nov 24 2026), trimmed from 146 to 100 by Claude; card text from mtg-data",
  "target": 100,
  "themeLabel": "Spells + Wizards",
- "updated": "Nov 19, 2026",
+ "updated": "Nov 24, 2026",
  "variants": [
   {
    "adds": [],
-   "bracket": "Bracket 2",
-   "bracketGoal": "0 Game Changers · no purchases",
-   "id": "stage-1",
-   "in": [
-    {
-     "name": "Lightning Bolt",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Opt",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Muddle the Mixture",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Lightning Strike",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Shock",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    }
-   ],
-   "label": "Stage 1",
-   "name": "Gandalf Izzet — Stage 1: cards from home",
-   "notes": [
-    "No purchases. Lightning Bolt, Opt and Muddle the Mixture stay for good; Lightning Strike and Shock hold slots until Stage 4.",
-    "Any 1–3 mana counterspells you find at home (Mana Leak, Arcane Denial, Essence Scatter, Remand, Spell Pierce, Dissipate) go in next, each replacing the next card on the Stage 2 cut list."
-   ],
-   "out": [
-    {
-     "name": "Havengul Runebinder",
-     "qty": 1
-    },
-    {
-     "name": "Imoen, Mystic Trickster",
-     "qty": 1
-    },
-    {
-     "name": "Mistcaller",
-     "qty": 1
-    },
-    {
-     "name": "Shaper Apprentice",
-     "qty": 1
-    },
-    {
-     "name": "Sage of Mysteries",
-     "qty": 1
-    }
-   ],
-   "source": "Claude, Nov 19 2026; prices from the Nov 12 card-data pull",
-   "updated": "Nov 19, 2026"
-  },
-  {
-   "adds": [],
-   "bracket": "Bracket 2",
-   "bracketGoal": "0 Game Changers · about $7 of bulk",
-   "id": "stage-2",
-   "in": [
-    {
-     "name": "Lightning Bolt",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Opt",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Muddle the Mixture",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Lightning Strike",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Shock",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Electrostatic Infantry",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Ponder",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Preordain",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Serum Visions",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Sleight of Hand",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Impulse",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Faithless Looting",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Expressive Iteration",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Frantic Search",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Treasure Cruise",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Fact or Fiction",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Counterspell",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Negate",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Wizard's Retort",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Wizard's Lightning",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Fire // Ice",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    }
-   ],
-   "label": "Stage 2",
-   "name": "Gandalf Izzet — Stage 2: cheap spells + Electrostatic Infantry",
-   "notes": [
-    "Includes Stage 1. About $7 of bulk.",
-    "Electrostatic Infantry is the middle kid's must-have, so it's the first buy.",
-    "This is the big one: Gandalf only triggers on instants and sorceries, and the pile started with 14.",
-    "Stock Up (already sleeved) stays for good instead of buying Chart a Course; Reckless Scholar holds its slot until Stage 4."
-   ],
-   "out": [
-    {
-     "name": "Artisan of Forms",
-     "qty": 1
-    },
-    {
-     "name": "Bazaar Trademage",
-     "qty": 1
-    },
-    {
-     "name": "Benthic Criminologists",
-     "qty": 1
-    },
-    {
-     "name": "Bilbo, Retired Burglar",
-     "qty": 1
-    },
-    {
-     "name": "Dragon Mage",
-     "qty": 1
-    },
-    {
-     "name": "Havengul Runebinder",
-     "qty": 1
-    },
-    {
-     "name": "Illusion Spinners",
-     "qty": 1
-    },
-    {
-     "name": "Imoen, Mystic Trickster",
-     "qty": 1
-    },
-    {
-     "name": "Jalira, Master Polymorphist",
-     "qty": 1
-    },
-    {
-     "name": "Kheru Spellsnatcher",
-     "qty": 1
-    },
-    {
-     "name": "Mistcaller",
-     "qty": 1
-    },
-    {
-     "name": "Moonfolk Puzzlemaker",
-     "qty": 1
-    },
-    {
-     "name": "Mystic Archaeologist",
-     "qty": 1
-    },
-    {
-     "name": "Shaper Apprentice",
-     "qty": 1
-    },
-    {
-     "name": "Sizzling Changeling",
-     "qty": 1
-    },
-    {
-     "name": "Triton Wavebreaker",
-     "qty": 1
-    },
-    {
-     "name": "Wizards of the _____",
-     "qty": 1
-    },
-    {
-     "name": "Feed the Flames",
-     "qty": 1
-    },
-    {
-     "name": "Jace's Ingenuity",
-     "qty": 1
-    },
-    {
-     "name": "Totally Lost",
-     "qty": 1
-    },
-    {
-     "name": "Sage of Mysteries",
-     "qty": 1
-    }
-   ],
-   "source": "Claude, Nov 19 2026; prices from the Nov 12 card-data pull",
-   "updated": "Nov 19, 2026"
-  },
-  {
-   "adds": [],
-   "bracket": "Bracket 2",
-   "bracketGoal": "0 Game Changers · about $16 of bulk",
-   "id": "stage-3",
-   "in": [
-    {
-     "name": "Lightning Bolt",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Opt",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Muddle the Mixture",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Lightning Strike",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Shock",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Electrostatic Infantry",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Ponder",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Preordain",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Serum Visions",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Sleight of Hand",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Impulse",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Faithless Looting",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Expressive Iteration",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Frantic Search",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Treasure Cruise",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Fact or Fiction",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Counterspell",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Negate",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Wizard's Retort",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Wizard's Lightning",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Fire // Ice",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Naban, Dean of Iteration",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Talrand, Sky Summoner",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Adeliz, the Cinder Wind",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Balmor, Battlemage Captain",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Archmage Emeritus",
-     "qty": 1,
-     "role": "draw",
-     "type": "Creature"
-    },
-    {
-     "name": "Murmuring Mystic",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Young Pyromancer",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Third Path Iconoclast",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Guttersnipe",
-     "qty": 1,
-     "role": "win",
-     "type": "Creature"
-    },
-    {
-     "name": "Electrostatic Field",
-     "qty": 1,
-     "role": "win",
-     "type": "Creature"
-    },
-    {
-     "name": "Windrider Wizard",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Jace's Sanctum",
-     "qty": 1,
-     "role": "eng",
-     "type": "Enchantment"
-    },
-    {
-     "name": "Kessig Flamebreather",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Storm-Kiln Artist",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    }
-   ],
-   "label": "Stage 3",
-   "name": "Gandalf Izzet — Stage 3: spell payoffs",
-   "notes": [
-    "Includes Stages 1–2. About $16 of bulk in total.",
-    "Naban doubles the enter effects of Wizards: Viashino and Ghitu Journeymage hit twice, and Tomik adds 1 to every hit."
-   ],
-   "out": [
-    {
-     "name": "Artisan of Forms",
-     "qty": 1
-    },
-    {
-     "name": "Azami, Lady of Scrolls",
-     "qty": 1
-    },
-    {
-     "name": "Bazaar Trademage",
-     "qty": 1
-    },
-    {
-     "name": "Benthic Criminologists",
-     "qty": 1
-    },
-    {
-     "name": "Bilbo, Retired Burglar",
-     "qty": 1
-    },
-    {
-     "name": "Captain of the Mists",
-     "qty": 1
-    },
-    {
-     "name": "Changeling Wayfinder",
-     "qty": 1
-    },
-    {
-     "name": "Cyclops Superconductor",
-     "qty": 1
-    },
-    {
-     "name": "Dragon Mage",
-     "qty": 1
-    },
-    {
-     "name": "Gandalf, Friend of the Shire",
-     "qty": 1
-    },
-    {
-     "name": "Ghitu Lavarunner",
-     "qty": 1
-    },
-    {
-     "name": "Havengul Runebinder",
-     "qty": 1
-    },
-    {
-     "name": "Illusion Spinners",
-     "qty": 1
-    },
-    {
-     "name": "Imoen, Mystic Trickster",
-     "qty": 1
-    },
-    {
-     "name": "Izzet Guildmage",
-     "qty": 1
-    },
-    {
-     "name": "Jalira, Master Polymorphist",
-     "qty": 1
-    },
-    {
-     "name": "Kheru Spellsnatcher",
-     "qty": 1
-    },
-    {
-     "name": "Meletis Charlatan",
-     "qty": 1
-    },
-    {
-     "name": "Mistcaller",
-     "qty": 1
-    },
-    {
-     "name": "Moonfolk Puzzlemaker",
-     "qty": 1
-    },
-    {
-     "name": "Mystic Archaeologist",
-     "qty": 1
-    },
-    {
-     "name": "Renet, Temporal Apprentice",
-     "qty": 1
-    },
-    {
-     "name": "Shaper Apprentice",
-     "qty": 1
-    },
-    {
-     "name": "Sizzling Changeling",
-     "qty": 1
-    },
-    {
-     "name": "Triton Wavebreaker",
-     "qty": 1
-    },
-    {
-     "name": "Watertrap Weaver",
-     "qty": 1
-    },
-    {
-     "name": "Wee Dragonauts",
-     "qty": 1
-    },
-    {
-     "name": "Wizards of the _____",
-     "qty": 1
-    },
-    {
-     "name": "Consider the Prime Directive",
-     "qty": 1
-    },
-    {
-     "name": "Feed the Flames",
-     "qty": 1
-    },
-    {
-     "name": "Jace's Ingenuity",
-     "qty": 1
-    },
-    {
-     "name": "Sudden Setback",
-     "qty": 1
-    },
-    {
-     "name": "Totally Lost",
-     "qty": 1
-    },
-    {
-     "name": "Red Mage's Rapier",
-     "qty": 1
-    },
-    {
-     "name": "Sage of Mysteries",
-     "qty": 1
-    }
-   ],
-   "source": "Claude, Nov 19 2026; prices from the Nov 12 card-data pull",
-   "updated": "Nov 19, 2026"
-  },
-  {
-   "adds": [],
    "bracket": "High Bracket 2",
-   "bracketGoal": "0 Game Changers · no 2-card infinites · about $35",
-   "id": "spellslinger-b2",
+   "bracketGoal": "0 Game Changers · about $41 of cards, none over $4",
+   "id": "budget",
    "in": [
-    {
-     "name": "Lightning Bolt",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Opt",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Muddle the Mixture",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
     {
      "name": "Electrostatic Infantry",
      "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Ponder",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Preordain",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Serum Visions",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Sleight of Hand",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Impulse",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Faithless Looting",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Expressive Iteration",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Frantic Search",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Treasure Cruise",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Fact or Fiction",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Counterspell",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Negate",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Wizard's Retort",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Wizard's Lightning",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Fire // Ice",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Naban, Dean of Iteration",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Talrand, Sky Summoner",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Adeliz, the Cinder Wind",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Balmor, Battlemage Captain",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Archmage Emeritus",
-     "qty": 1,
-     "role": "draw",
-     "type": "Creature"
-    },
-    {
-     "name": "Murmuring Mystic",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Young Pyromancer",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Third Path Iconoclast",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Guttersnipe",
-     "qty": 1,
      "role": "win",
      "type": "Creature"
-    },
-    {
-     "name": "Electrostatic Field",
-     "qty": 1,
-     "role": "win",
-     "type": "Creature"
-    },
-    {
-     "name": "Windrider Wizard",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Jace's Sanctum",
-     "qty": 1,
-     "role": "eng",
-     "type": "Enchantment"
-    },
-    {
-     "name": "Kessig Flamebreather",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Storm-Kiln Artist",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Snap",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Unsummon",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Rapid Hybridization",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Expel from Orazca",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "You Find the Villains' Lair",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Vandalblast",
-     "qty": 1,
-     "role": "rem",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Venser, Shaper Savant",
-     "qty": 1,
-     "role": "rem",
-     "type": "Creature"
-    },
-    {
-     "name": "Displace",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Siren's Ruse",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Planar Incision",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Swiftfoot Boots",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mulldrifter",
-     "qty": 1,
-     "role": "draw",
-     "type": "Creature"
-    },
-    {
-     "name": "Shipwreck Dowser",
-     "qty": 1,
-     "role": "recur",
-     "type": "Creature"
-    },
-    {
-     "name": "Step Through",
-     "qty": 1,
-     "role": "rem",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Grapeshot",
-     "qty": 1,
-     "role": "win",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Reverberate",
-     "qty": 1,
-     "role": "eng",
-     "type": "Instant"
-    },
-    {
-     "name": "Sol Ring",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Arcane Signet",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Thought Vessel",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Wayfarer's Bauble",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Decanter of Endless Water",
-     "qty": 1,
-     "role": "draw",
-     "type": "Artifact"
-    },
-    {
-     "name": "Command Tower",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Evolving Wilds",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Exotic Orchard",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Frostboil Snarl",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Izzet Boilerworks",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Myriad Landscape",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Terramorphic Expanse",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    }
-   ],
-   "label": "Spellslinger B2",
-   "name": "Gandalf Izzet — Stage 4: Spellslinger (high Bracket 2)",
-   "notes": [
-    "Includes Stages 1–3. About $35 of bulk in total; this is the planned Nov 5 high Bracket 2 list, adjusted for his cards: Tomik, Viashino, Ghitu Journeymage, Mysidian Elder, Ral, Archmage's Charm, Stock Up and his Cascade Bluffs, Sulfur Falls and Ferrous Lake replace weaker picks.",
-    "29 lands plus 8 rocks; the deck runs on 1-mana spells.",
-    "One 5-card loop exists: Archaeomancer + Displace + Storm-Kiln Artist + Goblin Electromancer + Jace's Sanctum. Fine for Bracket 2."
-   ],
-   "out": [
-    {
-     "name": "Artisan of Forms",
-     "qty": 1
-    },
-    {
-     "name": "Azami, Lady of Scrolls",
-     "qty": 1
-    },
-    {
-     "name": "Bazaar Trademage",
-     "qty": 1
-    },
-    {
-     "name": "Benthic Criminologists",
-     "qty": 1
-    },
-    {
-     "name": "Bilbo, Retired Burglar",
-     "qty": 1
-    },
-    {
-     "name": "Captain of the Mists",
-     "qty": 1
-    },
-    {
-     "name": "Changeling Wayfinder",
-     "qty": 1
-    },
-    {
-     "name": "Cyclops Superconductor",
-     "qty": 1
-    },
-    {
-     "name": "Dragon Mage",
-     "qty": 1
-    },
-    {
-     "name": "Gandalf, Friend of the Shire",
-     "qty": 1
-    },
-    {
-     "name": "Ghitu Lavarunner",
-     "qty": 1
-    },
-    {
-     "name": "Grim Lavamancer",
-     "qty": 1
-    },
-    {
-     "name": "Havengul Runebinder",
-     "qty": 1
-    },
-    {
-     "name": "Hydro-Channeler",
-     "qty": 1
-    },
-    {
-     "name": "Illusion Spinners",
-     "qty": 1
-    },
-    {
-     "name": "Imoen, Mystic Trickster",
-     "qty": 1
-    },
-    {
-     "name": "Izzet Guildmage",
-     "qty": 1
-    },
-    {
-     "name": "Izzet Staticaster",
-     "qty": 1
-    },
-    {
-     "name": "Jalira, Master Polymorphist",
-     "qty": 1
-    },
-    {
-     "name": "Kheru Spellsnatcher",
-     "qty": 1
-    },
-    {
-     "name": "Meletis Charlatan",
-     "qty": 1
-    },
-    {
-     "name": "Merfolk Trickster",
-     "qty": 1
-    },
-    {
-     "name": "Mistcaller",
-     "qty": 1
-    },
-    {
-     "name": "Moonfolk Puzzlemaker",
-     "qty": 1
-    },
-    {
-     "name": "Mystic Archaeologist",
-     "qty": 1
-    },
-    {
-     "name": "Reckless Scholar",
-     "qty": 1
-    },
-    {
-     "name": "Renet, Temporal Apprentice",
-     "qty": 1
-    },
-    {
-     "name": "Serum Visionary",
-     "qty": 1
-    },
-    {
-     "name": "Shaper Apprentice",
-     "qty": 1
-    },
-    {
-     "name": "Sizzling Changeling",
-     "qty": 1
-    },
-    {
-     "name": "The Emperor of Palamecia",
-     "qty": 1
-    },
-    {
-     "name": "Triton Wavebreaker",
-     "qty": 1
-    },
-    {
-     "name": "Watertrap Weaver",
-     "qty": 1
-    },
-    {
-     "name": "Wee Dragonauts",
-     "qty": 1
-    },
-    {
-     "name": "Wizards of the _____",
-     "qty": 1
-    },
-    {
-     "name": "Consider the Prime Directive",
-     "qty": 1
-    },
-    {
-     "name": "Feed the Flames",
-     "qty": 1
-    },
-    {
-     "name": "Jace's Ingenuity",
-     "qty": 1
-    },
-    {
-     "name": "Scorching Dragonfire",
-     "qty": 1
-    },
-    {
-     "name": "Sudden Setback",
-     "qty": 1
-    },
-    {
-     "name": "Totally Lost",
-     "qty": 1
-    },
-    {
-     "name": "Firebolt",
-     "qty": 1
-    },
-    {
-     "name": "Tome Blast",
-     "qty": 1
-    },
-    {
-     "name": "Uncovered Clues",
-     "qty": 1
-    },
-    {
-     "name": "Red Mage's Rapier",
-     "qty": 1
-    },
-    {
-     "name": "Wizard's Rockets",
-     "qty": 1
-    },
-    {
-     "name": "Sage of Mysteries",
-     "qty": 1
-    },
-    {
-     "name": "Unclaimed Territory",
-     "qty": 1
-    },
-    {
-     "name": "Island",
-     "qty": 8
-    },
-    {
-     "name": "Mountain",
-     "qty": 5
-    }
-   ],
-   "source": "Claude, Nov 19 2026; prices from the Nov 12 card-data pull",
-   "updated": "Nov 19, 2026"
-  },
-  {
-   "adds": [],
-   "bracket": "High Bracket 2",
-   "bracketGoal": "0 Game Changers · no 2-card infinites · about $38 from the sleeved deck",
-   "id": "max-b2",
-   "in": [
-    {
-     "name": "Lightning Bolt",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Opt",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Muddle the Mixture",
-     "qty": 1,
-     "role": "tutor",
-     "type": "Instant"
-    },
-    {
-     "name": "Electrostatic Infantry",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Ponder",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Preordain",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Serum Visions",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Sleight of Hand",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Impulse",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Faithless Looting",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Expressive Iteration",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Frantic Search",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Instant"
-    },
-    {
-     "name": "Treasure Cruise",
-     "qty": 1,
-     "role": "draw",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Fact or Fiction",
-     "qty": 1,
-     "role": "draw",
-     "type": "Instant"
-    },
-    {
-     "name": "Counterspell",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Negate",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Wizard's Retort",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Wizard's Lightning",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Fire // Ice",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Naban, Dean of Iteration",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Talrand, Sky Summoner",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Adeliz, the Cinder Wind",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Balmor, Battlemage Captain",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Archmage Emeritus",
-     "qty": 1,
-     "role": "draw",
-     "type": "Creature"
-    },
-    {
-     "name": "Murmuring Mystic",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Young Pyromancer",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Third Path Iconoclast",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Guttersnipe",
-     "qty": 1,
-     "role": "win",
-     "type": "Creature"
-    },
-    {
-     "name": "Electrostatic Field",
-     "qty": 1,
-     "role": "win",
-     "type": "Creature"
-    },
-    {
-     "name": "Windrider Wizard",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Jace's Sanctum",
-     "qty": 1,
-     "role": "eng",
-     "type": "Enchantment"
-    },
-    {
-     "name": "Kessig Flamebreather",
-     "qty": 1,
-     "role": "eng",
-     "type": "Creature"
-    },
-    {
-     "name": "Storm-Kiln Artist",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Creature"
-    },
-    {
-     "name": "Snap",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Rapid Hybridization",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "You Find the Villains' Lair",
-     "qty": 1,
-     "role": "rem",
-     "type": "Instant"
-    },
-    {
-     "name": "Vandalblast",
-     "qty": 1,
-     "role": "rem",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Venser, Shaper Savant",
-     "qty": 1,
-     "role": "rem",
-     "type": "Creature"
-    },
-    {
-     "name": "Displace",
-     "qty": 1,
-     "role": "prot",
-     "type": "Instant"
-    },
-    {
-     "name": "Swiftfoot Boots",
-     "qty": 1,
-     "role": "prot",
-     "type": "Artifact"
-    },
-    {
-     "name": "Mulldrifter",
-     "qty": 1,
-     "role": "draw",
-     "type": "Creature"
-    },
-    {
-     "name": "Shipwreck Dowser",
-     "qty": 1,
-     "role": "recur",
-     "type": "Creature"
-    },
-    {
-     "name": "Step Through",
-     "qty": 1,
-     "role": "rem",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Grapeshot",
-     "qty": 1,
-     "role": "win",
-     "type": "Sorcery"
-    },
-    {
-     "name": "Reverberate",
-     "qty": 1,
-     "role": "eng",
-     "type": "Instant"
-    },
-    {
-     "name": "Sol Ring",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Arcane Signet",
-     "qty": 1,
-     "role": "ramp",
-     "type": "Artifact"
-    },
-    {
-     "name": "Decanter of Endless Water",
-     "qty": 1,
-     "role": "draw",
-     "type": "Artifact"
-    },
-    {
-     "name": "Command Tower",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Evolving Wilds",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Exotic Orchard",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Frostboil Snarl",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Izzet Boilerworks",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
-    },
-    {
-     "name": "Terramorphic Expanse",
-     "qty": 1,
-     "role": "land",
-     "type": "Land"
     },
     {
      "name": "Baral, Chief of Compliance",
@@ -2057,9 +493,39 @@
      "type": "Creature"
     },
     {
-     "name": "Basalt Ravager",
+     "name": "Stormcatch Mentor",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Veyran, Voice of Duality",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Talrand, Sky Summoner",
      "qty": 1,
      "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Basalt Ravager",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Naban, Dean of Iteration",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Venser, Shaper Savant",
+     "qty": 1,
+     "role": "rem",
      "type": "Creature"
     },
     {
@@ -2069,10 +535,148 @@
      "type": "Creature"
     },
     {
+     "name": "Storm-Kiln Artist",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Ponder",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Preordain",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Serum Visions",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Sleight of Hand",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Expressive Iteration",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Frantic Search",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Instant"
+    },
+    {
+     "name": "Treasure Cruise",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Counterspell",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Pyroblast",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Wizard's Retort",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Fire // Ice",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Snap",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Rapid Hybridization",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Pongify",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
      "name": "Chaos Warp",
      "qty": 1,
      "role": "rem",
      "type": "Instant"
+    },
+    {
+     "name": "Vandalblast",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Fiery Confluence",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Expansion // Explosion",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Reverberate",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Spirebluff Canal",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Stormcarved Coast",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Frostboil Snarl",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Exotic Orchard",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
     },
     {
      "name": "Path of Ancestry",
@@ -2081,50 +685,37 @@
      "type": "Land"
     },
     {
-     "name": "Firefist Adept",
+     "name": "Mystic Sanctuary",
      "qty": 1,
-     "role": "rem",
-     "type": "Creature"
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Sokenzan, Crucible of Defiance",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
     }
    ],
-   "label": "Max B2",
-   "name": "Gandalf Izzet — Max Bracket 2 (with the best of the old Inalla list)",
+   "label": "Bang for the Buck",
+   "name": "Gandalf Izzet — Bang for the Buck",
    "notes": [
-    "Spellslinger B2 plus the best Izzet cards from the old Inalla list (Inalla deleted Nov 19, 2026). About $6 on top of Spellslinger B2.",
-    "Baral (Thought Vessel) and Kaza (Wayfarer's Bauble) make spells cheaper; Kaza counts every Wizard.",
-    "Basalt Ravager (Expel from Orazca) and Firefist Adept (Planar Incision) deal damage equal to his Wizard count when they enter, twice with Naban. Ravager can hit a player.",
-    "Tishana's Tidebinder (Unsummon) and Chaos Warp (Siren's Ruse) answer things the deck couldn't: abilities, enchantments, anything.",
-    "Path of Ancestry (Myriad Landscape) scries when casting Wizards, since Gandalf is a Wizard.",
-    "0 Game Changers, no 2-card infinites. One 5-card loop exists: Archaeomancer (or Shipwreck Dowser) + Displace + Storm-Kiln Artist + any two of Goblin Electromancer, Baral and Jace's Sanctum. Fine for Bracket 2, but don't build toward it.",
-    "22 Wizards, 32 instants and sorceries."
+    "About $41 for 37 cards, every one under $4 (most under 50¢). Same shape as Ideal B2 with his own cards in the priciest slots: Consider the Prime Directive for Force of Negation, Sudden Setback for Swan Song, Mysidian Elder for Snapcaster Mage, Serum Visionary for Spellseeker, Balmor for Ral, Monsoon Mage, Ferrous Lake for Riverglide Pathway, basics for Otawara and Fiery Islet.",
+    "Biggest gains per dollar, buy in this order: Electrostatic Infantry (his must-have), the 1-mana cantrips (Ponder, Preordain, Sleight of Hand, Serum Visions), Fire // Ice, Counterspell, then the cost reducers (Kaza, Stormcatch Mentor, Baral) and Veyran.",
+    "32 lands + 4 rocks + 3 mana creatures + 4 cost reducers. 36 instants and sorceries (up from 26), 22 Wizards, plus Bilbo.",
+    "Already sleeved (Nov 24): Sol Ring, Arcane Signet, Command Tower, Lightning Bolt, Fact or Fiction, Arcane Denial, Muddle the Mixture, Big Score, Faithless Looting. Check the house for Counterspell before buying; the collection isn't in mtg-data yet."
    ],
    "out": [
-    {
-     "name": "Artisan of Forms",
-     "qty": 1
-    },
     {
      "name": "Azami, Lady of Scrolls",
      "qty": 1
     },
     {
-     "name": "Bazaar Trademage",
-     "qty": 1
-    },
-    {
-     "name": "Benthic Criminologists",
-     "qty": 1
-    },
-    {
-     "name": "Bilbo, Retired Burglar",
-     "qty": 1
-    },
-    {
-     "name": "Captain of the Mists",
-     "qty": 1
-    },
-    {
      "name": "Changeling Wayfinder",
+     "qty": 1
+    },
+    {
+     "name": "Cyclone Summoner",
      "qty": 1
     },
     {
@@ -2140,23 +731,7 @@
      "qty": 1
     },
     {
-     "name": "Ghitu Lavarunner",
-     "qty": 1
-    },
-    {
      "name": "Grim Lavamancer",
-     "qty": 1
-    },
-    {
-     "name": "Havengul Runebinder",
-     "qty": 1
-    },
-    {
-     "name": "Hydro-Channeler",
-     "qty": 1
-    },
-    {
-     "name": "Illusion Spinners",
      "qty": 1
     },
     {
@@ -2164,43 +739,11 @@
      "qty": 1
     },
     {
-     "name": "Izzet Guildmage",
-     "qty": 1
-    },
-    {
-     "name": "Izzet Staticaster",
-     "qty": 1
-    },
-    {
-     "name": "Jalira, Master Polymorphist",
-     "qty": 1
-    },
-    {
-     "name": "Kheru Spellsnatcher",
-     "qty": 1
-    },
-    {
-     "name": "Meletis Charlatan",
-     "qty": 1
-    },
-    {
      "name": "Merfolk Trickster",
      "qty": 1
     },
     {
-     "name": "Mistcaller",
-     "qty": 1
-    },
-    {
-     "name": "Moonfolk Puzzlemaker",
-     "qty": 1
-    },
-    {
-     "name": "Mystic Archaeologist",
-     "qty": 1
-    },
-    {
-     "name": "Reckless Scholar",
+     "name": "Najal, the Storm Runner",
      "qty": 1
     },
     {
@@ -2208,11 +751,7 @@
      "qty": 1
     },
     {
-     "name": "Serum Visionary",
-     "qty": 1
-    },
-    {
-     "name": "Shaper Apprentice",
+     "name": "Saruman the White",
      "qty": 1
     },
     {
@@ -2220,15 +759,7 @@
      "qty": 1
     },
     {
-     "name": "The Emperor of Palamecia",
-     "qty": 1
-    },
-    {
      "name": "Triton Wavebreaker",
-     "qty": 1
-    },
-    {
-     "name": "Watertrap Weaver",
      "qty": 1
     },
     {
@@ -2236,19 +767,7 @@
      "qty": 1
     },
     {
-     "name": "Wizards of the _____",
-     "qty": 1
-    },
-    {
-     "name": "Consider the Prime Directive",
-     "qty": 1
-    },
-    {
      "name": "Feed the Flames",
-     "qty": 1
-    },
-    {
-     "name": "Jace's Ingenuity",
      "qty": 1
     },
     {
@@ -2256,15 +775,19 @@
      "qty": 1
     },
     {
-     "name": "Sudden Setback",
+     "name": "Vapor Snag",
      "qty": 1
     },
     {
-     "name": "Totally Lost",
+     "name": "Birthday Escape",
      "qty": 1
     },
     {
      "name": "Firebolt",
+     "qty": 1
+    },
+    {
+     "name": "Stock Up",
      "qty": 1
     },
     {
@@ -2276,7 +799,427 @@
      "qty": 1
     },
     {
-     "name": "Red Mage's Rapier",
+     "name": "Wizard's Rockets",
+     "qty": 1
+    },
+    {
+     "name": "Negate",
+     "qty": 1
+    },
+    {
+     "name": "Glamdring",
+     "qty": 1
+    },
+    {
+     "name": "Island",
+     "qty": 6
+    },
+    {
+     "name": "Mountain",
+     "qty": 5
+    }
+   ],
+   "source": "Claude, Nov 24 2026; prices from the Nov 12 card-data pull",
+   "updated": "Nov 24, 2026"
+  },
+  {
+   "adds": [],
+   "bracket": "High Bracket 2",
+   "bracketGoal": "0 Game Changers · no 2-card infinites · no fetches or shocks · about $174 of cards",
+   "id": "ideal-b2",
+   "in": [
+    {
+     "name": "Electrostatic Infantry",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Baral, Chief of Compliance",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Kaza, Roil Chaser",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Stormcatch Mentor",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Ral, Monsoon Mage",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Veyran, Voice of Duality",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Talrand, Sky Summoner",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Basalt Ravager",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Naban, Dean of Iteration",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Snapcaster Mage",
+     "qty": 1,
+     "role": "recur",
+     "type": "Creature"
+    },
+    {
+     "name": "Spellseeker",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Venser, Shaper Savant",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Tishana's Tidebinder",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Storm-Kiln Artist",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Ponder",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Preordain",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Serum Visions",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Sleight of Hand",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Expressive Iteration",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Frantic Search",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Instant"
+    },
+    {
+     "name": "Treasure Cruise",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Counterspell",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Swan Song",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Force of Negation",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Pyroblast",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Wizard's Retort",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Fire // Ice",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Snap",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Rapid Hybridization",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Pongify",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Chaos Warp",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Vandalblast",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Fiery Confluence",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Expansion // Explosion",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Reverberate",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Spirebluff Canal",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Stormcarved Coast",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Riverglide Pathway // Lavaglide Pathway",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Fiery Islet",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Frostboil Snarl",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Exotic Orchard",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Path of Ancestry",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mystic Sanctuary",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Otawara, Soaring City",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Sokenzan, Crucible of Defiance",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Ideal (B2)",
+   "name": "Gandalf Izzet — Ideal Bracket 2",
+   "notes": [
+    "The fastest list that stays Bracket 2: 0 Game Changers, no 2-card infinites, and no fetch or shock lands (fast, pain, filter and pathway lands only). About $174 of cards; the pricey ones are Force of Negation, Otawara, Spellseeker, Snapcaster Mage and Swan Song.",
+    "Engine: Gandalf triggers twice per spell with Veyran out or Wizard's Staff on him (Staff's equip costs 1 on a Wizard), so one cantrip can deal 3 to each opponent AND copy itself. Tomik makes each Gandalf hit 4. Fiery Inscription, Electrostatic Infantry, Ral, Storm Conduit, Talrand and Grapeshot close games.",
+    "Cost reducers (Goblin Electromancer, Baral, Stormcatch Mentor, Ral, Monsoon Mage, Kaza) turn 1-mana cantrips into free spells; Storm-Kiln Artist turns them into Treasures.",
+    "Protection for Gandalf is counterspells plus Samut (all his spells get split second) rather than boots, since Wizard's Staff wants the equip slot.",
+    "No 2-card infinites. Watch: Archaeomancer/Snapcaster + Frantic Search + two cost reducers can loop for value; fine at B2, don't build toward it.",
+    "Bilbo, Retired Burglar stays in every version by request (\"The Goat\"); he took Gitaxian Probe's slot."
+   ],
+   "out": [
+    {
+     "name": "Azami, Lady of Scrolls",
+     "qty": 1
+    },
+    {
+     "name": "Balmor, Battlemage Captain",
+     "qty": 1
+    },
+    {
+     "name": "Changeling Wayfinder",
+     "qty": 1
+    },
+    {
+     "name": "Cyclone Summoner",
+     "qty": 1
+    },
+    {
+     "name": "Cyclops Superconductor",
+     "qty": 1
+    },
+    {
+     "name": "Dragon Mage",
+     "qty": 1
+    },
+    {
+     "name": "Gandalf, Friend of the Shire",
+     "qty": 1
+    },
+    {
+     "name": "Grim Lavamancer",
+     "qty": 1
+    },
+    {
+     "name": "Imoen, Mystic Trickster",
+     "qty": 1
+    },
+    {
+     "name": "Merfolk Trickster",
+     "qty": 1
+    },
+    {
+     "name": "Mysidian Elder",
+     "qty": 1
+    },
+    {
+     "name": "Najal, the Storm Runner",
+     "qty": 1
+    },
+    {
+     "name": "Renet, Temporal Apprentice",
+     "qty": 1
+    },
+    {
+     "name": "Saruman the White",
+     "qty": 1
+    },
+    {
+     "name": "Serum Visionary",
+     "qty": 1
+    },
+    {
+     "name": "Sizzling Changeling",
+     "qty": 1
+    },
+    {
+     "name": "Triton Wavebreaker",
+     "qty": 1
+    },
+    {
+     "name": "Wee Dragonauts",
+     "qty": 1
+    },
+    {
+     "name": "Consider the Prime Directive",
+     "qty": 1
+    },
+    {
+     "name": "Feed the Flames",
+     "qty": 1
+    },
+    {
+     "name": "Scorching Dragonfire",
+     "qty": 1
+    },
+    {
+     "name": "Sudden Setback",
+     "qty": 1
+    },
+    {
+     "name": "Vapor Snag",
+     "qty": 1
+    },
+    {
+     "name": "Birthday Escape",
+     "qty": 1
+    },
+    {
+     "name": "Firebolt",
+     "qty": 1
+    },
+    {
+     "name": "Stock Up",
+     "qty": 1
+    },
+    {
+     "name": "Tome Blast",
+     "qty": 1
+    },
+    {
+     "name": "Uncovered Clues",
      "qty": 1
     },
     {
@@ -2284,24 +1227,464 @@
      "qty": 1
     },
     {
-     "name": "Sage of Mysteries",
+     "name": "Ferrous Lake",
      "qty": 1
     },
     {
-     "name": "Unclaimed Territory",
+     "name": "Negate",
+     "qty": 1
+    },
+    {
+     "name": "Glamdring",
      "qty": 1
     },
     {
      "name": "Island",
-     "qty": 8
+     "qty": 7
     },
     {
      "name": "Mountain",
-     "qty": 5
+     "qty": 6
     }
    ],
-   "source": "Claude, Nov 19 2026; prices from the Nov 12 card-data pull",
-   "updated": "Nov 19, 2026"
+   "source": "Claude, Nov 24 2026; prices from the Nov 12 card-data pull",
+   "updated": "Nov 24, 2026"
+  },
+  {
+   "adds": [],
+   "bracket": "Bracket 3",
+   "bracketGoal": "3 Game Changers · about $274 of cards",
+   "id": "ideal-b3",
+   "in": [
+    {
+     "name": "Electrostatic Infantry",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Baral, Chief of Compliance",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Kaza, Roil Chaser",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Stormcatch Mentor",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Ral, Monsoon Mage",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Veyran, Voice of Duality",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Talrand, Sky Summoner",
+     "qty": 1,
+     "role": "win",
+     "type": "Creature"
+    },
+    {
+     "name": "Basalt Ravager",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Naban, Dean of Iteration",
+     "qty": 1,
+     "role": "eng",
+     "type": "Creature"
+    },
+    {
+     "name": "Snapcaster Mage",
+     "qty": 1,
+     "role": "recur",
+     "type": "Creature"
+    },
+    {
+     "name": "Spellseeker",
+     "qty": 1,
+     "role": "tutor",
+     "type": "Creature"
+    },
+    {
+     "name": "Venser, Shaper Savant",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Tishana's Tidebinder",
+     "qty": 1,
+     "role": "rem",
+     "type": "Creature"
+    },
+    {
+     "name": "Storm-Kiln Artist",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Ponder",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Preordain",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Expressive Iteration",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Frantic Search",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Instant"
+    },
+    {
+     "name": "Treasure Cruise",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Counterspell",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Swan Song",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Force of Negation",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Pyroblast",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Wizard's Retort",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Fire // Ice",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Snap",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Rapid Hybridization",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Pongify",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Chaos Warp",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Vandalblast",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Fiery Confluence",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Expansion // Explosion",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Reverberate",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Spirebluff Canal",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Stormcarved Coast",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Riverglide Pathway // Lavaglide Pathway",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Fiery Islet",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Frostboil Snarl",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Exotic Orchard",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Path of Ancestry",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Mystic Sanctuary",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Otawara, Soaring City",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Sokenzan, Crucible of Defiance",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Jeska's Will",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Fierce Guardianship",
+     "qty": 1,
+     "role": "prot",
+     "type": "Instant"
+    },
+    {
+     "name": "Underworld Breach",
+     "qty": 1,
+     "role": "recur",
+     "type": "Enchantment"
+    }
+   ],
+   "label": "Ideal (B3)",
+   "name": "Gandalf Izzet — Ideal Bracket 3 (3 Game Changers)",
+   "notes": [
+    "Ideal B2 plus 3 Game Changers: Jeska's Will (in for Faithless Looting) for a big burst of mana and cards on the Gandalf turn, Fierce Guardianship (in for Sleight of Hand) as a free counter that keeps Gandalf alive, Underworld Breach (in for Serum Visions) to recast every cheap spell in the graveyard for a Grapeshot finish.",
+    "Other GC options if he'd rather: Cyclonic Rift (one-sided reset), Rhystic Study (slower but huge cards), Ancient Tomb or Mana Vault (raw speed).",
+    "Breach + Grapeshot is a strong finisher but not a 2-card infinite in this list (no Lion's Eye Diamond or Brain Freeze).",
+    "Bilbo stays here too (\"The Goat\")."
+   ],
+   "out": [
+    {
+     "name": "Azami, Lady of Scrolls",
+     "qty": 1
+    },
+    {
+     "name": "Balmor, Battlemage Captain",
+     "qty": 1
+    },
+    {
+     "name": "Changeling Wayfinder",
+     "qty": 1
+    },
+    {
+     "name": "Cyclone Summoner",
+     "qty": 1
+    },
+    {
+     "name": "Cyclops Superconductor",
+     "qty": 1
+    },
+    {
+     "name": "Dragon Mage",
+     "qty": 1
+    },
+    {
+     "name": "Gandalf, Friend of the Shire",
+     "qty": 1
+    },
+    {
+     "name": "Grim Lavamancer",
+     "qty": 1
+    },
+    {
+     "name": "Imoen, Mystic Trickster",
+     "qty": 1
+    },
+    {
+     "name": "Merfolk Trickster",
+     "qty": 1
+    },
+    {
+     "name": "Mysidian Elder",
+     "qty": 1
+    },
+    {
+     "name": "Najal, the Storm Runner",
+     "qty": 1
+    },
+    {
+     "name": "Renet, Temporal Apprentice",
+     "qty": 1
+    },
+    {
+     "name": "Saruman the White",
+     "qty": 1
+    },
+    {
+     "name": "Serum Visionary",
+     "qty": 1
+    },
+    {
+     "name": "Sizzling Changeling",
+     "qty": 1
+    },
+    {
+     "name": "Triton Wavebreaker",
+     "qty": 1
+    },
+    {
+     "name": "Wee Dragonauts",
+     "qty": 1
+    },
+    {
+     "name": "Consider the Prime Directive",
+     "qty": 1
+    },
+    {
+     "name": "Feed the Flames",
+     "qty": 1
+    },
+    {
+     "name": "Scorching Dragonfire",
+     "qty": 1
+    },
+    {
+     "name": "Sudden Setback",
+     "qty": 1
+    },
+    {
+     "name": "Vapor Snag",
+     "qty": 1
+    },
+    {
+     "name": "Birthday Escape",
+     "qty": 1
+    },
+    {
+     "name": "Firebolt",
+     "qty": 1
+    },
+    {
+     "name": "Stock Up",
+     "qty": 1
+    },
+    {
+     "name": "Tome Blast",
+     "qty": 1
+    },
+    {
+     "name": "Uncovered Clues",
+     "qty": 1
+    },
+    {
+     "name": "Wizard's Rockets",
+     "qty": 1
+    },
+    {
+     "name": "Ferrous Lake",
+     "qty": 1
+    },
+    {
+     "name": "Negate",
+     "qty": 1
+    },
+    {
+     "name": "Faithless Looting",
+     "qty": 1
+    },
+    {
+     "name": "Glamdring",
+     "qty": 1
+    },
+    {
+     "name": "Island",
+     "qty": 7
+    },
+    {
+     "name": "Mountain",
+     "qty": 6
+    }
+   ],
+   "source": "Claude, Nov 24 2026; prices from the Nov 12 card-data pull",
+   "updated": "Nov 24, 2026"
   }
  ]
 }

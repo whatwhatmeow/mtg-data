@@ -1,6 +1,11 @@
 {
  "adds": [
   {
+   "name": "Winds of Abandon",
+   "status": "planned",
+   "why": "Nov 25, 2026 house pick for every white S-B deck. 2 mana: exile one creature you don't control; overload {4}{W}{W}: one-sided exile wipe that spares her Thors and Heroes (unlike Cleansing Nova). Mono-white, so only 1 Crystal damage. About $5-8 (Mystical Archive printing is cheapest). Cut not chosen."
+  },
+  {
    "name": "The Fantastic Four",
    "status": "added",
    "why": "Owned (Jumpstart packet). Any spell with MV/power/toughness 4 picks a mode: Wall, 3 to each opponent, counters or a card."
@@ -768,14 +773,15 @@
   "Adds marked planned: confirm she has a free copy (Charms, Electrolyze, the Commands and the token creatures may need buying; all are cheap). Swan Song stays out (no spare).",
   "Nov 10, 2026: 10 swaps. Thor package (Guardian of Midgard, Asgard's Avenger, God of Thunder), Human Torch Johnny Storm and Hawkeye (Kate Bishop) for burn; protection package for Crystal (Swiftfoot Boots, Flawless Maneuver, Snakeskin Veil, Tyvar's Stand, Tamiyo's Safekeeping). Deflecting Swat skipped on price. The Mighty Thor (Jane) and Thor Odinson considered and left out. B3 variant now cuts Negate, Electrolyze and Expressive Iteration, since Opt and Bovine Intervention are gone.",
   "Nov 13, 2026: speed package from a 3,000-game sim using exact card text from the mtg-data repo. Crystal on turn 3 went from 47% to 64% (avg turn 4.1 to 3.75). Six tapped/fetch lands swapped for spare pain lands; Council of Reeds, Third Path Iconoclast, Monastery Mentor, Chromatic Lantern and Bant Charm swapped for 1-2 mana ramp (Birds, Utopia Sprawl, Rampant Growth, Nature's Lore, Fellwar Stone; about $9.40). Invisible Woman kept by choice. Rule for this deck: ramp costs 1-2 mana (Cultivate the one 3-mana exception); don't add more ramp than this.",
-  "Nov 20, 2026: Storm, Windrider ({1}{G}{W}{W}, Marvel Super Heroes uncommon, owned) in for Ultimate Nullification (5 mana, sacrifices her own legend and exiles her own board). Cleansing Nova stays as the one wipe; Flame On! is the next cut if she wants a second. The '+ Storm' variant is dropped: it used Storm, Force of Nature by mistake."
+  "Nov 20, 2026: Storm, Windrider ({1}{G}{W}{W}, Marvel Super Heroes uncommon, owned) in for Ultimate Nullification (5 mana, sacrifices her own legend and exiles her own board). Cleansing Nova stays as the one wipe; Flame On! is the next cut if she wants a second. The '+ Storm' variant is dropped: it used Storm, Force of Nature by mistake.",
+  "Nov 24, 2026: 'Sleeved (Nov 24)' version added: the physical charms pile trimmed to 99. This is what's sleeved and the new starting point."
  ],
  "order": 11,
  "owner": "Wife",
  "source": "Stock precon + F4 Jumpstart packet + 25 swaps, Nov 9, 2026",
  "target": 100,
  "themeLabel": "Crystal spellslinger",
- "updated": "Nov 20, 2026",
+ "updated": "Nov 24, 2026",
  "variants": [
   {
    "adds": [
@@ -840,6 +846,423 @@
    ],
    "source": "B2 list + 3 Game Changers, Nov 9, 2026",
    "updated": "Nov 9, 2026"
+  },
+  {
+   "adds": [
+    {
+     "name": "Thor, God of Thunder",
+     "status": "planned",
+     "why": "Not owned yet; next buy. Best Thor here: every noncreature spell also deals its mana value to any target. Replaces Negate."
+    },
+    {
+     "name": "Naya Charm",
+     "status": "planned",
+     "why": "3 colors. Replaces Bovine Intervention."
+    },
+    {
+     "name": "Bant Charm",
+     "status": "planned",
+     "why": "3 colors. Replaces Brainstorm."
+    },
+    {
+     "name": "Simic Charm",
+     "status": "planned",
+     "why": "Board-wide hexproof saves Crystal. Replaces Fantastic Elasticity."
+    },
+    {
+     "name": "Vigorbloom Charm",
+     "status": "planned",
+     "why": "Hexproof + indestructible or draw. Replaces Clever Concealment."
+    },
+    {
+     "name": "Prismari Charm",
+     "status": "planned",
+     "why": "Surveil-draw, double ping or bounce. Replaces Frantic Search."
+    },
+    {
+     "name": "Atarka's Command",
+     "status": "planned",
+     "why": "3 to each opponent plus Crystal's 2. Replaces Flame On!."
+    },
+    {
+     "name": "Boros Charm",
+     "status": "planned",
+     "why": "4 to a player or board indestructible (~$4.50). Replaces Deep Analysis."
+    },
+    {
+     "name": "Temur Charm",
+     "status": "planned",
+     "why": "3 colors. Replaces Into the Time Vortex."
+    }
+   ],
+   "bracket": "Bracket 2",
+   "bracketGoal": "0 Game Changers · starting point, upgrade toward the main list",
+   "id": "sleeved-nov24",
+   "in": [
+    {
+     "name": "Faeburrow Elder",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Creature"
+    },
+    {
+     "name": "Bovine Intervention",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Brainstorm",
+     "qty": 1,
+     "role": "draw",
+     "type": "Instant"
+    },
+    {
+     "name": "Brokers Charm",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Cabaretti Charm",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Cosmic Rebirth",
+     "qty": 1,
+     "role": "recur",
+     "type": "Instant"
+    },
+    {
+     "name": "Dovin's Veto",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Frantic Search",
+     "qty": 1,
+     "role": "draw",
+     "type": "Instant"
+    },
+    {
+     "name": "Galvanic Iteration",
+     "qty": 1,
+     "role": "eng",
+     "type": "Instant"
+    },
+    {
+     "name": "Lightning Helix",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Lorehold Charm",
+     "qty": 1,
+     "role": "win",
+     "type": "Instant"
+    },
+    {
+     "name": "Planar Genesis",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Instant"
+    },
+    {
+     "name": "Quandrix Charm",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Treva's Charm",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Decisive Denial",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Arcane Denial",
+     "qty": 1,
+     "role": "rem",
+     "type": "Instant"
+    },
+    {
+     "name": "Clan Defiance",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Decimate",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Deep Analysis",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Hull Breach",
+     "qty": 1,
+     "role": "rem",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Into the Time Vortex",
+     "qty": 1,
+     "role": "eng",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Lessons from Life",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Taunt from the Rampart",
+     "qty": 1,
+     "role": "win",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Thrilling Discovery",
+     "qty": 1,
+     "role": "draw",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Tragic Arrogance",
+     "qty": 1,
+     "role": "wipe",
+     "type": "Sorcery"
+    },
+    {
+     "name": "Gruul Signet",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Izzet Signet",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Talisman of Conviction",
+     "qty": 1,
+     "role": "ramp",
+     "type": "Artifact"
+    },
+    {
+     "name": "Bountiful Landscape",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Canopy Vista",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Evolving Wilds",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Fabled Passage",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Gleaming Bastion",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Perilous Landscape",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Prairie Stream",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    },
+    {
+     "name": "Terramorphic Expanse",
+     "qty": 1,
+     "role": "land",
+     "type": "Land"
+    }
+   ],
+   "label": "Sleeved (Nov 24)",
+   "name": "Crystal Charms (sleeved Nov 24)",
+   "notes": [
+    "Nov 24, 2026: the list sleeved tonight and the starting point for upgrades. Built from the cards actually on the table: stock precon + Brokers, Cabaretti, Izzet, Jeskai, Lorehold, Quandrix and Treva's Charms, Prismari Command and friends, plus Hawkeye, Young Avenger and Thor, Asgard's Avenger.",
+    "25 noncreature spells of 2+ colors, 18 mono-color spells, 8 colorless rocks/equipment, 12 creatures, 36 lands (9 basics: 2 Forest, 2 Island, 3 Mountain, 2 Plains).",
+    "Second copies of Brokers, Izzet and Quandrix Charm left out (singleton).",
+    "Thor, God of Thunder not owned yet (Nov 24, 2026): Arcane Denial (spare) takes his slot now; when Thor is bought he replaces Negate.",
+    "Upgrade path: Thor, God of Thunder for Negate, then the planned charms (1 for 1 vs the weakest mono spells), then Shivan Reef for a tapped land, then the main list's adds.",
+    "Nov 24, 2026: 5 spare pain lands (Karplusan Forest, Yavimaya Coast, Battlefield Forge, Brushland, Adarkar Wastes) in for 2 Forest, 1 Island, 2 Plains, matched to the deck's color needs: land sources now W 18, U 19, R 18, G 18 vs 28 W, 25 U, 25 R, 19 G mana symbols. Urban Retreat stays out (always tapped).",
+    "Nov 24, 2026: Decisive Denial ({G}{U}, owned) in for Monologue Tax: 2 Crystal damage, soft counter or fight. Signets stay over the Talismans for now; Talismans of Impulse and Creativity are spares."
+   ],
+   "out": [
+    {
+     "name": "Human Torch",
+     "qty": 1
+    },
+    {
+     "name": "The Thing",
+     "qty": 1
+    },
+    {
+     "name": "Storm-Kiln Artist",
+     "qty": 1
+    },
+    {
+     "name": "Archmage Emeritus",
+     "qty": 1
+    },
+    {
+     "name": "Heroic Intervention",
+     "qty": 1
+    },
+    {
+     "name": "Counterspell",
+     "qty": 1
+    },
+    {
+     "name": "Boros Charm",
+     "qty": 1
+    },
+    {
+     "name": "Naya Charm",
+     "qty": 1
+    },
+    {
+     "name": "Temur Charm",
+     "qty": 1
+    },
+    {
+     "name": "Electrolyze",
+     "qty": 1
+    },
+    {
+     "name": "Lorehold Command",
+     "qty": 1
+    },
+    {
+     "name": "Growth Spiral",
+     "qty": 1
+    },
+    {
+     "name": "Talisman of Creativity",
+     "qty": 1
+    },
+    {
+     "name": "Talisman of Impulse",
+     "qty": 1
+    },
+    {
+     "name": "Talisman of Unity",
+     "qty": 1
+    },
+    {
+     "name": "Unstable Molecule Suit",
+     "qty": 1
+    },
+    {
+     "name": "Jeskai Ascendancy",
+     "qty": 1
+    },
+    {
+     "name": "Plains",
+     "qty": 2
+    },
+    {
+     "name": "Island",
+     "qty": 2
+    },
+    {
+     "name": "Forest",
+     "qty": 2
+    },
+    {
+     "name": "Thor, Guardian of Midgard",
+     "qty": 1
+    },
+    {
+     "name": "Human Torch, Johnny Storm",
+     "qty": 1
+    },
+    {
+     "name": "Flawless Maneuver",
+     "qty": 1
+    },
+    {
+     "name": "Snakeskin Veil",
+     "qty": 1
+    },
+    {
+     "name": "Tyvar's Stand",
+     "qty": 1
+    },
+    {
+     "name": "Tamiyo's Safekeeping",
+     "qty": 1
+    },
+    {
+     "name": "Shivan Reef",
+     "qty": 1
+    },
+    {
+     "name": "Birds of Paradise",
+     "qty": 1
+    },
+    {
+     "name": "Utopia Sprawl",
+     "qty": 1
+    },
+    {
+     "name": "Rampant Growth",
+     "qty": 1
+    },
+    {
+     "name": "Nature's Lore",
+     "qty": 1
+    },
+    {
+     "name": "Storm, Windrider",
+     "qty": 1
+    },
+    {
+     "name": "Thor, God of Thunder",
+     "qty": 1
+    }
+   ],
+   "source": "Physical pile (stock precon + owned charms) trimmed to 99 + Hawkeye and Thor, Nov 24, 2026",
+   "updated": "Nov 24, 2026"
   }
  ]
 }

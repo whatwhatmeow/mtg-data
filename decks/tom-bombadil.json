@@ -1,6 +1,11 @@
 {
  "adds": [
   {
+   "name": "Winds of Abandon",
+   "status": "planned",
+   "why": "Nov 25, 2026 house pick for every white S-B deck. 2 mana: exile one creature you don't control; overload {4}{W}{W}: one-sided exile wipe that leaves his Sagas, enchantresses and combo creatures. About $5-8 (Mystical Archive printing is cheapest). Cut not chosen."
+  },
+  {
    "name": "Helix Pinnacle",
    "status": "added",
    "why": "Win condition and infinite-mana outlet. Replaced Rakdos Guildgate."

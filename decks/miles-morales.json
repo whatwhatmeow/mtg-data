@@ -1,34 +1,19 @@
 {
  "adds": [
   {
-   "name": "Beta Ray Bill",
-   "status": "owned (History of Heroes kit)",
-   "why": "Valiant puts a +1/+1 counter on him and a God; cut Michelangelo, the Heart"
+   "name": "Winds of Abandon",
+   "status": "planned",
+   "why": "Nov 25, 2026 house pick for every white S-B deck. 2 mana: exile one creature you don't control; overload {4}{W}{W}: one-sided exile wipe that keeps his countered-up Heroes and Gods. About $5-8 (Mystical Archive printing is cheapest). Cut Colossal Collision."
   },
   {
    "name": "God-Eternal Oketra",
    "status": "bulk ~$0.61",
-   "why": "God; 4/4 Zombie for every creature spell; cut Sudden Strike"
-  },
-  {
-   "name": "Thor, Asgard's Avenger",
-   "status": "bulk ~$0.31",
-   "why": "God; +1 damage to every source, stacks with Raphael; cut Iron Fist, Hero for Hire"
+   "why": "God; 4/4 Zombie for every creature spell; cut Colossal Collision"
   },
   {
    "name": "Thor, Guardian of Midgard",
    "status": "bulk ~$2.14",
-   "why": "God; card advantage off Bolt/Helix/Casey/Spearmaster damage; cut White Tiger, Ava Ayala"
-  },
-  {
-   "name": "Bast, Panther Goddess",
-   "status": "bulk ~$0.67",
-   "why": "God; indestructible, pumps attackers; cut Black Panther, Wakandan King"
-  },
-  {
-   "name": "Valkyrior Skyrider",
-   "status": "bulk ~$0.26",
-   "why": "God; flier + 4 life feeds Tigra/Strange; cut Restorative Technique"
+   "why": "God; card advantage off Bolt/Helix/Casey/Spearmaster damage; cut to be picked when bought"
   },
   {
    "name": "Havi, the All-Father",
@@ -38,12 +23,7 @@
   {
    "name": "Kolvori, God of Kinship",
    "status": "bulk ~$0.32",
-   "why": "God; digs for legendary creatures; cut Scout the City"
-  },
-  {
-   "name": "Sif's Spearmaster",
-   "status": "bulk ~$0.25",
-   "why": "God; taps to ping, Hawkeye adds to it; cut Infinity Formula"
+   "why": "God; digs for legendary creatures; cut to be picked when bought"
   },
   {
    "name": "Conclave Mentor",
@@ -66,15 +46,31 @@
    "why": "God; recasts Bolt/Helix/Equipment and pings on noncreature spells; cut Lucky the Pizza Dog"
   },
   {
-   "name": "Heroic Intervention",
-   "status": "optional ~$6.30",
-   "why": "best wipe protection in green; cut Take Up the Shield"
+   "name": "Felidar Retreat",
+   "status": "owned (Token Triumph)",
+   "why": "under review; landfall tokens or team counters; cut Colossal Collision"
+  },
+  {
+   "name": "Dauntless Escort",
+   "status": "owned (Token Triumph)",
+   "why": "under review; sac for team indestructible; cut Colossal Collision"
+  },
+  {
+   "name": "Talisman of Unity",
+   "status": "owned (Token Triumph)",
+   "why": "optional 10th ramp piece and wipe insurance; cut Vibrant Cityscape (35 lands)"
   }
  ],
- "baseLabel": "His list, made legal",
+ "baseLabel": "His sleeved deck",
  "bracket": "Bracket 2",
  "bracketGoal": "No Game Changers",
  "cards": [
+  {
+   "name": "Agent Phil Coulson",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
   {
    "name": "Araña, Heart of the Spider",
    "qty": 1,
@@ -82,7 +78,19 @@
    "type": "Creature"
   },
   {
-   "name": "Black Panther, Wakandan King",
+   "name": "Avacyn's Pilgrim",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
+   "name": "Bast, Panther Goddess",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Beta Ray Bill",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
@@ -112,13 +120,7 @@
    "type": "Creature"
   },
   {
-   "name": "Doctor Jane Foster",
-   "qty": 1,
-   "role": "recur",
-   "type": "Creature"
-  },
-  {
-   "name": "Doctor Strange, Surgeon",
+   "name": "Champion of Lambholt",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
@@ -130,13 +132,31 @@
    "type": "Creature"
   },
   {
+   "name": "Elvish Mystic",
+   "qty": 1,
+   "role": "ramp",
+   "type": "Creature"
+  },
+  {
    "name": "Hawkeye, Young Avenger",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
+   "name": "Hit-Monkey",
+   "qty": 1,
+   "role": "prot",
+   "type": "Creature"
+  },
+  {
    "name": "Iron Fist, Hero for Hire",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
+   "name": "Loki Laufeyson",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
@@ -178,21 +198,15 @@
    "type": "Creature"
   },
   {
-   "name": "Mockingbird, Ace Agent",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
-   "name": "Radioactive Spider",
-   "qty": 1,
-   "role": "tutor",
-   "type": "Creature"
-  },
-  {
    "name": "Raphael, the Muscle",
    "qty": 1,
    "role": "win",
+   "type": "Creature"
+  },
+  {
+   "name": "Rishkar, Peema Renegade",
+   "qty": 1,
+   "role": "ramp",
    "type": "Creature"
   },
   {
@@ -214,9 +228,15 @@
    "type": "Creature"
   },
   {
-   "name": "Silver Sable, Mercenary Leader",
+   "name": "Sif's Spearmaster",
    "qty": 1,
-   "role": "eng",
+   "role": "rem",
+   "type": "Creature"
+  },
+  {
+   "name": "Skyshroud Elf",
+   "qty": 1,
+   "role": "ramp",
    "type": "Creature"
   },
   {
@@ -238,12 +258,6 @@
    "type": "Creature"
   },
   {
-   "name": "Spider-Rex, Daring Dino",
-   "qty": 1,
-   "role": "eng",
-   "type": "Creature"
-  },
-  {
    "name": "The Sentry, Golden Guardian",
    "qty": 1,
    "role": "eng",
@@ -262,21 +276,39 @@
    "type": "Creature"
   },
   {
+   "name": "Thor, Asgard's Avenger",
+   "qty": 1,
+   "role": "eng",
+   "type": "Creature"
+  },
+  {
    "name": "Tigra, Feline Fury",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
-   "name": "White Tiger, Ava Ayala",
+   "name": "Valkyrior Skyrider",
    "qty": 1,
    "role": "eng",
    "type": "Creature"
   },
   {
+   "name": "Ajani, Caller of the Pride",
+   "qty": 1,
+   "role": "eng",
+   "type": "Planeswalker"
+  },
+  {
    "name": "Continue?",
    "qty": 1,
    "role": "recur",
+   "type": "Instant"
+  },
+  {
+   "name": "Heroic Intervention",
+   "qty": 1,
+   "role": "prot",
    "type": "Instant"
   },
   {
@@ -304,21 +336,9 @@
    "type": "Instant"
   },
   {
-   "name": "Sudden Strike",
-   "qty": 1,
-   "role": "rem",
-   "type": "Instant"
-  },
-  {
    "name": "Swords to Plowshares",
    "qty": 1,
    "role": "rem",
-   "type": "Instant"
-  },
-  {
-   "name": "Take Up the Shield",
-   "qty": 1,
-   "role": "prot",
    "type": "Instant"
   },
   {
@@ -334,33 +354,21 @@
    "type": "Sorcery"
   },
   {
+   "name": "Harmonize",
+   "qty": 1,
+   "role": "draw",
+   "type": "Sorcery"
+  },
+  {
    "name": "Murdock's Crusade",
    "qty": 1,
    "role": "rem",
    "type": "Sorcery"
   },
   {
-   "name": "Relentless Assault",
+   "name": "Overrun",
    "qty": 1,
    "role": "win",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Restorative Technique",
-   "qty": 1,
-   "role": "ramp",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Scout the City",
-   "qty": 1,
-   "role": "rem",
-   "type": "Sorcery"
-  },
-  {
-   "name": "Stunning Shot",
-   "qty": 1,
-   "role": "rem",
    "type": "Sorcery"
   },
   {
@@ -376,21 +384,9 @@
    "type": "Artifact"
   },
   {
-   "name": "Costume Closet",
-   "qty": 1,
-   "role": "eng",
-   "type": "Artifact"
-  },
-  {
    "name": "Fellwar Stone",
    "qty": 1,
    "role": "ramp",
-   "type": "Artifact"
-  },
-  {
-   "name": "Infinity Formula",
-   "qty": 1,
-   "role": "eng",
    "type": "Artifact"
   },
   {
@@ -406,6 +402,12 @@
    "type": "Artifact"
   },
   {
+   "name": "Dictate of Heliod",
+   "qty": 1,
+   "role": "eng",
+   "type": "Enchantment"
+  },
+  {
    "name": "High Score",
    "qty": 1,
    "role": "draw",
@@ -414,7 +416,7 @@
   {
    "name": "Level Up",
    "qty": 1,
-   "role": "draw",
+   "role": "eng",
    "type": "Enchantment"
   },
   {
@@ -448,19 +450,37 @@
    "type": "Enchantment"
   },
   {
-   "name": "Asgardian Citadel",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
    "name": "Avengers Tower",
    "qty": 1,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Birnin Zana Plaza",
+   "name": "Battlefield Forge",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Brushland",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Canopy Vista",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Cinder Glade",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Clifftop Retreat",
    "qty": 1,
    "role": "land",
    "type": "Land"
@@ -478,8 +498,20 @@
    "type": "Land"
   },
   {
-   "name": "Forest",
-   "qty": 8,
+   "name": "Fire-Lit Thicket",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Fortified Village",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Game Trail",
+   "qty": 1,
    "role": "land",
    "type": "Land"
   },
@@ -490,14 +522,8 @@
    "type": "Land"
   },
   {
-   "name": "Los Diablos Missile Base",
+   "name": "Karplusan Forest",
    "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Mountain",
-   "qty": 9,
    "role": "land",
    "type": "Land"
   },
@@ -508,38 +534,26 @@
    "type": "Land"
   },
   {
-   "name": "Plains",
+   "name": "Sunpetal Grove",
+   "qty": 1,
+   "role": "land",
+   "type": "Land"
+  },
+  {
+   "name": "Forest",
    "qty": 7,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Savage Mansion",
-   "qty": 1,
+   "name": "Mountain",
+   "qty": 7,
    "role": "land",
    "type": "Land"
   },
   {
-   "name": "Thriving Bluff",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Thriving Grove",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Thriving Heath",
-   "qty": 1,
-   "role": "land",
-   "type": "Land"
-  },
-  {
-   "name": "Vibrant Cityscape",
-   "qty": 1,
+   "name": "Plains",
+   "qty": 6,
    "role": "land",
    "type": "Land"
   }
@@ -555,14 +569,18 @@
  "format": "Commander",
  "name": "Miles Morales",
  "notes": [
-  "Nov 22, 2026: Added to the vault exactly as pasted. Needs fixing before it's legal: 108 cards + commander (9 over); off-colour cards for a Naya commander — Cosima, God of the Voyage (blue), Leonardo, the Balance (5-colour), Island; 2× Asgardian Citadel (nonbasic, singleton only).",
-  "Nov 22, 2026: Made legal (99 + Miles). Out: Cosima, God of the Voyage; Leonardo, the Balance; Island; 1 Asgardian Citadel (off-colour / duplicate); Scytheclaw Raptor; Cheering Crowd; Fight to the Death; Savage Land Dinosaur; 1 Plains. 37 lands.",
-  "Nov 22, 2026: Middle wants it to lean into Gods with Thor + Beta Ray Bill (Secret Lair kit, kitchen-table OK). Suggested upgrades are in Adds, each with its paired cut; prices from the Nov 12 card data."
+  "Nov 22, 2026: Added to the vault exactly as pasted, then made legal (99 + Miles).",
+  "Nov 22, 2026: Middle wants it to lean into Gods with Thor + Beta Ray Bill (Secret Lair kit, kitchen-table OK). Suggested upgrades are in Adds, each with its paired cut.",
+  "Nov 25, 2026: Main list replaced with his actual sleeved deck (from a photo) and trimmed to a legal 99 (Leonardo, the Balance out — 5-colour, illegal under Miles).",
+  "Nov 25, 2026: KEEP — never suggest cutting: Michelangelo, the Heart; The Sentry, Golden Guardian; The Thing, Ben Grimm; Iron Fist, Hero for Hire; Strength of Will; Together Forever; Spider-Man India.",
+  "Nov 25, 2026: In today: Bast, Heroic Intervention, High Score, Level Up, Valkyrior Skyrider, Sif's Spearmaster, Loki Laufeyson, Beta Ray Bill, Skyshroud Elf, Fire-Lit Thicket, Rishkar, Champion of Lambholt, Overrun, Harmonize, Dictate of Heliod, Ajani, Thor Asgard's Avenger, Hit-Monkey, Elvish Mystic, Avacyn's Pilgrim, Canopy Vista, Fortified Village.",
+  "Nov 25, 2026: Out today: Black Panther Wakandan King, Take Up the Shield, Cheering Crowd, Fight to the Death, Restorative Technique, Infinity Formula, Costume Closet, Savage Land Dinosaur, Spider-Rex, Doctor Jane Foster, Stunning Shot, Scout the City, Doctor Strange, Mockingbird, Sudden Strike, White Tiger, Silver Sable, Radioactive Spider, Vibrant Cityscape, 1 Forest, 2 Mountain, 2 Plains.",
+  "Nov 25, 2026: Land upgrade — Battlefield Forge, Clifftop Retreat, Cinder Glade, Game Trail, Karplusan Forest, Sunpetal Grove, Brushland in for Asgardian Citadel, Thriving Heath, Savage Mansion, Los Diablos Missile Base, Thriving Bluff, Birnin Zana Plaza, Thriving Grove. Family has extra copies, so Thanos keeps its Forge/Brushland/Karplusan too. 35 lands (7 Forest, 7 Mountain, 6 Plains + 15 nonbasic); 9 ramp pieces."
  ],
  "order": 45,
  "owner": "Middle",
- "source": "Pasted by Andrew Nov 22, 2026; trimmed to a legal 99 the same day",
+ "source": "From a photo of his sleeved deck, Nov 25, 2026; trimmed to a legal 99",
  "target": 100,
  "themeLabel": "Heroes, Gods & +1/+1 counters",
- "updated": "Nov 22, 2026"
+ "updated": "Nov 25, 2026"
 }

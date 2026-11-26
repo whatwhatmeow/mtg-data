@@ -1,6 +1,11 @@
 {
  "adds": [
   {
+   "name": "Winds of Abandon",
+   "status": "planned",
+   "why": "Nov 25, 2026 house pick for every white S-B deck. 2 mana: exile a blocker or threat; overload {4}{W}{W}: one-sided exile wipe that clears the way for Cloud and leaves his Equipment board alone. About $5-8 (Mystical Archive printing is cheapest). Cut not chosen."
+  },
+  {
    "name": "Swords to Plowshares",
    "status": "planned",
    "why": "Replaces Sword of the Animist (2nd copy). Commander is singleton, so the second copy isn't legal. Swap in 1-mana removal."
