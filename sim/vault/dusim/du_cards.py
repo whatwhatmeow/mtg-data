@@ -92,9 +92,28 @@ LANDS = {
     "Crypt of Agadeem": dict(prod="B", tapped=True),
     "Bog Wreckage": dict(prod="B", tapped=True),
     "Desert of the Glorified": dict(prod="B", tapped=True),
+    # Nov 26, 2026: Andrew's sleeved 37-land unique base (light models)
+    "Multiversal Passage": dict(prod="B", swamp=True),              # pays 2 life to enter untapped as a Swamp
+    "Grand Coliseum": dict(prod="B", tapped=True, ping=1),
+    "Daily Bugle Building": dict(prod="C"),                         # filter ability not modeled
+    "Baxter Building": dict(prod="C"),                              # {4} rainbow and draw not modeled
+    "The Grey Havens": dict(prod="C"),
+    "Surveillance Room": dict(prod="C"),                            # surveil/filter not modeled
+    "Great Hall of the Citadel": dict(prod="C"),                    # legendary-only filter not modeled
+    "Villainous Hideout": dict(prod="C"),                           # Villain-only black (Doom) not modeled: conservative
+    "Mishra's Factory": dict(prod="C"),
+    "Mishra's Foundry": dict(prod="C"),
+    "Hidden Hideout": dict(prod="B", tapped=True),
+    "Big Apple, 3 a.m.": dict(prod="B", tapped=True),
+    "Dakmor Salvage": dict(prod="B", tapped=True),                  # dredge not modeled
+    "Pelakka Predation // Pelakka Caverns": dict(prod="B", tapped=True),  # played as the land only
+    "Spawning Pool": dict(prod="B", tapped=True),
 }
 
 CARDS = {
+    # Nov 26, 2026: sleeved-list cards
+    "Demonic Bargain": dict(cost=C(2, 1), type="sorcery", tags={"tutor"}),
+    "Project Deathlok Soldier": dict(cost=C(0, 1), type="creature", tags={"fodder"}, artifact=True),
     "Doctor Doom, Unrivaled": dict(cost=C(2, 2), type="creature", tags={"doom"}),
     # fast mana / rocks
     "Sol Ring": dict(cost=C(1), type="artifact", tags={"rock"}, prod="CC"),
