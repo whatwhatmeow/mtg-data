@@ -1710,6 +1710,7 @@
  "name": "Latveria Does Not Negotiate",
  "notes": [
   "Nov 26, 2026: renamed Latveria Does Not Negotiate and cut down to three versions. Main list = The Iron Mask (your sleeved deck, Bracket 3, no Game Changers); versions: Latverian Black Market (bang-for-the-buck upgrades) and God Emperor Doom (Ideal). Deleted: Ideal no-GC (now God Emperor Doom), Budget, both Build-today lists, Bracket 4, Bracket 5 and Sleeved + 2 GC; backup in mtg-data decks/_retired/doom-unrivaled-2026-11-25.json.",
+  "Nov 26 rule: the only win con is Doom. Backups must be other ways to empty the library (Leveler, Inverter of Truth, Mirror of Fate, Doomsday, Tainted Pact, Demonic Consultation, Demonic Bargain); no drain or damage finishers. Demonic Bargain is in all three versions.",
   "Nov 26: Cabal Ritual in for Treasure Map (Andrew's call: pairs with Dark Ritual for fast Doom turns; it's in every version).",
   "3 Game Changer swaps (all owned): Demonic Tutor in for Tormod's Crypt, The One Ring in for Charcoal Diamond, Opposition Agent in for Ornithopter. Nov 26 sim, 4,000 games, Bracket 3 table: about 0.07 turns faster, i.e. nearly even. The sim doesn't model Opposition Agent stealing the table's tutors and fetches, and undersells the Ring, so the real gain is bigger against your table, not smaller. Check first: the Ring and Bowmasters were also floated for a Sauron B3 build.",
   "The Iron Mask, Nov 26 sim, 4,000 games, Bracket 3 table: by turn 6 51%, turn 8 81%, turn 10 91%. Weakest slots in the sim: Victimize, Zombify, Buried Alive, Project Deathlok Soldier (the reanimation pile mostly overlaps Persist, Reanimate and Animate Dead). Removal reads as near-zero in a solitaire sim; kept on purpose for your interactive tables.",
@@ -1954,12 +1955,6 @@
      "role": "land"
     },
     {
-     "name": "Exsanguinate",
-     "qty": 1,
-     "type": "Sorcery",
-     "role": "win"
-    },
-    {
      "name": "Fell the Profane // Fell Mire",
      "qty": 1,
      "type": "Instant",
@@ -2032,6 +2027,12 @@
      "role": "land"
     },
     {
+     "name": "Mirror of Fate",
+     "qty": 1,
+     "type": "Artifact",
+     "role": "win"
+    },
+    {
      "name": "Mortuary Mire",
      "qty": 1,
      "type": "Land",
@@ -2054,12 +2055,6 @@
      "qty": 1,
      "type": "Instant",
      "role": "tutor"
-    },
-    {
-     "name": "Psychosis Crawler",
-     "qty": 1,
-     "type": "Creature",
-     "role": "win"
     },
     {
      "name": "Scheming Symmetry",
@@ -2116,12 +2111,6 @@
      "role": "land"
     },
     {
-     "name": "Ultron the Annihilator",
-     "qty": 1,
-     "type": "Creature",
-     "role": "win"
-    },
-    {
      "name": "Urborg, Tomb of Yawgmoth",
      "qty": 1,
      "type": "Land",
@@ -2167,10 +2156,6 @@
     },
     {
      "name": "Dakmor Salvage",
-     "qty": 1
-    },
-    {
-     "name": "Demonic Bargain",
      "qty": 1
     },
     {
@@ -2246,10 +2231,6 @@
      "qty": 1
     },
     {
-     "name": "Snuff Out",
-     "qty": 1
-    },
-    {
      "name": "Spawning Pool",
      "qty": 1
     },
@@ -2295,10 +2276,11 @@
     }
    ],
    "notes": [
-    "The fastest list the sim found with no budget and no Game Changers. About $730 at the cheapest printings. Includes Cabal Ritual.",
-    "Nov 26 sim, 4,000 games, Bracket 3 table: by turn 6 73%, turn 8 90%, turn 10 95%. About 1.1 turns faster than The Iron Mask.",
-    "3 Game Changer slots (the sim's best three): Demonic Tutor ($58.61, owned) in for Mask of Memory, Vampiric Tutor ($44.32) in for Stargaze, Chrome Mox ($51.19) in for Murmuring Volume. Nov 26 sim: by turn 6 76%, turn 8 91%, about 0.2 turns faster than without them. Ultron the Annihilator stays as the backup win.",
-    "Doctor Doom (the six-mana creature) and Psychosis Crawler are backup pieces; the sim rates both near zero.",
+    "The fastest list the sim found with no budget and no Game Changers. About $730 at the cheapest printings. Includes Cabal Ritual and Demonic Bargain.",
+    "Win con is Doom only (Andrew's rule, Nov 26): every backup is another way to empty the library (Leveler, Inverter of Truth, Mirror of Fate, Tainted Pact, Demonic Consultation). Nov 26: Ultron the Annihilator out for Demonic Bargain, Exsanguinate out for Mirror of Fate ($0.63), Psychosis Crawler out for Snuff Out. Net about 0.06 turns faster.",
+    "Nov 26 sim, 4,000 games, Bracket 3 table: by turn 6 74%, turn 8 90%, turn 10 95%. About 1.1 turns faster than The Iron Mask. Doomsday tested slower here than Mirror of Fate, so it stays out of this version.",
+    "3 Game Changer slots (the sim's best three): Demonic Tutor ($58.61, owned) in for Mask of Memory, Vampiric Tutor ($44.32) in for Stargaze, Chrome Mox ($51.19) in for Murmuring Volume. Nov 26 sim: by turn 6 76%, turn 8 91%, about 0.2 turns faster than without them.",
+    "Doctor Doom (the six-mana creature) is a draw engine and Doombot maker, not a win; the sim rates him near zero.",
     "Every card name appears once, so Tainted Pact works."
    ]
   }
