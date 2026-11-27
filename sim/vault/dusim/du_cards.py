@@ -78,7 +78,7 @@ LANDS = {
     "High Market": dict(prod="C"),
     "Cabal Stronghold": dict(prod="C"),
     "Geier Reach Sanitarium": dict(prod="C"),
-    "Ash Barrens": dict(prod="B", tapped=True),
+    "Ash Barrens": dict(prod="C"),                                 # untapped {C}; basic landcycling {1} not modeled (corrected Nov 26)
     "Fabled Passage": dict(prod="B", tapped=True, swamp=True),
     "Reflecting Pool": dict(prod="B"),
     "Plaza of Heroes": dict(prod="C"),
