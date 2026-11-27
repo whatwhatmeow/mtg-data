@@ -2120,12 +2120,6 @@
      "role": "draw"
     },
     {
-     "name": "Mirrex",
-     "qty": 1,
-     "type": "Land",
-     "role": "land"
-    },
-    {
      "name": "Mirror of Fate",
      "qty": 1,
      "type": "Artifact",
@@ -2322,10 +2316,6 @@
      "qty": 1
     },
     {
-     "name": "Scavenger Grounds",
-     "qty": 1
-    },
-    {
      "name": "Spawning Pool",
      "qty": 1
     },
@@ -2371,7 +2361,7 @@
     "Win con is Doom only (Andrew's rule, Nov 26): every backup is another way to empty the library (Leveler, Inverter of Truth, Mirror of Fate, Tainted Pact, Demonic Consultation). Nov 26: Ultron the Annihilator out for Demonic Bargain, Exsanguinate out for Mirror of Fate ($0.63), Psychosis Crawler out for Snuff Out. Net about 0.06 turns faster.",
     "Nov 26 sim, 4,000 games, Bracket 3 table: by turn 6 74%, turn 8 90%, turn 10 95%. About 1.1 turns faster than The Iron Mask. Doomsday tested slower here than Mirror of Fate, so it stays out of this version.",
     "3 Game Changer slots (the sim's best three): Demonic Tutor ($58.61, owned) in for Mask of Memory, Vampiric Tutor ($44.32) in for Stargaze, Chrome Mox ($51.19) in for Murmuring Volume. Nov 26 sim: by turn 6 76%, turn 8 91%, about 0.2 turns faster than without them.",
-    "Nov 26 (later): Tormod's Crypt in for the six-mana Doctor Doom (Andrew's call; a second graveyard-exile for Inverter of Truth beside Bojuka Bog, tested even) and Ash Barrens in for Leechridden Swamp (Ash Barrens enters untapped; the sim had it as a tapped land until Nov 26; tested even, and its basic landcycling isn't modeled, so the real edge is a bit better). Both are already in your sleeved deck.",
+    "Nov 26 (later): Tormod's Crypt in for the six-mana Doctor Doom (Andrew's call; a second graveyard-exile for Inverter of Truth beside Bojuka Bog, tested even) and Ash Barrens in for Leechridden Swamp (Ash Barrens enters untapped; the sim had it as a tapped land until Nov 26; tested even, and its basic landcycling isn't modeled, so the real edge is a bit better). Both are already in your sleeved deck. Scavenger Grounds back in for Mirrex: {2}, tap and sacrifice it to exile all graveyards, a third way to set up Inverter of Truth (sim now models this; small but consistent gain). Also already in your sleeved deck.",
     "Every card name appears once, so Tainted Pact works."
    ]
   }

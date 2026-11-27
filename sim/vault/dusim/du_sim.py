@@ -382,6 +382,11 @@ class Game:
     def gy_exiler_ready(self):
         return self.has("gyexile") or ("Bojuka Bog" in self.hand and not self.land_played)
 
+    def scavenger_ready(self):
+        if not any(l["name"] == "Scavenger Grounds" for l in self.lands):
+            return False
+        return self.can_pay(self.cost("Inverter of Truth"), extra=3)
+
     def try_wins(self):
         if "Exsanguinate" in self.hand and self.pool.count("B") >= 2 and len(self.pool) - 2 >= 40 - self.drained:
             self.pay({"g": len(self.pool) - 2, "B": 2}); self.hand.remove("Exsanguinate"); self.gy.append("Exsanguinate")
@@ -465,7 +470,11 @@ class Game:
             return
         # Inverter of Truth with an empty graveyard
         if "Inverter of Truth" in self.hand and self.can_pay(self.cost("Inverter of Truth")) and \
-                (self.gy_exiler_ready() or len(self.gy) <= self.draw_capacity()):
+                (self.gy_exiler_ready() or len(self.gy) <= self.draw_capacity() or self.scavenger_ready()):
+            if not self.gy_exiler_ready() and len(self.gy) > self.draw_capacity():
+                self.pay({"g": 3, "B": 0})   # Nov 26: Scavenger Grounds ({2}, tap and sacrifice itself) exiles all graveyards
+                self.lands = [l for l in self.lands if l["name"] != "Scavenger Grounds"]
+                self.gy.clear()
             self.pay(self.cost("Inverter of Truth"))
             self.hand.remove("Inverter of Truth")
             if not self.attempt("inverter"):
