@@ -31,7 +31,7 @@ Played on Board Game Arena, usually 2-player against The Professor. Compiled 202
 - **Get reputation up** so the third action upgrade arrives.
 - **First upgrade**: Association or Animals before Sponsors, unless the plan is built on Sponsors income.
 - **X-tokens over an unused worker** late in the game.
-- **Don't take a card only to deny it** unless the opponent clearly wants it.
+- **Don't take a card only to deny it** unless the opponent clearly wants it. Exception from strong players: point-bomb or key animals (tigers, panda, elephants, eagles, rhinos, sun bear) are worth denying.
 - **Drawing cards at a conservation milestone** has beaten taking coins.
 - **Action efficiency beats best-move-per-turn.** Andrew's own orderings were often better: build before breaking for Sponsors money; Cards over Animals to avoid a costly discard; a project with better points per action over a low tier.
 - **Combine Cards and Sponsors into one plan** (draw, then discard the unused cards for income) rather than judging each card alone.
@@ -62,20 +62,28 @@ Lessons:
 
 ## Strategy from strong players (researched 2026-11-28)
 
-Sources: BGA Ark Nova tips page (en.doc.boardgamearena.com/Tips_arknova), BGA forum thread "I was 300 ELO for 300 games. Now I'm 500 ELO", Zatu tactics articles.
+Sources: BGA Ark Nova tips wiki, BGA forum thread "I was 300 ELO for 300 games. Now I'm 500 ELO" and replies, Zatu "Tips and Tricks" and "Tactics part 2", the "5 Beginner Mistakes" video, a 2026 strategy-blog post on the first three rounds.
 
-- **It's a sprint.** Gain appeal and conservation faster than the opponent, and end the game quickly. Don't over-optimize; play good animals, take breaks, repeat.
-- **Releasing animals is a core engine.** Releasing costs the animal's appeal, pays conservation by its size, and **gives the enclosure back**. Value 1 conservation as about 3 appeal once past 10. Iconic animals (wolf, secretary bird, white stork, bison...) are the best releases. Cheap, low-appeal animals are good too, because what they pay in appeal roughly cancels out. Look for release projects from turn one, and draw toward them when the base projects don't fit your hand.
-- **Support projects at the bottom tier early, across several projects.** Top tiers across several projects are hard to reach. For country projects, take 2 or 5 (4 gives only 3). For others, take 2 early or 4 or 5 later. First project by round 2 or 3. Claim project bonus spaces first, since they're removed once taken.
-- **Conservation also raises income.** Every cube that leaves the income space pays out at breaks.
-- **Upgrade priority:** Animals or Sponsors first, then Cards; Association is usually last. Build upgrades are overrated on many maps, because releases and size-2 bonuses free up enough space. (The exception is a cramped map like this game's Caves, where Build mattered.) The second worker from the conservation track is often better than upgrading Association. Sponsors upgrades are stronger than they look.
-- **Claim a university or partner zoo early.** Asia is a solid default. Each matching continent icon cuts animal cost by 3.
-- **Avoid small, low-appeal animals.** Go cheap, then medium, then expensive. Build speculative size-2 or 3 enclosures early.
-- **Plan breaks.** Know whether a break helps you or the opponent (it pays more to the higher appeal). When you have no money and no workers, advancing the break is a fallback.
-- **Watch the display and snap.** Snapping also denies the opponent. Don't dig for cards when you already have a playable option. With Cards upgraded, draw one card at a time.
-- **Don't hoard cards.** A break can wipe out a big hand.
-- **X-tokens:** a strength-5 action followed by a boosted strength-5 action makes a big burst.
-- **Kiosks** earn 1 coin per adjacent building or occupied space. Place one or two next to many different structures, never in corners.
+**Units.** Ark Nova has no formal rounds. A *turn* is one action card. Guides use *round* loosely, usually for the stretch between two breaks (sometimes for one turn each). Read timing advice as "by break N", not "by turn N": break pace depends on both players. Zatu's "large animals around turn 4" is really "after a break or two of income".
+
+### Agreed across sources (treat as how the game works)
+
+- **It's a race.** The game ends when appeal and conservation meet. Gain both faster, then end it. Don't over-optimize.
+- **Early conservation is worth more than it looks.** Bonus spaces go to whoever gets there first. First project before the 2nd or 3rd break. Spread bottom-tier support across several projects. Regional projects: take 2 or 5 (4 gives only 3). CP cubes leaving the income space pay at every break.
+- **Releasing is the big engine.** 1 CP is about 3 appeal (Lynx: -2 appeal, +4 CP = net +10). Iconic and cheap low-appeal animals are the best releases, and the enclosure comes back. Check release projects from turn one.
+- **Animal pacing:** cheap, then medium, then expensive. Avoid a zoo of low-appeal small animals; a cheap opener before the first break is fine.
+- **University or partner zoo early,** before the opponent. Asia is the default. Each matching icon is -3 cost.
+- **The break is a weapon.** Strong players trigger over half of them, especially early, to force discards. Before triggering, check each player's money, unused workers and hand size.
+- **Don't overbuild or hoard cards.** 2 money per space; extra empty enclosures waste money; a break can wipe a big hand.
+- **Smaller agreed points:** strength-5 action then boosted strength-5 action is a big burst; one or two kiosks next to many structures; once someone is around 50-60 and a break hits, about three or four moves are left, so play points, not draws.
+
+### Contested (playstyle, pick per game)
+
+- **Snap vs blind draw.** BGA wiki: snap, avoid blind draws. Zatu: drawing at strength 3-4 gives variety. Nobody recommends a blind draw at strength 2.
+- **First upgrade.** Zatu: Association first. BGA wiki: Animals or Sponsors safest, Association usually last. Forum veterans: try the 2-CP worker and the Sponsors upgrade instead of Build or Association. Map overrides all of this (Build first on cramped maps like Caves).
+- **Income.** "Income is king" (500-ELO poster) vs "income isn't as big a deal as people think" (replies). Two archetypes: income engine (appeal early, kiosks, expensive animals) vs lean tempo (Sponsors upgrade, sponsors make money, associate often, push breaks).
+- **Worker from the first CP milestone.** One player says opponents punish it; others take it every game, and say it's hard to punish when taken at 2 CP instead of a card upgrade.
+- **Opening shape.** One blog says Cards and Association in rounds 1-3, Animals and Build second. Read per-turn, that's just "Association in the first few turns"; read per-break, it's a third of the game and clashes with the sprint consensus.
 
 ## Open habits to fix
 
