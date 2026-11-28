@@ -57,6 +57,8 @@ Lessons:
 - **Hiring a second Association worker at strength 5** was Andrew's call and was right.
 - **Before a cash Sponsors turn, check whether it puts the break within reach of the opponent's Sponsors II** (break X, gain 2X).
 - **When the opponent leads appeal, break income favours him.** Stop pushing the break.
+- **How the Professor won (his own words):** he released herbivores into the wild, each carrying +1 conservation, and snowballed into the conservation rewards. Strong players rate releasing highly. Claude never suggested it. Next game, check the release-into-the-wild projects from turn one and plan cheap animals that can be released.
+- **His sponsor that rearranges enclosures** let him fix placement mistakes. Watch for sponsors like that.
 
 ## Open habits to fix
 
