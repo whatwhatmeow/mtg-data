@@ -1160,12 +1160,6 @@
    "role": "draw"
   },
   {
-   "name": "Buried Alive",
-   "qty": 1,
-   "type": "Sorcery",
-   "role": "recur"
-  },
-  {
    "name": "Buried Ruin",
    "qty": 1,
    "type": "Land",
@@ -1364,6 +1358,12 @@
    "role": "draw"
   },
   {
+   "name": "Inverter of Truth",
+   "qty": 1,
+   "type": "Creature",
+   "role": "win"
+  },
+  {
    "name": "Isolinear Processor",
    "qty": 1,
    "type": "Artifact",
@@ -1488,12 +1488,6 @@
    "qty": 1,
    "type": "Land",
    "role": "land"
-  },
-  {
-   "name": "Project Deathlok Soldier",
-   "qty": 1,
-   "type": "Creature",
-   "role": "other"
   },
   {
    "name": "Read the Bones",
@@ -1622,6 +1616,12 @@
    "role": "tutor"
   },
   {
+   "name": "The Cruelty of Gix",
+   "qty": 1,
+   "type": "Enchantment",
+   "role": "tutor"
+  },
+  {
    "name": "The Grey Havens",
    "qty": 1,
    "type": "Land",
@@ -1710,10 +1710,11 @@
  "name": "Latveria Does Not Negotiate",
  "notes": [
   "Nov 26, 2026: renamed Latveria Does Not Negotiate and cut down to three versions. Main list = The Iron Mask (your sleeved deck, Bracket 3, no Game Changers); versions: Latverian Black Market (bang-for-the-buck upgrades) and God Emperor Doom (Ideal). Deleted: Ideal no-GC (now God Emperor Doom), Budget, both Build-today lists, Bracket 4, Bracket 5 and Sleeved + 2 GC; backup in mtg-data decks/_retired/doom-unrivaled-2026-11-25.json.",
+  "Nov 27: The Cruelty of Gix in for Project Deathlok Soldier, Inverter of Truth in for Buried Alive (both bought Nov 27). Zombify and Nasty End kept by choice: Nasty End sacrifices Doom in response to removal and draws 3 (he's legendary). Nov 27 sim, 5,000 games: about 0.13 turns faster; by turn 6 56%, turn 8 84%, turn 10 92%. Next buy: Springleaf Drum ($0.25) for Victimize, about 0.12 turns more.",
   "Nov 26 rule: the only win con is Doom. Backups must be other ways to empty the library (Leveler, Inverter of Truth, Mirror of Fate, Doomsday, Tainted Pact, Demonic Consultation, Demonic Bargain); no drain or damage finishers. Demonic Bargain is in all three versions.",
   "Nov 26: Cabal Ritual in for Treasure Map (Andrew's call: pairs with Dark Ritual for fast Doom turns; it's in every version).",
+  "Weakest slots now (Nov 27 sim): Victimize, Persist, Isolinear Processor, Charcoal Diamond, Ornithopter. Removal reads as near-zero in a solitaire sim; kept on purpose for your interactive tables. Tormod's Crypt and Scavenger Grounds are the graveyard exilers that let Inverter of Truth empty the library.",
   "3 Game Changer swaps (all owned): Demonic Tutor in for Tormod's Crypt, The One Ring in for Charcoal Diamond, Opposition Agent in for Ornithopter. Nov 26 sim, 4,000 games, Bracket 3 table: about 0.07 turns faster, i.e. nearly even. The sim doesn't model Opposition Agent stealing the table's tutors and fetches, and undersells the Ring, so the real gain is bigger against your table, not smaller. Check first: the Ring and Bowmasters were also floated for a Sauron B3 build.",
-  "The Iron Mask, Nov 26 sim, 4,000 games, Bracket 3 table: by turn 6 51%, turn 8 81%, turn 10 91%. Weakest slots in the sim: Victimize, Zombify, Buried Alive, Project Deathlok Soldier (the reanimation pile mostly overlaps Persist, Reanimate and Animate Dead). Removal reads as near-zero in a solitaire sim; kept on purpose for your interactive tables.",
   "Lands: 37 all-unique names, so Tainted Pact works. Kept by choice: Duress, Adaptive Omnitool, Doomsday, Horn of Greed, Doomfall, Whispersilk Cloak.",
   "Plan: Doom + Tainted Pact or Demonic Consultation (exile the library, tap Doom), Doom + Leveler or Inverter of Truth, with a pile of tutors to find them. Every card name appears once, so Tainted Pact works. Tell the table about the two-card wins before the game.",
   "Line A: cast Doom off fast mana, give him haste (Lightning Greaves {2}, equip {0}; Lavaspur Boots {1}, equip {1}), then Demonic Consultation naming a card not in the deck, or Tainted Pact taking nothing, and tap Doom.",
@@ -1726,10 +1727,10 @@
  ],
  "order": 2,
  "owner": "Andrew",
- "source": "Andrew's sleeved deck, matched Nov 25; Cabal Ritual added Nov 26",
+ "source": "Andrew's sleeved deck; Cabal Ritual added Nov 26; Gix and Inverter Nov 27",
  "target": 100,
  "themeLabel": "Empty the library",
- "updated": "Nov 26, 2026",
+ "updated": "Nov 27, 2026",
  "variants": [
   {
    "id": "black-market",
@@ -1737,8 +1738,8 @@
    "name": "Latveria Does Not Negotiate (Latverian Black Market)",
    "bracket": "Bracket 3",
    "bracketGoal": "0 Game Changers; 3 Game Changer swap notes",
-   "source": "Nov 26 sim: The Iron Mask plus the 12 best cheap upgrades and the 11 under-$5 lands from the Ideal",
-   "updated": "Nov 26, 2026",
+   "source": "Nov 27 sim: The Iron Mask plus 10 cheap spells and the 11 under-$5 lands",
+   "updated": "Nov 27, 2026",
    "in": [
     {
      "name": "Beseech the Mirror",
@@ -1801,12 +1802,6 @@
      "role": "tutor"
     },
     {
-     "name": "Inverter of Truth",
-     "qty": 1,
-     "type": "Creature",
-     "role": "win"
-    },
-    {
      "name": "Jeweled Amulet",
      "qty": 1,
      "type": "Artifact",
@@ -1861,12 +1856,6 @@
      "role": "ramp"
     },
     {
-     "name": "The Cruelty of Gix",
-     "qty": 1,
-     "type": "Enchantment",
-     "role": "tutor"
-    },
-    {
      "name": "The Dross Pits",
      "qty": 1,
      "type": "Land",
@@ -1897,7 +1886,7 @@
      "qty": 1
     },
     {
-     "name": "Buried Alive",
+     "name": "Charcoal Diamond",
      "qty": 1
     },
     {
@@ -1929,19 +1918,11 @@
      "qty": 1
     },
     {
-     "name": "Nasty End",
-     "qty": 1
-    },
-    {
      "name": "Pelakka Predation // Pelakka Caverns",
      "qty": 1
     },
     {
      "name": "Persist",
-     "qty": 1
-    },
-    {
-     "name": "Project Deathlok Soldier",
      "qty": 1
     },
     {
@@ -1974,13 +1955,14 @@
     }
    ],
    "notes": [
-    "Bang-for-the-buck upgrades from The Iron Mask: 12 spells plus 11 lands, about $114 total at the cheapest printings (Nov 12 prices).",
-    "Step 1, the cheap core (about $18.50, 0.58 turns faster on its own): The Cruelty of Gix ($1.31) for Tormod's Crypt, Inverter of Truth ($0.95) for Victimize, Dark Petition ($2.95) for Zombify, Scheming Symmetry ($8.01) for Buried Alive, Jeweled Amulet ($4.70) for Project Deathlok Soldier, Shambling Ghast ($0.33) for Isolinear Processor, Springleaf Drum ($0.25) for Persist.",
-    "Step 2, the tutor pack (about $87 more): Cruel Tutor ($11.75) for Deadly Dispute, Plunge into Darkness ($15.40) for Animate Dead, Insidious Dreams ($16.81) for Black Market Connections, Beseech the Mirror ($19.25) for Thran Dynamo, Grim Tutor ($23.81) for Nasty End.",
-    "Step 3, the under-$5 lands (about $7.55; Evolving Wilds you already own; 0.12 turns faster): Bojuka Bog ($1.42) for Big Apple, 3 a.m.; Castle Locthwain ($1.07) for Hidden Hideout; Ifnir Deadlands ($0.25) for Dakmor Salvage; Mirrex ($0.78) for Spawning Pool; Treasure Vault ($1.12) for Pelakka Predation; Peat Bog ($1.20) for Grand Coliseum; Ebon Stronghold ($0.38) for Baxter Building; Evolving Wilds (owned) for Daily Bugle Building; Leechridden Swamp ($0.76) for The Grey Havens; Mortuary Mire ($0.29) for Surveillance Room; The Dross Pits ($0.28) for Mishra's Foundry. Bojuka Bog matters most: Tormod's Crypt is gone here, and Bog on yourself empties your graveyard so Inverter of Truth empties the library. Fell the Profane ($5.47) just missed the cutoff. Still 37 unique names plus both basics for Evolving Wilds and Fabled Passage.",
-    "Nov 26 sim, 6,000 games, Bracket 3 table, with the lands: by turn 6 71%, turn 8 90%, turn 10 94%. About 0.9 turns faster than The Iron Mask for about $114, most of the way to God Emperor Doom.",
+    "Bang-for-the-buck upgrades from The Iron Mask: 10 spells plus 11 lands, about $111 total at the cheapest printings (Nov 12 prices). Nasty End stays (sac Doom in response to removal, draw 3).",
+    "Step 1, the cheap core (about $16): Springleaf Drum ($0.25) for Victimize, Scheming Symmetry ($8.01) for Isolinear Processor, Jeweled Amulet ($4.70) for Charcoal Diamond, Shambling Ghast ($0.33) for Persist, Dark Petition ($2.95) for Zombify.",
+    "Step 2, the tutor pack (about $87): Plunge into Darkness ($15.40) for Animate Dead, Cruel Tutor ($11.75) for Deadly Dispute, Insidious Dreams ($16.81) for Black Market Connections, Beseech the Mirror ($19.25) for Thran Dynamo, Grim Tutor ($23.81) for Tormod's Crypt.",
+    "Step 3, the under-$5 lands (about $7.55; Evolving Wilds you already own): Bojuka Bog ($1.42) for Big Apple, 3 a.m.; Castle Locthwain ($1.07) for Hidden Hideout; Ifnir Deadlands ($0.25) for Dakmor Salvage; Mirrex ($0.78) for Spawning Pool; Treasure Vault ($1.12) for Pelakka Predation; Peat Bog ($1.20) for Grand Coliseum; Ebon Stronghold ($0.38) for Baxter Building; Evolving Wilds (owned) for Daily Bugle Building; Leechridden Swamp ($0.76) for The Grey Havens; Mortuary Mire ($0.29) for Surveillance Room; The Dross Pits ($0.28) for Mishra's Foundry. Buy Bojuka Bog with Grim Tutor: once Tormod's Crypt is out, Bog (and Scavenger Grounds) are how Inverter of Truth empties the library.",
+    "Nov 27 sim, 6,000 games, Bracket 3 table: by turn 6 71%, turn 8 90%, turn 10 95%. About 0.7 turns faster than The Iron Mask (which now has Gix and Inverter), most of the way to God Emperor Doom.",
+    "Rebuilt Nov 27 on top of the new Iron Mask: The Cruelty of Gix and Inverter of Truth are owned and sleeved now, Nasty End and Ornithopter stay (Nasty End fodder, and Ornithopter is Opposition Agent's slot). Charcoal Diamond goes for Jeweled Amulet instead.",
     "Skipped on purpose: Mox Amber, The Soul Stone, Cavern of Souls, Urborg, Lake of the Dead, Urza's Saga, Mox Opal. Each adds under 0.1 turns for a lot of money.",
-    "3 Game Changer swaps (all owned): Demonic Tutor in for Murmuring Volume, The One Ring in for Charcoal Diamond, Opposition Agent in for Ornithopter. Sim: about even (Agent isn't modeled; the Ring is undersold). Tormod's Crypt is already gone here, so Demonic Tutor takes Murmuring Volume's slot instead.",
+    "3 Game Changer swaps (all owned): Demonic Tutor in for Murmuring Volume, The One Ring in for Millikin, Opposition Agent in for Ornithopter. About even in the sim (Agent isn't modeled; the Ring is undersold).",
     "Every card name appears once, so Tainted Pact works."
    ]
   },
@@ -1991,7 +1973,7 @@
    "bracket": "Bracket 3",
    "bracketGoal": "0 Game Changers; 3 Game Changer slots noted (Demonic Tutor, Vampiric Tutor, Chrome Mox)",
    "source": "Nov 21 sim-driven Ideal (no Game Changers, no budget); GC slots re-tested Nov 26",
-   "updated": "Nov 26, 2026",
+   "updated": "Nov 27, 2026",
    "in": [
     {
      "name": "Agadeem's Awakening // Agadeem, the Undercrypt",
@@ -2084,12 +2066,6 @@
      "role": "tutor"
     },
     {
-     "name": "Inverter of Truth",
-     "qty": 1,
-     "type": "Creature",
-     "role": "win"
-    },
-    {
      "name": "Jeweled Amulet",
      "qty": 1,
      "type": "Artifact",
@@ -2174,12 +2150,6 @@
      "role": "ramp"
     },
     {
-     "name": "The Cruelty of Gix",
-     "qty": 1,
-     "type": "Enchantment",
-     "role": "tutor"
-    },
-    {
      "name": "The Dross Pits",
      "qty": 1,
      "type": "Land",
@@ -2221,10 +2191,6 @@
     },
     {
      "name": "Black Market Connections",
-     "qty": 1
-    },
-    {
-     "name": "Buried Alive",
      "qty": 1
     },
     {
@@ -2309,10 +2275,6 @@
     },
     {
      "name": "Phyrexian Arena",
-     "qty": 1
-    },
-    {
-     "name": "Project Deathlok Soldier",
      "qty": 1
     },
     {

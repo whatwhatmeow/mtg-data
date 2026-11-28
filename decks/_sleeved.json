@@ -293,7 +293,6 @@
    "Cool but Rude": true,
    "Counterspell": true,
    "Crucible of Worlds": true,
-   "Currency Converter": true,
    "Dakmor Salvage": true,
    "Dark Deal": true,
    "Darkwater Catacombs": true,
@@ -311,7 +310,7 @@
    "Graven Cairns": true,
    "Green Goblin, Nemesis": true,
    "Hidden Lair": true,
-   "Howling Mine": false,
+   "Howling Mine": true,
    "Irma, Part-Time Mutant": true,
    "Island": true,
    "Jace's Archivist": true,
@@ -385,7 +384,6 @@
    "Beseech the Queen": true,
    "Big Apple, 3 a.m.": true,
    "Black Market Connections": true,
-   "Buried Alive": true,
    "Buried Ruin": true,
    "Cabal Pit": true,
    "Castle Doom": true,
@@ -440,7 +438,6 @@
    "Peter Parker's Camera": true,
    "Phyrexian Arena": true,
    "Polluted Mire": true,
-   "Project Deathlok Soldier": true,
    "Read the Bones": true,
    "Reanimate": true,
    "Resentful Revelation": true,
@@ -475,7 +472,9 @@
    "Wishclaw Talisman": true,
    "Withering Torment": true,
    "Zombify": true,
-   "Cabal Ritual": true
+   "Cabal Ritual": true,
+   "The Cruelty of Gix": true,
+   "Inverter of Truth": true
   }
  },
  "fantastic-four": {
