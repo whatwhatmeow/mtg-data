@@ -60,8 +60,26 @@ Lessons:
 - **How the Professor won (his own words):** he released herbivores into the wild, each carrying +1 conservation, and snowballed into the conservation rewards. Strong players rate releasing highly. Claude never suggested it. Next game, check the release-into-the-wild projects from turn one and plan cheap animals that can be released.
 - **His sponsor that rearranges enclosures** let him fix placement mistakes. Watch for sponsors like that.
 
+## Strategy from strong players (researched 2026-11-28)
+
+Sources: BGA Ark Nova tips page (en.doc.boardgamearena.com/Tips_arknova), BGA forum thread "I was 300 ELO for 300 games. Now I'm 500 ELO", Zatu tactics articles.
+
+- **It's a sprint.** Gain appeal and conservation faster than the opponent, and end the game quickly. Don't over-optimize; play good animals, take breaks, repeat.
+- **Releasing animals is a core engine.** Releasing costs the animal's appeal, pays conservation by its size, and **gives the enclosure back**. Value 1 conservation as about 3 appeal once past 10. Iconic animals (wolf, secretary bird, white stork, bison...) are the best releases. Cheap, low-appeal animals are good too, because what they pay in appeal roughly cancels out. Look for release projects from turn one, and draw toward them when the base projects don't fit your hand.
+- **Support projects at the bottom tier early, across several projects.** Top tiers across several projects are hard to reach. For country projects, take 2 or 5 (4 gives only 3). For others, take 2 early or 4 or 5 later. First project by round 2 or 3. Claim project bonus spaces first, since they're removed once taken.
+- **Conservation also raises income.** Every cube that leaves the income space pays out at breaks.
+- **Upgrade priority:** Animals or Sponsors first, then Cards; Association is usually last. Build upgrades are overrated on many maps, because releases and size-2 bonuses free up enough space. (The exception is a cramped map like this game's Caves, where Build mattered.) The second worker from the conservation track is often better than upgrading Association. Sponsors upgrades are stronger than they look.
+- **Claim a university or partner zoo early.** Asia is a solid default. Each matching continent icon cuts animal cost by 3.
+- **Avoid small, low-appeal animals.** Go cheap, then medium, then expensive. Build speculative size-2 or 3 enclosures early.
+- **Plan breaks.** Know whether a break helps you or the opponent (it pays more to the higher appeal). When you have no money and no workers, advancing the break is a fallback.
+- **Watch the display and snap.** Snapping also denies the opponent. Don't dig for cards when you already have a playable option. With Cards upgraded, draw one card at a time.
+- **Don't hoard cards.** A break can wipe out a big hand.
+- **X-tokens:** a strength-5 action followed by a boosted strength-5 action makes a big burst.
+- **Kiosks** earn 1 coin per adjacent building or occupied space. Place one or two next to many different structures, never in corners.
+
 ## Open habits to fix
 
 1. Association in the first few turns.
 2. No cash-only Sponsors turns to set up exact-coin plays.
 3. (Claude) Check map space and both boards before every recommendation.
+4. Look for release projects every game, and plan cheap or iconic animals to release.
