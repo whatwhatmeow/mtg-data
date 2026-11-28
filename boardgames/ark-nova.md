@@ -39,7 +39,27 @@ Played on Board Game Arena, usually 2-player against The Professor. Compiled 202
 - **Final turn**: stack Association options (university, reputation, donation) for the last conservation points.
 - **Drafting action cards**: community tier lists exist (TierMaker, Meeple Mountain); check them before recommending. On X-token-heavy maps the X-token trade Sponsors card is better than first credited.
 
+## Game of Nov 26-28 2026 (Caves map, lost badly to The Professor)
+
+Andrew judged his own play solid and Claude's advice the main cause of the loss. Claude's errors:
+
+- **Swapped the Sponsors (@) and Association (person) icons** on the BGA action cards for several turns. Read the card name along the bottom, not the icon.
+- **Said a placed animal can't move.** Building a reptile house, large bird aviary or aquarium lets you move a fitting animal into it from a standard enclosure.
+- **Planned animals with no space to put them.** On the Caves map Andrew could only build size 2 or smaller (plus a petting zoo) until Build was upgraded. The Muriqui and Macaque sat in hand most of the game. **Check the map for a legal enclosure of the right size before recommending an animal or a build.**
+- **Ignored the opponent's board for several turns** and missed his appeal jumping 9 to 21 and conservation reaching 10. Read both boards every turn.
+- **Kept proposing plans Andrew had to correct**: playing the Research project for its bottom tier (it opens the 4- and 3-point tiers to the opponent; a project can only be supported once per player), cash turns that set up the opponent's Sponsors II break trigger, and a university he already had.
+- **Card-order arithmetic was sloppy.** The used card goes to slot 1 and only the cards to its left shift up.
+
+Lessons:
+
+- **On a cramped map, the Build upgrade comes first.** Get the space before collecting big animals.
+- **First conservation point came about 30% into the game; his came in the first third.** Same lesson as before: conservation early.
+- **Hiring a second Association worker at strength 5** was Andrew's call and was right.
+- **Before a cash Sponsors turn, check whether it puts the break within reach of the opponent's Sponsors II** (break X, gain 2X).
+- **When the opponent leads appeal, break income favours him.** Stop pushing the break.
+
 ## Open habits to fix
 
 1. Association in the first few turns.
 2. No cash-only Sponsors turns to set up exact-coin plays.
+3. (Claude) Check map space and both boards before every recommendation.
